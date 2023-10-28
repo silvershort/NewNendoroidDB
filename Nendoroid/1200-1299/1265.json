@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9134,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191224/9134/66425/large/3e529db8b46ce32f811d6d4758eacaa8.jpg",
+  "name" : {
+    "en" : "Nendoroid Su Mucheng",
+    "ja" : "ねんどろいど 蘇沐橙 (ねんどろいど そむーちぇん)",
+    "ko" : "쑤무청"
+  },
+  "num" : "1265",
+  "price" : 4800,
+  "release_date" : [
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "The King's Avatar",
+    "ja" : "マスターオブスキル（全職高手）",
+    "ko" : "전직고수"
+  },
+  "set" : 186
+}

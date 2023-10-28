@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 3311,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111005/3311/15694/large/3a3b8d6aedb4a68ce5c28e0cec14bffb.jpg",
+  "name" : {
+    "en" : "Nendoroid Kamui Kobayashi (ねんどろいど こばやしかむい)",
+    "ja" : "ねんどろいど 小林可夢偉 (ねんどろいど こばやしかむい)",
+    "ko" : "코바야시 카무이"
+  },
+  "num" : "201",
+  "price" : 3667,
+  "release_date" : [
+    "2012/02"
+  ],
+  "series" : {
+    "en" : "Kamui Kobayashi",
+    "ja" : "小林可夢偉",
+    "ko" : "실존인물(레이서)"
+  }
+}

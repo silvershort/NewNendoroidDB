@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12887,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220624/12887/100573/large/dc752f1723df70c6ef15fcd32aca2c35.jpg",
+  "name" : {
+    "en" : "Nendoroid Shumei Sasaki",
+    "ja" : "ねんどろいど 佐々木秀鳴 (ねんどろいど ささき しゅうめい)",
+    "ko" : "사사키 슈메이"
+  },
+  "num" : "1890",
+  "price" : 5900,
+  "release_date" : [
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Sasaki and Miyano",
+    "ja" : "佐々木と宮野",
+    "ko" : "사사키와 미야노"
+  },
+  "set" : 297
+}

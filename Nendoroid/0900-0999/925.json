@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7233,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180423/7233/51710/large/afb10aea70680a41b718539abb84696b.jpg",
+  "name" : {
+    "en" : "Nendoroid Kratos",
+    "ja" : "ねんどろいど クレイトス (ねんどろいど くれいとす)",
+    "ko" : "크레토스"
+  },
+  "num" : "925",
+  "price" : 4584,
+  "release_date" : [
+    "2018/10"
+  ],
+  "series" : {
+    "en" : "God of War",
+    "ja" : "ゴッド・オブ・ウォー",
+    "ko" : "갓 오브 워"
+  }
+}

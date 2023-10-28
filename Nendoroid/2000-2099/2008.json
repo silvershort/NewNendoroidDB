@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13581,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221121/13581/107548/large/72a9abddac3a72fe58117c20f6247f3a.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirogane Noel",
+    "ja" : "ねんどろいど 白銀ノエル (ねんどろいど しろがねのえる)",
+    "ko" : "시로가네 노엘"
+  },
+  "num" : "2008",
+  "price" : 6900,
+  "release_date" : [
+    "2023/05"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  },
+  "set" : 268
+}

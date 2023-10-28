@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12343,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220216/12343/95403/large/7c2762752cb00830a67f08e6e466471f.jpg",
+  "name" : {
+    "en" : "Nendoroid Usada Pekora",
+    "ja" : "ねんどろいど 兎田ぺこら (ねんどろいど うさだぺこら)",
+    "ko" : "우사다 페코라"
+  },
+  "num" : "1823",
+  "price" : 6200,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  },
+  "set" : 268
+}

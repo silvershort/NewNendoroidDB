@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15045,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231003/15045/121833/large/75afd6e06b263f285cb26ca7ec46e2b9.jpg",
+  "name" : {
+    "en" : "Yuri",
+    "ja" : "ユリ",
+    "ko" : "유리"
+  },
+  "num" : "2283",
+  "price" : 6500,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Doki Doki Literature Club!",
+    "ja" : "ドキドキ文芸部!",
+    "ko" : "두근두근 문예부!"
+  }
+}

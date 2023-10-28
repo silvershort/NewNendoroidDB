@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8068,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190213/8068/58090/large/2bc95789d8d309afbb6103ec5905728f.jpg",
+  "name" : {
+    "en" : "Nendoroid Springfield",
+    "ja" : "ねんどろいど スプリングフィールド (ねんどろいど すぷりんぐふぃーるど)",
+    "ko" : "스프링필드"
+  },
+  "num" : "1087",
+  "price" : 5602,
+  "release_date" : [
+    "2019/10"
+  ],
+  "series" : {
+    "en" : "Girls' Frontline",
+    "ja" : "ドールズフロントライン",
+    "ko" : "소녀전선"
+  },
+  "set" : 212
+}

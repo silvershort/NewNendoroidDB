@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8602,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190725/8602/62282/large/329797ed01e0faa380f314229e29e79f.jpg",
+  "name" : {
+    "en" : "Nendoroid Jasmine",
+    "ja" : "ねんどろいど ジャスミン (ねんどろいど じゃすみん)",
+    "ko" : "자스민"
+  },
+  "num" : "1174",
+  "price" : 4800,
+  "release_date" : [
+    "2020/02"
+  ],
+  "series" : {
+    "en" : "Aladdin",
+    "ja" : "アラジン",
+    "ko" : "알라딘"
+  },
+  "set" : 32
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10061,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200915/10061/75615/large/9d521ea1a68787c42b779b0ea082a336.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruby Rose",
+    "ja" : "ねんどろいど ルビー・ローズ (ねんどろいど るびー・ろーず)",
+    "ko" : "루비 로즈"
+  },
+  "num" : "1463",
+  "price" : 5200,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "RWBY",
+    "ja" : "RWBY(ルビー)",
+    "ko" : "RWBY"
+  },
+  "set" : 248
+}

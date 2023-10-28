@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3390,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111129/3390/16392/large/bab8be058b76b72dd143875939287164.jpg",
+  "name" : {
+    "ja" : "ねんどろいど リスティ 2PカラーVer. (ねんどろいど りすてぃ 2Pからーver.)",
+    "ko" : "리스티 2P컬러 Ver."
+  },
+  "num" : "143b",
+  "price" : 3667,
+  "release_date" : [
+    "2011/04"
+  ],
+  "series" : {
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10145,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200929/10145/77072/large/38a92aa4ba0c7ff0c4dd59239559b631.jpg",
+  "name" : {
+    "en" : "Nendoroid Doom Slayer",
+    "ja" : "ねんどろいど ドゥームスレイヤー (ねんどろいど どぅーむすれいやー)",
+    "ko" : "둠 슬레이어"
+  },
+  "num" : "1476",
+  "price" : 6200,
+  "release_date" : [
+    "2021/05"
+  ],
+  "series" : {
+    "en" : "DOOM Eternal",
+    "ja" : "DOOM Eternal",
+    "ko" : "DOOM Eternal"
+  }
+}

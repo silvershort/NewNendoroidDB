@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3109,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110308/3109/13116/large/25ce3e3656715e63c1ac27f526a1db46.jpg",
+  "name" : {
+    "en" : "Nendoroid Cirno (ねんどろいど ちるの)",
+    "ja" : "ねんどろいど チルノ (ねんどろいど ちるの)",
+    "ko" : "치르노"
+  },
+  "num" : "167",
+  "price" : 3143,
+  "release_date" : [
+    "2011/08"
+  ],
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
+}

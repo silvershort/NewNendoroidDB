@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15131,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231025/15131/122623/large/1ca456509f4f1922b009780c7be716cd.jpg",
+  "name" : {
+    "en" : "Jesse",
+    "ja" : "Jesse",
+    "ko" : "샤밍싱"
+  },
+  "num" : "2076",
+  "price" : 7900,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "LIGHT AND NIGHT",
+    "ja" : "光と夜の恋",
+    "ko" : "빛과 밤의 사랑"
+  }
+}

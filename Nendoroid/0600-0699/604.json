@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5464,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160119/5464/37365/large/3eb66e3b861da7cad648ee705437102e.jpg",
+  "name" : {
+    "en" : "Nendoroid Koishi Komeiji",
+    "ja" : "ねんどろいど 古明地こいし (ねんどろいど こめいじこいし)",
+    "ko" : "코메이지 코이시"
+  },
+  "num" : "604",
+  "price" : 4584,
+  "release_date" : [
+    "2016/06"
+  ],
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
+}

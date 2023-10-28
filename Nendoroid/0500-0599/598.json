@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5415,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151221/5415/37040/large/0abf8fc74fb2be3cae038a18597f7dd1.jpg",
+  "name" : {
+    "en" : "Nendoroid Karen Hojo",
+    "ja" : "ねんどろいど 北条加蓮 (ねんどろいど ほうじょうかれん)",
+    "ko" : "호죠 카렌"
+  },
+  "num" : "598",
+  "price" : 3972,
+  "release_date" : [
+    "2016/06"
+  ],
+  "series" : {
+    "en" : "THE IDOLM@STER CINDERELLA GIRLS",
+    "ja" : "アイドルマスター シンデレラガールズ",
+    "ko" : "아이돌 마스터 신데렐라 걸즈"
+  },
+  "set" : 118
+}

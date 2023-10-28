@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12188,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12188/93875/large/76d7f4ed2d73aab868c81140aa250ed6.jpg",
+  "name" : {
+    "en" : "Nendoroid Jung Kook",
+    "ja" : "ねんどろいど Jung Kook",
+    "ko" : "정국"
+  },
+  "num" : "1807",
+  "price" : 5000,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 288
+}

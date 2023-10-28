@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6515,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170622/6515/46619/large/12de9bc76149943a66d3980e7a418447.jpg",
+  "name" : {
+    "en" : "Nendoroid Rapunzel",
+    "ja" : "ねんどろいど ラプンツェル (ねんどろいど らぷんつぇる)",
+    "ko" : "라푼젤"
+  },
+  "num" : "804",
+  "price" : 5700,
+  "release_date" : [
+    "2017/12",
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Tangled",
+    "ja" : "塔の上のラプンツェル",
+    "ko" : "라푼젤"
+  },
+  "set" : 32
+}

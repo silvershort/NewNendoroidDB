@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11378,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210621/11378/86174/large/67c0d7c21732b96d330650244411c6e7.jpg",
+  "name" : {
+    "en" : "Nendoroid Mikey (Manjiro Sano)",
+    "ja" : "ねんどろいど マイキー（佐野万次郎） (ねんどろいど まいきー（さのまんじろう）)",
+    "ko" : "사노 만지로"
+  },
+  "num" : "1666",
+  "price" : 5500,
+  "release_date" : [
+    "2022/04"
+  ],
+  "series" : {
+    "en" : "Tokyo Revengers",
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  },
+  "set" : 272
+}

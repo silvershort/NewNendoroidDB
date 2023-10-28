@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10676,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210114/10676/79833/large/6a55f431e3a2511f10aaf11c13139d59.jpg",
+  "name" : {
+    "en" : "Nendoroid Blake Belladonna",
+    "ja" : "ねんどろいど ブレイク・ベラドンナ (ねんどろいど ぶれいく・べらどんな)",
+    "ko" : "블레이크 벨라도나"
+  },
+  "num" : "1553",
+  "price" : 5200,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "RWBY",
+    "ja" : "RWBY(ルビー)",
+    "ko" : "RWBY"
+  },
+  "set" : 248
+}

@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7607,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180912/7607/54559/large/6f19a9ac0c2e1abd0a2a490a6353fe08.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin Shima DX Ver.",
+    "ja" : "ねんどろいど 志摩リン DX Ver. (ねんどろいど しまりん DX Ver.)",
+    "ko" : "시마 린 DX"
+  },
+  "num" : "981-DX",
+  "price" : 7028,
+  "release_date" : [
+    "2019/03",
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 175
+}

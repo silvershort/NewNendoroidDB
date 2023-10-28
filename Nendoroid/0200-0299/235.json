@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3487,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120307/3487/17566/large/4d54816cd1f215b5e7a3eb2e19f5b5d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Shinguji & Koubu Set (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "ja" : "ねんどろいど 真宮寺さくら&光武セット (ねんどろいど しんぐうじさくら＆こうぶせっと)",
+    "ko" : "신구지 사쿠라&광무 세트"
+  },
+  "num" : "235",
+  "price" : 4714,
+  "release_date" : [
+    "2012/08"
+  ],
+  "series" : {
+    "en" : "Sakura Wars",
+    "ja" : "サクラ大戦",
+    "ko" : "사쿠라 대전"
+  },
+  "set" : 56
+}

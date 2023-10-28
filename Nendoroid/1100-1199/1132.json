@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8310,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190507/8310/60126/large/4bdcdef95ec0061b533b07fddbba6ad1.jpg",
+  "name" : {
+    "en" : "Nendoroid Hazuki Fujiwara",
+    "ja" : "ねんどろいど 藤原はづき (ねんどろいど ふじわらはづき)",
+    "ko" : "후지와라 하즈키"
+  },
+  "num" : "1132",
+  "price" : 5500,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Magical DoReMi 3",
+    "ja" : "も～っと！おジャ魔女どれみ",
+    "ko" : "오자마녀 도레미"
+  },
+  "set" : 214
+}

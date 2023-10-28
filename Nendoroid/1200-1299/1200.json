@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8743,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190902/8743/63272/large/e5db6df0464a76a3262544c35f85655a.jpg",
+  "name" : {
+    "en" : "Nendoroid L 2.0",
+    "ja" : "ねんどろいど L 2.0 (ねんどろいど える 2.0)",
+    "ko" : "L 2.0"
+  },
+  "num" : "1200",
+  "price" : 6800,
+  "release_date" : [
+    "2020/04",
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  },
+  "set" : 5
+}

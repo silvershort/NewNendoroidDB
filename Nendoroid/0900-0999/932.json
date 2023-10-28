@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7275,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180515/7275/51971/large/1c9c7a07f0a2ccbf350b2eb3c07bd936.jpg",
+  "name" : {
+    "en" : "Nendoroid Theo Cornaro",
+    "ja" : "ねんどろいど テオ・コルネーロ (ねんどろいど てお・こるねーろ)",
+    "ko" : "테오=코르네로"
+  },
+  "num" : "932",
+  "price" : 4888,
+  "release_date" : [
+    "2018/09"
+  ],
+  "series" : {
+    "en" : "Record of Grancrest War",
+    "ja" : "グランクレスト戦記",
+    "ko" : "그랑크레스트 전기"
+  }
+}

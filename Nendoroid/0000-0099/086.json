@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2604,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2604/7638/large/f550200fb59b4153e00dacb342b666ff.jpg",
+  "name" : {
+    "en" : "Nendoroid Yui Hirasawa (ひらさわゆい ねんどろいど)",
+    "ja" : "ねんどろいど 平沢 唯 (ひらさわゆい ねんどろいど)",
+    "ko" : "히라사와 유이"
+  },
+  "num" : "086",
+  "price" : 3667,
+  "release_date" : [
+    "2010/09"
+  ],
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
+}

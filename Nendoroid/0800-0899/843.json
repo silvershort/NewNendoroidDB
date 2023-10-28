@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6837,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171031/6837/48534/large/3f9ec059b9f0cb2e2ed463f23afd2068.jpg",
+  "name" : {
+    "en" : "Nendoroid Kukuri",
+    "ja" : "ねんどろいど ククリ (ねんどろ くくり)",
+    "ko" : "쿠쿠리"
+  },
+  "num" : "843",
+  "price" : 4584,
+  "release_date" : [
+    "2018/05"
+  ],
+  "series" : {
+    "en" : "Magical Circle Guru Guru",
+    "ja" : "魔法陣グルグル",
+    "ko" : "마법진 구루구루"
+  }
+}

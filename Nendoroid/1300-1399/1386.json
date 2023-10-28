@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13053,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220729/13053/103616/large/df70627da0fe402b70fd9349e317360b.jpg",
+  "name" : {
+    "en" : "Nendoroid Pluto",
+    "ja" : "ねんどろいど プルート (ねんどろいど ぷるーと)",
+    "ko" : "플루토"
+  },
+  "num" : "1386",
+  "price" : 6600,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "Pluto",
+    "ja" : "プルート",
+    "ko" : "플루토"
+  },
+  "set" : 32
+}

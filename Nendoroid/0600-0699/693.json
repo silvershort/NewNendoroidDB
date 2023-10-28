@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6068,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161118/6068/42291/large/22c97126febc745810a80bf62331e01f.jpg",
+  "name" : {
+    "en" : "Nendoroid Wilhelmina",
+    "ja" : "ねんどろいど ヴィルヘルミーナ (ねんどろいど ゔぃるへるみーな)",
+    "ko" : "빌헬미나"
+  },
+  "num" : "693",
+  "price" : 5093,
+  "release_date" : [
+    "2017/05"
+  ],
+  "series" : {
+    "en" : "HIGH SCHOOL FLEET",
+    "ja" : "ハイスクール・フリート",
+    "ko" : "하이 스쿨 플릿"
+  },
+  "set" : 144
+}

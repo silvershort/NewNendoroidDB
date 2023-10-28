@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8223,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190403/8223/59328/large/e06b4afb1611e0214c8f4cba02f93cea.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhao Ling-Er: DX Ver.",
+    "ja" : "ねんどろいど 趙霊児 DX Ver. (ねんどろいど ちょうれいじ DX Ver.)",
+    "ko" : "조령아 DX Ver."
+  },
+  "num" : "1118-DX",
+  "price" : 5907,
+  "release_date" : [
+    "2019/11"
+  ],
+  "series" : {
+    "en" : "Chinese Paladin: Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  },
+  "set" : 216
+}

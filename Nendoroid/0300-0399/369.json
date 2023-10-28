@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4054,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130909/4054/26170/large/6ab1a2054f64c0014972be8a0f70ee3a.jpg",
+  "name" : {
+    "en" : "Nendoroid T.M. Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "ja" : "ねんどろいど T.M.Revolution (ねんどろいど てぃー・えむ・れぼりゅーしょん)",
+    "ko" : "T.M.Revolution"
+  },
+  "num" : "369",
+  "price" : 5133,
+  "release_date" : [
+    "2013/12"
+  ],
+  "series" : {
+    "en" : "T.M Revolution",
+    "ja" : "T.M.Revolution",
+    "ko" : "T.M.Revolution"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5264,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151005/5264/35794/large/a57a97da7d2f7b8d7adb4b82a3cb71dd.jpg",
+  "name" : {
+    "en" : "Nendoroid Hajime Ichinose (ねんどろいど いちのせはじめ)",
+    "ja" : "ねんどろいど 一ノ瀬はじめ (ねんどろいど いちのせはじめ)",
+    "ko" : "이치노세 하지메"
+  },
+  "num" : "568",
+  "price" : 4620,
+  "release_date" : [
+    "2016/05"
+  ],
+  "series" : {
+    "en" : "Gatchaman Crowds",
+    "ja" : "ガッチャマンクラウズ",
+    "ko" : "갓챠맨"
+  },
+  "set" : 126
+}

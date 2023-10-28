@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6856,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171110/6856/48646/large/9485a518299158212b8254fbad2b2272.jpg",
+  "name" : {
+    "en" : "Nendoroid Kongo Kai-II",
+    "ja" : "ねんどろいど 金剛改二 (ねんどろいど こんごうかいに)",
+    "ko" : "콩고 改二"
+  },
+  "num" : "845",
+  "price" : 6722,
+  "release_date" : [
+    "2018/05"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

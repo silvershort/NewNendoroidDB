@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12185,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12185/93848/large/27c1ae620e278389bef8853a92814716.jpg",
+  "name" : {
+    "en" : "Nendoroid j-hope",
+    "ja" : "ねんどろいど j-hope",
+    "ko" : "제이홉"
+  },
+  "num" : "1804",
+  "price" : 5000,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "TinyTAN",
+    "ja" : "TinyTAN",
+    "ko" : "방탄소년단"
+  },
+  "set" : 288
+}

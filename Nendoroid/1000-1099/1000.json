@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7868,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181205/7868/56506/large/d0a7eefcdf015ff485ab7bf1b18beffc.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Snow Princess Ver.",
+    "ja" : "ねんどろいど 雪ミク Snow Princess Ver. (ねんどろいど ゆきみく すのう ぷりんせす Ver.)",
+    "ko" : "유키 미쿠 Snow Princess  Ver."
+  },
+  "num" : "1000",
+  "price" : 6112,
+  "release_date" : [
+    "2019/07"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
+}

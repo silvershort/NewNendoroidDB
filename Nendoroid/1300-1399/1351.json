@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9559,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200521/9559/70065/large/94f47b366235d842403686de1b3a10eb.jpg",
+  "name" : {
+    "en" : "Nendoroid Yennefer",
+    "ja" : "ねんどろいど イェネファー (ねんどろいど いぇねふぁー)",
+    "ko" : "예니퍼"
+  },
+  "num" : "1351",
+  "price" : 5200,
+  "release_date" : [
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "The Witcher 3: Wild Hunt",
+    "ja" : "ウィッチャー3 ワイルドハント",
+    "ko" : "위쳐 시리즈"
+  },
+  "set" : 177
+}

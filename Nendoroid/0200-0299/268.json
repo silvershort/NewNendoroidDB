@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3644,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120820/3644/41214/large/7ca293f2688d515815e51f38f1490976.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Akaza (ねんどろいど あかざあかり)",
+    "ja" : "ねんどろいど 赤座あかり (ねんどろいど あかざあかり)",
+    "ko" : "아카자 아카리"
+  },
+  "num" : "268",
+  "price" : 3666,
+  "release_date" : [
+    "2012/12",
+    "2016/12"
+  ],
+  "series" : {
+    "en" : "YuruYuri",
+    "ja" : "ゆるゆり♪♪",
+    "ko" : "유루유리"
+  },
+  "set" : 67
+}

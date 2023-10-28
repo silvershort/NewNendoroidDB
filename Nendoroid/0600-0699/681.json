@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5989,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161004/5989/41628/large/865a2f6461c188fabe3f0892a3fd14b2.jpg",
+  "name" : {
+    "en" : "Nendoroid Chris Redfield",
+    "ja" : "ねんどろいど クリス・レッドフィールド (ねんどろいど くりす・れっどふぃーるど)",
+    "ko" : "크리스 레드필드"
+  },
+  "num" : "681",
+  "price" : 5093,
+  "release_date" : [
+    "2017/03"
+  ],
+  "series" : {
+    "en" : "Resident Evil",
+    "ja" : "バイオハザード",
+    "ko" : "바이오 하자드"
+  }
+}

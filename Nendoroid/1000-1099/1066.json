@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7962,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181226/7962/57203/large/75a17c1faef29c62499cfc823ac2923f.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinya Kogami",
+    "ja" : "ねんどろいど 狡噛慎也 (ねんどろいど こうがみしんや)",
+    "ko" : "코가미 신야"
+  },
+  "num" : "1066",
+  "price" : 4888,
+  "release_date" : [
+    "2019/07"
+  ],
+  "series" : {
+    "en" : "PSYCHO-PASS Sinners of the System",
+    "ja" : "PSYCHO-PASS Sinners of the System",
+    "ko" : "PSYCHO-PASS Sinners of the System"
+  },
+  "set" : 81
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13376,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221006/13376/105594/large/22ffad28e7910df5bcfa97f54546beab.jpg",
+  "name" : {
+    "en" : "Nendoroid Shuna",
+    "ja" : "ねんどろいど シュナ (ねんどろいど しゅな)",
+    "ko" : "슈나"
+  },
+  "num" : "1978",
+  "price" : 6400,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "That Time I Got Reincarnated as a Slime",
+    "ja" : "転生したらスライムだった件",
+    "ko" : "전생했더니 슬라임이었던 건에 대하여"
+  },
+  "set" : 204
+}

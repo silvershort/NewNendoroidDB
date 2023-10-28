@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11356,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210616/11356/85962/large/ecb3f1d0c4c46f2742fee13e66b89176.jpg",
+  "name" : {
+    "en" : "Nendoroid Minato Aqua",
+    "ja" : "ねんどろいど 湊あくあ (ねんどろいど みなとあくあ)",
+    "ko" : "미나토 아쿠아"
+  },
+  "num" : "1663",
+  "price" : 6100,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  },
+  "set" : 268
+}

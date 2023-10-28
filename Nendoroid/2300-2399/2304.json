@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15114,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231023/15114/122482/large/962255a92c16efd5921464489118121e.jpg",
+  "name" : {
+    "en" : "Terakomari Gandesblood",
+    "ja" : "テラコマリ・ガンデスブラッド",
+    "ko" : "테라코마리 건데스블러드"
+  },
+  "num" : "2304",
+  "price" : 7000,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The Vexations of a Shut-In Vampire Princess",
+    "ja" : "ひきこまり吸血姫の悶々",
+    "ko" : "외톨이 흡혈 공주의 고뇌"
+  }
+}

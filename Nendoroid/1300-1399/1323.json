@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9434,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200417/9434/69050/large/a90f2356520ddb7869b34128e6b0e972.jpg",
+  "name" : {
+    "en" : "Nendoroid Doppo Kannonzaka",
+    "ja" : "ねんどろいど 観音坂独歩 (ねんどろいど かんのんざかどっぽ)",
+    "ko" : "칸논자카 돗포"
+  },
+  "num" : "1323",
+  "price" : 6050,
+  "release_date" : [
+    "2021/04"
+  ],
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 227
+}

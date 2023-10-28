@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191122/9010/65446/large/301b873222548ccf5e8a8878803fa050.jpg",
+  "name" : {
+    "en" : "Nendoroid Chocola",
+    "ja" : "ねんどろいど ショコラ (ねんどろいど しょこら)",
+    "ko" : "쇼콜라"
+  },
+  "num" : "1238",
+  "price" : 5100,
+  "release_date" : [
+    "2020/06"
+  ],
+  "series" : {
+    "en" : "NEKOPARA",
+    "ja" : "ネコぱら",
+    "ko" : "네코파라"
+  },
+  "set" : 229
+}

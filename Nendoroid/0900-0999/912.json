@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7210,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180413/7210/51456/large/df31daca3eb297187704d40b3e5ef8da.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsunayoshi Sawada",
+    "ja" : "ねんどろいど 沢田綱吉 (ねんどろいど さわだつなよし)",
+    "ko" : "사와다 츠나요시"
+  },
+  "num" : "912",
+  "price" : 4888,
+  "release_date" : [
+    "2018/12"
+  ],
+  "series" : {
+    "en" : "REBORN!",
+    "ja" : "家庭教師ヒットマンREBORN!",
+    "ko" : "가정교사 히트맨 REBORN!"
+  },
+  "set" : 179
+}

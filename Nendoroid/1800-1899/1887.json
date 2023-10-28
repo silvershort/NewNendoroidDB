@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12677,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220509/12677/99519/large/5e70eda694df86276b0423b0d4fbc943.jpg",
+  "name" : {
+    "en" : "Nendoroid Floyd Leech",
+    "ja" : "ねんどろいど フロイド・リーチ (ねんどろいど ふろいど・りーち)",
+    "ko" : "플로이드 리치"
+  },
+  "num" : "1887",
+  "price" : 6900,
+  "release_date" : [
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 253
+}

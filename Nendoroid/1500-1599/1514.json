@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10398,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201111/10398/77731/large/ba52a2dba7aeea810204f5b269f080d2.jpg",
+  "name" : {
+    "en" : "Nendoroid Sesshomaru",
+    "ja" : "ねんどろいど 殺生丸 (ねんどろいど せっしょうまる)",
+    "ko" : "셋쇼마루"
+  },
+  "num" : "1514",
+  "price" : 5300,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Inuyasha",
+    "ja" : "犬夜叉",
+    "ko" : "이누야샤"
+  },
+  "set" : 236
+}

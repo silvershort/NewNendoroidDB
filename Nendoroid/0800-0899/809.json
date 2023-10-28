@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6623,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170801/6623/46852/large/e26c11a14004e751f3bb6d6246c10c4e.jpg",
+  "name" : {
+    "en" : "Nendoroid Meteora",
+    "ja" : "ねんどろいど メテオラ (ねんどろいど めておら)",
+    "ko" : "메테오라"
+  },
+  "num" : "809",
+  "price" : 4888,
+  "release_date" : [
+    "2017/12"
+  ],
+  "series" : {
+    "en" : "Re:CREATORS",
+    "ja" : "Re:CREATORS",
+    "ko" : "Re: CREATORS"
+  }
+}

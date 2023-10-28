@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3438,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120116/3438/16911/large/66ac1bd695d7f7d24617e9e35273ef5d.jpg",
+  "name" : {
+    "en" : "Nendoroid Cordelia Glauca (ねんどろいど こーでりあ・ぐらうか)",
+    "ja" : "ねんどろいど コーデリア・グラウカ (ねんどろいど こーでりあ・ぐらうか)",
+    "ko" : "코델리아 그라우커"
+  },
+  "num" : "222",
+  "price" : 3981,
+  "release_date" : [
+    "2012/05"
+  ],
+  "series" : {
+    "en" : "Tantei Opera Milky Holmes",
+    "ja" : "探偵オペラ ミルキィホームズ",
+    "ko" : "탐정 오페라 밀키 홈즈"
+  },
+  "set" : 36
+}

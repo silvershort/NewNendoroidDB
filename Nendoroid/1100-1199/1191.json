@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8678,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8678/62794/large/966a608f887c1a262ccd3056faaa1f16.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryunosuke Akutagawa",
+    "ja" : "ねんどろいど 芥川龍之介 (ねんどろいど あくたがわりゅうのすけ)",
+    "ko" : "아쿠타가와 류노스케"
+  },
+  "num" : "1191",
+  "price" : 5500,
+  "release_date" : [
+    "2020/03",
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  },
+  "set" : 138
+}

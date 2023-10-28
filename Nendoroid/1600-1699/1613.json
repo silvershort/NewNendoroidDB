@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11094,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210415/11094/83629/large/b6c1e7007017f5faa300da135b64bb4b.jpg",
+  "name" : {
+    "en" : "Nendoroid Kenshin Himura",
+    "ja" : "ねんどろいど 緋村剣心 (ねんどろいど ひむらけんしん)",
+    "ko" : "히무라 켄신"
+  },
+  "num" : "1613",
+  "price" : 5100,
+  "release_date" : [
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Rurouni Kenshin",
+    "ja" : "るろうに剣心─明治剣客浪漫譚─",
+    "ko" : "바람의 검심"
+  },
+  "set" : 264
+}

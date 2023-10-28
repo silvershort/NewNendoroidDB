@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7952,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181226/7952/57126/large/5a77d57250fb6f5a30124cc04a8abb42.jpg",
+  "name" : {
+    "en" : "Nendoroid Shintaro Midorima",
+    "ja" : "ねんどろいど 緑間真太郎 (ねんどろいど みどりましんたろう)",
+    "ko" : "미도리마 신타로"
+  },
+  "num" : "1062",
+  "price" : 4584,
+  "release_date" : [
+    "2019/07"
+  ],
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 201
+}

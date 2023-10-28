@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12152,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211220/12152/93559/large/7fb60944cbf37d4e71672db7877daf2b.jpg",
+  "name" : {
+    "en" : "Nendoroid Kano",
+    "ja" : "ねんどろいど 鹿乃 (ねんどろいど かの)",
+    "ko" : "카노"
+  },
+  "num" : "1790",
+  "price" : 6800,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Kano",
+    "ja" : "鹿乃",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 171
+}

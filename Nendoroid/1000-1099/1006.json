@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7630,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180921/7630/54693/large/15f6ea33a6f733b71f285a7ac75e66cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Shirase Kobuchizawa",
+    "ja" : "ねんどろいど 小淵沢報瀬 (ねんどろいど こぶちざわしらせ)",
+    "ko" : "코부치자와 시라세"
+  },
+  "num" : "1006",
+  "price" : 5297,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "A Place Further Than the Universe",
+    "ja" : "宇宙よりも遠い場所",
+    "ko" : "우주보다 먼 곳"
+  },
+  "set" : 198
+}

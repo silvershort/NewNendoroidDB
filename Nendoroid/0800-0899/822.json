@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6685,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170830/6685/47287/large/38452e0309955b695aa2a8db946985a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Lucifer",
+    "ja" : "ねんどろいど 反逆の堕天使 ルシファー (ねんどろいど はんぎゃくのだてんし るしふぁー)",
+    "ko" : "반역의 타락천사 루시퍼"
+  },
+  "num" : "822",
+  "price" : 5297,
+  "release_date" : [
+    "2018/03"
+  ],
+  "series" : {
+    "en" : "Monster Strike",
+    "ja" : "モンスターストライク",
+    "ko" : "몬스터 스트라이크"
+  }
+}

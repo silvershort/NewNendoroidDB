@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9622,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200609/9622/70659/large/208870d40a5f5c4c0c98b85b3df144a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Ellie",
+    "ja" : "ねんどろいど エリー (ねんどろいど えりー)",
+    "ko" : "엘리"
+  },
+  "num" : "1374",
+  "price" : 5600,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "The Last of Us Part II",
+    "ja" : "The Last of Us Part II",
+    "ko" : "라스트 오브 어스2"
+  }
+}

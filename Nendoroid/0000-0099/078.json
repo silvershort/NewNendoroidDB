@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2509,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2509/7257/large/62f167f1087bd5cf50f73cc7c03edf3c.jpg",
+  "name" : {
+    "en" : "Nendoroid Raspberyl (らずべりる ねんどろいど)",
+    "ja" : "ねんどろいど ラズベリル (らずべりる ねんどろいど)",
+    "ko" : "라즈베릴"
+  },
+  "num" : "078",
+  "price" : 3667,
+  "release_date" : [
+    "2009/10"
+  ],
+  "series" : {
+    "en" : "Disgaea 3: Absence of Justice",
+    "ja" : "魔界戦記ディスガイア３",
+    "ko" : "마계전기 디스가이아3"
+  },
+  "set" : 25
+}

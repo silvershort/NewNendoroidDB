@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7581,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180831/7581/54255/large/bafd5d4797a5b583bfd0e42f7d684456.jpg",
+  "name" : {
+    "en" : "Nendoroid Ichigo Kurosaki",
+    "ja" : "ねんどろいど 黒崎一護 (ねんどろいど くろさきいちご)",
+    "ko" : "쿠로사키 이치고"
+  },
+  "num" : "991",
+  "price" : 4888,
+  "release_date" : [
+    "2019/04"
+  ],
+  "series" : {
+    "en" : "BLEACH",
+    "ja" : "BLEACH",
+    "ko" : "블리치"
+  },
+  "set" : 194
+}

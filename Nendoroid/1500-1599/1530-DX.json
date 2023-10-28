@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10505,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201208/10505/78362/large/49c409cbdd7e990d27101133cf2769d6.jpg",
+  "name" : {
+    "en" : "Nendoroid V: Male Ver. DX",
+    "ja" : "ねんどろいど V 男性Ver. DX (ねんどろいど V だんせいVer. DX)",
+    "ko" : " V 남성 DX Ver."
+  },
+  "num" : "1530-DX",
+  "price" : 8000,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Cyberpunk 2077",
+    "ja" : "サイバーパンク2077",
+    "ko" : "사이버펑크 2077"
+  },
+  "set" : 257
+}

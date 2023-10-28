@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5182,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150811/5182/35094/large/70a3c730854b7eb445535c234712d4ae.jpg",
+  "name" : {
+    "en" : "Nendoroid Oyodo (ねんどろいど おおよど)",
+    "ja" : "ねんどろいど 大淀 (ねんどろいど おおよど)",
+    "ko" : "오요도"
+  },
+  "num" : "551",
+  "price" : 5093,
+  "release_date" : [
+    "2016/01"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

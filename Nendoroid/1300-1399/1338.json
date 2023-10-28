@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9518,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200519/9518/69788/large/74c739767593f86786306f3b590759a1.jpg",
+  "name" : {
+    "en" : "Nendoroid Gr G11",
+    "ja" : "ねんどろいど Gr G11 (ねんどろいど じーあーる じーじゅういち)",
+    "ko" : "G11"
+  },
+  "num" : "1338",
+  "price" : 6200,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "Girls' Frontline",
+    "ja" : "ドールズフロントライン",
+    "ko" : "소녀전선"
+  },
+  "set" : 212
+}

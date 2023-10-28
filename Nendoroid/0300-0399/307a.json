@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3807,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121225/3807/22153/large/a50c32a32fe32f3702b9488d519c8eb3.jpg",
+  "name" : {
+    "en" : "Nendoroid Melona (ねんどろいど めろーな)",
+    "ja" : "ねんどろいど メローナ (ねんどろいど めろーな)",
+    "ko" : "메로나"
+  },
+  "num" : "307a",
+  "price" : 3667,
+  "release_date" : [
+    "2013/05"
+  ],
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

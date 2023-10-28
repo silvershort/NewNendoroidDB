@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 2861,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100428/2861/10016/large/2a2997fe86dcf20271651e45e55f4c69.jpg",
+  "name" : {
+    "en" : "Nendoroid Ciel Phantomhive (ねんどろいど しえる・ふぁんとむはいう゛)",
+    "ja" : "ねんどろいど シエル・ファントムハイヴ (ねんどろいど しえる・ふぁんとむはいう゛)",
+    "ko" : "시엘 팬텀하이브"
+  },
+  "num" : "117",
+  "price" : 3667,
+  "release_date" : [
+    "2010/09"
+  ],
+  "series" : {
+    "en" : "Kuroshitsuji",
+    "ja" : "黒執事",
+    "ko" : "흑집사"
+  },
+  "set" : 20
+}

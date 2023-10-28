@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3372,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3372/16311/large/925c8e183537a7e84892d3950831ec41.jpg",
+  "name" : {
+    "ja" : "ねんどろいど ぴくせる☆まりたん ブチこめ！強襲戦闘Ver. (ぴくせる☆まりたん ぶちこめ！きょうしゅうせんとうver.)",
+    "ko" : "픽셀☆마리땅 전투준비 Ver."
+  },
+  "num" : "056a",
+  "price" : 4190,
+  "release_date" : [
+    "2009/02"
+  ],
+  "series" : {
+    "ja" : "魔法の海兵隊員ぴくせる☆まりたん",
+    "ko" : "마법의 해병대원 픽셀☆마리땅"
+  },
+  "set" : 15
+}

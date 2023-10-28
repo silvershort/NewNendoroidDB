@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4545,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140812/4545/30013/large/3a132a101712a3d6682d0d7b3aa3c4ea.jpg",
+  "name" : {
+    "en" : "Nendoroid Hiei (ねんどろいど ひえい)",
+    "ja" : "ねんどろいど 比叡 (ねんどろいど ひえい)",
+    "ko" : "히에이"
+  },
+  "num" : "443",
+  "price" : 4888,
+  "release_date" : [
+    "2014/11"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

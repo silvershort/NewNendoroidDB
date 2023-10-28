@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6116,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161206/6116/42727/large/2a5d64a98f617b78d663500360d6da3c.jpg",
+  "name" : {
+    "en" : "Nendoroid Kiso",
+    "ja" : "ねんどろいど 木曾 (ねんどろいど きそ)",
+    "ko" : "키소"
+  },
+  "num" : "696",
+  "price" : 6112,
+  "release_date" : [
+    "2017/06"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

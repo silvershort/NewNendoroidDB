@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11995,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211112/11995/92035/large/5dda1bc362b5c55dff00ee67f04e0041.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuuki",
+    "ja" : "ねんどろいど ユウキ (ねんどろいど ゆうき)",
+    "ko" : "유우키"
+  },
+  "num" : "1753",
+  "price" : 5600,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Sword Art Online",
+    "ja" : "ソードアート・オンライン",
+    "ko" : "소드 아트 온라인"
+  },
+  "set" : 71
+}

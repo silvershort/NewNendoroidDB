@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6257,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170210/6257/43810/large/d899cf67b071c79726b8efb1f503a39b.jpg",
+  "name" : {
+    "en" : "Nendoroid Nagato",
+    "ja" : "ねんどろいど 長門 (ねんどろいど ながと)",
+    "ko" : "나가토"
+  },
+  "num" : "737",
+  "price" : 6926,
+  "release_date" : [
+    "2017/07"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

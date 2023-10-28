@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10835,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210219/10835/81358/large/c4f81bd374214fcf2d596c4615177d65.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Hinami",
+    "ja" : "ねんどろいど 日南葵 (ねんどろいど ひなみあおい)",
+    "ko" : "히나미 아오이"
+  },
+  "num" : "1574",
+  "price" : 5200,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Bottom-Tier Character Tomozaki",
+    "ja" : "弱キャラ友崎くん",
+    "ko" : "약캐 토모자키 군"
+  }
+}

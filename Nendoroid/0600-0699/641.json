@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5743,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160614/5743/39593/large/8fcb23925ebb1467be23e04135f3bc4b.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryoma Echizen",
+    "ja" : "ねんどろいど 越前リョーマ (ねんどろいど えちぜんりょーま)",
+    "ko" : "에치젠 료마"
+  },
+  "num" : "641",
+  "price" : 4278,
+  "release_date" : [
+    "2016/10"
+  ],
+  "series" : {
+    "en" : "The Prince of Tennis II",
+    "ja" : "新テニスの王子様",
+    "ko" : "테니스의 왕자"
+  },
+  "set" : 136
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9095,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191213/9095/66105/large/e3ef023b3dd740005abf7d42f9fb2ea7.jpg",
+  "name" : {
+    "en" : "Nendoroid Lin Yueru",
+    "ja" : "ねんどろいど 林月如 (ねんどろいど りんげつじょ)",
+    "ko" : "임월여"
+  },
+  "num" : "1246",
+  "price" : 4800,
+  "release_date" : [
+    "2020/08"
+  ],
+  "series" : {
+    "en" : "Chinese Paladin: Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  },
+  "set" : 216
+}

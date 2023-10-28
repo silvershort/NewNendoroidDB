@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7124,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180316/7124/50790/large/b0e014aaf2f2c6af410b869979d6f23d.jpg",
+  "name" : {
+    "en" : "Nendoroid Lina=Inverse",
+    "ja" : "ねんどろいど リナ=インバース (ねんどろいど りな=いんばーす)",
+    "ko" : "리나 인버스"
+  },
+  "num" : "901",
+  "price" : 6009,
+  "release_date" : [
+    "2018/08"
+  ],
+  "series" : {
+    "en" : "Slayers",
+    "ja" : "スレイヤーズ",
+    "ko" : "슬레이어즈"
+  },
+  "set" : 173
+}

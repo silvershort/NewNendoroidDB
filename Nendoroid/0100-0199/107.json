@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2814,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100222/2814/9428/large/f7bf5ae7884d051fa45671f470c2ea21.jpg",
+  "name" : {
+    "en" : "Nendoroid Feena (ねんどろいど ふぃーな)",
+    "ja" : "ねんどろいど フィーナ (ねんどろいど ふぃーな)",
+    "ko" : "피나 팜 아슈라이트"
+  },
+  "num" : "107",
+  "price" : 3667,
+  "release_date" : [
+    "2010/06"
+  ],
+  "series" : {
+    "en" : "Yoake Mae yori Ruriiro na",
+    "ja" : "夜明け前より瑠璃色な",
+    "ko" : "새벽녘보다 유리색인"
+  }
+}

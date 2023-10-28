@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6360,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170403/6360/44672/large/9250ae1b6e901f258d59607c7bdc08db.jpg",
+  "name" : {
+    "en" : "Nendoroid Japan",
+    "ja" : "ねんどろいど 日本 (ねんどろいど にほん)",
+    "ko" : "일본"
+  },
+  "num" : "753",
+  "price" : 4278,
+  "release_date" : [
+    "2017/09"
+  ],
+  "series" : {
+    "en" : "Hetalia The World Twinkle",
+    "ja" : "ヘタリア The World Twinkle",
+    "ko" : "헤타리아"
+  },
+  "set" : 158
+}

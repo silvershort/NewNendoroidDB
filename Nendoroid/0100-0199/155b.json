@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3392,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111129/3392/16396/large/bdf506291c4c0375016cbbaeb5a584f9.jpg",
+  "name" : {
+    "ja" : "ねんどろいど アルドラ 2PカラーVer. (ねんどろいど あるどら 2Pからーver.)",
+    "ko" : "알드라 2P컬러 Ver."
+  },
+  "num" : "155b",
+  "price" : 3667,
+  "release_date" : [
+    "2011/06"
+  ],
+  "series" : {
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

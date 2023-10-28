@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3777,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121205/3777/21811/large/73d403a2aab4be3ac89cc36cd034fdbc.jpg",
+  "name" : {
+    "en" : "Nendoroid Frau Koujiro (ねんどろいど　こうじろふらう)",
+    "ja" : "ねんどろいど 神代フラウ (ねんどろいど　こうじろふらう)",
+    "ko" : "코지로 프라우"
+  },
+  "num" : "294",
+  "price" : 3667,
+  "release_date" : [
+    "2013/04"
+  ],
+  "series" : {
+    "en" : "Robotics;Notes",
+    "ja" : "ロボティクス・ノーツ",
+    "ko" : "로보틱스 노츠"
+  },
+  "set" : 73
+}

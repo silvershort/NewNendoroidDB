@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12327,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220214/12327/95252/large/e4b499c02b11afebb2ddc18dc11f142d.jpg",
+  "name" : {
+    "en" : "Nendoroid Wattson",
+    "ja" : "ねんどろいど ワットソン (ねんどろいど わっとそん)",
+    "ko" : "왓슨"
+  },
+  "num" : "1828",
+  "price" : 6500,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Apex Legends",
+    "ja" : "エーペックスレジェンズ",
+    "ko" : "Apex 레전드"
+  },
+  "set" : 243
+}

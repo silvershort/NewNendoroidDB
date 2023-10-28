@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12297,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220128/12297/94946/large/637bac49d587a8f28a2a47841999fffb.jpg",
+  "name" : {
+    "en" : "Nendoroid Nemesis Prime",
+    "ja" : "ねんどろいど ネメシスプライム (ねんどろいど ねめしすぷらいむ)",
+    "ko" : "네메시스 프라임"
+  },
+  "num" : "1814",
+  "price" : 5500,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Transformers",
+    "ja" : "トランスフォーマー",
+    "ko" : "트랜스포머"
+  },
+  "set" : 244
+}

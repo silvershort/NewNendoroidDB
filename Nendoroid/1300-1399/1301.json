@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9350,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200313/9350/68282/large/7bb4a20f96d37ac12f0b8db8d33a1a48.jpg",
+  "name" : {
+    "en" : "Nendoroid Rio Mason Busujima",
+    "ja" : "ねんどろいど 毒島メイソン理鶯 (ねんどろいど ぶすじまめいそんりおう)",
+    "ko" : "보스지마 메이슨 리오"
+  },
+  "num" : "1301",
+  "price" : 6600,
+  "release_date" : [
+    "2021/03"
+  ],
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 227
+}

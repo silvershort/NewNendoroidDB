@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3840,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130219/3840/22715/large/f4f7b1be71b4f21858e65d842f428046.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruka Minami (ねんどろいど みなみ はるか)",
+    "ja" : "ねんどろいど 南 春香 (ねんどろいど みなみ はるか)",
+    "ko" : "미나미 하루카"
+  },
+  "num" : "312",
+  "price" : 3981,
+  "release_date" : [
+    "2013/07"
+  ],
+  "series" : {
+    "en" : "Minamike Tadaima",
+    "ja" : "みなみけ ただいま",
+    "ko" : "미나미가"
+  },
+  "set" : 29
+}

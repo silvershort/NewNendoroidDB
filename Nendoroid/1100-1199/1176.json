@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8603,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190725/8603/62328/large/bb35278f5e122804eb46468c45c7a27f.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Minamoto",
+    "ja" : "ねんどろいど 源さくら (ねんどろいど みなもとさくら)",
+    "ko" : "미나모토 사쿠라"
+  },
+  "num" : "1176",
+  "price" : 5000,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Zombie Land Saga",
+    "ja" : "ゾンビランドサガ",
+    "ko" : "좀비랜드사가"
+  },
+  "set" : 220
+}

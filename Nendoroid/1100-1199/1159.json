@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8476,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190628/8476/61378/large/de079e7f6b0a7a86f0e118ab46d54cc7.jpg",
+  "name" : {
+    "en" : "Nendoroid Garou: Super Movable Edition",
+    "ja" : "ねんどろいど ガロウ スーパームーバブル・エディション (ねんどろいど がろう すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "가로우 슈퍼 무버블 에디션"
+  },
+  "num" : "1159",
+  "price" : 5100,
+  "release_date" : [
+    "2019/11"
+  ],
+  "series" : {
+    "en" : "ONE-PUNCH MAN",
+    "ja" : "ワンパンマン",
+    "ko" : "원펀맨"
+  },
+  "set" : 127
+}

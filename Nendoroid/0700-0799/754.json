@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6403,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170421/6403/45073/large/1bdaf5b286a122586eb8497fcb7d40a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Juliana",
+    "ja" : "ねんどろいど ユリアナ (ねんどろいど ゆりあな)",
+    "ko" : "유리아나"
+  },
+  "num" : "754",
+  "price" : 5297,
+  "release_date" : [
+    "2017/10"
+  ],
+  "series" : {
+    "en" : "Chain Chronicle: The Light of Haecceitas",
+    "ja" : "チェインクロニクル ～ヘクセイタスの閃～",
+    "ko" : "체인 크로니클"
+  }
+}

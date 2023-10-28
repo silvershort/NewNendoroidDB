@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9349,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200313/9349/68272/large/e2ac363ca1d00b9faa3b923dd8c720f8.jpg",
+  "name" : {
+    "en" : "Nendoroid Sayo Hikawa: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 氷川紗夜 ステージ衣装Ver. (ねんどろいど ひかわさよ すてーじいしょうVer.)",
+    "ko" : "히카와 사요 스테이지 Ver."
+  },
+  "num" : "1302",
+  "price" : 5300,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 154
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13478,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221101/13478/106600/large/9031f046c8bcc8d024b8a7abfa762a54.jpg",
+  "name" : {
+    "en" : "Nendoroid The Doll",
+    "ja" : "ねんどろいど 人形 (ねんどろいど にんぎょう)",
+    "ko" : "인형"
+  },
+  "num" : "1992",
+  "price" : 6900,
+  "release_date" : [
+    "2023/05"
+  ],
+  "series" : {
+    "en" : "Bloodborne",
+    "ja" : "Bloodborne",
+    "ko" : "블러드본"
+  },
+  "set" : 233
+}

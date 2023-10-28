@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10512,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201208/10512/78406/large/b942b9623a9e954b4284f0f17b66ffd9.jpg",
+  "name" : {
+    "en" : "Nendoroid V: Female Ver.",
+    "ja" : "ねんどろいど V 女性Ver. (ねんどろいど V じょせいVer.)",
+    "ko" : "V 여성 Ver."
+  },
+  "num" : "1531",
+  "price" : 5200,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Cyberpunk 2077",
+    "ja" : "サイバーパンク2077",
+    "ko" : "사이버펑크 2077"
+  },
+  "set" : 257
+}

@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3496,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120313/3496/17970/large/b6de0a10310acb6ea76617b95e1c53e8.jpg",
+  "name" : {
+    "ja" : "ねんどろいど リネット・ビショップ 水着Ver. (ねんどろいど りねっと・びしょっぷ みずぎVer.)",
+    "ko" : "리네트 비숍 수영복 Ver."
+  },
+  "num" : "229",
+  "price" : 10978,
+  "release_date" : [
+    "2012/06"
+  ],
+  "series" : {
+    "ja" : "ストライクウィッチーズ－白銀の翼－",
+    "ko" : "스트라이크 위치스"
+  },
+  "set" : 16
+}

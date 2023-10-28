@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6110,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161205/6110/42668/large/4b087b2bbe8ac8a1df14ba9e5c758aa8.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Twinkle Snow Ver.",
+    "ja" : "ねんどろいど 雪ミク Twinkle Snow Ver. (ねんどろいど ゆきみく とぅいんくる すのう Ver.)",
+    "ko" : "유키 미쿠 Twinkle Snow Ver."
+  },
+  "num" : "701",
+  "price" : 5602,
+  "release_date" : [
+    "2017/02"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
+}

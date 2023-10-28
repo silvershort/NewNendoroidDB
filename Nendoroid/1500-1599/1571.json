@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10871,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210302/10871/81784/large/cde8e0e4d0dc510360ad18546e4c9399.jpg",
+  "name" : {
+    "en" : "Nendoroid Popp",
+    "ja" : "ねんどろいど ポップ (ねんどろいど ぽっぷ)",
+    "ko" : "포프"
+  },
+  "num" : "1571",
+  "price" : 5500,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Dragon Quest: The Legend of Dai",
+    "ja" : "ドラゴンクエスト ダイの大冒険",
+    "ko" : "타이의 대모험"
+  },
+  "set" : 258
+}

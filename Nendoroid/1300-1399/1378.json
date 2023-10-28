@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10378,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201109/10378/77043/large/7cd35313a71eef3212fc859ec3ea9ad6.jpg",
+  "name" : {
+    "en" : "Nendoroid Zeyan Li: Demon King Ver.",
+    "ja" : "ねんどろいど ゼン 魔王 Ver. (ねんどろいど ぜん まおう Ver.)",
+    "ko" : "이택언 마왕 Ver."
+  },
+  "num" : "1378",
+  "price" : 5900,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Love&Producer",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 211
+}

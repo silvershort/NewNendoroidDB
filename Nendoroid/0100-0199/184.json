@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3229,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110727/3229/14798/large/82557bc156e62cf64697e08d3943216f.jpg",
+  "name" : {
+    "en" : "Nendoroid Elsie (ねんどろいど えるしぃ)",
+    "ja" : "ねんどろいど エルシィ (ねんどろいど えるしぃ)",
+    "ko" : "엘시"
+  },
+  "num" : "184",
+  "price" : 3981,
+  "release_date" : [
+    "2011/11"
+  ],
+  "series" : {
+    "en" : "The World God Only Knows",
+    "ja" : "神のみぞ知るセカイ",
+    "ko" : "신만이 아는 세계"
+  },
+  "set" : 48
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9180,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200115/9180/66890/large/881b78980e01880d8deaf71b4ec99ecf.jpg",
+  "name" : {
+    "en" : "Nendoroid Alex DeLarge",
+    "ja" : "ねんどろいど アレックス (ねんどろいど あれっくす)",
+    "ko" : "알렉스 드라지"
+  },
+  "num" : "1270",
+  "price" : 4800,
+  "release_date" : [
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "A Clockwork Orange",
+    "ja" : "時計じかけのオレンジ",
+    "ko" : "시계태엽 오렌지"
+  }
+}

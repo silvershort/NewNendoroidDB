@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9193,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200121/9193/66951/large/1548a5739121a41daef9ba480f1e3351.jpg",
+  "name" : {
+    "en" : "Nendoroid Josuke Higashikata",
+    "ja" : "ねんどろいど 東方仗助 (ねんどろいど ひがしがたじょうすけ)",
+    "ko" : "히가시카타 죠스케"
+  },
+  "num" : "1276",
+  "price" : 5478,
+  "release_date" : [
+    "2020/09",
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

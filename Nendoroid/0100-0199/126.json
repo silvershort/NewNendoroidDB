@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3379/16326/large/0b94b4989e3f17aabfdfab141db31f64.jpg",
+  "name" : {
+    "en" : "Nendoroid Kudryavka Noumi: Summer Uniform Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
+    "ja" : "ねんどろいど 能美クドリャフカ 夏服Ver. (ねんどろいど のうみくどりゃふか なつふくVer.)",
+    "ko" : "노우미 쿠드랴프카 하복 Ver."
+  },
+  "num" : "126",
+  "price" : 4400,
+  "release_date" : [
+    "2011/04",
+    "2013/07"
+  ],
+  "series" : {
+    "en" : "Kud Wafter",
+    "ja" : "クドわふたー",
+    "ko" : "리틀 버스터즈!"
+  },
+  "set" : 39
+}

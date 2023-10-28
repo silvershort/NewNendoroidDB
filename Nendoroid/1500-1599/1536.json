@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10597,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201218/10597/79100/large/f5bd6a06bf831fdcfd17da871450467c.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagome Higurashi",
+    "ja" : "ねんどろいど 日暮かごめ (ねんどろいど ひぐらしかごめ)",
+    "ko" : "유가영"
+  },
+  "num" : "1536",
+  "price" : 5300,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Inuyasha",
+    "ja" : "犬夜叉",
+    "ko" : "이누야샤"
+  },
+  "set" : 236
+}

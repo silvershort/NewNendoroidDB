@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7344,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180613/7344/52575/large/c4fea22ca03e98fa883b46beea9221f2.jpg",
+  "name" : {
+    "ja" : "ねんどろいど セラフィム (ねんどろいど せらふぃむ)",
+    "ko" : "세라핌"
+  },
+  "num" : "888",
+  "price" : 6600,
+  "release_date" : [
+    "2018/11"
+  ],
+  "series" : {
+    "ja" : "Dungeon&Fighter（日本サービス名：アラド戦記）",
+    "ko" : "던전 앤 파이터"
+  },
+  "set" : 169
+}

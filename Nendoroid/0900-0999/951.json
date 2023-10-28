@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7356,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180619/7356/52684/large/7a1ec079a64bbce6156f0654f8d4b4c4.jpg",
+  "name" : {
+    "en" : "Nendoroid Yang Wen-li",
+    "ja" : "ねんどろいど ヤン・ウェンリー (ねんどろいど やん・うぇんりー)",
+    "ko" : "양 웬리"
+  },
+  "num" : "951",
+  "price" : 4584,
+  "release_date" : [
+    "2018/12"
+  ],
+  "series" : {
+    "en" : "Legend of the Galactic Heroes: Die Neue These",
+    "ja" : "銀河英雄伝説 Die Neue These",
+    "ko" : "은하영웅전설 Die Neue These"
+  },
+  "set" : 184
+}

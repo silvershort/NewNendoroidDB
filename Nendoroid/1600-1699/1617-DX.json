@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11129,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11129/83968/large/eb76212e2eb26cdf0b37536f1578781a.jpg",
+  "name" : {
+    "en" : "Nendoroid Winter Soldier DX",
+    "ja" : "ねんどろいど ウィンター・ソルジャー DX (ねんどろいど うぃんたー・そるじゃー DX)",
+    "ko" : "윈터 솔져 DX"
+  },
+  "num" : "1617-DX",
+  "price" : 8800,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "The Falcon and The Winter Soldier",
+    "ja" : "ファルコン&ウィンター・ソルジャー",
+    "ko" : "팔콘과 윈터솔져"
+  },
+  "set" : 64
+}

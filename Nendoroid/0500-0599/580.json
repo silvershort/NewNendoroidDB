@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5314,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151106/5314/36228/large/f6f52e8cdf4051c41edcce31683e4080.jpg",
+  "name" : {
+    "en" : "Nendoroid Eli Ayase: Training Outfit Ver.",
+    "ja" : "ねんどろいど 絢瀬絵里 練習着Ver. (ねんどろいど あやせえり れんしゅうぎVer.)",
+    "ko" : "아야세 에리 연습복"
+  },
+  "num" : "580",
+  "price" : 3565,
+  "release_date" : [
+    "2016/05"
+  ],
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 106
+}

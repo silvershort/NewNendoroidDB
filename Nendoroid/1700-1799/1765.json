@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 12031,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211122/12031/92327/large/ccae9b9ecbbab2db325bb34697f5d841.jpg",
+  "name" : {
+    "en" : "Nendoroid Optimus Prime (G1 Ver.)",
+    "ja" : "ねんどろいど オプティマスプライム(G1 Ver.) (ねんどろいど おぷてぃますぷらいむ(G1 Ver.))",
+    "ko" : "옵티머스 프라임(G1)"
+  },
+  "num" : "1765",
+  "price" : 5500,
+  "release_date" : [
+    "2022/05"
+  ],
+  "series" : {
+    "en" : "Transformers",
+    "ja" : "トランスフォーマー",
+    "ko" : "트랜스포머 시리즈"
+  },
+  "set" : 244
+}

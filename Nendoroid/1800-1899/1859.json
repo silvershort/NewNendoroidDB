@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12476,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220317/12476/96643/large/716d455306f51c217d73716a1b77a63a.jpg",
+  "name" : {
+    "en" : "Nendoroid Saga",
+    "ja" : "ねんどろいど サガ (ねんどろいど さが)",
+    "ko" : "사가"
+  },
+  "num" : "1859",
+  "price" : 6800,
+  "release_date" : [
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 218
+}

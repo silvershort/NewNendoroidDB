@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12050,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211125/12050/92495/large/10a8dfc485b056462c50068fb39680f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagura Nana",
+    "ja" : "ねんどろいど カグラナナ (ねんどろいど かぐらなな)",
+    "ko" : "카구라 나나"
+  },
+  "num" : "1763",
+  "price" : 6900,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Kagura Nana",
+    "ja" : "カグラナナ",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 171
+}

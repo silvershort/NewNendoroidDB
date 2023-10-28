@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10297,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201023/10297/76344/large/bdc479c1a8c538fc42d2982af74fac25.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Spider: Endgame Ver.",
+    "ja" : "ねんどろいど アイアン・スパイダー エンドゲーム Ver. (ねんどろいど あいあん・すぱいだー えんどげーむ Ver.)",
+    "ko" : "스파이더맨 엔드게임 Ver."
+  },
+  "num" : "1497",
+  "price" : 5000,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

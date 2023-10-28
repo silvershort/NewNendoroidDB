@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4161,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131216/4161/27434/large/a15d42caf21866a33d3ede843b4f3233.jpg",
+  "name" : {
+    "en" : "Nendoroid Akagi (ねんどろいど あかぎ)",
+    "ja" : "ねんどろいど 赤城 (ねんどろいど あかぎ)",
+    "ko" : "아카기"
+  },
+  "num" : "391",
+  "price" : 4584,
+  "release_date" : [
+    "2014/05",
+    "2015/06"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

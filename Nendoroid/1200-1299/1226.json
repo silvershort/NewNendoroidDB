@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8912,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191017/8912/64631/large/31891ca7e525af812fc463c19f625747.jpg",
+  "name" : {
+    "en" : "Nendoroid Onpu Segawa",
+    "ja" : "ねんどろいど 瀬川おんぷ (ねんどろいど せがわおんぷ)",
+    "ko" : "세가와 온푸"
+  },
+  "num" : "1226",
+  "price" : 5500,
+  "release_date" : [
+    "2020/05"
+  ],
+  "series" : {
+    "en" : "Magical DoReMi 3",
+    "ja" : "も～っと！おジャ魔女どれみ",
+    "ko" : "오자마녀 도레미"
+  },
+  "set" : 214
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3541,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120507/3541/18311/large/a95cb540587e68826d00876d1104c7d3.jpg",
+  "name" : {
+    "en" : "Nendoroid Princess of the Crystal (ねんどろいど ぷりんせす・おぶ・ざ・くりすたる)",
+    "ja" : "ねんどろいど プリンセス・オブ・ ザ・クリスタル (ねんどろいど ぷりんせす・おぶ・ざ・くりすたる)",
+    "ko" : "크리스탈의 공주"
+  },
+  "num" : "243",
+  "price" : 3981,
+  "release_date" : [
+    "2012/09"
+  ],
+  "series" : {
+    "en" : "Mawaru Penguindrum",
+    "ja" : "輪るピングドラム",
+    "ko" : "돌아가는 펭귄 드럼"
+  }
+}

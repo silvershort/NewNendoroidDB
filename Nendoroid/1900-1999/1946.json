@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13156,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220825/13156/103341/large/48cd1933efa3eff3a221218c3cae2929.jpg",
+  "name" : {
+    "en" : "Nendoroid Hua Cheng",
+    "ja" : "ねんどろいど 花城 (ねんどろいど ほわ・ちょん)",
+    "ko" : "화성"
+  },
+  "num" : "1946",
+  "price" : 7200,
+  "release_date" : [
+    "2023/02", "2024/05"
+  ],
+  "series" : {
+    "en" : "Heaven Official's Blessing",
+    "ja" : "天官賜福",
+    "ko" : "천관사복"
+  },
+  "set" : 305
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7791,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181108/7791/55834/large/370687be4ff16209364eb5c389ac7889.jpg",
+  "name" : {
+    "en" : "Nendoroid Kiana: Winter Princess Ver.",
+    "ja" : "ねんどろいど キアナ 冬のお姫様Ver. (ねんどろいど きあな ふゆのおひめさまVer.)",
+    "ko" : "키아나 겨울공주 Ver."
+  },
+  "num" : "1026",
+  "price" : 5907,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "Honkai Impact 3rd",
+    "ja" : "崩壊3rd",
+    "ko" : "붕괴 3rd"
+  },
+  "set" : 178
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12772,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220602/12772/99438/large/e536320e067ce46ccace540e091924a6.jpg",
+  "name" : {
+    "en" : "Nendoroid Zapp Renfro",
+    "ja" : "ねんどろいど ザップ・レンフロ (ねんどろいど ざっぷ・れんふろ)",
+    "ko" : "재프 렌프로"
+  },
+  "num" : "1892",
+  "price" : 7700,
+  "release_date" : [
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "Blood Blockade Battlefront & Beyond",
+    "ja" : "血界戦線＆BEYOND",
+    "ko" : "혈계전선"
+  },
+  "set" : 155
+}

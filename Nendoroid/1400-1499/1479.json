@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10173,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201002/10173/75279/large/544041c9148ed62d5549dc81d3adadf6.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuji Itadori",
+    "ja" : "ねんどろいど 虎杖悠仁 (ねんどろいど いたどりゆうじ)",
+    "ko" : "이타도리 유지"
+  },
+  "num" : "1479",
+  "price" : 5100,
+  "release_date" : [
+    "2021/03",
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  },
+  "set" : 254
+}

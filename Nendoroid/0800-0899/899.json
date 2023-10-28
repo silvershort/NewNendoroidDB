@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7108,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180312/7108/50690/large/c9a72e3e2d49c1d3c4e1d14bd2f4719f.jpg",
+  "name" : {
+    "en" : "Nendoroid Kizuna AI",
+    "ja" : "ねんどろいど キズナアイ (ねんどろいど きずなあい)",
+    "ko" : "키즈나 아이"
+  },
+  "num" : "899",
+  "price" : 4888,
+  "release_date" : [
+    "2018/10"
+  ],
+  "series" : {
+    "en" : "Kizuna AI",
+    "ja" : "キズナアイ",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 171
+}

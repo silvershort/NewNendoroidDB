@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13346,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220930/13346/105280/large/a21338c2d10a3059591581496e1ff4b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Raphael",
+    "ja" : "ねんどろいど ラファエロ (ねんどろいど らふぁえろ)",
+    "ko" : "라파엘"
+  },
+  "num" : "1986",
+  "price" : 0,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Teenage Mutant Ninja Turtles",
+    "ja" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko" : "닌자 거북이"
+  },
+  "set" : 312
+}

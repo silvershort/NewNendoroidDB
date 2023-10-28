@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 2541,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2541/7401/large/4cd817fd9291d98f4575d0fd12a8855a.jpg",
+  "name" : {
+    "en" : "Nendoroid Drössel (どろっせる ねんどろいど)",
+    "ja" : "ねんどろいど ドロッセル (どろっせる ねんどろいど)",
+    "ko" : "드롯셀"
+  },
+  "num" : "081",
+  "price" : 4190,
+  "release_date" : [
+    "2009/12"
+  ],
+  "series" : {
+    "en" : "Fireball",
+    "ja" : "ファイアボール",
+    "ko" : "파이어볼"
+  },
+  "set" : 26
+}

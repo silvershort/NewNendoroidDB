@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3788,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121213/3788/21979/large/1587787457aa35c61554d336846171cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin & wooser + Mechawooser (ねんどろいど りん&うーさー＋めかうーさー)",
+    "ja" : "ねんどろいど りん&うーさー＋メカウーサー (ねんどろいど りん&うーさー＋めかうーさー)",
+    "ko" : "린&우서+메카우서"
+  },
+  "num" : "304",
+  "price" : 5552,
+  "release_date" : [
+    "2013/06"
+  ],
+  "series" : {
+    "en" : "wooser's hand-to-mouth life",
+    "ja" : "うーさーのその日暮らし",
+    "ko" : "우서의 하루살이"
+  },
+  "set" : 77
+}

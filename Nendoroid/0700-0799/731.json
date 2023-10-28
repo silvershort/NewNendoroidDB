@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6215,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170127/6215/43474/large/5331b823f43da59f77e3241177efcc92.jpg",
+  "name" : {
+    "en" : "Nendoroid Yoshiko Tsushima",
+    "ja" : "ねんどろいど 津島善子 (ねんどろいど つしまよしこ)",
+    "ko" : "츠시마 요시코"
+  },
+  "num" : "731",
+  "price" : 3565,
+  "release_date" : [
+    "2017/07"
+  ],
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 106
+}

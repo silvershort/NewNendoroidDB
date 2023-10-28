@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6957,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171218/6957/49386/large/0f241a548ed8738b6e9f60519de8bc2c.jpg",
+  "name" : {
+    "en" : "Nendoroid Abukuma Kai-II",
+    "ja" : "ねんどろいど 阿武隈改二 (ねんどろいど あぶくまかいに)",
+    "ko" : "아부쿠마 改二"
+  },
+  "num" : "867",
+  "price" : 5907,
+  "release_date" : [
+    "2018/07"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

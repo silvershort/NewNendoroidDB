@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5576,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160401/5576/38340/large/29777c6dae63e5bf1382a84055a625fc.jpg",
+  "name" : {
+    "en" : "Nendoroid Captain America: Hero's Edition",
+    "ja" : "ねんどろいど キャプテン・アメリカ ヒーローズ・エディション (ねんどろいど きゃぷてん・あめりか ひーろーず・えでぃしょん)",
+    "ko" : "캡틴 아메리카 히어로즈 에디션"
+  },
+  "num" : "618",
+  "price" : 5602,
+  "release_date" : [
+    "2016/10"
+  ],
+  "series" : {
+    "en" : "Avengers: Age of Ultron",
+    "ja" : "アベンジャーズ/エイジ・オブ・ウルトロン",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

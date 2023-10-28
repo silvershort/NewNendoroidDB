@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15098,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231018/15098/122326/large/ccc2c7f3ff68d8634f7be4dd287c145d.jpg",
+  "name" : {
+    "en" : "Aqua",
+    "ja" : "アクア",
+    "ko" : "아쿠아"
+  },
+  "num" : "2266",
+  "price" : 5600,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "OSHI NO KO",
+    "ja" : "TVアニメ【推しの子】",
+    "ko" : "최애의 아이"
+  }
+}

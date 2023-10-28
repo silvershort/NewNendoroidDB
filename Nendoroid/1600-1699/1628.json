@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11124,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11124/85190/large/ab960e7b8a3b28cf00feecabfbe3f06e.jpg",
+  "name" : {
+    "en" : "Nendoroid Nadia",
+    "ja" : "ねんどろいど ナディア (ねんどろいど なでぃあ)",
+    "ko" : "나디아 라 아르월"
+  },
+  "num" : "1628",
+  "price" : 5800,
+  "release_date" : [
+    "2021/11"
+  ],
+  "series" : {
+    "en" : "Nadia: The Secret of Blue Water",
+    "ja" : "ふしぎの海のナディア",
+    "ko" : "신비한 바다의 나디아"
+  }
+}

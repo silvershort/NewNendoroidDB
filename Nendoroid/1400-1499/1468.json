@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10120,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200924/10120/74724/large/0d81d7ce2471a4a2d8c0de0fff5287aa.jpg",
+  "name" : {
+    "en" : "Nendoroid Shen Qingqiu",
+    "ja" : "ねんどろいど 沈清秋 (ねんどろいど しんせんしゅう)",
+    "ko" : "심청추"
+  },
+  "num" : "1468",
+  "price" : 5800,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "ChuanShuZiJiuZhiNan",
+    "ja" : "穿書自救指南",
+    "ko" : "인사반파자구계통"
+  },
+  "set" : 249
+}

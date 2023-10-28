@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7624,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180919/7624/54598/large/05bfb841033fab1053a5a3c703227d3d.jpg",
+  "name" : {
+    "en" : "Nendoroid Cyber girl Siro",
+    "ja" : "ねんどろいど 電脳少女シロ (ねんどろいど でんのうしょうじょしろ)",
+    "ko" : "전뇌소녀 시로"
+  },
+  "num" : "994",
+  "price" : 5297,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "Cyber girl Siro",
+    "ja" : "電脳少女シロ",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 171
+}

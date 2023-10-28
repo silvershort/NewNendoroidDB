@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 2229,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2229/6161/large/706dd8bed0fc3eaa491a12752de0f0bb.jpg",
+  "name" : {
+    "en" : "Nendoroid Nozomu Itoshiki (いとしきのぞむ ねんどろいど)",
+    "ja" : "ねんどろいど　糸色 望 (いとしきのぞむ ねんどろいど)",
+    "ko" : "이토시키 노조무"
+  },
+  "num" : "059",
+  "price" : 3667,
+  "release_date" : [
+    "2009/03"
+  ],
+  "series" : {
+    "en" : "(Zoku) Sayonara, Zetsubou Sensei",
+    "ja" : "【俗・】さよなら絶望先生",
+    "ko" : "안녕 절망선생"
+  },
+  "set" : 17
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10159,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200930/10159/75193/large/76d4fa1cc8ad0b6a11c585f6a43eeb03.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Matou: Grail of Makiri Ver.",
+    "ja" : "ねんどろいど 間桐桜～マキリの杯～ (ねんどろいど まとうさくら～まきりのはい～)",
+    "ko" : "마토 사쿠라 ~마키리의 잔~"
+  },
+  "num" : "1509",
+  "price" : 5000,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Fate/stay night: Heaven's Feel",
+    "ja" : "劇場版「Fate/stay night [Heaven's Feel]」",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

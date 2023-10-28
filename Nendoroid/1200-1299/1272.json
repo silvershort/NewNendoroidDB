@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9014,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191125/9014/66735/large/9fa2c2d53095aec10256f15bdc3e465b.jpg",
+  "name" : {
+    "en" : "Nendoroid Tsuyu Asui",
+    "ja" : "ねんどろいど 蛙吹梅雨 (ねんどろいど あすいつゆ)",
+    "ko" : "아스이 츠유"
+  },
+  "num" : "1272",
+  "price" : 5200,
+  "release_date" : [
+    "2020/08"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 148
+}

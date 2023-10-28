@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9125,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191220/9125/66331/large/95797f8ad813137ea0643c6c05c3fca3.jpg",
+  "name" : {
+    "en" : "Nendoroid Mamako Oosuki",
+    "ja" : "ねんどろいど 大好真々子 (ねんどろいど おおすきままこ)",
+    "ko" : "오오스기 마마코"
+  },
+  "num" : "1263",
+  "price" : 5800,
+  "release_date" : [
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "ja" : "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+    "ko" : "일반공격이 전체공격에 2회 공격인 엄마는 좋아하세요?"
+  }
+}

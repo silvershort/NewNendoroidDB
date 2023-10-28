@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2960,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100907/2960/11304/large/564efcbde3ebcc339ee0f991fe87ee45.jpg",
+  "name" : {
+    "en" : "Nendoroid Cattleya (ねんどろいど かとれあ)",
+    "ja" : "ねんどろいど カトレア (ねんどろいど かとれあ)",
+    "ko" : "카트레아"
+  },
+  "num" : "133a",
+  "price" : 4190,
+  "release_date" : [
+    "2010/12"
+  ],
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

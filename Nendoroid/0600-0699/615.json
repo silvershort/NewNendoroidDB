@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5785,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160705/5785/39945/large/e76e6ca44edd303e73dc4bb3b02b6f5f.jpg",
+  "name" : {
+    "en" : "Nendoroid Dragon Knight",
+    "ja" : "ねんどろいど ドラゴンナイト (ねんどろいど どらごんないと)",
+    "ko" : "용기사"
+  },
+  "num" : "615",
+  "price" : 4584,
+  "release_date" : [
+    "2017/03"
+  ],
+  "series" : {
+    "en" : "DOTA 2",
+    "ja" : "Dota 2",
+    "ko" : "도타2"
+  },
+  "set" : 130
+}

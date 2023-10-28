@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6609,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170725/6609/46744/large/8d7ef299c8ebbc7dc121774fb4e1000e.jpg",
+  "name" : {
+    "en" : "Nendoroid Lev Haiba",
+    "ja" : "ねんどろいど 灰羽リエーフ (ねんどろいど はいばりえーふ)",
+    "ko" : "하이바 리에프"
+  },
+  "num" : "806",
+  "price" : 4481,
+  "release_date" : [
+    "2018/01"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

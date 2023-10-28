@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11133,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11133/84000/large/ada72e412e74c4e4d0ded1c3ee89acc1.jpg",
+  "name" : {
+    "en" : "Nendoroid Lucifer",
+    "ja" : "ねんどろいど ルシファー (ねんどろいど るしふぁー)",
+    "ko" : "루시퍼"
+  },
+  "num" : "1622",
+  "price" : 6500,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Helltaker",
+    "ja" : "Helltaker",
+    "ko" : "헬테이커"
+  },
+  "set" : 266
+}

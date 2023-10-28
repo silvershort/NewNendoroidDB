@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11944,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211027/11944/91499/large/f7bbc2619af42f229c97a36b21e8991a.jpg",
+  "name" : {
+    "en" : "Nendoroid Cater Diamond",
+    "ja" : "ねんどろいど ケイト・ダイヤモンド (ねんどろいど けいと・だいやもんど)",
+    "ko" : "케이터 다이아몬드"
+  },
+  "num" : "1769",
+  "price" : 6600,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 253
+}

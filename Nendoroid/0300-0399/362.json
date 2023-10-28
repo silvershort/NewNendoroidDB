@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4028,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130812/4028/25739/large/cadd424b786f9ffb7710234dbbcf2b08.jpg",
+  "name" : {
+    "en" : "Nendoroid Aya Shameimaru (ねんどろいど しゃめいまるあや)",
+    "ja" : "ねんどろいど 射命丸文 (ねんどろいど しゃめいまるあや)",
+    "ko" : "샤메이마루 아야"
+  },
+  "num" : "362",
+  "price" : 3667,
+  "release_date" : [
+    "2013/12"
+  ],
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
+}

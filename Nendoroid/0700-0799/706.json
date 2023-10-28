@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6080,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161124/6080/42532/large/1bf3b8ae13ce0e254ee5b8abcc6f1e8a.jpg",
+  "name" : {
+    "en" : "Nendoroid Boba Fett",
+    "ja" : "ねんどろいど ボバ・フェット (ねんどろいど ぼば・ふぇっと)",
+    "ko" : "보바 펫"
+  },
+  "num" : "706",
+  "price" : 4888,
+  "release_date" : [
+    "2017/06"
+  ],
+  "series" : {
+    "en" : "Star Wars Episode 5: The Empire Strikes Back",
+    "ja" : "スター・ウォーズ エピソード5／帝国の逆襲",
+    "ko" : "스타워즈"
+  },
+  "set" : 116
+}

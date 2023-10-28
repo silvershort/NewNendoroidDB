@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5697,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160525/5697/39212/large/c8b908d795f914f83ed4248e38093e80.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2016 Ver.",
+    "ja" : "ねんどろいど レーシングミク 2016 Ver. (れーしんぐみく 2016Ver.)",
+    "ko" : "레이싱 미쿠 2016 Ver."
+  },
+  "num" : "636",
+  "price" : 0,
+  "release_date" : [
+    "2016/12"
+  ],
+  "series" : {
+    "en" : "Racing Miku 2016 Ver.",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
+}

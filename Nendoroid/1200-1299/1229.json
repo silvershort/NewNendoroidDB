@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8927,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191025/8927/64746/large/14d1d11dd0271eec0ec7ea2bedf8e1af.jpg",
+  "name" : {
+    "en" : "Nendoroid Wei Wuxian: Yi Ling Lao Zu Ver.",
+    "ja" : "ねんどろいど 魏無羨 夷陵老祖Ver. (ねんどろいど ぎむせん いりょうろうそVer.)",
+    "ko" : "위무선 이릉노조 Ver."
+  },
+  "num" : "1229",
+  "price" : 6800,
+  "release_date" : [
+    "2020/06",
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "The Master of Diabolism",
+    "ja" : "アニメ「魔道祖師」",
+    "ko" : "마도조사"
+  },
+  "set" : 205
+}

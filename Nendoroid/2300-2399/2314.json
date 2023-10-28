@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15091,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231017/15091/122274/large/5eb88033efcdc8976ac7c3cf3f6c8860.jpg",
+  "name" : {
+    "en" : "Shin",
+    "ja" : "シン",
+    "ko" : "신"
+  },
+  "num" : "2314",
+  "price" : 6800,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Amnesia",
+    "ja" : "アムネシア",
+    "ko" : "암네시아"
+  }
+}

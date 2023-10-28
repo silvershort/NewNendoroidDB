@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7104,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180306/7104/50683/large/15130deefc21a1aeadf8d617c5b9bfc0.jpg",
+  "name" : {
+    "en" : "Nendoroid Naruto Uzumaki: NARUTO Animation Exhibition in China Ver.",
+    "ja" : "ねんどろいど うずまきナルト 中国動画実境展Ver. (ねんどろいど うずまきなると ちゅうごくどうがじっきょうてんVer.)",
+    "ko" : "우즈마키 나루토 중국무술지경전 Ver."
+  },
+  "num" : "872",
+  "price" : 4278,
+  "release_date" : [
+    "2018/04"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 146
+}

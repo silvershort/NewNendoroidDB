@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5905,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160829/5905/40924/large/ff593b5c114f2fa4df4d9499247f4684.jpg",
+  "name" : {
+    "en" : "Nendoroid Libeccio",
+    "ja" : "ねんどろいど Libeccio（リベッチオ） (ねんどろいど りべっちお)",
+    "ko" : "리베치오"
+  },
+  "num" : "670",
+  "price" : 5602,
+  "release_date" : [
+    "2017/02"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

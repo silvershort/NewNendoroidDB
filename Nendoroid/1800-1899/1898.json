@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13084,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220806/13084/102775/large/010caed1b7af701c2a05496417dee31d.jpg",
+  "name" : {
+    "en" : "Nendoroid Undyne",
+    "ja" : "ねんどろいど アンダイン (ねんどろいど あんだいん)",
+    "ko" : "언다인"
+  },
+  "num" : "1898",
+  "price" : 5500,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "UNDERTALE",
+    "ja" : "UNDERTALE",
+    "ko" : "언더테일"
+  },
+  "set" : 294
+}

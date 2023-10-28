@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11782,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210914/11782/89875/large/c49306587d6f36d41829a8afa1c16c0c.jpg",
+  "name" : {
+    "en" : "Nendoroid Traveler (Lumine)",
+    "ja" : "ねんどろいど 旅人（蛍） (ねんどろいど たびびと（ほたる）)",
+    "ko" : "루미네"
+  },
+  "num" : "1718",
+  "price" : 5800,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  },
+  "set" : 276
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4690,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141017/4690/31035/large/09e72cfb79f81254a3f4fc9ccda5cfae.jpg",
+  "name" : {
+    "en" : "Nendoroid Rei Ayanami: EVANGELION RACING Ver. (ねんどろいど あやなみれい えゔぁんげりおんれーしんぐVer.)",
+    "ja" : "ねんどろいど 綾波レイ エヴァンゲリオンレーシングVer. (ねんどろいど あやなみれい えゔぁんげりおんれーしんぐVer.)",
+    "ko" : "아야나미 레이 에반게리온 레이싱 Ver."
+  },
+  "num" : "467",
+  "price" : 4888,
+  "release_date" : [
+    "2015/05"
+  ],
+  "series" : {
+    "en" : "EVANGELION RACING",
+    "ja" : "エヴァンゲリオンレーシング",
+    "ko" : "에반게리온"
+  },
+  "set" : 112
+}

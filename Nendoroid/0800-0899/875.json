@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6965,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171219/6965/49626/large/b00019c5252f7357249514aa8307a42a.jpg",
+  "name" : {
+    "en" : "Nendoroid Giovanni & Mewtwo",
+    "ja" : "ねんどろいど サカキ&ミュウツー (ねんどろいど さかき&みゅうつー)",
+    "ko" : "비주기 & 뮤츠"
+  },
+  "num" : "875",
+  "price" : 5500,
+  "release_date" : [
+    "2018/08"
+  ],
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 104
+}

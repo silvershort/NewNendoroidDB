@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4122,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131114/4122/27121/large/e746048d1397e15408d04323d1055d48.jpg",
+  "name" : {
+    "en" : "Nendoroid Neptune (ねんどろいど ねぷてゅーぬ)",
+    "ja" : "ねんどろいど ネプテューヌ (ねんどろいど ねぷてゅーぬ)",
+    "ko" : "넵튠"
+  },
+  "num" : "378",
+  "price" : 0,
+  "release_date" : [
+    "2014/03"
+  ],
+  "series" : {
+    "en" : "Hyperdimension Neptunia",
+    "ja" : "超次元ゲイム ネプテューヌ",
+    "ko" : "초차원게임 넵튠"
+  },
+  "set" : 91
+}

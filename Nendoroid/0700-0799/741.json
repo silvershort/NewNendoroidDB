@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6278,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170222/6278/43976/large/9c09e6f124bf453e96798527e52dcfd7.jpg",
+  "name" : {
+    "en" : "Nendoroid Victor Nikiforov",
+    "ja" : "ねんどろいど ヴィクトル・ニキフォロフ (ねんどろいど ゔぃくとる・にきふぉろふ)",
+    "ko" : "빅토르 니키포르포"
+  },
+  "num" : "741",
+  "price" : 4584,
+  "release_date" : [
+    "2017/08"
+  ],
+  "series" : {
+    "en" : "YURI ON ICE",
+    "ja" : "ユーリ!!! on ICE",
+    "ko" : "유리!!! On ICE"
+  },
+  "set" : 153
+}

@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4604,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140917/4604/30473/large/d8972c32d372e4ec439eccdbbc95a246.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotori Minami (ねんどろいど みなみことり)",
+    "ja" : "ねんどろいど 南ことり (ねんどろいど みなみことり)",
+    "ko" : "미나미 코토리"
+  },
+  "num" : "458",
+  "price" : 3565,
+  "release_date" : [
+    "2015/01",
+    "2015/10"
+  ],
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 106
+}

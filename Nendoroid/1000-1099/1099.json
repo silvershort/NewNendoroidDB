@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 8206,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190327/8206/59188/large/9c22aad7159d7fb62633a8ab33203188.jpg",
+  "name" : {
+    "en" : "Nendoroid Techies",
+    "ja" : "ねんどろいど テキーズ (ねんどろいど てきーず)",
+    "ko" : "기술단"
+  },
+  "num" : "1099",
+  "price" : 6722,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "DOTA 2",
+    "ja" : "DOTA2",
+    "ko" : "도타2"
+  },
+  "set" : 130
+}

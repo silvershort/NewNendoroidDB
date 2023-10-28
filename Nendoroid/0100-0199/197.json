@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3278,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110905/3278/15404/large/50474de25b1a001b3b64b346e6ec1ac9.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurisu Makise & Mayuri Shiina: Cheerful Ver. (ねんどろいど まきせくりす＆しいなまゆり おうえんVer.)",
+    "ja" : "ねんどろいど 牧瀬紅莉栖＆椎名まゆり 応援Ver. (ねんどろいど まきせくりす＆しいなまゆり おうえんVer.)",
+    "ko" : "마키세 크리스&시이나 마유리 응원 Ver."
+  },
+  "num" : "197",
+  "price" : 6286,
+  "release_date" : [
+    "2012/02"
+  ],
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  },
+  "set" : 40
+}

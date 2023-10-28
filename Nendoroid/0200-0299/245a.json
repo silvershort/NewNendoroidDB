@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3534,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120424/3534/18219/large/5d4f4e2f7e6952484ce46932299f7f5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Annelotte (ねんどろいど あんねろって)",
+    "ja" : "ねんどろいど アンネロッテ (ねんどろいど あんねろって)",
+    "ko" : "안네로테"
+  },
+  "num" : "245a",
+  "price" : 3667,
+  "release_date" : [
+    "2012/09"
+  ],
+  "series" : {
+    "en" : "Queen's Blade Rebellion",
+    "ja" : "クイーンズブレイド リベリオン",
+    "ko" : "퀸즈 블레이드 리벨리온"
+  },
+  "set" : 35
+}

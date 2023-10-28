@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6654,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170817/6654/47075/large/1b0d62225a48fcf335d816cc979f220b.jpg",
+  "name" : {
+    "en" : "Nendoroid Megumi Kato: Heroine Outfit Ver.",
+    "ja" : "ねんどろいど 加藤恵 ヒロイン服Ver. (ねんどろいど かとうめぐみ ひろいんふくVer.)",
+    "ko" : "카토 메구미 히로인 복장 Ver."
+  },
+  "num" : "819",
+  "price" : 4800,
+  "release_date" : [
+    "2018/03"
+  ],
+  "series" : {
+    "en" : "Saekano: How to Raise a Boring Girlfriend ♭",
+    "ja" : "冴えない彼女の育てかた",
+    "ko" : "시원찮은 그녀를 위한 육성방법"
+  },
+  "set" : 149
+}

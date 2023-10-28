@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4081,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131008/4081/26627/large/c521440eae443d77597c8eae2ae43e87.jpg",
+  "name" : {
+    "en" : "Nendoroid Mana Kamaishi (ねんどろいど かまいしまな)",
+    "ja" : "ねんどろいど 釜石まな (ねんどろいど かまいしまな)",
+    "ko" : "카마이시 마나"
+  },
+  "num" : "373",
+  "price" : 4070,
+  "release_date" : [
+    "2014/02"
+  ],
+  "series" : {
+    "en" : "Tetsudou Musume",
+    "ja" : "鉄道むすめ",
+    "ko" : "철도무스메"
+  },
+  "set" : 86
+}

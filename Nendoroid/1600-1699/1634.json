@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11344,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210614/11344/85852/large/916b65c340c7c151e776f4af396b2dce.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Enma",
+    "ja" : "ねんどろいど 閻魔あい (ねんどろいど えんまあい)",
+    "ko" : "엔마 아이"
+  },
+  "num" : "1634",
+  "price" : 5500,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Hell Girl: Fourth Twilight",
+    "ja" : "地獄少女 宵伽",
+    "ko" : "지옥소녀"
+  }
+}

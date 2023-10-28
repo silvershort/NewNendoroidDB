@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13076,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220804/13076/102527/large/e3cd9046fe47b8b3cf8b420592f133c7.jpg",
+  "name" : {
+    "en" : "Nendoroid Vivy",
+    "ja" : "ねんどろいど ヴィヴィ (ねんどろいど ゔぃゔぃ)",
+    "ko" : "비비"
+  },
+  "num" : "1931",
+  "price" : 7400,
+  "release_date" : [
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "Vivy -Fluorite Eye's Song-",
+    "ja" : "Vivy -Fluorite Eye's Song-",
+    "ko" : "Vivy -Fluorite Eye’s Song-"
+  }
+}

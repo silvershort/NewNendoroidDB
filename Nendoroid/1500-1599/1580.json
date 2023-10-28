@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10834,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210219/10834/81351/large/154be6db8be0d0eeb34cb23f702506dc.jpg",
+  "name" : {
+    "en" : "Nendoroid Power",
+    "ja" : "ねんどろいど パワー (ねんどろいど ぱわー)",
+    "ko" : "파워"
+  },
+  "num" : "1580",
+  "price" : 5500,
+  "release_date" : [
+    "2021/10",
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "Chainsaw Man",
+    "ja" : "チェンソーマン",
+    "ko" : "체인소 맨"
+  },
+  "set" : 259
+}

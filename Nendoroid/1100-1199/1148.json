@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8448/61178/large/60ff964452c944717c84a74700e78bb3.jpg",
+  "name" : {
+    "en" : "Nendoroid The Trapper",
+    "ja" : "ねんどろいど トラッパー (ねんどろいど とらっぱー)",
+    "ko" : "트래퍼"
+  },
+  "num" : "1148",
+  "price" : 5500,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Dead by Daylight",
+    "ja" : "Dead By Daylight",
+    "ko" : "DEAD BY DAYLIGHT"
+  }
+}

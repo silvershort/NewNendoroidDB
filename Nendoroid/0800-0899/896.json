@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7111,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180312/7111/50714/large/e43a3cda20cbcec0bb6fb752bcebc7d4.jpg",
+  "name" : {
+    "en" : "Nendoroid Itaru Chigasaki",
+    "ja" : "ねんどろいど 茅ヶ崎至 (ねんどろいど ちがさきいたる)",
+    "ko" : "치가사키 이타루"
+  },
+  "num" : "896",
+  "price" : 4584,
+  "release_date" : [
+    "2018/09"
+  ],
+  "series" : {
+    "en" : "A3!",
+    "ja" : "A3!",
+    "ko" : "A3!"
+  },
+  "set" : 167
+}

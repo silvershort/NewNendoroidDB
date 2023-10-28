@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15038,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230927/15038/121757/large/c81530ee5066393b5d37d6a5012a5019.jpg",
+  "name" : {
+    "en" : "Toji Fushiguro",
+    "ja" : "伏黒甚爾",
+    "ko" : "후시구로 토우지"
+  },
+  "num" : "2279",
+  "price" : 6100,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  }
+}

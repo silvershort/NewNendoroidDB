@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 5899,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160825/5899/40868/large/0cdba3a76175585ce5086e093a2aee78.jpg",
+  "name" : {
+    "en" : "Nendoroid Tora",
+    "ja" : "ねんどろいど とら",
+    "ko" : "토라"
+  },
+  "num" : "668",
+  "price" : 7590,
+  "release_date" : [
+    "2017/03"
+  ],
+  "series" : {
+    "en" : "Ushio and Tora",
+    "ja" : "うしおととら",
+    "ko" : "요괴소년 호야"
+  },
+  "set" : 141
+}

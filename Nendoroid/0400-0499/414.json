@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140408/4368/28849/large/a7081c356af628c1b97372e49e26f81e.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2014 Ver. (ねんどろいど れーしんぐみく 2014 Ver.)",
+    "ja" : "ねんどろいど レーシングミク 2014 Ver. (ねんどろいど れーしんぐみく 2014 Ver.)",
+    "ko" : "레이싱 미쿠 2014 Ver."
+  },
+  "num" : "414",
+  "price" : 0,
+  "release_date" : [
+    "2014/10"
+  ],
+  "series" : {
+    "en" : "Racing Miku 2014 Ver.",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4273,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140320/4273/28222/large/3ebc53c17ae581a06db1d79d5601512d.jpg",
+  "name" : {
+    "en" : "Nendoroid Miss Monochrome: Poker Face Black ver. (ねんどろいど みす・ものくろーむ ぽーかー ふぇいす ぶらっく ver.)",
+    "ja" : "ねんどろいど ミス・モノクローム Poker Face Black ver. (ねんどろいど みす・ものくろーむ ぽーかー ふぇいす ぶらっく ver.)",
+    "ko" : "미스 모노크롬 Poker Face Black Ver."
+  },
+  "num" : "406b",
+  "price" : 0,
+  "release_date" : [
+    "2014/09"
+  ],
+  "series" : {
+    "en" : "Miss Monochrome -The Animation-",
+    "ja" : "ミス・モノクローム-The Animation-",
+    "ko" : "미스 모노크롬"
+  },
+  "set" : 97
+}

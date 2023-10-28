@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9440,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200422/9440/69162/large/f044476fdf30c4ec3ca223832292ce68.jpg",
+  "name" : {
+    "en" : "Nendoroid Mafumafu (Hikikomori Set)",
+    "ja" : "ねんどろいど まふまふ（ひきこもりセット） (ねんどろいど まふまふ（ひきこもりせっと）)",
+    "ko" : "마후마후"
+  },
+  "num" : "1329",
+  "price" : 5500,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "Mafumafu",
+    "ja" : "まふまふ",
+    "ko" : "우타이테"
+  },
+  "set" : 241
+}

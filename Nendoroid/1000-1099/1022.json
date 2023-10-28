@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7730,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181022/7730/55380/large/4585d5fd8bae868d953906ccdf07ba06.jpg",
+  "name" : {
+    "en" : "Nendoroid Ron Weasley",
+    "ja" : "ねんどろいど ロン・ウィーズリー (ねんどろいど ろん・うぃーずりー)",
+    "ko" : "론 위즐리"
+  },
+  "num" : "1022",
+  "price" : 4584,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 196
+}

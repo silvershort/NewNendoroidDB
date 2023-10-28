@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7777,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181106/7777/55746/large/aa990575d426faf39361920e3ee1e734.jpg",
+  "name" : {
+    "en" : "Nendoroid Nekomiya Hinata",
+    "ja" : "ねんどろいど 猫宮ひなた (ねんどろいど ねこみやひなた)",
+    "ko" : "네코미야 히나타"
+  },
+  "num" : "1024",
+  "price" : 5093,
+  "release_date" : [
+    "2019/06"
+  ],
+  "series" : {
+    "en" : "Hinata Channel",
+    "ja" : "ひなたチャンネル",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 171
+}

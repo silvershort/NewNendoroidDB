@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13337,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220929/13337/105195/large/6e6e045e116c26d5b7534ddd040b51e3.jpg",
+  "name" : {
+    "en" : "Nendoroid Bella",
+    "ja" : "ねんどろいど ベラ (ねんどろいど べら)",
+    "ko" : "벨라"
+  },
+  "num" : "1972",
+  "price" : 7800,
+  "release_date" : [
+    "2023/06"
+  ],
+  "series" : {
+    "en" : "A-SOUL",
+    "ja" : "A-SOUL",
+    "ko" : "A-SOUL"
+  },
+  "set" : 310
+}

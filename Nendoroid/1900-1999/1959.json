@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13426,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221019/13426/106168/large/212a46c997ca530c7c9c016592155e7a.jpg",
+  "name" : {
+    "en" : "Nendoroid Faputa",
+    "ja" : "ねんどろいど ファプタ (ねんどろいど ふぁぷた)",
+    "ko" : "파프타"
+  },
+  "num" : "1959",
+  "price" : 7200,
+  "release_date" : [
+    "2023/04"
+  ],
+  "series" : {
+    "en" : "Made in Abyss: The Golden City of the Scorching Sun",
+    "ja" : "メイドインアビス 烈日の黄金郷",
+    "ko" : "메이드 인 어비스"
+  },
+  "set" : 185
+}

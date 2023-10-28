@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8722,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190823/8722/63065/large/66bece3422d3fcb64a03ba6d24fe1a5d.jpg",
+  "name" : {
+    "en" : "Nendoroid Chrollo Lucilfer",
+    "ja" : "ねんどろいど クロロ=ルシルフル (ねんどろいど くろろ=るしるふる)",
+    "ko" : "클로로 루실후르"
+  },
+  "num" : "1186",
+  "price" : 5280,
+  "release_date" : [
+    "2020/08",
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  },
+  "set" : 222
+}

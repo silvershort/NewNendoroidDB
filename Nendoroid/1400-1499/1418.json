@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9815,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9815/72318/large/13e7cb2cae86f6d416aa2e7a461ae4af.jpg",
+  "name" : {
+    "en" : "Nendoroid Gaku Yaotome",
+    "ja" : "ねんどろいど 八乙女楽 (ねんどろいど やおとめがく)",
+    "ko" : "야오토메 가쿠"
+  },
+  "num" : "1418",
+  "price" : 4600,
+  "release_date" : [
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

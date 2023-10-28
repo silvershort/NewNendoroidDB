@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10087,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200918/10087/74564/large/482d2e7c73827e608f59d63816eeced3.jpg",
+  "name" : {
+    "en" : "Nendoroid Lux",
+    "ja" : "ねんどろいど ラックス (ねんどろいど らっくす)",
+    "ko" : "럭스"
+  },
+  "num" : "1458",
+  "price" : 5300,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 99
+}

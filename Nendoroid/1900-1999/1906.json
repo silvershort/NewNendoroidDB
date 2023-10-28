@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12837,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220620/12837/100115/large/367de6c479fcf4ebb7ad8275f0d77dec.jpg",
+  "name" : {
+    "en" : "Nendoroid Reina Aharen",
+    "ja" : "ねんどろいど 阿波連れいな (ねんどろいど あはれんれいな)",
+    "ko" : "아하렌 레이나"
+  },
+  "num" : "1906",
+  "price" : 6900,
+  "release_date" : [
+    "2023/03"
+  ],
+  "series" : {
+    "en" : "Aharen-san wa Hakarenai",
+    "ja" : "阿波連さんははかれない",
+    "ko" : "아하렌 양은 알 수가 없어"
+  }
+}

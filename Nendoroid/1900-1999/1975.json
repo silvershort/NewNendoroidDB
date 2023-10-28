@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13336,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220929/13336/105185/large/1c1817b66f08e7ba18fe8d2114209df2.jpg",
+  "name" : {
+    "en" : "Nendoroid Ayanami",
+    "ja" : "ねんどろいど 綾波 (ねんどろいど あやなみ)",
+    "ko" : "아야나미"
+  },
+  "num" : "1975",
+  "price" : 7200,
+  "release_date" : [
+    "2023/05"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 302
+}

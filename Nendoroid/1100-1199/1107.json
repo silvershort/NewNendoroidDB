@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8174,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190319/8174/58933/large/2f78dc6620ec1f42db75f151fdea6994.jpg",
+  "name" : {
+    "en" : "Nendoroid Rin",
+    "ja" : "ねんどろいど りん (ねんどろいど りん)",
+    "ko" : "린"
+  },
+  "num" : "1107",
+  "price" : 4584,
+  "release_date" : [
+    "2019/09"
+  ],
+  "series" : {
+    "en" : "Kemurikusa",
+    "ja" : "ケムリクサ",
+    "ko" : "케무리쿠사"
+  }
+}

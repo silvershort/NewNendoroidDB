@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5512,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160224/5512/37807/large/46e66ffced05af8f63094125ce1fb757.jpg",
+  "name" : {
+    "en" : "Nendoroid Pokémon Trainer Red & Green",
+    "ja" : "ねんどろいど レッド＆グリーン (ねんどろいど れっどあんどぐりーん)",
+    "ko" : "레드&그린"
+  },
+  "num" : "612",
+  "price" : 8250,
+  "release_date" : [
+    "2016/07"
+  ],
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 104
+}

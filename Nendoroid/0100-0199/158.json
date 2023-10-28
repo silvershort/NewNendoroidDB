@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3101,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110223/3101/13006/large/134675788f36172219afb0dafe618ad8.jpg",
+  "name" : {
+    "en" : "Nendoroid Kudryavka Noumi: Winter Uniform Ver. (ねんどろいど のうみくどりゃふか ふゆふくばーじょん)",
+    "ja" : "ねんどろいど 能美クドリャフカ 冬服Ver. (ねんどろいど のうみくどりゃふか ふゆふくVer.)",
+    "ko" : "노우미 쿠드랴프카 동복 Ver."
+  },
+  "num" : "158",
+  "price" : 3981,
+  "release_date" : [
+    "2011/06",
+    "2013/07"
+  ],
+  "series" : {
+    "en" : "Little Busters! Ecstasy",
+    "ja" : "リトルバスターズ！ エクスタシー",
+    "ko" : "리틀 버스터즈! 엑스터시"
+  },
+  "set" : 39
+}

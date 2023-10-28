@@ -1,0 +1,23 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3616,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120720/3616/19614/large/01c6d9569eef35837e5bc23d2c08203a.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurisu Makise: White Coat ver. (ねんどろいど まきせくりす はくいVer.)",
+    "ja" : "ねんどろいど 牧瀬紅莉栖 白衣Ver. (ねんどろいど まきせくりす はくいVer.)",
+    "ko" : "마키세 크리스 백의 Ver."
+  },
+  "num" : "149",
+  "price" : 3143,
+  "release_date" : [
+    "2011/02",
+    "2011/06",
+    "2012/12"
+  ],
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  },
+  "set" : 40
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5461,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160115/5461/37347/large/b8d1a27277dd2639b3b6b11aee129290.jpg",
+  "name" : {
+    "en" : "Nendoroid Akashi Kai",
+    "ja" : "ねんどろいど 明石改 (ねんどろいど あかしかい)",
+    "ko" : "아카시"
+  },
+  "num" : "603",
+  "price" : 5297,
+  "release_date" : [
+    "2016/06"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

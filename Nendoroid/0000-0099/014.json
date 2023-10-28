@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3356,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3356/16276/large/aad11c2c09afc71ec757b5caa863dfa3.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 涼宮ハルヒの憂鬱 バニーガールセット (ねんどろいど すずみやはるひのゆううつ ばにーがーるせっと)",
+    "ko" : "스즈미야 하루히 바니걸 세트"
+  },
+  "num" : "014",
+  "price" : 7333,
+  "release_date" : [
+    "2007/07"
+  ],
+  "series" : {
+    "ja" : "涼宮ハルヒの憂鬱",
+    "ko" : "스즈미야 하루히의 우울"
+  },
+  "set" : 4
+}

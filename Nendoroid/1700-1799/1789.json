@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12141,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211216/12141/93490/large/9d37651c952ebc2c3666b4d90fce0dcf.jpg",
+  "name" : {
+    "en" : "Nendoroid FrostNova",
+    "ja" : "ねんどろいど フロストノヴァ (ねんどろいど ふろすとのゔぁ)",
+    "ko" : "프로스트노바"
+  },
+  "num" : "1789",
+  "price" : 7000,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 218
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9019,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191126/9019/66153/large/ae1de7c8f716902491ab11de6464a64b.jpg",
+  "name" : {
+    "en" : "Nendoroid Ibaraki Doji",
+    "ja" : "ねんどろいど 茨木童子 (ねんどろいど いばらきどうじ)",
+    "ko" : "자목동자"
+  },
+  "num" : "1244",
+  "price" : 5800,
+  "release_date" : [
+    "2020/07"
+  ],
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사"
+  },
+  "set" : 182
+}

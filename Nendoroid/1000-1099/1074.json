@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8011,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190125/8011/57607/large/12b85c74fa12910e129e746685d63964.jpg",
+  "name" : {
+    "en" : "Nendoroid Taiga Kagami",
+    "ja" : "ねんどろいど 火神大我 (ねんどろいど かがみたいが)",
+    "ko" : "카가미 타이가"
+  },
+  "num" : "1074",
+  "price" : 4584,
+  "release_date" : [
+    "2019/07"
+  ],
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 201
+}

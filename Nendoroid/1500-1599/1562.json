@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10807,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210215/10807/81069/large/d8ec736005baca6bf270b360fece5228.jpg",
+  "name" : {
+    "en" : "Nendoroid Dizzy",
+    "ja" : "ねんどろいど ディズィー (ねんどろいど でぃずぃー)",
+    "ko" : "디지"
+  },
+  "num" : "1562",
+  "price" : 7800,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "GUILTY GEAR Xrd REV 2",
+    "ja" : "GUILTY GEAR Xrd REV 2",
+    "ko" : "길티기어"
+  },
+  "set" : 260
+}

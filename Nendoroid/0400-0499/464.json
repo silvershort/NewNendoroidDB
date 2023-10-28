@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4688,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141017/4688/30984/large/7b856de97b4668721ee2e00f36884bff.jpg",
+  "name" : {
+    "en" : "Nendoroid Eli Ayase (ねんどろいど あやせえり)",
+    "ja" : "ねんどろいど 絢瀬絵里 (ねんどろいど あやせえり)",
+    "ko" : "아야세 에리"
+  },
+  "num" : "464",
+  "price" : 3565,
+  "release_date" : [
+    "2015/03",
+    "2015/10"
+  ],
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 106
+}

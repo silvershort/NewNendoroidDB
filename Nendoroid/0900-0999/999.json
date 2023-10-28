@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7629,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180921/7629/54955/large/c9e85cb0dce9b370f3bf6bbd7c89334e.jpg",
+  "name" : {
+    "en" : "Nendoroid Harry Potter",
+    "ja" : "ねんどろいど ハリー・ポッター (ねんどろいど はりー・ぽったー)",
+    "ko" : "해리 포터"
+  },
+  "num" : "999",
+  "price" : 4584,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 196
+}

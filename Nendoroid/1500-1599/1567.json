@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10802,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210212/10802/81017/large/6a6365b8813573836b79cc17cef3a5e6.jpg",
+  "name" : {
+    "en" : "Nendoroid Eris Boreas Greyrat",
+    "ja" : "ねんどろいど エリス・ボレアス・グレイラット (ねんどろいど えりす・ぼれあす・ぐれいらっと)",
+    "ko" : "에리스"
+  },
+  "num" : "1567",
+  "price" : 5500,
+  "release_date" : [
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Mushoku Tensei: Jobless Reincarnation",
+    "ja" : "無職転生 ～異世界行ったら本気だす～",
+    "ko" : "무직전생 ~이세계에 갔으면 최선을 다한다~"
+  },
+  "set" : 261
+}

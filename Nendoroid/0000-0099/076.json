@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2495,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2495/7194/large/7da05dc0bb9462f19155e8d450e9663a.jpg",
+  "name" : {
+    "en" : "Nendoroid Riannon (りあんのん ねんどろいど)",
+    "ja" : "ねんどろいど リアンノン (りあんのん ねんどろいど)",
+    "ko" : "리안논"
+  },
+  "num" : "076",
+  "price" : 3667,
+  "release_date" : [
+    "2009/10"
+  ],
+  "series" : {
+    "en" : "Tears To Tiara",
+    "ja" : "ティアーズ・トゥ・ティアラ",
+    "ko" : "티어즈 투 티아라"
+  },
+  "set" : 24
+}

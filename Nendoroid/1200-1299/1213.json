@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8850,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191001/8850/64236/large/ce16bcd6a83cc932a82faedffdc03ad5.jpg",
+  "name" : {
+    "en" : "Nendoroid Odentamitsuyo",
+    "ja" : "ねんどろいど 大典太光世 (ねんどろいど おおでんたみつよ)",
+    "ko" : "오오텐타 미츠요"
+  },
+  "num" : "1213",
+  "price" : 4800,
+  "release_date" : [
+    "2020/04"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 117
+}

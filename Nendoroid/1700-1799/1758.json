@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12009,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211116/12009/92150/large/64cda8861773bcb10ffd2cfe284ca406.jpg",
+  "name" : {
+    "en" : "Nendoroid Wolverine",
+    "ja" : "ねんどろいど ウルヴァリン (ねんどろいど うるゔぁりん)",
+    "ko" : "울버린"
+  },
+  "num" : "1758",
+  "price" : 8000,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Marvel Comics",
+    "ja" : "Marvel Comics",
+    "ko" : "마블 코믹스"
+  },
+  "set" : 64
+}

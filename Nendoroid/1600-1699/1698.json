@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11705,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210825/11705/89179/large/27d5dc427791fbcb47e7fdba88ace1e1.jpg",
+  "name" : {
+    "en" : "Nendoroid Ashe",
+    "ja" : "ねんどろいど アッシュ (ねんどろいど あっしゅ)",
+    "ko" : "애쉬"
+  },
+  "num" : "1698",
+  "price" : 7300,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "League of Legends",
+    "ja" : "リーグ・オブ・レジェンド",
+    "ko" : "리그 오브 레전드"
+  },
+  "set" : 99
+}

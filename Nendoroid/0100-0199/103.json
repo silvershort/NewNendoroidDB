@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2767,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091225/2767/8686/large/e6a5d74eb6d71beee78764e575649f95.jpg",
+  "name" : {
+    "en" : "Nendoroid Sanae Kochiya (ねんどろいど こちやさなえ)",
+    "ja" : "ねんどろいど 東風谷早苗 (ねんどろいど こちやさなえ )",
+    "ko" : "코치야 사나에"
+  },
+  "num" : "103",
+  "price" : 3143,
+  "release_date" : [
+    "2011/08"
+  ],
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
+}

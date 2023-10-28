@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 3244,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110804/3244/15006/large/0c6805478846cd040f2032fcea38d2cd.jpg",
+  "name" : {
+    "en" : "Nendoroid Len Kagamine: Cheerful Ver. (ねんどろいど かがみねれん おうえんver.)",
+    "ja" : "ねんどろいど 鏡音レン 応援Ver. (ねんどろいど かがみねれん おうえんVer.)",
+    "ko" : "카가미네 렌 응원 Ver."
+  },
+  "num" : "190",
+  "price" : 3143,
+  "release_date" : [
+    "2012/01"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 02 : Rin/Len Kagamine",
+    "ja" : "キャラクター・ボーカル・シリーズ02　鏡音リン・レン",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 11
+}

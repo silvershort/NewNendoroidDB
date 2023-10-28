@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15060,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231005/15060/121957/large/a741f4c3974a9b978fc5839dd6cda6a8.jpg",
+  "name" : {
+    "en" : "OMORI",
+    "ja" : "オモリ",
+    "ko" : "오모리"
+  },
+  "num" : "2284",
+  "price" : 5800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "OMORI",
+    "ja" : "OMORI",
+    "ko" : "오모리"
+  }
+}

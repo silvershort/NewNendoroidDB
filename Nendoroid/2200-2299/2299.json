@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15113,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231023/15113/122474/large/4a1e6b40444ee921d5491ae89ca35f6c.jpg",
+  "name" : {
+    "en" : "Akito Yamada",
+    "ja" : "山田秋斗",
+    "ko" : "야마다 오키토"
+  },
+  "num" : "2299",
+  "price" : 6300,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "My Love Story with Yamada-kun at Lv999",
+    "ja" : "山田くんとLv999の恋をする",
+    "ko" : "야마다 군과 Lv999의 사랑을 하다"
+  }
+}

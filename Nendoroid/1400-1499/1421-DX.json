@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9813,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9813/72305/large/16b5dc76252a96a66bb30f886a42b14d.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Male Zinogre Alpha Armor Ver. DX",
+    "ja" : "ねんどろいど ハンター♂ ジンオウα Ver. DX (ねんどろいど はんたー♂ じんおうα Ver. DX)",
+    "ko" : "헌터♂ 진오우α DX Ver."
+  },
+  "num" : "1421-DX",
+  "price" : 8000,
+  "release_date" : [
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "MONSTER HUNTER WORLD: ICEBORNE",
+    "ja" : "モンスターハンターワールド：アイスボーン",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 65
+}

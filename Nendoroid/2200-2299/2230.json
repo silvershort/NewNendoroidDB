@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15040,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230929/15040/121801/large/e8479340ae6948180f81ffa713fafb3e.jpg",
+  "name" : {
+    "en" : "Aki Rosenthal",
+    "ja" : "アキ・ローゼンタール",
+    "ko" : "아키 로젠탈"
+  },
+  "num" : "2230",
+  "price" : 7300,
+  "release_date" : [
+    "2024/03"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

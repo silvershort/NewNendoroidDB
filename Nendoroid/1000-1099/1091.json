@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8085,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190219/8085/58251/large/b0facb3f91403a9d274384f234f1ce48.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhuge Liang",
+    "ja" : "ねんどろいど 諸葛亮 (ねんどろいど しょかつりょう)",
+    "ko" : "제갈량"
+  },
+  "num" : "1091",
+  "price" : 5297,
+  "release_date" : [
+    "2019/06"
+  ],
+  "series" : {
+    "en" : "King Of Glory",
+    "ja" : "王者荣耀",
+    "ko" : "왕자영요"
+  },
+  "set" : 191
+}

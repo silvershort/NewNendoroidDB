@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3822,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130121/3822/22429/large/4e76f8164d0ea2abbc7e3f31cf6d0698.jpg",
+  "name" : {
+    "en" : "Nendoroid Miyako (ねんどろいど みやこ)",
+    "ja" : "ねんどろいど 宮子 (ねんどろいど みやこ)",
+    "ko" : "미야코"
+  },
+  "num" : "308",
+  "price" : 3667,
+  "release_date" : [
+    "2013/06"
+  ],
+  "series" : {
+    "en" : "Hidamari Sketch x Honeycomb",
+    "ja" : "ひだまりスケッチ×ハニカム",
+    "ko" : "히다마리 스케치"
+  },
+  "set" : 75
+}

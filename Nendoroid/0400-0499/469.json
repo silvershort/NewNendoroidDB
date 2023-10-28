@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4701,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141027/4701/31088/large/d5c0f9a24c04c2e0d106b02fd9651a51.jpg",
+  "name" : {
+    "en" : "Nendoroid Batman: Hero's Edition (ねんどろいど ばっとまん ひーろーず・えでぃしょん)",
+    "ja" : "ねんどろいど バットマン ヒーローズ・エディション (ねんどろいど ばっとまん ひーろーず・えでぃしょん)",
+    "ko" : "베트맨 히어로즈 에디션"
+  },
+  "num" : "469",
+  "price" : 4278,
+  "release_date" : [
+    "2015/02"
+  ],
+  "series" : {
+    "en" : "The Dark Knight Rises",
+    "ja" : "ダークナイト ライジング",
+    "ko" : "다크나이트 라이즈"
+  }
+}

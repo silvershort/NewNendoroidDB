@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2558,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2558/7463/large/b001628b4ef570bb6964ffa101b71dc1.jpg",
+  "name" : {
+    "en" : "Nendoroid Mio Akiyama (あきやま みお ねんどろいどあきやま みお ねんどろいど)",
+    "ja" : "ねんどろいど 秋山 澪 (ねんどろいど　あきやまみお)",
+    "ko" : "아키야마 미오"
+  },
+  "num" : "082",
+  "price" : 3667,
+  "release_date" : [
+    "2010/09"
+  ],
+  "series" : {
+    "en" : "K-ON!",
+    "ja" : "けいおん！",
+    "ko" : "케이온!"
+  },
+  "set" : 27
+}

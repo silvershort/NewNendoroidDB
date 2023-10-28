@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8907,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191016/8907/64802/large/c6e5759178cac08c871ca7317ce08b60.jpg",
+  "name" : {
+    "en" : "Nendoroid Ootengu",
+    "ja" : "ねんどろいど 大天狗 (ねんどろいど おおてんぐ)",
+    "ko" : "다이텐구"
+  },
+  "num" : "1227",
+  "price" : 5800,
+  "release_date" : [
+    "2020/05"
+  ],
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사"
+  },
+  "set" : 182
+}

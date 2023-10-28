@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7849,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181128/7849/56336/large/9011b08407f1e6225579ca31fef36927.jpg",
+  "name" : {
+    "en" : "Nendoroid Thor: DX Ver.",
+    "ja" : "ねんどろいど ソー DX Ver. (ねんどろいど そー DX Ver.)",
+    "ko" : "토르 라그나로크 에디션 DX Ver."
+  },
+  "num" : "863-DX",
+  "price" : 8862,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "Thor: Ragnarok",
+    "ja" : "マイティ・ソー バトルロイヤル",
+    "ko" : "토르 라그나로크"
+  },
+  "set" : 64
+}

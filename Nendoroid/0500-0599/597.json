@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5406,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151215/5406/36946/large/24de1eaf3547c92d80fb9e15343f2506.jpg",
+  "name" : {
+    "en" : "Nendoroid Clear",
+    "ja" : "ねんどろいど クリア (ねんどろいど くりあ)",
+    "ko" : "클리어"
+  },
+  "num" : "597",
+  "price" : 4888,
+  "release_date" : [
+    "2016/06"
+  ],
+  "series" : {
+    "en" : "DRAMAtical Murder",
+    "ja" : "DRAMAtical Murder",
+    "ko" : "드라마티컬 머더"
+  },
+  "set" : 101
+}

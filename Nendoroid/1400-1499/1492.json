@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10252,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201020/10252/76037/large/324127eb0e039c1e3de5858e851fcf39.jpg",
+  "name" : {
+    "en" : "Nendoroid Vanellope",
+    "ja" : "ねんどろいど ヴァネロペ (ねんどろいど ゔぁねろぺ)",
+    "ko" : "바넬로피 본 슈위츠"
+  },
+  "num" : "1492",
+  "price" : 5900,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Wreck-It Ralph",
+    "ja" : "シュガー・ラッシュ",
+    "ko" : "주먹왕 랄프"
+  },
+  "set" : 32
+}

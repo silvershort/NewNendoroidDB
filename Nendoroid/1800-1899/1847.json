@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12458,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220314/12458/96449/large/4d16bdd38d88b2e3416147ee95d55231.jpg",
+  "name" : {
+    "en" : "Nendoroid Misuzu Kamio",
+    "ja" : "ねんどろいど 神尾観鈴 (ねんどろいど かみおみすず)",
+    "ko" : "카미오 미스즈"
+  },
+  "num" : "1847",
+  "price" : 5900,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "KAGINADO",
+    "ja" : "かぎなど",
+    "ko" : "카기나도"
+  }
+}

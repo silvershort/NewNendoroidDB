@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7214,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180417/7214/51512/large/cabc6e632825a71013da524d5cddfa48.jpg",
+  "name" : {
+    "en" : "Nendoroid Taikobo & Supushan",
+    "ja" : "ねんどろいど 太公望＆四不象 (ねんどろいど たいこうぼう＆すーぷーしゃん)",
+    "ko" : "태공망 & 사불상"
+  },
+  "num" : "909",
+  "price" : 6112,
+  "release_date" : [
+    "2018/11"
+  ],
+  "series" : {
+    "en" : "Hakyu Hoshin Engi",
+    "ja" : "覇穹 封神演義",
+    "ko" : "봉신연의"
+  }
+}

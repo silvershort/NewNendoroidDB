@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8101,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190222/8101/58357/large/99a92f3e6d48499e89ceb45b9627cc0b.jpg",
+  "name" : {
+    "en" : "Nendoroid Iron Man Mark 50: Infinity Edition DX Ver.",
+    "ja" : "ねんどろいど アイアンマン マーク50 インフィニティ・エディション DX Ver. (ねんどろいど あいあんまん まーく50 いんふぃにてぃ・えでぃしょん DX Ver.)",
+    "ko" : "아이언맨 mk.50 어벤져스 인피니티 워 에디션 DX"
+  },
+  "num" : "988-DX",
+  "price" : 7944,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "Avengers: Infinity War",
+    "ja" : "アベンジャーズ／インフィニティ・ウォー",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

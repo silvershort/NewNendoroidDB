@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4072,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130926/4072/26444/large/8e6df345c7f778a5a21bb8f7eaa46854.jpg",
+  "name" : {
+    "en" : "Nendoroid Shimakaze (ねんどろいど しまかぜ)",
+    "ja" : "ねんどろいど 島風 (ねんどろいど しまかぜ)",
+    "ko" : "시마카제"
+  },
+  "num" : "371",
+  "price" : 4715,
+  "release_date" : [
+    "2014/04"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

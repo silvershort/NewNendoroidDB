@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5259,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151002/5259/81962/large/92c8426de3a9fecb311124a1a88136ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Hotaru Ichijo",
+    "ja" : "ねんどろいど 一条蛍 (ねんどろいど いちじょうほたる)",
+    "ko" : "이치죠 호타루"
+  },
+  "num" : "571",
+  "price" : 4800,
+  "release_date" : [
+    "2016/03",
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Non Non Biyori Repeat",
+    "ja" : "のんのんびより りぴーと",
+    "ko" : "논논비요리"
+  },
+  "set" : 107
+}

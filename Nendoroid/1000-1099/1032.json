@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7801,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181113/7801/55941/large/a97ce7f23f740acabd4e8bcc623f2366.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryota Kise Special Box",
+    "ja" : "ねんどろいど 黄瀬涼太 Special Box (ねんどろいど きせりょうた すぺしゃるぼっくす)",
+    "ko" : "키세 료타"
+  },
+  "num" : "1032",
+  "price" : 5602,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "Kuroko's Basketball",
+    "ja" : "黒子のバスケ",
+    "ko" : "쿠로코의 농구"
+  },
+  "set" : 201
+}

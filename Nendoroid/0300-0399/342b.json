@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 3919,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130520/3919/23979/large/33e93c792c616fbb5888e3e8b00247c7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nozomu Itoshiki 1.5: Kouji Kumeta Color Ver. (ねんどろいど いとしきのぞむ 1.5 くめたこうじしていからーVer.)",
+    "ja" : "ねんどろいど 糸色望 1.5 久米田康治指定カラーVer. (ねんどろいど いとしきのぞむ 1.5 くめたこうじしていからーVer.)",
+    "ko" : "이토시키 노조무 1.5 쿠메타 코지 지정 컬러 Ver."
+  },
+  "num" : "342b",
+  "price" : 3981,
+  "release_date" : [
+    "2013/09"
+  ],
+  "series" : {
+    "en" : "(Zoku) Sayonara, Zetsubou-Sensei",
+    "ja" : "【俗・】さよなら絶望先生",
+    "ko" : "안녕 절망선생"
+  },
+  "set" : 17
+}

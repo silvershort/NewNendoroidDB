@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11132,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210422/11132/83990/large/ba95a48da8e55af9f35619a741ac1de5.jpg",
+  "name" : {
+    "en" : "Nendoroid Evanthe",
+    "ja" : "ねんどろいど エヴァンテ (ねんどろいど えゔぁんて)",
+    "ko" : "에반테"
+  },
+  "num" : "1616",
+  "price" : 6700,
+  "release_date" : [
+    "2021/11"
+  ],
+  "series" : {
+    "en" : "RED：Pride of Eden",
+    "ja" : "レッド：プライドオブエデン",
+    "ko" : "레드: 프라이드 오브 에덴"
+  }
+}

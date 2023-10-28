@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10397,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201111/10397/77337/large/200593ca0095d68f5a6eba8b7c416474.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuna",
+    "ja" : "ねんどろいど ユナ (ねんどろいど ゆな)",
+    "ko" : "유나"
+  },
+  "num" : "1512",
+  "price" : 5800,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Kuma Kuma Kuma Bear",
+    "ja" : "くまクマ熊ベアー",
+    "ko" : "곰곰곰 베어"
+  },
+  "set" : 256
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7745,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181026/7745/55519/large/40e872d5d653fcaa506e788ee7ec0d78.jpg",
+  "name" : {
+    "en" : "Nendoroid Takao",
+    "ja" : "ねんどろいど 高雄 (ねんどろいど たかお)",
+    "ko" : "타카오"
+  },
+  "num" : "1023",
+  "price" : 7028,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

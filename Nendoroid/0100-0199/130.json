@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2958,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100901/2958/11258/large/116047a4cd9d27156249570933b43a21.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurisu Makise (ねんどろいど まきせくりす)",
+    "ja" : "ねんどろいど 牧瀬紅莉栖 (ねんどろいど まきせくりす)",
+    "ko" : "마키세 크리스"
+  },
+  "num" : "130",
+  "price" : 3143,
+  "release_date" : [
+    "2013/09"
+  ],
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  },
+  "set" : 40
+}

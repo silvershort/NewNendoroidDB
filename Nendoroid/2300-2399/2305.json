@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15112,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231023/15112/122466/large/3cdd4c4e0d07b82a7095a641eed63666.jpg",
+  "name" : {
+    "en" : "Tokyo Jujutsu High School Ver.",
+    "ja" : "家入硝子 高専Ver.",
+    "ko" : "이에이리 쇼코 고전Ver. "
+  },
+  "num" : "2305",
+  "price" : 5800,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  }
+}

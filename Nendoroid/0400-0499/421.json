@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4410,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140430/4410/28875/large/32fb005bd0a2f688f22ab542c793d16e.jpg",
+  "name" : {
+    "en" : "Nendoroid Chitoge Kirisaki (ねんどろいど きりさきちとげ)",
+    "ja" : "ねんどろいど 桐崎千棘 (ねんどろいど きりさきちとげ)",
+    "ko" : "키리사키 치토게"
+  },
+  "num" : "421",
+  "price" : 4074,
+  "release_date" : [
+    "2014/08",
+    "2015/09"
+  ],
+  "series" : {
+    "en" : "Nisekoi",
+    "ja" : "ニセコイ",
+    "ko" : "니세코이"
+  },
+  "set" : 103
+}

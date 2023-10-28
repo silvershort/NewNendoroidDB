@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5625,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160421/5625/38696/large/49af2a43a8943fcfc0b605dd41269c40.jpg",
+  "name" : {
+    "en" : "Nendoroid Karamatsu Matsuno",
+    "ja" : "ねんどろいど 松野カラ松 (ねんどろいど まつのからまつ)",
+    "ko" : "마차노 카라마츠"
+  },
+  "num" : "624",
+  "price" : 3565,
+  "release_date" : [
+    "2016/09",
+    "2018/06"
+  ],
+  "series" : {
+    "en" : "Osomatsu-san",
+    "ja" : "おそ松さん",
+    "ko" : "오소마츠 상"
+  },
+  "set" : 131
+}

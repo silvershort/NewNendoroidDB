@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3798,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121220/3798/22109/large/2ad9d9990dbd443c312004341dc14e81.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Strawberry White Kimono Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "ja" : "ねんどろいど 雪ミク いちご白無垢Ver. (ねんどろいど ゆきみく いちごしろむくVer.)",
+    "ko" : "유키미쿠 딸기 백무구 Ver."
+  },
+  "num" : "303",
+  "price" : 4190,
+  "release_date" : [
+    "2013/02"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
+}

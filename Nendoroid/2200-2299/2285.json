@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15041,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230929/15041/121793/large/53239f8eff46964c76f837bf3212947f.jpg",
+  "name" : {
+    "en" : "Yuuka Hayase",
+    "ja" : "早瀬ユウカ",
+    "ko" : "하야세 유우카"
+  },
+  "num" : "2285",
+  "price" : 7000,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  }
+}

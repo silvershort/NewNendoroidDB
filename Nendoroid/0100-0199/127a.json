@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2923,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100802/2923/10892/large/ce4a610a5df37c5d56ae021564cf3b2c.jpg",
+  "name" : {
+    "en" : "Nendoroid Tomoe (ねんどろいど ともえ)",
+    "ja" : "ねんどろいど トモエ (ねんどろいど ともえ)",
+    "ko" : "토모에"
+  },
+  "num" : "127a",
+  "price" : 3667,
+  "release_date" : [
+    "2010/11"
+  ],
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

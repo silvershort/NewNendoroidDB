@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12969,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220712/12969/101351/large/f9acff4b04864948e835c9b2036b9984.jpg",
+  "name" : {
+    "en" : "Nendoroid NieR Re[in]carnation The Girl of Light & Mama",
+    "ja" : "ねんどろいど NieR Re[in]carnation 白い少女＆ママ (ねんどろいど にーあ りぃんかーねーしょん しろいしょうじょ＆まま)",
+    "ko" : "니어 리[인]카네이션 하얀 소녀&마마"
+  },
+  "num" : "1896",
+  "price" : 6600,
+  "release_date" : [
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "NieR Re[in]carnation",
+    "ja" : "NieR Re[in]carnation",
+    "ko" : "니어 리[인]카네이션"
+  },
+  "set" : 252
+}

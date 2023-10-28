@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5771,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160630/5771/39829/large/3fbbf3de8dfcad62c495f852815eb760.jpg",
+  "name" : {
+    "en" : "Nendoroid Jyushimatsu Matsuno",
+    "ja" : "ねんどろいど 松野十四松 (ねんどろいど まつのじゅうしまつ)",
+    "ko" : "마츠노 쥬시마츠"
+  },
+  "num" : "648",
+  "price" : 3565,
+  "release_date" : [
+    "2016/11"
+  ],
+  "series" : {
+    "en" : "Osomatsu-san",
+    "ja" : "おそ松さん",
+    "ko" : "오소마츠 상"
+  },
+  "set" : 131
+}

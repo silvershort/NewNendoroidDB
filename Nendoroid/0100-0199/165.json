@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3149,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110419/3149/13696/large/e674b175920f104d126a5f142ba166cb.jpg",
+  "name" : {
+    "en" : "Nendoroid Mayuri Shiina (ねんどろいど しいなまゆり)",
+    "ja" : "ねんどろいど 椎名まゆり (ねんどろいど しいなまゆり)",
+    "ko" : "시이나 마유리"
+  },
+  "num" : "165",
+  "price" : 3667,
+  "release_date" : [
+    "2011/09"
+  ],
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  },
+  "set" : 40
+}

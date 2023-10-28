@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12171,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211227/12171/93743/large/535d6bd463283595ecfa7eb6d2661e1a.jpg",
+  "name" : {
+    "en" : "Nendoroid Megatron",
+    "ja" : "ねんどろいど メガトロン (ねんどろいど めがとろん)",
+    "ko" : "메카트론"
+  },
+  "num" : "1793",
+  "price" : 5500,
+  "release_date" : [
+    "2022/05"
+  ],
+  "series" : {
+    "en" : "Transformers",
+    "ja" : "トランスフォーマー",
+    "ko" : "트랜스포머 시리즈"
+  },
+  "set" : 244
+}

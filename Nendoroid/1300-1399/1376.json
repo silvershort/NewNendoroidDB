@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9680,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200624/9680/71214/large/6f62c14217bfecfc493da7c4e0bc900c.jpg",
+  "name" : {
+    "en" : "Nendoroid Vivian",
+    "ja" : "ねんどろいど ヴィヴィアン (ねんどろいど ゔぃゔぃあん)",
+    "ko" : "비비안"
+  },
+  "num" : "1376",
+  "price" : 5000,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Journal of the Mysterious Creatures",
+    "ja" : "異常生物見聞録",
+    "ko" : "이상생물견문록"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4474,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140626/4474/60044/large/812c23ff2b44c3b2d5ea30556ee898d0.jpg",
+  "name" : {
+    "en" : "Nendoroid Armin Arlert",
+    "ja" : "ねんどろいど アルミン・アルレルト (ねんどろいど あるみん・あるれると)",
+    "ko" : "아르민 알레르토"
+  },
+  "num" : "435",
+  "price" : 5500,
+  "release_date" : [
+    "2014/10",
+    "2019/09",
+    "2022/08"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 88
+}

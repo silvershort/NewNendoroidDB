@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5397,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20151211/5397/36887/large/d08a770ca782e18a03402982fb82e6c2.jpg",
+  "name" : {
+    "en" : "Nendoroid Ayumi Otosaka",
+    "ja" : "ねんどろいど 乙坂歩未 (ねんどろいど おとさかあゆみ)",
+    "ko" : "오토사카 아유미"
+  },
+  "num" : "596",
+  "price" : 4584,
+  "release_date" : [
+    "2016/06"
+  ],
+  "series" : {
+    "en" : "Charlotte",
+    "ja" : "Charlotte",
+    "ko" : "Charlotte"
+  }
+}

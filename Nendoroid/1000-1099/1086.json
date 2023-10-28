@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8060,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190204/8060/58018/large/fb4b6588993892c6d8efe1c6716cedc6.jpg",
+  "name" : {
+    "en" : "Nendoroid Zeyan Li",
+    "ja" : "ねんどろいど ゼン (ねんどろいど ぜん)",
+    "ko" : "이택언"
+  },
+  "num" : "1086",
+  "price" : 5500,
+  "release_date" : [
+    "2019/08",
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 211
+}

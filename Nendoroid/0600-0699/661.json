@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5846,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160803/5846/40481/large/905bd60c8a6f7cfb3668145a5382cf36.jpg",
+  "name" : {
+    "en" : "Nendoroid Keigo Atobe",
+    "ja" : "ねんどろいど 跡部景吾 (ねんどろいど あとべけいご)",
+    "ko" : "아토베 케이고"
+  },
+  "num" : "661",
+  "price" : 4074,
+  "release_date" : [
+    "2016/11"
+  ],
+  "series" : {
+    "en" : "The Prince of Tennis II",
+    "ja" : "新テニスの王子様",
+    "ko" : "테니스의 왕자"
+  },
+  "set" : 136
+}

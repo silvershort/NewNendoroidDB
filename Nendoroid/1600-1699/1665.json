@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210621/11379/86182/large/c586530a9543cdb35a106c3813e35a6a.jpg",
+  "name" : {
+    "en" : "Nendoroid Yuki",
+    "ja" : "ねんどろいど 千 (ねんどろいど ゆき)",
+    "ko" : "유키"
+  },
+  "num" : "1665",
+  "price" : 5300,
+  "release_date" : [
+    "2022/01"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

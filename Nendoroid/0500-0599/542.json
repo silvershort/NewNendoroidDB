@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5145,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150722/5145/34764/large/3134f744cb31232529b9cf54be6a2911.jpg",
+  "name" : {
+    "en" : "Nendoroid Northern Princess (ねんどろいど ほくほうせいき)",
+    "ja" : "ねんどろいど 北方棲姫 (ねんどろいど ほくほうせいき)",
+    "ko" : "북방서희"
+  },
+  "num" : "542",
+  "price" : 5602,
+  "release_date" : [
+    "2015/12"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4216,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140204/4216/27852/large/da0bad8ef543e5e99c7967a9a9252d28.jpg",
+  "name" : {
+    "en" : "Nendoroid Seira Hoshikawa (ねんどろいど ほしかわせいら)",
+    "ja" : "ねんどろいど 星河せいら (ねんどろいど ほしかわせいら)",
+    "ko" : "호시카와 세이라"
+  },
+  "num" : "398",
+  "price" : 4278,
+  "release_date" : [
+    "2014/06"
+  ],
+  "series" : {
+    "en" : "Day Break Illusion",
+    "ja" : "幻影ヲ駆ケル太陽",
+    "ko" : "환영을 달리는 태양"
+  },
+  "set" : 92
+}

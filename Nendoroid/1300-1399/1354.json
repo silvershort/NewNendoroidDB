@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9535,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200521/9535/69929/large/9fc34439eeb21067d3f1de036df2b15e.jpg",
+  "name" : {
+    "en" : "Nendoroid Neji Hyuga",
+    "ja" : "ねんどろいど 日向ネジ (ねんどろいど ひゅうがねじ)",
+    "ko" : "휴유가 네지"
+  },
+  "num" : "1354",
+  "price" : 5200,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 146
+}

@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8453,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190620/8453/61245/large/ae4a913b7353b063a954770c18f79f6a.jpg",
+  "name" : {
+    "en" : "Nendoroid Galo Thymos",
+    "ja" : "ねんどろいど ガロ・ティモス (ねんどろいど がろ・てぃもす)",
+    "ko" : "갈로 티모스"
+  },
+  "num" : "1152",
+  "price" : 5500,
+  "release_date" : [
+    "2020/01",
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "PROMARE",
+    "ja" : "プロメア",
+    "ko" : "프로메어"
+  },
+  "set" : 219
+}

@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3363,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3363/16291/large/9f267c93cbdb9474227c2ad78cbd70ff.jpg",
+  "name" : {
+    "ja" : "ねんどろいど ジョイまっくす (ねんどろいど じょいまっくす)",
+    "ko" : "죠이맥스 최광홍보"
+  },
+  "num" : "035",
+  "price" : 3143,
+  "release_date" : [
+    "2008/02"
+  ],
+  "series" : {
+    "ja" : "Nitro＋",
+    "ko" : "니트로 플러스"
+  },
+  "set" : 3
+}

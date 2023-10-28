@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6516,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170622/6516/46392/large/aeeda009afc7f4ce38ea7ac05e3400c8.jpg",
+  "name" : {
+    "en" : "Nendoroid Ash & Pikachu",
+    "ja" : "ねんどろいど サトシ＆ピカチュウ (ねんどろいど さとしあんどぴかちゅう)",
+    "ko" : "한지우 & 피카츄"
+  },
+  "num" : "800",
+  "price" : 5093,
+  "release_date" : [
+    "2017/12"
+  ],
+  "series" : {
+    "en" : "Pokémon",
+    "ja" : "ポケットモンスター",
+    "ko" : "포켓몬스터"
+  },
+  "set" : 104
+}

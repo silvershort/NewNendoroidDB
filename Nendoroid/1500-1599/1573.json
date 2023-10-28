@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10854,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210224/10854/81533/large/691da08573223772f265203883d7a633.jpg",
+  "name" : {
+    "en" : "Nendoroid Tang XueJian",
+    "ja" : "ねんどろいど 唐雪見 (ねんどろいど とう・せつけん)",
+    "ko" : "당설견"
+  },
+  "num" : "1573",
+  "price" : 6500,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "Legend of Sword and Fairy 3",
+    "ja" : "仙剣奇侠伝三",
+    "ko" : "선검기협전"
+  },
+  "set" : 216
+}

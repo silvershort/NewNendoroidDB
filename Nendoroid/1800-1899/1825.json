@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12368,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220218/12368/95627/large/2ee3e8c84455d5ff0009a44f0d8cd653.jpg",
+  "name" : {
+    "en" : "Nendoroid Harry \"Galahad\" Hart",
+    "ja" : "ねんどろいど ハリー・“ガラハッド”・ハート (ねんどろいど はりー・“がらはっど”・はーと)",
+    "ko" : "해리 갤러해드 하트"
+  },
+  "num" : "1825",
+  "price" : 6800,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Kingsman: The Golden Circle",
+    "ja" : "キングスマン：ゴールデン・サークル",
+    "ko" : "킹스맨:골든 서클"
+  },
+  "set" : 293
+}

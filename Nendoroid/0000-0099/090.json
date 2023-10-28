@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2670,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2670/7934/large/33116929986c3054518dd3f050396771.jpg",
+  "name" : {
+    "en" : "Nendoroid Alphard (ねんどろいど あるふぁるど)",
+    "ja" : "ねんどろいど アルファルド (ねんどろいど あるふぁるど)",
+    "ko" : "알파르도"
+  },
+  "num" : "090",
+  "price" : 3667,
+  "release_date" : [
+    "2010/01"
+  ],
+  "series" : {
+    "en" : "CANAAN",
+    "ja" : "CANAAN",
+    "ko" : "카난"
+  },
+  "set" : 28
+}

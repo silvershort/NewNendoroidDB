@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8251,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190417/8251/59544/large/77384bbfd0f5c9461b844beb8f593a8b.jpg",
+  "name" : {
+    "en" : "Nendoroid Hange Zoë",
+    "ja" : "ねんどろいど ハンジ・ゾエ (ねんどろいど はんじ・ぞえ)",
+    "ko" : "한지 조에"
+  },
+  "num" : "1123",
+  "price" : 6500,
+  "release_date" : [
+    "2019/09",
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "Attack on Titan",
+    "ja" : "進撃の巨人",
+    "ko" : "진격의 거인"
+  },
+  "set" : 88
+}

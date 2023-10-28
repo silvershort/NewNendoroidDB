@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3827,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130128/3827/22523/large/f494d68c392aaca46ebd0f211f0f2822.jpg",
+  "name" : {
+    "en" : "Nendoroid Alice Kuonji (ねんどろいど くおんじありす)",
+    "ja" : "ねんどろいど 久遠寺有珠 (ねんどろいど くおんじありす)",
+    "ko" : "쿠온지 아리스"
+  },
+  "num" : "309",
+  "price" : 3981,
+  "release_date" : [
+    "2013/06"
+  ],
+  "series" : {
+    "en" : "Mahou Tsukai no Yoru",
+    "ja" : "魔法使いの夜",
+    "ko" : "마법사의 밤"
+  },
+  "set" : 69
+}

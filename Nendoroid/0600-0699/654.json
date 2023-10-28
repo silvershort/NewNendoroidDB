@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5782,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160704/5782/39912/large/33178f6de500dc39a791ddb1d0cb51b4.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Lion Dance Ver.",
+    "ja" : "ねんどろいど 初音ミク 獅子舞Ver. (ねんどろいど はつねみく ししまいVer.)",
+    "ko" : "하츠네 미쿠 사자춤 Ver."
+  },
+  "num" : "654",
+  "price" : 4584,
+  "release_date" : [
+    "2016/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

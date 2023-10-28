@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3984,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130710/3984/25036/large/0b0abd0f6328a6607912b525841cf6e8.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Swimsuit Ver. & FamilyMart 2013 Ver. (ねんどろいど はつねみく みずぎVer. ＆ふぁみりーまーと 2013 Ver.)",
+    "ja" : "ねんどろいど 初音ミク 水着Ver. ＆ FamilyMart 2013 Ver. (ねんどろいど はつねみく みずぎVer. ＆ふぁみりーまーと 2013 Ver.)",
+    "ko" : "하츠네 미쿠 수영복 Ver. & 패밀리마트 2013 Ver."
+  },
+  "num" : "339a",
+  "price" : 0,
+  "release_date" : [
+    "2013/09"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01　初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

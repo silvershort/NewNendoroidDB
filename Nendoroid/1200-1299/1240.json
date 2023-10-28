@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9015,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191126/9015/65572/large/da11101a4f937457152ed444dc1fb23b.jpg",
+  "name" : {
+    "en" : "Nendoroid Rou Fu You",
+    "ja" : "ねんどろいど 浪巫謠 (ねんどろいど ろうふよう)",
+    "ko" : "낭무요"
+  },
+  "num" : "1240",
+  "price" : 6200,
+  "release_date" : [
+    "2020/06"
+  ],
+  "series" : {
+    "en" : "Thunderbolt Fantasy -Bewitching Melody of the West-",
+    "ja" : "Thunderbolt Fantasy 西幽玹歌",
+    "ko" : "Thunderbolt Fantasy 동리검유기"
+  }
+}

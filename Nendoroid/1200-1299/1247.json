@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9048,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191203/9048/65718/large/5bf073cb41a5d589c17e3115fe295b8c.jpg",
+  "name" : {
+    "en" : "Nendoroid Thanos: Endgame Ver.",
+    "ja" : "ねんどろいど サノス エンドゲームVer. (ねんどろいど さのす えんどげーむVer.)",
+    "ko" : "타노스 엔드게임 Ver."
+  },
+  "num" : "1247",
+  "price" : 8000,
+  "release_date" : [
+    "2020/06"
+  ],
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

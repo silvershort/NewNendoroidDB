@@ -1,0 +1,23 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4357,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140407/4357/57181/large/a4733262cd9ae643c7b4ddc8624cb897.jpg",
+  "name" : {
+    "en" : "Nendoroid Gilgamesh (ねんどろいど ぎるがめっしゅ)",
+    "ja" : "ねんどろいど ギルガメッシュ (ねんどろいど ぎるがめっしゅ)",
+    "ko" : "길가메쉬"
+  },
+  "num" : "410",
+  "price" : 4888,
+  "release_date" : [
+    "2014/08",
+    "2017/01",
+    "2019/06"
+  ],
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

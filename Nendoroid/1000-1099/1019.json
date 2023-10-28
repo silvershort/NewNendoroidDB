@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7726,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181019/7726/55329/large/8e1c6a81f0314ab67ea4cb67dc604c0d.jpg",
+  "name" : {
+    "en" : "Nendoroid Tenn Kujo",
+    "ja" : "ねんどろいど 九条天 (ねんどろいど くじょうてん)",
+    "ko" : "쿠죠 텐"
+  },
+  "num" : "1019",
+  "price" : 4481,
+  "release_date" : [
+    "2019/05"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12108,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211209/12108/93095/large/0798fff9ed11c65c74a5d33d287a82ee.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Maneki Miku Ver.",
+    "ja" : "ねんどろいど 初音ミク 招きミクVer. (ねんどろいど はつねみく まねきみくVer.)",
+    "ko" : "하츠네 미쿠 마네키 Ver."
+  },
+  "num" : "1777",
+  "price" : 6800,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

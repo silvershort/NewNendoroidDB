@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10689,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10689/79945/large/ab5a0d850065b34c25d0ed5be299f426.jpg",
+  "name" : {
+    "en" : "Nendoroid Ao Bing",
+    "ja" : "ねんどろいど 敖丙 (ねんどろいど あおびん)",
+    "ko" : "오병"
+  },
+  "num" : "1460",
+  "price" : 5500,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Ne Zha",
+    "ja" : "哪吒之魔童降世",
+    "ko" : "나타지마동강세"
+  },
+  "set" : 247
+}

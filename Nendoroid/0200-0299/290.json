@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 3749,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20121114/3749/21406/large/ff554a9e8818b7d1d581bba544e51ce7.jpg",
+  "name" : {
+    "en" : "Nendoroid Aichi Sendou (ねんどろん)",
+    "ja" : "ねんどろいど 先導アイチ (ねんどろいど せんどうあいち)",
+    "ko" : "센도 아이치"
+  },
+  "num" : "290",
+  "price" : 3667,
+  "release_date" : [
+    "2013/05"
+  ],
+  "series" : {
+    "en" : "Cardfight!! Vanguard",
+    "ja" : "カードファイト!!ヴァンガード",
+    "ko" : "카드파이트!! 뱅가드"
+  },
+  "set" : 72
+}

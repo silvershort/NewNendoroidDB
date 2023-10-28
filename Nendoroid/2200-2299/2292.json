@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14915,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230904/14915/122004/large/98557332c9d51a759c8381cf15d26ffe.jpg",
+  "name" : {
+    "en" : "Mio Naganohara: Keiichi Arawi Ver.",
+    "ja" : "長野原みお あらゐけいいちVer.",
+    "ko" : "나가노하라 미오 아라이 케이이치Ver."
+  },
+  "num" : "2292",
+  "price" : 6100,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Nichijou",
+    "ja" : "日常",
+    "ko" : "일상"
+  }
+}

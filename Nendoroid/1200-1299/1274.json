@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9159,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200109/9159/66709/large/cb96b2a92667b758b4817597a705dca1.jpg",
+  "name" : {
+    "en" : "Nendoroid Gentaro Yumeno",
+    "ja" : "ねんどろいど 夢野幻太郎 (ねんどろいど ゆめのげんたろう)",
+    "ko" : "유메노 겐타로"
+  },
+  "num" : "1274",
+  "price" : 6050,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 227
+}

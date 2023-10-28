@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8521,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190705/8521/61667/large/79e347961990edcb2a69c9e896ca4149.jpg",
+  "name" : {
+    "en" : "Nendoroid Mo Xu",
+    "ja" : "ねんどろいど シモン (ねんどろいど しもん)",
+    "ko" : "허묵"
+  },
+  "num" : "1166",
+  "price" : 5500,
+  "release_date" : [
+    "2020/03",
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 211
+}

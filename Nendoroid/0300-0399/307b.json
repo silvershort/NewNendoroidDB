@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3943,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130606/3943/24384/large/5e18f0532eae24dff2d4e9f581e9dce1.jpg",
+  "name" : {
+    "en" : "Nendoroid Melona: 2P Color Ver. (ねんどろいど　めろーな　2PからーVer.)",
+    "ja" : "ねんどろいど メローナ 2PカラーVer. (ねんどろいど　めろーな　2PからーVer.)",
+    "ko" : "메로나 2P 컬러 Ver."
+  },
+  "num" : "307b",
+  "price" : 3667,
+  "release_date" : [
+    "2013/06"
+  ],
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

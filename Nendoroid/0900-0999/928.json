@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7448,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180718/7448/53271/large/168e40007e1fe40a415de91ad2c456b7.jpg",
+  "name" : {
+    "en" : "Nendoroid Kagura",
+    "ja" : "ねんどろいど 神楽 (ねんどろいど かぐら)",
+    "ko" : "카구라"
+  },
+  "num" : "928",
+  "price" : 5907,
+  "release_date" : [
+    "2018/11"
+  ],
+  "series" : {
+    "en" : "Onmyoji",
+    "ja" : "陰陽師",
+    "ko" : "음양사"
+  },
+  "set" : 182
+}

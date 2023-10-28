@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6364,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170404/6364/44724/large/69d5055da812db217c0ee5b97251af10.jpg",
+  "name" : {
+    "en" : "Nendoroid Belle",
+    "ja" : "ねんどろいど ベル (ねんどろいど べる)",
+    "ko" : "벨"
+  },
+  "num" : "755",
+  "price" : 5500,
+  "release_date" : [
+    "2017/10",
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Beauty and the Beast",
+    "ja" : "美女と野獣",
+    "ko" : "미녀와 야수"
+  },
+  "set" : 32
+}

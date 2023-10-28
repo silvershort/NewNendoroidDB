@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3418,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111212/3418/16561/large/37bffaaea10cabfbd9343df3fa1f4675.jpg",
+  "name" : {
+    "ja" : "ねんどろいど アレイン2PカラーVer. (ねんどろいど あれいん2PからーVer.)",
+    "ko" : "아레인 2P 컬러 Ver."
+  },
+  "num" : "176b",
+  "price" : 3667,
+  "release_date" : [
+    "2011/09"
+  ],
+  "series" : {
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

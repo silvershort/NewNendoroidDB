@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8782,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190910/8782/63545/large/83affe732200cbf4ca3a43b443a1a2ae.jpg",
+  "name" : {
+    "en" : "Nendoroid Toushiro Hitsugaya",
+    "ja" : "ねんどろいど 日番谷冬獅郎 (ねんどろいど ひつがやとうしろう)",
+    "ko" : "히츠가야 토시로"
+  },
+  "num" : "1199",
+  "price" : 5200,
+  "release_date" : [
+    "2020/04"
+  ],
+  "series" : {
+    "en" : "BLEACH",
+    "ja" : "BLEACH",
+    "ko" : "블리치"
+  },
+  "set" : 194
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11261,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210524/11261/85111/large/e0dd862069cd667b9078d74ef6204786.jpg",
+  "name" : {
+    "en" : "Nendoroid Sarawat",
+    "ja" : "ねんどろいど サラワット (ねんどろいど さらわっと)",
+    "ko" : "사라왓 간띠타논"
+  },
+  "num" : "1649",
+  "price" : 4800,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "2gether",
+    "ja" : "2gether",
+    "ko" : "2gether"
+  },
+  "set" : 269
+}

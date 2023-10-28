@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10030,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200909/10030/74083/large/05ce49dbe1441f3021e88f766d53a83f.jpg",
+  "name" : {
+    "en" : "Nendoroid Tobio Kageyama: The New Karasuno Ver.",
+    "ja" : "ねんどろいど 影山飛雄 新生烏野Ver. (ねんどろいど かげやまとびお しんせいからすのVer.)",
+    "ko" : "카게야마 토비오 카라스노 Ver."
+  },
+  "num" : "1455",
+  "price" : 4100,
+  "release_date" : [
+    "2021/02"
+  ],
+  "series" : {
+    "en" : "HAIKYU!! TO THE TOP",
+    "ja" : "ハイキュー!! TO THE TOP",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

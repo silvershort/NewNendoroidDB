@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5978,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160927/5978/41549/large/9e832b29b4b7e7222b819a20e29df7c4.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyo Kusanagi: CLASSIC Ver.",
+    "ja" : "ねんどろいど 草薙京 CLASSIC Ver. (ねんどろいど くさなぎきょう くらしっく Ver.)",
+    "ko" : "쿠사나기 쿄 Classic Ver."
+  },
+  "num" : "683",
+  "price" : 4584,
+  "release_date" : [
+    "2017/03"
+  ],
+  "series" : {
+    "en" : "THE KING OF FIGHTERS XIV",
+    "ja" : "THE KING OF FIGHTERS XIV",
+    "ko" : "더 킹 오브 파이터즈"
+  },
+  "set" : 147
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5086,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150619/5086/34201/large/edb92d648ddd44617d882f4a54c0aa75.jpg",
+  "name" : {
+    "en" : "Nendoroid Sega Saturn (ねんどろいど せがさたーん)",
+    "ja" : "ねんどろいど セガサターン (ねんどろいど せがさたーん)",
+    "ko" : "세가 새턴"
+  },
+  "num" : "532",
+  "price" : 4888,
+  "release_date" : [
+    "2016/01"
+  ],
+  "series" : {
+    "en" : "Hi☆sCoool! Seha Girls",
+    "ja" : "Hi☆sCoool! セハガール",
+    "ko" : "Hi☆sCoool! 세하걸"
+  }
+}

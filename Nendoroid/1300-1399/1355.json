@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9529,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200520/9529/69842/large/95b2fd74b510828c1e08290437321ff2.jpg",
+  "name" : {
+    "en" : "Nendoroid Souji Okita",
+    "ja" : "ねんどろいど 沖田総司 (ねんどろいど おきたそうじ)",
+    "ko" : "오키타 소우지"
+  },
+  "num" : "1355",
+  "price" : 5300,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "Hakuoki: Shinkai",
+    "ja" : "薄桜鬼 真改",
+    "ko" : "박앵귀"
+  }
+}

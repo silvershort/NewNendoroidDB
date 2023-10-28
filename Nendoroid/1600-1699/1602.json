@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11001,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210326/11001/82889/large/ff48533d6f6bcf1211eed091a11c4bd7.jpg",
+  "name" : {
+    "en" : "Nendoroid Jonathan Joestar",
+    "ja" : "ねんどろいど ジョナサン・ジョースター (ねんどろいど じょなさん・じょーすたー)",
+    "ko" : "죠나단 죠스타"
+  },
+  "num" : "1602",
+  "price" : 5478,
+  "release_date" : [
+    "2021/11"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

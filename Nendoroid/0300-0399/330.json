@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3900,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130509/3900/23716/large/12ba68cd7634b46c63dab7cbe71b9dee.jpg",
+  "name" : {
+    "en" : "Nendoroid Sheryl Nome (ねんどろいど しぇりる・のーむ)",
+    "ja" : "ねんどろいど シェリル・ノーム (ねんどろいど しぇりる・のーむ)",
+    "ko" : "셰릴 놈"
+  },
+  "num" : "330",
+  "price" : 3667,
+  "release_date" : [
+    "2013/09"
+  ],
+  "series" : {
+    "en" : "Macross F (Frontier)",
+    "ja" : "マクロスF（フロンティア）",
+    "ko" : "마크로스 프론티어"
+  },
+  "set" : 83
+}

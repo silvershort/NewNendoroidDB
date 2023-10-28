@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6700,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170901/6700/47385/large/081222808d6a835600a9b69f4d2ade57.jpg",
+  "name" : {
+    "en" : "Nendoroid Cobra",
+    "ja" : "ねんどろいど コブラ (ねんどろいど こぶら)",
+    "ko" : "코브라"
+  },
+  "num" : "816",
+  "price" : 3769,
+  "release_date" : [
+    "2018/02"
+  ],
+  "series" : {
+    "en" : "HIGH&LOW g-sword",
+    "ja" : "HiGH＆LOW g-sword",
+    "ko" : "HIGH & LOW g-sword"
+  },
+  "set" : 165
+}

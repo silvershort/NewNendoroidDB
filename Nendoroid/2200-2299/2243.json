@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15036,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230927/15036/121739/large/ae3a9d3f8844877cd3688c79d3ef1168.jpg",
+  "name" : {
+    "en" : "Ryo Yamada",
+    "ja" : "山田リョウ",
+    "ko" : "야마다 료"
+  },
+  "num" : "2243",
+  "price" : 5800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "ぼっち・ざ・ろっく！",
+    "ko" : "봇치 더 록!"
+  }
+}

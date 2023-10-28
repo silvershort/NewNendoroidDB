@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10988,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210325/10988/82789/large/9fec95bdc8ded3ff75a28415b341c42e.jpg",
+  "name" : {
+    "en" : "Nendoroid Mo Xu: Fox Spirit Ver.",
+    "ja" : "ねんどろいど シモン 妖狐Ver. (ねんどろいど しもん ようこVer.)",
+    "ko" : "허묵 요우코 Ver."
+  },
+  "num" : "1599",
+  "price" : 5900,
+  "release_date" : [
+    "2021/11"
+  ],
+  "series" : {
+    "en" : "Love&Producer",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 211
+}

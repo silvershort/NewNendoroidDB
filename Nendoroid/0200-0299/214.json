@@ -1,0 +1,24 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 3397,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111130/3397/63196/large/f38b6904261dde5a937195fb127c57c5.jpg",
+  "name" : {
+    "en" : "Nendoroid Sonic the Hedgehog",
+    "ja" : "ねんどろいど ソニック・ザ・ヘッジホッグ (ねんどろいど そにっく・ざ・へっじほっぐ)",
+    "ko" : "소닉 더 헤지혹"
+  },
+  "num" : "214",
+  "price" : 3900,
+  "release_date" : [
+    "2012/04",
+    "2013/10",
+    "2020/06",
+    "2023/09"
+  ],
+  "series" : {
+    "en" : "Sonic the Hedgehog",
+    "ja" : "ソニック・ザ・ヘッジホッグ",
+    "ko" : "소닉 더 헤지혹 시리즈"
+  },
+  "set" : 53
+}

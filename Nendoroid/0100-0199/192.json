@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3265,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110824/3265/15168/large/b5a89b54a6f7cb0955e6044e65504d9d.jpg",
+  "name" : {
+    "en" : "Nendoroid Yune (ねんどろいど ゆね)",
+    "ja" : "ねんどろいど 湯音 (ねんどろいど ゆね)",
+    "ko" : "유네"
+  },
+  "num" : "192",
+  "price" : 3667,
+  "release_date" : [
+    "2012/03"
+  ],
+  "series" : {
+    "en" : "Ikoku Meiro no Croisée",
+    "ja" : "異国迷路のクロワーゼ",
+    "ko" : "이국미로의 크로와제"
+  }
+}

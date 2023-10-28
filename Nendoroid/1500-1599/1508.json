@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10406,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201113/10406/77412/large/f9fb2ad0cd56361a2ce0b686649e53d1.jpg",
+  "name" : {
+    "en" : "Nendoroid Wuxian",
+    "ja" : "ねんどろいど ムゲン (ねんどろいど むげん)",
+    "ko" : "무겐"
+  },
+  "num" : "1508",
+  "price" : 5000,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "The Legend of Hei",
+    "ja" : "羅小黒戦記",
+    "ko" : "나소흑전기"
+  }
+}

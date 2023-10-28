@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11348,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210614/11348/86492/large/cab33ce491cef40e4a94f7ea86851d52.jpg",
+  "name" : {
+    "en" : "Nendoroid Kakashi Hatake: Anbu Black Ops Ver.",
+    "ja" : "ねんどろいど はたけカカシ暗部Ver. (ねんどろいど はたけかかしあんぶVer.)",
+    "ko" : "카카시 암부 Ver."
+  },
+  "num" : "1636",
+  "price" : 5700,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 146
+}

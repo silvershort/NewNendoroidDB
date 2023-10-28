@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 13345,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220930/13345/105276/large/102d643877a449c54c350da2aa644ca3.jpg",
+  "name" : {
+    "en" : "Nendoroid Leonardo",
+    "ja" : "ねんどろいど レオナルド (ねんどろいど れおなるど)",
+    "ko" : "레오나르도"
+  },
+  "num" : "1987",
+  "price" : 0,
+  "release_date" : [
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "Teenage Mutant Ninja Turtles",
+    "ja" : "ティーンエイジ・ミュータント・ニンジャ・タートルズ",
+    "ko" : "닌자 거북이"
+  },
+  "set" : 312
+}

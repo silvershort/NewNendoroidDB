@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13514,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221109/13514/106930/large/dec61ef248da3ad1ec13b7ec664cf7f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Alucard",
+    "ja" : "ねんどろいど アルカード (ねんどろいど あるかーど)",
+    "ko" : "알루카드"
+  },
+  "num" : "1899",
+  "price" : 8800,
+  "release_date" : [
+    "2023/05"
+  ],
+  "series" : {
+    "en" : "Castlevania",
+    "ja" : "悪魔城ドラキュラ －キャッスルヴァニア－",
+    "ko" : "캐슬바니아"
+  }
+}

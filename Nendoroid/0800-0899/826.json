@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6720,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170913/6720/47618/large/545426339f9ef89fe73bfc7f29450472.jpg",
+  "name" : {
+    "en" : "Nendoroid Yunyun",
+    "ja" : "ねんどろいど ゆんゆん",
+    "ko" : "융융"
+  },
+  "num" : "826",
+  "price" : 5900,
+  "release_date" : [
+    "2018/05",
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 2",
+    "ja" : "この素晴らしい世界に祝福を！2",
+    "ko" : "이 멋진 세계에 축복을!"
+  },
+  "set" : 133
+}

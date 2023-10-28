@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9157,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200109/9157/66695/large/71593fb51775f39605bd979c6c0b8278.jpg",
+  "name" : {
+    "en" : "Nendoroid Thor: Endgame Ver. DX",
+    "ja" : "ねんどろいど ソー エンドゲームVer. DX (ねんどろいど そー えんどげーむVer. DX)",
+    "ko" : "토르 엔드게임 DX Ver."
+  },
+  "num" : "1277-DX",
+  "price" : 8000,
+  "release_date" : [
+    "2020/06",
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

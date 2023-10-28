@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4758,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141202/4758/31589/large/6d84125efb4751960c10a6eb9f306a82.jpg",
+  "name" : {
+    "en" : "Nendoroid Teru Miyanaga (ねんどろいど みやながてる)",
+    "ja" : "ねんどろいど 宮永照 (ねんどろいど みやながてる)",
+    "ko" : "미야나가 테루"
+  },
+  "num" : "471",
+  "price" : 0,
+  "release_date" : [
+    "2015/03"
+  ],
+  "series" : {
+    "en" : "Saki Achiga-hen",
+    "ja" : "咲-Saki- 阿知賀編",
+    "ko" : "사키"
+  },
+  "set" : 66
+}

@@ -1,0 +1,22 @@
+{
+  "gsc_productNum" : 5882,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160822/5882/40742/large/5dad24f83780bdd988c290d16a6ae622.jpg",
+  "name" : {
+    "en" : "Nendoroid Meta Knight",
+    "ja" : "ねんどろいど メタナイト (ねんどろいど めたないと)",
+    "ko" : "메타나이트"
+  },
+  "num" : "669",
+  "price" : 5800,
+  "release_date" : [
+    "2017/04",
+    "2019/07",
+    "2023/04"
+  ],
+  "series" : {
+    "en" : "Kirby",
+    "ja" : "星のカービィ",
+    "ko" : "별의 커비"
+  },
+  "set" : 122
+}

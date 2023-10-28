@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 491,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/491/5227/large/480a5bc51fbf9a7d0fdf0d3512330172.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber Lion (せいばーらいおん ねんどろいど)",
+    "ja" : "ねんどろいど セイバーライオン (せいばーらいおん ねんどろいど)",
+    "ko" : "세이버 라이온"
+  },
+  "num" : "050",
+  "price" : 3143,
+  "release_date" : [
+    "2008/12",
+    "2012/11"
+  ],
+  "series" : {
+    "en" : "Fate/Tiger Colosseum",
+    "ja" : "フェイト/タイガーころしあむアッパー",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

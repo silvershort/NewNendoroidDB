@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3380,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3380/16328/large/097c8da389ecf5d709aaea722542e321.jpg",
+  "name" : {
+    "ja" : "ねんどろいど トモエ 2PカラーVer. (ねんどろいど ともえ 2Pからーver.)",
+    "ko" : "토모에 2P컬러 Ver."
+  },
+  "num" : "127b",
+  "price" : 3667,
+  "release_date" : [
+    "2010/11"
+  ],
+  "series" : {
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11456,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210705/11456/86927/large/87a5609cef16dfc2f4b3c8bd3f8fac7b.jpg",
+  "name" : {
+    "en" : "Nendoroid Taskmaster: Black Widow Ver. DX",
+    "ja" : "ねんどろいど タスクマスター Black Widow Ver. DX (ねんどろいど たすくますたー ぶらっく うぃどう Ver. DX)",
+    "ko" : "태스크마스터 블랙위도우 DX Ver."
+  },
+  "num" : "1675-DX",
+  "price" : 9000,
+  "release_date" : [
+    "2022/04"
+  ],
+  "series" : {
+    "en" : "Black Widow",
+    "ja" : "ブラックウィドウ",
+    "ko" : "블랙위도우"
+  },
+  "set" : 64
+}

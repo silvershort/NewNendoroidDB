@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12345,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220216/12345/95800/large/4ad479bfbb1ccc1e84f83a52b6d9562f.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruggie Bucchi",
+    "ja" : "ねんどろいど ラギー・ブッチ (ねんどろいど らぎー・ぶっち)",
+    "ko" : "라기부치"
+  },
+  "num" : "1833",
+  "price" : 6600,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 253
+}

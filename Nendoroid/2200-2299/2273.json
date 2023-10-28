@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15099,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231018/15099/122334/large/1b9d0098a3182abc3245d2465295e97a.jpg",
+  "name" : {
+    "en" : "Kana Arima",
+    "ja" : "有馬かな",
+    "ko" : "아리마 카나"
+  },
+  "num" : "2273",
+  "price" : 5600,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "OSHI NO KO",
+    "ja" : "TVアニメ【推しの子】",
+    "ko" : "최애의 아이"
+  }
+}

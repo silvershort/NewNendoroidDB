@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 266,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/266/5333/large/e06bfead8b8eba85f061e7eb69fe7c0d.jpg",
+  "name" : {
+    "en" : "Nendoroid Yako Katsuragi (かつらぎ やこ ねんどろいど)",
+    "ja" : "ねんどろいど 桂木弥子 (かつらぎ やこ ねんどろいど)",
+    "ko" : "카츠라기 야코"
+  },
+  "num" : "046",
+  "price" : 3667,
+  "release_date" : [
+    "2008/11"
+  ],
+  "series" : {
+    "en" : "Demon Detective Neuro Nougami",
+    "ja" : "魔人探偵脳噛ネウロ",
+    "ko" : "마인탐정 네우로"
+  },
+  "set" : 12
+}

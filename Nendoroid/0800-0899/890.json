@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7038,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180206/7038/50047/large/3bd8f7d1362c98824fab4f018b88bfd7.jpg",
+  "name" : {
+    "en" : "Nendoroid Kino & Hermes",
+    "ja" : "ねんどろいど キノ＆エルメス (ねんどろいど きの＆えるめす)",
+    "ko" : "키노 & 에르메스"
+  },
+  "num" : "890",
+  "price" : 5602,
+  "release_date" : [
+    "2018/08"
+  ],
+  "series" : {
+    "en" : "Kino's Journey",
+    "ja" : "キノの旅",
+    "ko" : "키노의 여행"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12520,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220330/12520/97153/large/c2b58016705c9ff191e36a8706dcc642.jpg",
+  "name" : {
+    "en" : "Nendoroid Aloy",
+    "ja" : "ねんどろいど アーロイ (ねんどろいど あーろい)",
+    "ko" : "에일로이"
+  },
+  "num" : "1850",
+  "price" : 6500,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Horizon Forbidden West",
+    "ja" : "Horizon Forbidden West",
+    "ko" : "호라이즌 포비든 웨스트"
+  }
+}

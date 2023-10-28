@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7132,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180320/7132/50881/large/cf483e5a39e17d25371f54fe1f2227b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Asirpa",
+    "ja" : "ねんどろいど アシㇼパ (ねんどろいど あしりぱ)",
+    "ko" : "아시리파"
+  },
+  "num" : "902",
+  "price" : 5602,
+  "release_date" : [
+    "2018/09",
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "Golden Kamuy",
+    "ja" : "ゴールデンカムイ",
+    "ko" : "골든 카무이"
+  },
+  "set" : 174
+}

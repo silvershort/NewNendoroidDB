@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3864,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130321/3864/23115/large/7d461af6a15466454d1dea1854314196.jpg",
+  "name" : {
+    "en" : "Nendoroid Len & Darth wooser (ねんどろいど れん＆だすうさ)",
+    "ja" : "ねんどろいど れん＆ダスウサ (ねんどろいど れん＆だすうさ)",
+    "ko" : "렌&다스우서"
+  },
+  "num" : "319",
+  "price" : 5029,
+  "release_date" : [
+    "2013/08"
+  ],
+  "series" : {
+    "en" : "wooser's hand-to-mouth life",
+    "ja" : "うーさーのその日暮らし",
+    "ko" : "우서의 하루살이"
+  },
+  "set" : 77
+}

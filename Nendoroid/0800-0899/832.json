@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6800,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171017/6800/48186/large/832022cd4e85788f997097bd8f16243a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nana Ebina",
+    "ja" : "ねんどろいど 海老名菜々 (ねんどろいど えびななな)",
+    "ko" : "에비나 나나"
+  },
+  "num" : "832",
+  "price" : 4685,
+  "release_date" : [
+    "2018/04"
+  ],
+  "series" : {
+    "en" : "Himouto Umaru-chan R",
+    "ja" : "干物妹！うまるちゃんR",
+    "ko" : "건어물 여동생! 우마루짱"
+  },
+  "set" : 119
+}

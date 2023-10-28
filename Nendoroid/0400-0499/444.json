@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4511,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140718/4511/29817/large/b6b2d12bd4acffe50dff1206184f84f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nico Yazawa (ねんどろいど やざわにこ)",
+    "ja" : "ねんどろいど 矢澤にこ (ねんどろいど やざわにこ)",
+    "ko" : "야자와 니코"
+  },
+  "num" : "444",
+  "price" : 3565,
+  "release_date" : [
+    "2014/11",
+    "2015/09"
+  ],
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 106
+}

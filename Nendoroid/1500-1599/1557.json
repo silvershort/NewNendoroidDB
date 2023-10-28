@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11008,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210330/11008/82949/large/c3d5c46702fe21576e8b55574d9def9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Jack Sparrow",
+    "ja" : "ねんどろいど ジャック・スパロウ (ねんどろいど じゃっく・すぱろう)",
+    "ko" : "잭 스패로우"
+  },
+  "num" : "1557",
+  "price" : 6500,
+  "release_date" : [
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Pirates of the Caribbean: On Stranger Tides",
+    "ja" : "パイレーツ・オブ・カリビアン/生命の泉",
+    "ko" : "캐리비안의 해적"
+  },
+  "set" : 32
+}

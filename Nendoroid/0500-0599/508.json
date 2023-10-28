@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4912,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150324/4912/32837/large/6dd4912040997fd46fd3b3f0c31960e5.jpg",
+  "name" : {
+    "en" : "Nendoroid Laura Bodewig (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ja" : "ねんどろいど ラウラ・ボーデヴィッヒ (ねんどろいど らうら・ぼーでゔぃっひ)",
+    "ko" : "라우라 보데비히"
+  },
+  "num" : "508",
+  "price" : 4278,
+  "release_date" : [
+    "2015/08"
+  ],
+  "series" : {
+    "en" : "IS <Infinite Stratos>",
+    "ja" : "IS <インフィニット・ストラトス>",
+    "ko" : "인피니트 스트라토스"
+  },
+  "set" : 78
+}

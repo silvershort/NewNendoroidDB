@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4871,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150226/4871/32490/large/bed8276f3d92301c3a1616b07b9e713d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotori Itsuka (ねんどろいど いつかことり)",
+    "ja" : "ねんどろいど 五河琴里 (ねんどろいど いつかことり)",
+    "ko" : "이츠카 코토리"
+  },
+  "num" : "505",
+  "price" : 4888,
+  "release_date" : [
+    "2015/07"
+  ],
+  "series" : {
+    "en" : "Date A Live II",
+    "ja" : "デート・ア・ライブⅡ",
+    "ko" : "데이트 어 라이브"
+  },
+  "set" : 87
+}

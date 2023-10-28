@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4022,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130807/4022/25634/large/45b5ed4cfd01cb030d73e72791e07076.jpg",
+  "name" : {
+    "en" : "Nendoroid Hibiki Kuze (ねんどろいど くぜひびき)",
+    "ja" : "ねんどろいど 久世響希 (ねんどろいど くぜひびき)",
+    "ko" : "쿠제 히비키"
+  },
+  "num" : "351",
+  "price" : 3981,
+  "release_date" : [
+    "2014/02"
+  ],
+  "series" : {
+    "en" : "DEVIL SURVIVOR 2 THE ANIMATION",
+    "ja" : "DEVIL SURVIVOR2 THE ANIMATION",
+    "ko" : "DEVIL SURVIVOR 2 THE ANIMATION"
+  }
+}

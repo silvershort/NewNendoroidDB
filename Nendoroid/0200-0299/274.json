@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3655,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120828/3655/20133/large/c3c0424dad679fcc1fdbc2eff3939204.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Miku (ねんどろいど さくらみく)",
+    "ja" : "ねんどろいど 桜ミク (ねんどろいど さくらみく)",
+    "ko" : "사쿠라 미쿠"
+  },
+  "num" : "274",
+  "price" : 4086,
+  "release_date" : [
+    "2013/03"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 68
+}

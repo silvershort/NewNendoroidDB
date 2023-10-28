@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 629,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/629/964/large/9f54947f3d0b37e6eb447044d78d5504.jpg",
+  "name" : {
+    "en" : "Nendoroid Lazy Sakura (へたれさくら)",
+    "ja" : "ねんどろいど へたれ桜 (へたれさくら)",
+    "ko" : "헤사테 사쿠라"
+  },
+  "num" : "019",
+  "price" : 3143,
+  "release_date" : [
+    "2007/10"
+  ],
+  "series" : {
+    "en" : "Fate/hollow ataraxia",
+    "ja" : "Fate/hollow ataraxia",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

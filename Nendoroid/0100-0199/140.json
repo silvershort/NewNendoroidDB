@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3008,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101027/3008/11857/large/62ce6381e742ef1462bf06327669a1a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Nemu Asakura (ねんどろいど あさくらねむ)",
+    "ja" : "ねんどろいど 朝倉音夢 (ねんどろいど あさくらねむ)",
+    "ko" : "아사쿠라 네무"
+  },
+  "num" : "140",
+  "price" : 3667,
+  "release_date" : [
+    "2011/03"
+  ],
+  "series" : {
+    "en" : "D.C ~Da Capo~",
+    "ja" : "D.C.～ダ・カーポ～",
+    "ko" : "다카포"
+  },
+  "set" : 21
+}

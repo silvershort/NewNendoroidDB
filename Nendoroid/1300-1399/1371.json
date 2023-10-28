@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9923,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200814/9923/73129/large/840f9d3b9f0f178c36b8c930e8896c3f.jpg",
+  "name" : {
+    "en" : "Nendoroid Bronya: Valkyrie Chariot Ver.",
+    "ja" : "ねんどろいど ブローニャ 戦乙女・戦車Ver. (ねんどろいど ぶろーにゃ いくさおとめ・せんしゃVer.)",
+    "ko" : "브로냐 자이칙 채리엇 Ver."
+  },
+  "num" : "1371",
+  "price" : 5200,
+  "release_date" : [
+    "2021/05"
+  ],
+  "series" : {
+    "en" : "Honkai Impact 3rd",
+    "ja" : "崩壊3rd",
+    "ko" : "붕괴 3rd"
+  },
+  "set" : 178
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3493,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120309/3493/17664/large/27e7dbd7dd69e0cd2bef0f575b2e24e7.jpg",
+  "name" : {
+    "en" : "Nendoroid Ika Musume (ねんどろいど いかむすめ)",
+    "ja" : "ねんどろいど イカ娘 (ねんどろいど いかむすめ)",
+    "ko" : "오징어 소녀"
+  },
+  "num" : "237",
+  "price" : 3981,
+  "release_date" : [
+    "2012/07"
+  ],
+  "series" : {
+    "en" : "Shinryaku! Ika Musume (Squid Girl)",
+    "ja" : "侵略!?イカ娘",
+    "ko" : "침략! 오징어 소녀"
+  }
+}

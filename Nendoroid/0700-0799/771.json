@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6437,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170511/6437/45369/large/eab1c7bdfd8607fbd338cbe595c5c694.jpg",
+  "name" : {
+    "en" : "Nendoroid Kanan Matsuura",
+    "ja" : "ねんどろいど 松浦果南 (ねんどろいど まつうらかなん)",
+    "ko" : "마츠우라 카난"
+  },
+  "num" : "771",
+  "price" : 3565,
+  "release_date" : [
+    "2017/10"
+  ],
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 106
+}

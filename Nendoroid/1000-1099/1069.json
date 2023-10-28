@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7982,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190116/7982/57372/large/dd46c8041ac6c61bf96ae127acbf0a1f.jpg",
+  "name" : {
+    "en" : "Nendoroid Yami Yugi",
+    "ja" : "ねんどろいど 闇遊戯 (ねんどろいど やみゆうぎ)",
+    "ko" : "어둠의 유우기"
+  },
+  "num" : "1069",
+  "price" : 4888,
+  "release_date" : [
+    "2019/08"
+  ],
+  "series" : {
+    "en" : "Yu-Gi-Oh!",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  },
+  "set" : 206
+}

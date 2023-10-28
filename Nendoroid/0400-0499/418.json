@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4389,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140421/4389/28690/large/8a44962cd0a9eab9846af4f48dd165f5.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoba & Ren (ねんどろいど あおば＆れん)",
+    "ja" : "ねんどろいど 蒼葉＆蓮 (ねんどろいど あおば＆れん)",
+    "ko" : "아오바 & 렌"
+  },
+  "num" : "418",
+  "price" : 4278,
+  "release_date" : [
+    "2014/09",
+    "2016/02"
+  ],
+  "series" : {
+    "en" : "DRAMAtical Murder",
+    "ja" : "DRAMAtical Murder",
+    "ko" : "드라마티컬 머더"
+  },
+  "set" : 101
+}

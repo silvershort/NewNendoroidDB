@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9671,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200623/9671/71488/large/06ba7b401aed852e48510adeea3b3528.jpg",
+  "name" : {
+    "en" : "Nendoroid Prosciutto",
+    "ja" : "ねんどろいど プロシュート (ねんどろいど ぷろしゅーと)",
+    "ko" : "프로슈토"
+  },
+  "num" : "1401",
+  "price" : 5478,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

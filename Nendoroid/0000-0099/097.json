@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2777,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100115/2777/8848/large/5ecb2a7470c65edbdd048b8ad3c5c9d3.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku (ねんどろいど ゆきみく)",
+    "ja" : "ねんどろいど 雪ミク (ねんどろいど ゆきみく )",
+    "ko" : "유키 미쿠"
+  },
+  "num" : "097",
+  "price" : 3143,
+  "release_date" : [
+    "2010/02"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Miku Hatsune",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
+}

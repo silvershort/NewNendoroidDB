@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10677,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210114/10677/79947/large/327ffa7e07ce66946f8f60a528d7d724.jpg",
+  "name" : {
+    "en" : "Nendoroid Neo: Vagabond",
+    "ja" : "ねんどろいど 真：バガボンド (ねんどろいど しん：ばがぼんど)",
+    "ko" : "진:베가본드"
+  },
+  "num" : "1216",
+  "price" : 6200,
+  "release_date" : [
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Dungeon Fighter Online",
+    "ja" : "アラド戦記",
+    "ko" : "던전 앤 파이터"
+  },
+  "set" : 169
+}

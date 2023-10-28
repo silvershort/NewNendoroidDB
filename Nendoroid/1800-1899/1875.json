@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12658,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220427/12658/98406/large/3c8da6858b4807f1db62f9c353f0a3a9.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryang-Ha Song",
+    "ja" : "ねんどろいど ソン・リャンハ (ねんどろいど そん・りゃんは)",
+    "ko" : "송량하"
+  },
+  "num" : "1875",
+  "price" : 6200,
+  "release_date" : [
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "Love of Kill",
+    "ja" : "殺し愛",
+    "ko" : "살애"
+  }
+}

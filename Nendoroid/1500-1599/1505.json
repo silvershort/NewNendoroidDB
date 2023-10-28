@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10405,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201113/10405/77435/large/8b9c3c72901353b4379f6941aa94e219.jpg",
+  "name" : {
+    "en" : "Nendoroid Norman",
+    "ja" : "ねんどろいど ノーマン (ねんどろいど のーまん)",
+    "ko" : "노먼"
+  },
+  "num" : "1505",
+  "price" : 4800,
+  "release_date" : [
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "The Promised Neverland",
+    "ja" : "約束のネバーランド",
+    "ko" : "약속의 네버랜드"
+  },
+  "set" : 213
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6018,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161018/6018/41865/large/01c221c0d3c0c35cbc8b9e5aba65d189.jpg",
+  "name" : {
+    "en" : "Nendoroid Mai Shiranui",
+    "ja" : "ねんどろいど 不知火舞 (ねんどろいど しらぬいまい)",
+    "ko" : "시라누이 마이"
+  },
+  "num" : "684",
+  "price" : 4888,
+  "release_date" : [
+    "2017/04"
+  ],
+  "series" : {
+    "en" : "THE KING OF FIGHTERS XIV",
+    "ja" : "THE KING OF FIGHTERS XIV",
+    "ko" : "더 킹 오브 파이터즈"
+  },
+  "set" : 147
+}

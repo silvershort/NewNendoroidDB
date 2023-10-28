@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9618,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200608/9618/70704/large/7c97bcb211020eb9de8caf394a063988.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Amamiya",
+    "ja" : "ねんどろいど 天宮さくら (ねんどろいど あまみやさくら)",
+    "ko" : "아마미야 사쿠라"
+  },
+  "num" : "1360",
+  "price" : 5200,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Sakura Wars",
+    "ja" : "新サクラ大戦",
+    "ko" : "신 사쿠라 대전"
+  },
+  "set" : 56
+}

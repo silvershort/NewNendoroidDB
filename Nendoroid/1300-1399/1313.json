@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9346,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200311/9346/68259/large/0f26d97942be83bcf7b2751b2f3eab76.jpg",
+  "name" : {
+    "en" : "Nendoroid Eijiro Kirishima",
+    "ja" : "ねんどろいど 切島鋭児郎 (ねんどろいど きりしまえいじろう)",
+    "ko" : "키리시마 에이지로"
+  },
+  "num" : "1313",
+  "price" : 5500,
+  "release_date" : [
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 148
+}

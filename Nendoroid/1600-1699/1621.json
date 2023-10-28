@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11103,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210419/11103/83747/large/969fca3c02d747a27203252f9195a2c5.jpg",
+  "name" : {
+    "en" : "Nendoroid UK",
+    "ja" : "ねんどろいど イギリス (ねんどろいど いぎりす)",
+    "ko" : "영국"
+  },
+  "num" : "1621",
+  "price" : 4600,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 158
+}

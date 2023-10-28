@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15039,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230929/15039/121785/large/69730be34f86844b0bf144d33ef942f7.jpg",
+  "name" : {
+    "en" : "Pompompurin",
+    "ja" : "ポムポムプリン",
+    "ko" : "폼폼푸린"
+  },
+  "num" : "2264",
+  "price" : 5500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Pompompurin",
+    "ja" : "ポムポムプリン",
+    "ko" : "폼폼푸린"
+  }
+}

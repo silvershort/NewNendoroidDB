@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5766,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160627/5766/39770/large/a21146a8011ac5393a853d8b0f67d461.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruler/Jeanne d'Arc",
+    "ja" : "ねんどろいど ルーラー/ジャンヌ・ダルク (ねんどろいど るーらー/じゃんぬ・だるく)",
+    "ko" : "룰러/잔 다르크"
+  },
+  "num" : "650",
+  "price" : 4888,
+  "release_date" : [
+    "2016/10",
+    "2018/04"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

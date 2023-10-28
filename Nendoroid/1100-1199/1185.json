@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8686,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190809/8686/62844/large/0cd362e1f73aa667b2d37c79e32f361d.jpg",
+  "name" : {
+    "en" : "Nendoroid Kurapika",
+    "ja" : "ねんどろいど クラピカ (ねんどろいど くらぴか)",
+    "ko" : "크라피카"
+  },
+  "num" : "1185",
+  "price" : 5280,
+  "release_date" : [
+    "2020/06",
+    "2023/08"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  },
+  "set" : 222
+}

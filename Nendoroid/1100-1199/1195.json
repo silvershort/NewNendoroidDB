@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8720,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190823/8720/63050/large/040106cf6ca1ac78cc7ddeacee5fb79b.jpg",
+  "name" : {
+    "en" : "Nendoroid Hinata Hoshino",
+    "ja" : "ねんどろいど 星野ひなた (ねんどろいど ほしのひなた)",
+    "ko" : "호시노 히나타"
+  },
+  "num" : "1195",
+  "price" : 4600,
+  "release_date" : [
+    "2020/04"
+  ],
+  "series" : {
+    "en" : "Wataten!: An Angel Flew Down to Me",
+    "ja" : "私に天使が舞い降りた！",
+    "ko" : "나에게 천사가 내려왔다!"
+  },
+  "set" : 225
+}

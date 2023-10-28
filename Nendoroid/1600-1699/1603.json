@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11243,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210521/11243/84990/large/3caf0f4dc2b7610cf01a1255adc171f2.jpg",
+  "name" : {
+    "en" : "Nendoroid Mostima",
+    "ja" : "ねんどろいど モスティマ (ねんどろいど もすてぃま)",
+    "ko" : "모스티마"
+  },
+  "num" : "1603",
+  "price" : 6300,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 218
+}

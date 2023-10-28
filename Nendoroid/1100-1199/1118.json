@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8224,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190403/8224/59334/large/b67eafb612d900ffd0767dafff1c8a23.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhao Ling-Er",
+    "ja" : "ねんどろいど 趙霊児 (ねんどろいど ちょうれいじ)",
+    "ko" : "조령아"
+  },
+  "num" : "1118",
+  "price" : 4584,
+  "release_date" : [
+    "2019/11"
+  ],
+  "series" : {
+    "en" : "Chinese Paladin: Sword and Fairy",
+    "ja" : "仙剣奇侠伝",
+    "ko" : "선검기협전"
+  },
+  "set" : 216
+}

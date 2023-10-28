@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3862,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20130312/3862/23062/large/66571291e81b7b999d17f264cdb76523.jpg",
+  "name" : {
+    "en" : "Nendoroid Akari Akaza: Akariiin Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)",
+    "ja" : "ねんどろいど 赤座あかり ＼アッカリ～ン／Ver. (ねんどろいど あかざあかり ＼あっかり～ん／Ver.)",
+    "ko" : "아카자 아카리 \\앗카린/ Ver."
+  },
+  "num" : "268b",
+  "price" : 7150,
+  "release_date" : [
+    "2013/06"
+  ],
+  "series" : {
+    "en" : "YuruYuri",
+    "ja" : "ゆるゆり",
+    "ko" : "유루유리"
+  },
+  "set" : 67
+}

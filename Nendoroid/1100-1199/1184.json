@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8658,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190806/8658/62670/large/34aa6af4e3459fd47a34820307ff7978.jpg",
+  "name" : {
+    "en" : "Nendoroid Killua Zoldyck",
+    "ja" : "ねんどろいど キルア=ゾルディック (ねんどろいど きるあ=ぞるでぃっく)",
+    "ko" : "키르아 조르딕"
+  },
+  "num" : "1184",
+  "price" : 5280,
+  "release_date" : [
+    "2020/07",
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  },
+  "set" : 222
+}

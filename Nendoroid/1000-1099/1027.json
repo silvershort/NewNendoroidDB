@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7778,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20181106/7778/55753/large/c76557a4358b47a1f20d4e3043ea481f.jpg",
+  "name" : {
+    "en" : "Nendoroid Riku Nanase",
+    "ja" : "ねんどろいど 七瀬陸 (ねんどろいど ななせりく)",
+    "ko" : "나나세 리쿠"
+  },
+  "num" : "1027",
+  "price" : 4481,
+  "release_date" : [
+    "2019/06"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

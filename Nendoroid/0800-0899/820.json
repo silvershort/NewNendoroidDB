@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6710,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170905/6710/47441/large/c555f2b78de3a7d1081106d72c42c12f.jpg",
+  "name" : {
+    "en" : "Nendoroid Itachi Uchiha",
+    "ja" : "ねんどろいど うちはイタチ (ねんどろいど うちはいたち)",
+    "ko" : "우치하 이타치"
+  },
+  "num" : "820",
+  "price" : 5000,
+  "release_date" : [
+    "2018/03",
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 146
+}

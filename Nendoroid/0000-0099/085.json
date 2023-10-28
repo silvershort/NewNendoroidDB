@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2602,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2602/7631/large/8207e1b4766daef3bcd8a2799cc5e0da.jpg",
+  "name" : {
+    "en" : "Nendoroid Kuro Kagami (かがみくろ ねんどろいど)",
+    "ja" : "ねんどろいど 鏡黒 (かがみくろ ねんどろいど)",
+    "ko" : "카가미 쿠로"
+  },
+  "num" : "085",
+  "price" : 3667,
+  "release_date" : [
+    "2009/12"
+  ],
+  "series" : {
+    "en" : "Kodomo no Jikan",
+    "ja" : "こどものじかん",
+    "ko" : "아이들의 시간"
+  },
+  "set" : 18
+}

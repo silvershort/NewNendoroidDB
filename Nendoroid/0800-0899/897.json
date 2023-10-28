@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7125,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180316/7125/50799/large/f774a5bead7b0477a54807d5eb262344.jpg",
+  "name" : {
+    "en" : "Nendoroid Ai Hinatsuru",
+    "ja" : "ねんどろいど 雛鶴あい (ねんどろいど ひなつるあい)",
+    "ko" : "히나츠루 아이"
+  },
+  "num" : "897",
+  "price" : 5093,
+  "release_date" : [
+    "2019/01"
+  ],
+  "series" : {
+    "en" : "The Ryuo's Work is Never Done!",
+    "ja" : "りゅうおうのおしごと！",
+    "ko" : "용왕이 하는 일!"
+  },
+  "set" : 170
+}

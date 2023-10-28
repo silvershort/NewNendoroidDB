@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 14914,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20230904/14914/122011/large/47c299d35b3b78f29c22c3737171d98d.jpg",
+  "name" : {
+    "en" : "Yuuko Aioi: Keiichi Arawi Ver.",
+    "ja" : "相生祐子 あらゐけいいちVer.",
+    "ko" : "아이오이 유코 아라이 케이이치Ver."
+  },
+  "num" : "2293",
+  "price" : 5900,
+  "release_date" : [
+    "2024/02"
+  ],
+  "series" : {
+    "en" : "Nichijou",
+    "ja" : "日常",
+    "ko" : "일상"
+  }
+}

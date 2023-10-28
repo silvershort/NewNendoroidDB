@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6499,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170612/6499/45858/large/53aa6474024ce245ae1810a4128a9a8c.jpg",
+  "name" : {
+    "en" : "Nendoroid Warspite",
+    "ja" : "ねんどろいど Warspite（ウォースパイト） (ねんどろいど うぉーすぱいと)",
+    "ko" : "워스파이트"
+  },
+  "num" : "783",
+  "price" : 7231,
+  "release_date" : [
+    "2017/12"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

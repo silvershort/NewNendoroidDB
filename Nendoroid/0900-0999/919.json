@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7229,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180420/7229/51623/large/c472e95ca6939057ca645bf2fb93e052.jpg",
+  "name" : {
+    "en" : "Nendoroid Fennec",
+    "ja" : "ねんどろいど フェネック (ねんどろいど ふぇねっく)",
+    "ko" : "페넥"
+  },
+  "num" : "919",
+  "price" : 4584,
+  "release_date" : [
+    "2018/10"
+  ],
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 157
+}

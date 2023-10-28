@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10379,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201109/10379/77616/large/62a8134b5fcca808665d6181296db2b6.jpg",
+  "name" : {
+    "en" : "Nendoroid Leona Kingscholar",
+    "ja" : "ねんどろいど レオナ・キングスカラー (ねんどろいど れおな・きんぐすからー)",
+    "ko" : "레오나 킹스칼라"
+  },
+  "num" : "1526",
+  "price" : 6200,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Disney Twisted-Wonderland",
+    "ja" : "『ディズニー ツイステッドワンダーランド』",
+    "ko" : "디즈니 트위스티드 원더랜드"
+  },
+  "set" : 253
+}

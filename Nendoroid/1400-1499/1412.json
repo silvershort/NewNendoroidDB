@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8247,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190412/8247/59949/large/843a12dfe957d3c52c509d20294d8572.jpg",
+  "name" : {
+    "en" : "Nendoroid Kid the Phantom Thief",
+    "ja" : "ねんどろいど 怪盗キッド (ねんどろいど かいとうきっど)",
+    "ko" : "괴도 키드"
+  },
+  "num" : "1412",
+  "price" : 5500,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Detective Conan",
+    "ja" : "名探偵コナン",
+    "ko" : "명탐정 코난"
+  },
+  "set" : 163
+}

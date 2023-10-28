@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 6387,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170417/6387/44941/large/4b5f64cbb8317e6e6ddd3d87fd086ba4.jpg",
+  "name" : {
+    "en" : "Nendoroid Syaoran Li",
+    "ja" : "ねんどろいど 李小狼 (ねんどろいど りしゃおらん)",
+    "ko" : "리 샤오랑"
+  },
+  "num" : "763",
+  "price" : 4888,
+  "release_date" : [
+    "2017/08",
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  },
+  "set" : 95
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "DAYO",
+  "gsc_productNum" : 4975,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150423/4975/33246/large/6fda0476a8d0577c80e0a1890f176c98.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Mikudayo- (ねんどろいど さくらみくだよー)",
+    "ja" : "ねんどろいど 桜ミクダヨー (ねんどろいど さくらみくだよー)",
+    "ko" : "사쿠라 미쿠다요"
+  },
+  "num" : "499",
+  "price" : 3259,
+  "release_date" : [
+    "2015/08"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 76
+}

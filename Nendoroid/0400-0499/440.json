@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4505,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140716/4505/29688/large/55e4bfd4ba679af717297a1c97f03df9.jpg",
+  "name" : {
+    "en" : "Nendoroid Suigintō",
+    "ja" : "ねんどろいど 水銀燈 (ねんどろいど すいぎんとう)",
+    "ko" : "스이긴토"
+  },
+  "num" : "440",
+  "price" : 5800,
+  "release_date" : [
+    "2014/11",
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Rozen Maiden",
+    "ja" : "ローゼンメイデン",
+    "ko" : "로젠 메이든"
+  },
+  "set" : 89
+}

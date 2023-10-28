@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12806,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220613/12806/99790/large/f07b38d3f77e0ebe4ee4218faace972b.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: 15th Anniversary Ver.",
+    "ja" : "ねんどろいど 初音ミク 15th Anniversary Ver. (ねんどろいど はつねみく 15th あにばーさりー Ver.)",
+    "ko" : "하츠네 미쿠 15th Anniversary Ver."
+  },
+  "num" : "1939",
+  "price" : 9400,
+  "release_date" : [
+    "2022/08"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

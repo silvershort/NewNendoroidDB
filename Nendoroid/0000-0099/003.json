@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 569,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/569/846/large/e268810a400f5901bb33b8e9fdc1123f.jpg",
+  "name" : {
+    "en" : "Nendoroid Lazy Saber (せいばー　ねんどろいど)",
+    "ja" : "ねんどろいど へたれセイバー (せいばー　ねんどろいど)",
+    "ko" : "헤타레 세이버"
+  },
+  "num" : "003",
+  "price" : 4190,
+  "release_date" : [
+    "2006/10"
+  ],
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

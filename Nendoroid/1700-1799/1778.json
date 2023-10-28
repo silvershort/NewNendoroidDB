@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12077,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211202/12077/92759/large/a5d9175a7908c1178a45724f7f470b96.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura Kagamihara",
+    "ja" : "ねんどろいど 各務原桜 (ねんどろいど かがみはらさくら)",
+    "ko" : "카가미하라 사쿠라"
+  },
+  "num" : "1778",
+  "price" : 6600,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "Laid-Back Camp",
+    "ja" : "ゆるキャン△",
+    "ko" : "유루캠△"
+  },
+  "set" : 175
+}

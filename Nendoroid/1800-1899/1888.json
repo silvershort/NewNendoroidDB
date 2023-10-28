@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12783,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220606/12783/99542/large/4c0654a03d8300366942a370167833a8.jpg",
+  "name" : {
+    "en" : "Nendoroid Prushka",
+    "ja" : "ねんどろいど プルシュカ (ねんどろいど ぷるしゅか)",
+    "ko" : "푸르슈카"
+  },
+  "num" : "1888",
+  "price" : 6900,
+  "release_date" : [
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "Made in Abyss: The Golden City of the Scorching Sun",
+    "ja" : "メイドインアビス 烈日の黄金郷",
+    "ko" : "메이드 인 어비스"
+  },
+  "set" : 185
+}

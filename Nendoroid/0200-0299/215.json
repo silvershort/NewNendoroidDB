@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3399,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111130/3399/16497/large/e226d35459ac12dd69b4182888de690f.jpg",
+  "name" : {
+    "en" : "Nendoroid Saber & Rin Tohsaka : Cheerful ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ja" : "ねんどろいど セイバー＆遠坂凛 応援Ver. (ねんどろいど せいばー&とうさかりん おうえんVer.)",
+    "ko" : "세이버&토오사카 린 응원 Ver."
+  },
+  "num" : "215",
+  "price" : 6286,
+  "release_date" : [
+    "2012/05"
+  ],
+  "series" : {
+    "en" : "Fate/stay night",
+    "ja" : "Fate/stay night",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}

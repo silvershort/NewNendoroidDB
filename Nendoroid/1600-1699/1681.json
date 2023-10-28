@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11483,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210714/11483/87886/large/dcddf2e355d85027fef95451b95e562a.jpg",
+  "name" : {
+    "en" : "Nendoroid Loki: TVA Ver.",
+    "ja" : "ねんどろいど ロキ TVA Ver. (ねんどろいど ろき TVA Ver.)",
+    "ko" : "로키 TVA Ver."
+  },
+  "num" : "1681",
+  "price" : 5500,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Loki",
+    "ja" : "ロキ",
+    "ko" : "로키"
+  }
+}

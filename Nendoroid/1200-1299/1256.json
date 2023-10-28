@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9068,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191210/9068/65927/large/0bc51291aec48d32ea9b65ad0862764a.jpg",
+  "name" : {
+    "en" : "Nendoroid Rohan Kishibe",
+    "ja" : "ねんどろいど 岸辺露伴 (ねんどろいど きしべろはん)",
+    "ko" : "키시베 로한"
+  },
+  "num" : "1256",
+  "price" : 5478,
+  "release_date" : [
+    "2020/08"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 637,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/637/981/large/dea0bad951961356afcfadb57b855f87.jpg",
+  "name" : {
+    "en" : "Nendoroid Nao (なお　ねんどろいど)",
+    "ja" : "ねんどろいど ナオ (なお　ねんどろいど)",
+    "ko" : "나오"
+  },
+  "num" : "024",
+  "price" : 3667,
+  "release_date" : [
+    "2007/12"
+  ],
+  "series" : {
+    "en" : "マビノギ",
+    "ja" : "マビノギ",
+    "ko" : "마비노기"
+  },
+  "set" : 7
+}

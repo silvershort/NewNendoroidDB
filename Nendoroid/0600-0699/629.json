@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5658,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160510/5658/38924/large/5b3ec090530965b09847d899716e6266.jpg",
+  "name" : {
+    "en" : "Nendoroid Taiho",
+    "ja" : "ねんどろいど 大鳳 (ねんどろいど たいほう)",
+    "ko" : "다이호"
+  },
+  "num" : "629",
+  "price" : 4888,
+  "release_date" : [
+    "2016/09"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

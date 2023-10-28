@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8826,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190920/8826/63887/large/fe864c0f7e98ed8829ca8dd21b4a5838.jpg",
+  "name" : {
+    "en" : "Nendoroid Samatoki Aohitsugi",
+    "ja" : "ねんどろいど 碧棺左馬刻 (ねんどろいど あおひつぎさまとき)",
+    "ko" : "아오히츠기 사마토키"
+  },
+  "num" : "1208",
+  "price" : 5500,
+  "release_date" : [
+    "2020/09"
+  ],
+  "series" : {
+    "en" : "Hypnosis Mic -Division Rap Battle-",
+    "ja" : "ヒプノシスマイク -Division Rap Battle-",
+    "ko" : "히프노시스 마이크"
+  },
+  "set" : 227
+}

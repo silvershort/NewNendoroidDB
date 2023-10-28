@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8100,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190222/8100/58343/large/7241b1ce8b20e668628416476c2a1b00.jpg",
+  "name" : {
+    "en" : "Nendoroid Emma",
+    "ja" : "ねんどろいど エマ (ねんどろいど えま)",
+    "ko" : "엠마"
+  },
+  "num" : "1092",
+  "price" : 4888,
+  "release_date" : [
+    "2019/09"
+  ],
+  "series" : {
+    "en" : "The Promised Neverland",
+    "ja" : "約束のネバーランド",
+    "ko" : "약속의 네버랜드"
+  },
+  "set" : 213
+}

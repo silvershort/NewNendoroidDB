@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4819,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150109/4819/32042/large/c206f852d207255e90fceb788ae321d0.jpg",
+  "name" : {
+    "en" : "Nendoroid Haruna (ねんどろいど はるな)",
+    "ja" : "ねんどろいど 榛名 (ねんどろいど はるな)",
+    "ko" : "하루나"
+  },
+  "num" : "495",
+  "price" : 5093,
+  "release_date" : [
+    "2015/05"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

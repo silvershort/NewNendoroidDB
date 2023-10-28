@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9260,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200206/9260/67531/large/09169b5c2bd50ef31694b72b39fda5fb.jpg",
+  "name" : {
+    "en" : "Nendoroid Hawkeye: Endgame Ver.",
+    "ja" : "ねんどろいど ホークアイ エンドゲームVer. (ねんどろいど ほーくあい えんどげーむVer.)",
+    "ko" : "호크아이 엔드게임 Ver."
+  },
+  "num" : "1290",
+  "price" : 4800,
+  "release_date" : [
+    "2020/08"
+  ],
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

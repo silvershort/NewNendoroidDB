@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3362,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3362/16289/large/fed0c51aa07f4e7cfc39ef1c99cf38b2.jpg",
+  "name" : {
+    "ja" : "ねんどろいど 柊 かがみ（コンプティークVer.） (ねんどろいど ひいらぎ かがみ（らき☆すたこうしきほーむぺーじVer.）)",
+    "ko" : "히이라기 카가미 콤프틱 Ver."
+  },
+  "num" : "028a",
+  "price" : 4190,
+  "release_date" : [
+    "2008/04"
+  ],
+  "series" : {
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
+}

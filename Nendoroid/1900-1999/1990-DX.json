@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13456,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221025/13456/106405/large/29ed2f3f6190932dc3a89c2f941703d9.jpg",
+  "name" : {
+    "en" : "Nendoroid Unicorn DX",
+    "ja" : "ねんどろいど ユニコーン DX (ねんどろいど ゆにこーん DX)",
+    "ko" : "유니콘 DX"
+  },
+  "num" : "1990-DX",
+  "price" : 9800,
+  "release_date" : [
+    "2023/04"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  },
+  "set" : 302
+}

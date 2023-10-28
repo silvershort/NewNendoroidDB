@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12094,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211206/12094/92948/large/1658f74371b928a0c5ed00157185ba21.jpg",
+  "name" : {
+    "en" : "Nendoroid Baili Hongyi",
+    "ja" : "ねんどろいど 百里弘毅 (ねんどろいど ひゃくりこうき)",
+    "ko" : "백리홍의"
+  },
+  "num" : "1780",
+  "price" : 7200,
+  "release_date" : [
+    "2022/09"
+  ],
+  "series" : {
+    "en" : "FENG QI LUO YANG",
+    "ja" : "風起洛陽",
+    "ko" : "풍기낙양"
+  },
+  "set" : 285
+}

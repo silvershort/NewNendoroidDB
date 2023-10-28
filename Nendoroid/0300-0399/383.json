@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4218,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140204/4218/27887/large/131e5750c4edc115aa6c66cf2bfc6299.jpg",
+  "name" : {
+    "en" : "Nendoroid May'n (ねんどろいど めいん)",
+    "ja" : "ねんどろいど May'n (ねんどろいど めいん)",
+    "ko" : "May'n"
+  },
+  "num" : "383",
+  "price" : 4610,
+  "release_date" : [
+    "2014/02"
+  ],
+  "series" : {
+    "en" : "May'n",
+    "ja" : "May'n",
+    "ko" : "May'n"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3481,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120302/3481/17486/large/32311776dc2eadcfd52f700ec50ca385.jpg",
+  "name" : {
+    "en" : "Nendoroid Aoi Yamada (ねんどろいど やまだあおい)",
+    "ja" : "ねんどろいど 山田葵 (ねんどろいど やまだあおい)",
+    "ko" : "야마다 아오이"
+  },
+  "num" : "233",
+  "price" : 3981,
+  "release_date" : [
+    "2012/07"
+  ],
+  "series" : {
+    "en" : "WORKING!!",
+    "ja" : "WORKING!!",
+    "ko" : "WORKING!!"
+  },
+  "set" : 54
+}

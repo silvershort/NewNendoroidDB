@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6777,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171006/6777/47991/large/79010ae9ac65984faff7ba56c1323d10.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakura",
+    "ja" : "ねんどろいど サクラ (ねんどろいど さくら)",
+    "ko" : "사쿠라"
+  },
+  "num" : "837",
+  "price" : 4888,
+  "release_date" : [
+    "2018/05"
+  ],
+  "series" : {
+    "en" : "Fire Emblem Fates",
+    "ja" : "ファイアーエムブレムif",
+    "ko" : "파이어 엠블렘"
+  },
+  "set" : 125
+}

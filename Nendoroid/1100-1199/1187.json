@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8691,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190821/8691/62922/large/ec7b9e07be67627ab4f6aadbb2858b01.jpg",
+  "name" : {
+    "en" : "Nendoroid Severus Snape",
+    "ja" : "ねんどろいど セブルス・スネイプ (ねんどろいど せぶるす・すねいぷ)",
+    "ko" : "세베루스 스네이프"
+  },
+  "num" : "1187",
+  "price" : 5000,
+  "release_date" : [
+    "2020/01"
+  ],
+  "series" : {
+    "en" : "Harry Potter",
+    "ja" : "ハリー・ポッター",
+    "ko" : "해리포터 시리즈"
+  },
+  "set" : 196
+}

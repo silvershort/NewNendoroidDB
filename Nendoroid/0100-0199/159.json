@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3100,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20110223/3100/12991/large/0df8c65fe8b16e358ee1bdf7e4a05852.jpg",
+  "name" : {
+    "en" : "Nendoroid Totori (ねんどろいど ととり)",
+    "ja" : "ねんどろいど トトリ (ねんどろいど ととり)",
+    "ko" : "토투리아 헬몰트"
+  },
+  "num" : "159",
+  "price" : 3667,
+  "release_date" : [
+    "2011/06"
+  ],
+  "series" : {
+    "en" : "Atelier Totori: Alchemist of Arland 2",
+    "ja" : "トトリのアトリエ －アーランドの錬金術士2－",
+    "ko" : "토토리의 아틀리에"
+  }
+}

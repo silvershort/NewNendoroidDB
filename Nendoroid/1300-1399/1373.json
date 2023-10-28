@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9624,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200609/9624/70667/large/9928ac9f1cdb31f73de77d0404d53368.jpg",
+  "name" : {
+    "en" : "Nendoroid Sasori",
+    "ja" : "ねんどろいど サソリ (ねんどろいど さそり)",
+    "ko" : "사소리"
+  },
+  "num" : "1373",
+  "price" : 5800,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 146
+}

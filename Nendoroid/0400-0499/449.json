@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4524,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140729/4524/29840/large/8c8838be113e266fcaf1f36ed7c36c9e.jpg",
+  "name" : {
+    "en" : "Nendoroid Lady Venera (Behepa) (ねんどろいど ゔぃにえいらさま)",
+    "ja" : "ねんどろいど ヴィニエイラ様 (ねんどろいど ゔぃにえいらさま)",
+    "ko" : "호시미야 케이트"
+  },
+  "num" : "449",
+  "price" : 4888,
+  "release_date" : [
+    "2014/11"
+  ],
+  "series" : {
+    "en" : "World Conquest Zvezda Plot",
+    "ja" : "世界征服～謀略のズヴィズダー～",
+    "ko" : "세계정복 ~모략의 즈베즈다~"
+  }
+}

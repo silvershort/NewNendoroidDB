@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9826,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200722/9826/72493/large/a26c5dfeb9fd2b398a27016548019980.jpg",
+  "name" : {
+    "en" : "Nendoroid Hatsune Miku: Kōrin Kimono Ver.",
+    "ja" : "ねんどろいど 初音ミク 冬木小袖Ver. (ねんどろいど はつねみく ふゆきこそでVer.)",
+    "ko" : "하츠네 미쿠 후유키코소데 Ver."
+  },
+  "num" : "1427",
+  "price" : 6800,
+  "release_date" : [
+    "2021/01"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 10
+}

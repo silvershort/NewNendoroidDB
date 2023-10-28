@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9000,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191119/9000/65744/large/d86c819e5d5d9209d937ca2be853e28d.jpg",
+  "name" : {
+    "en" : "Nendoroid Snow Miku: Snow Parade Ver.",
+    "ja" : "ねんどろいど 雪ミク Snow Parade Ver. (ねんどろいど ゆきみく すのう ぱれーど Ver.)",
+    "ko" : "유키 미쿠 Snow Parade Ver."
+  },
+  "num" : "1250",
+  "price" : 5500,
+  "release_date" : [
+    "2020/02"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 31
+}

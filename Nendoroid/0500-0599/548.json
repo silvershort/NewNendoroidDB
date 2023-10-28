@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5157,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150803/5157/34919/large/4ee46bc076d4a31716b01cecfe9d6ba7.jpg",
+  "name" : {
+    "en" : "Nendoroid Kotori Minami: Training Outfit Ver.",
+    "ja" : "ねんどろいど 南ことり 練習着Ver. (ねんどろいど みなみことり れんしゅうぎVer.)",
+    "ko" : "미나미 코토리 연습복"
+  },
+  "num" : "548",
+  "price" : 3565,
+  "release_date" : [
+    "2015/12"
+  ],
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 106
+}

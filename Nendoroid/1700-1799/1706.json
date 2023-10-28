@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11725,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210901/11725/89398/large/2c451f9f316b2947f4ceb988d5f6ade5.jpg",
+  "name" : {
+    "en" : "Nendoroid Felt",
+    "ja" : "ねんどろいど フェルト (ねんどろいど ふぇると)",
+    "ko" : "펠트"
+  },
+  "num" : "1706",
+  "price" : 6200,
+  "release_date" : [
+    "2022/05"
+  ],
+  "series" : {
+    "en" : "Re:Zero -Starting Life in Another World-",
+    "ja" : "Re:ゼロから始める異世界生活",
+    "ko" : "Re: 제로부터 시작하는 이세계 생활"
+  },
+  "set" : 139
+}

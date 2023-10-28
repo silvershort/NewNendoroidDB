@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3676,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120919/3676/20451/large/54837e51ec609e54bcfa3d10713a72b9.jpg",
+  "name" : {
+    "en" : "Nendoroid Hunter: Female Swordsman - Bario X Edition (ねんどろいど はんたー♀けんし べりおX・えでぃしょん)",
+    "ja" : "ねんどろいど ハンター♀剣士 ベリオX・エディション (ねんどろいど はんたー♀けんし べりおX・えでぃしょん)",
+    "ko" : "헌터♀검사 베리오X 에디션"
+  },
+  "num" : "273",
+  "price" : 4190,
+  "release_date" : [
+    "2013/03"
+  ],
+  "series" : {
+    "en" : "Monster Hunter Tri G",
+    "ja" : "モンスターハンター3（トライ）G",
+    "ko" : "몬스터 헌터"
+  },
+  "set" : 65
+}

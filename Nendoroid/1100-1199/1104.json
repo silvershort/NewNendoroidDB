@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8154,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190313/8154/58897/large/dec605ee6113343fd5d9b153377343d5.jpg",
+  "name" : {
+    "en" : "Nendoroid Yukina Minato: Stage Outfit Ver.",
+    "ja" : "ねんどろいど 湊友希那 ステージ衣装Ver. (ねんどろいど みなとゆきな すてーじいしょうVer.)",
+    "ko" : "미나토 유키나 스테이지 의상 Ver."
+  },
+  "num" : "1104",
+  "price" : 5093,
+  "release_date" : [
+    "2019/09"
+  ],
+  "series" : {
+    "en" : "BanG Dream! Girls Band Party!",
+    "ja" : "バンドリ！ ガールズバンドパーティ！",
+    "ko" : "BanG Dream!"
+  },
+  "set" : 154
+}

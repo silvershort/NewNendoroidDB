@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6905,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171128/6905/48972/large/7336adbc1195d827a6c7bb913c250e63.jpg",
+  "name" : {
+    "en" : "Nendoroid Princess Leia",
+    "ja" : "ねんどろいど プリンセス・レイア (ねんどろいど ぷりんせす・れいあ)",
+    "ko" : "프린세스 레아"
+  },
+  "num" : "856",
+  "price" : 4888,
+  "release_date" : [
+    "2018/06"
+  ],
+  "series" : {
+    "en" : "Star Wars Episode 4: A New Hope",
+    "ja" : "スター・ウォーズ　エピソード４／新たなる希望",
+    "ko" : "스타워즈"
+  },
+  "set" : 116
+}

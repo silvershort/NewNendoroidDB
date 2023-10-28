@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7194,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180405/7194/51313/large/238d0333027afb9dba3179220c319bb8.jpg",
+  "name" : {
+    "en" : "Nendoroid Asahi Azumane",
+    "ja" : "ねんどろいど 東峰旭 (ねんどろいど あずまねあさひ)",
+    "ko" : "아즈마네 아사히"
+  },
+  "num" : "914",
+  "price" : 5000,
+  "release_date" : [
+    "2018/10",
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

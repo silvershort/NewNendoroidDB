@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 7200,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180410/7200/51376/large/ab14f30f6f93c83a106fabb2da6ca564.jpg",
+  "name" : {
+    "en" : "Nendoroid Atlas",
+    "ja" : "ねんどろいど Atlas (ねんどろいど あとらす)",
+    "ko" : "아틀라스"
+  },
+  "num" : "915",
+  "price" : 5907,
+  "release_date" : [
+    "2018/09"
+  ],
+  "series" : {
+    "en" : "Portal 2",
+    "ja" : "Portal2",
+    "ko" : "포탈"
+  },
+  "set" : 180
+}

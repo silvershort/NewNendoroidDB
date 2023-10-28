@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11878,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20211007/11878/90787/large/e067965cc8dd9780e8938830be0b0333.jpg",
+  "name" : {
+    "en" : "Nendoroid Mei Kamino",
+    "ja" : "ねんどろいど 神野銘 (ねんどろいど かみのめい)",
+    "ko" : "카미노 메이"
+  },
+  "num" : "1728",
+  "price" : 6400,
+  "release_date" : [
+    "2022/08"
+  ],
+  "series" : {
+    "en" : "Godzilla Singular Point",
+    "ja" : "ゴジラS.P＜シンギュラポイント＞",
+    "ko" : "고질라: 싱귤러 포인트"
+  },
+  "set" : 278
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9704,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200626/9704/71456/large/cb4ae22355d7c2f8f3ab33e88f724859.jpg",
+  "name" : {
+    "en" : "Nendoroid Black Widow: Endgame Ver. DX",
+    "ja" : "ねんどろいど ブラックウィドウ エンドゲーム Ver. DX (ねんどろいど ぶらっくうぃどう えんどげーむ Ver. DX)",
+    "ko" : "블랙 위도우 엔드게임 DX Ver."
+  },
+  "num" : "1379-DX",
+  "price" : 8500,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

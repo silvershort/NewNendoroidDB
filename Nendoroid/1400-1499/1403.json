@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9773,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200714/9773/91460/large/52ebe71d06ea6cd5d543470032a66a47.jpg",
+  "name" : {
+    "en" : "Nendoroid Atsumu Miya",
+    "ja" : "ねんどろいど 宮侑 (ねんどろいど みやあつむ)",
+    "ko" : "미야 아츠무"
+  },
+  "num" : "1403",
+  "price" : 4600,
+  "release_date" : [
+    "2020/12",
+    "2022/05"
+  ],
+  "series" : {
+    "en" : "HAIKYU!! TO THE TOP",
+    "ja" : "ハイキュー!! TO THE TOP",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

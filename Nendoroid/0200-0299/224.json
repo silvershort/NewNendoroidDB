@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3457,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120131/3457/17154/large/cbc19c96de5ddfb762d6e8b41c164ef1.jpg",
+  "name" : {
+    "en" : "Nendoroid Momoyo Kawakami (ねんどろいど かわかみももよ)",
+    "ja" : "ねんどろいど 川神百代 (ねんどろいど かわかみももよ)",
+    "ko" : "카와카미 모모요"
+  },
+  "num" : "224",
+  "price" : 3667,
+  "release_date" : [
+    "2012/06"
+  ],
+  "series" : {
+    "en" : "Maji de Watashi ni Koishinasai!",
+    "ja" : "真剣で私に恋しなさい！！",
+    "ko" : "진심으로 날 사랑해라!!"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15089,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231017/15089/122259/large/dd2f56583799e7b4069e32b09821468f.jpg",
+  "name" : {
+    "en" : "Huggy Wuggy",
+    "ja" : "ハギーワギー",
+    "ko" : "허기 워기"
+  },
+  "num" : "2294",
+  "price" : 8000,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Poppy Playtime",
+    "ja" : "Poppy Playtime",
+    "ko" : "파피 플레이타임"
+  }
+}

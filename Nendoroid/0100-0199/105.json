@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2797,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20100128/2797/9189/large/d7878deabaca925b4b17fe5ae38713a7.jpg",
+  "name" : {
+    "en" : "Nendoroid Sakuya Izayoi (ねんどろいど いざよいさくや)",
+    "ja" : "ねんどろいど 十六夜咲夜 (ねんどろいど いざよいさくや)",
+    "ko" : "이자요이 사쿠야"
+  },
+  "num" : "105",
+  "price" : 3143,
+  "release_date" : [
+    "2010/05",
+    "2012/08"
+  ],
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
+}

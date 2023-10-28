@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8432,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190614/8432/61594/large/628a9ae3a546accb02f67f032a1c1cb0.jpg",
+  "name" : {
+    "en" : "Nendoroid Giorno Giovanna",
+    "ja" : "ねんどろいど ジョルノ・ジョバァーナ (ねんどろいど じょるの・じょばぁーな)",
+    "ko" : "죠르노 죠바나"
+  },
+  "num" : "1155",
+  "price" : 5478,
+  "release_date" : [
+    "2019/12",
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ「ジョジョの奇妙な冒険 黄金の風」",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11408,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210624/11408/86385/large/c9d2c790b576a737d949979e3557e3df.jpg",
+  "name" : {
+    "en" : "Nendoroid Yousa Ling",
+    "ja" : "ねんどろいど 泠鳶yousa (ねんどろいど りーんゆえんようさ)",
+    "ko" : "링유엔 yousa"
+  },
+  "num" : "1667",
+  "price" : 7500,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Yousa Ling",
+    "ja" : "泠鳶yousa",
+    "ko" : "링유엔 yousa"
+  }
+}

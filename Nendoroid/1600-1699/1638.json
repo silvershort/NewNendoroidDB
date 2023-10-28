@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11237,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210521/11237/84938/large/212950b867cbbff68a5754413944e58c.jpg",
+  "name" : {
+    "en" : "Nendoroid France",
+    "ja" : "ねんどろいど フランス (ねんどろいど ふらんす)",
+    "ko" : "프랑스"
+  },
+  "num" : "1638",
+  "price" : 4800,
+  "release_date" : [
+    "2022/01"
+  ],
+  "series" : {
+    "en" : "Hetalia World★Stars",
+    "ja" : "ヘタリア World★Stars",
+    "ko" : "헤타리아"
+  },
+  "set" : 158
+}

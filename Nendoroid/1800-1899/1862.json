@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12510,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220328/12510/97036/large/6288c67d465285d89f4fe237665a2e26.jpg",
+  "name" : {
+    "en" : "Nendoroid Alien",
+    "ja" : "ねんどろいど エイリアン (ねんどろいど えいりあん)",
+    "ko" : "에일리언"
+  },
+  "num" : "1862",
+  "price" : 9500,
+  "release_date" : [
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "Alien",
+    "ja" : "エイリアン",
+    "ko" : "에일리언"
+  }
+}

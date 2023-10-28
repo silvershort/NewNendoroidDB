@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3370,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111125/3370/16305/large/d50893627552366e1db99eac06ef271a.jpg",
+  "name" : {
+    "ja" : "ねんどろいど　柊つかさ コンプティークVer. (ねんどろいど　ひいらぎつかさ こんぷてぃーくVer.)",
+    "ko" : "히이라기 츠카사 콤프틱 Ver."
+  },
+  "num" : "054a",
+  "price" : 3667,
+  "release_date" : [
+    "2009/02"
+  ],
+  "series" : {
+    "ja" : "TVアニメ らき☆すた",
+    "ko" : "럭키스타"
+  },
+  "set" : 9
+}

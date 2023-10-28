@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8420,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190612/8420/60948/large/f884ec7ba17ab4d493dc340614f5f274.jpg",
+  "name" : {
+    "en" : "Nendoroid Ochaco Uraraka: Hero's Edition",
+    "ja" : "ねんどろいど 麗日お茶子 ヒーローズ・エディション (ねんどろいど うららかおちゃこ ひーろーず・えでぃしょん)",
+    "ko" : "우라라카 오챠코"
+  },
+  "num" : "1157",
+  "price" : 5000,
+  "release_date" : [
+    "2019/12"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  },
+  "set" : 148
+}

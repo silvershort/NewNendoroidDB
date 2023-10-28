@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11484,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210714/11484/88035/large/b89841594429e628b6adad245009ae49.jpg",
+  "name" : {
+    "en" : "Nendoroid Loki: TVA & President Ver.",
+    "ja" : "ねんどろいど ロキ TVA&大統領Ver. (ねんどろいど ろき TVA&だいとうりょうVer.)",
+    "ko" : "로키 TVA & 대통령 Ver."
+  },
+  "num" : "1681-DX",
+  "price" : 8800,
+  "release_date" : [
+    "2022/06"
+  ],
+  "series" : {
+    "en" : "Loki",
+    "ja" : "ロキ",
+    "ko" : "로키"
+  }
+}

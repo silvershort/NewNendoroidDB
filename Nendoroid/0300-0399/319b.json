@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4889,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150313/4889/32648/large/35a0b88c0021d42879bbf0fc675cb4c8.jpg",
+  "name" : {
+    "en" : "Nendoroid Len & Darth wooser: Light Ver. (ねんどろいど れん＆だすうさ おてがるVer.)",
+    "ja" : "ねんどろいど れん＆ダスウサ お手軽Ver. (ねんどろいど れん＆だすうさ おてがるVer.)",
+    "ko" : "랜&다스우서 간편 Ver."
+  },
+  "num" : "319b",
+  "price" : 2852,
+  "release_date" : [
+    "2015/07"
+  ],
+  "series" : {
+    "en" : "wooser's hand-to-mouth life: phantasmagoric arc",
+    "ja" : "うーさーのその日暮らし 夢幻編",
+    "ko" : "우서의 하루살이"
+  },
+  "set" : 77
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8792,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190913/8792/63670/large/dd5145f6dffe0c8434f4d0c00dd4d854.jpg",
+  "name" : {
+    "en" : "Nendoroid Haru Okumura: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 奥村春 怪盗服Ver. (ねんどろいど おくむらはる かいとうふくVer.)",
+    "ko" : "오쿠무라 하루 괴도복 Ver."
+  },
+  "num" : "1210",
+  "price" : 5900,
+  "release_date" : [
+    "2020/04"
+  ],
+  "series" : {
+    "en" : "PERSONA5 the Animation",
+    "ja" : "PERSONA5 the Animation",
+    "ko" : "페르소나5"
+  },
+  "set" : 58
+}

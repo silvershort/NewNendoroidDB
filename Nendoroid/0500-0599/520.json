@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5000,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150511/5000/33460/large/8bd5d695a9a3b89fb4b7c23fa4555b4b.jpg",
+  "name" : {
+    "en" : "Nendoroid Yamato (ねんどろいど やまと)",
+    "ja" : "ねんどろいど 大和 (ねんどろいど やまと)",
+    "ko" : "야마토"
+  },
+  "num" : "520",
+  "price" : 7944,
+  "release_date" : [
+    "2015/09"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

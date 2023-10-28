@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3419,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111214/3419/16588/large/f63571399258a9d4f7a8d75a0cb710c2.jpg",
+  "name" : {
+    "en" : "Nendoroid Kyouko Sakura (ねんどろいど さくらきょうこ)",
+    "ja" : "ねんどろいど 佐倉杏子 (ねんどろいど さくらきょうこ)",
+    "ko" : "사쿠라 쿄쿄"
+  },
+  "num" : "217",
+  "price" : 3667,
+  "release_date" : [
+    "2012/05",
+    "2013/05"
+  ],
+  "series" : {
+    "en" : "Puella Magi Madoka Magica",
+    "ja" : "魔法少女まどか☆マギカ",
+    "ko" : "마법소녀 마도카 마기카"
+  },
+  "set" : 46
+}

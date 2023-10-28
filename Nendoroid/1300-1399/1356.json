@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9594,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200601/9594/70473/large/4fdb35739ed38e958c31c2fc35e50191.jpg",
+  "name" : {
+    "en" : "Nendoroid Guido Mista",
+    "ja" : "ねんどろいど グイード・ミスタ (ねんどろいど ぐいーど・みすた)",
+    "ko" : "귀도 미스타"
+  },
+  "num" : "1356",
+  "price" : 5478,
+  "release_date" : [
+    "2020/11"
+  ],
+  "series" : {
+    "en" : "JoJo's Bizarre Adventure: Golden Wind",
+    "ja" : "TVアニメ『ジョジョの奇妙な冒険 黄金の風』",
+    "ko" : "죠죠의 기묘한 모험"
+  },
+  "set" : 193
+}

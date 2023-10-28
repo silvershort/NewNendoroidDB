@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 11488,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210714/11488/87469/large/c7eeaf8d2acdc7420481d4ae4180cbbe.jpg",
+  "name" : {
+    "en" : "Nendoroid Illyasviel von Einzbern",
+    "ja" : "ねんどろいど イリヤスフィール・フォン・アインツベルン (ねんどろいど いりやすふぃーる・ふぉん・あいんつべるん)",
+    "ko" : "이리야스필 폰 아인츠베른"
+  },
+  "num" : "1680",
+  "price" : 5500,
+  "release_date" : [
+    "2022/03"
+  ],
+  "series" : {
+    "en" : "Fate/kaleid liner Prisma☆Illya: Licht - The Nameless Girl",
+    "ja" : "劇場版Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "ko" : "페이트/칼레이드 라이너 프리즈마☆이리야 Licht 이름없는 소녀"
+  },
+  "set" : 2
+}

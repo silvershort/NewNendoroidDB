@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6193,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170120/6193/43323/large/689816389e207151c89e81b5522b4caf.jpg",
+  "name" : {
+    "en" : "Nendoroid Pola",
+    "ja" : "ねんどろいど Pola（ポーラ） (ねんどろいど ぽーら)",
+    "ko" : "폴라"
+  },
+  "num" : "729",
+  "price" : 5907,
+  "release_date" : [
+    "2017/08"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4173,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20131225/4173/27531/large/ccc3ace59d9d295bfe3c3c81d8931c93.jpg",
+  "name" : {
+    "en" : "Nendoroid Luigi (ねんどろいど るいーじ)",
+    "ja" : "ねんどろいど ルイージ (ねんどろいど るいーじ)",
+    "ko" : "루이지"
+  },
+  "num" : "393",
+  "price" : 4584,
+  "release_date" : [
+    "2014/06",
+    "2020/04"
+  ],
+  "series" : {
+    "en" : "Super Mario",
+    "ja" : "スーパーマリオ",
+    "ko" : "슈퍼 마리오"
+  },
+  "set" : 94
+}

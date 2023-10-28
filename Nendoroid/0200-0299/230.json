@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3462,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20120207/3462/17233/large/8d0bfb997ab7e518488602aaa315d775.jpg",
+  "name" : {
+    "en" : "Nendoroid Mahiru Inami (ねんどろいど いなみまひる)",
+    "ja" : "ねんどろいど 伊波まひる (ねんどろいど いなみまひる)",
+    "ko" : "이나미 마히루"
+  },
+  "num" : "230",
+  "price" : 3981,
+  "release_date" : [
+    "2012/06"
+  ],
+  "series" : {
+    "en" : "WORKING!!",
+    "ja" : "WORKING!!",
+    "ko" : "WORKING!!"
+  },
+  "set" : 54
+}

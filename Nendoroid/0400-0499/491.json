@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4798,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20141218/4798/31862/large/0da63d7a73a8b40264bd7f9c200513bf.jpg",
+  "name" : {
+    "en" : "Nendoroid Kirishima",
+    "ja" : "ねんどろいど 霧島 (ねんどろいど きりしま)",
+    "ko" : "키리시마"
+  },
+  "num" : "491",
+  "price" : 5093,
+  "release_date" : [
+    "2015/05"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

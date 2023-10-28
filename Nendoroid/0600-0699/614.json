@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5786,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160705/5786/39951/large/5fa808525c409f0f03be5e544fd17a12.jpg",
+  "name" : {
+    "en" : "Nendoroid Mirana",
+    "ja" : "ねんどろいど ミラーナ (ねんどろいど みらーな)",
+    "ko" : "미라나"
+  },
+  "num" : "614",
+  "price" : 4584,
+  "release_date" : [
+    "2017/02"
+  ],
+  "series" : {
+    "en" : "DOTA 2",
+    "ja" : "Dota 2",
+    "ko" : "도타2"
+  },
+  "set" : 130
+}

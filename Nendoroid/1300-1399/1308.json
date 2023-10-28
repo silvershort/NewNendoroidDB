@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9375,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200323/9375/68484/large/34e041a82bcfcc8a45d1ffe452a2a856.jpg",
+  "name" : {
+    "en" : "Nendoroid Mira Konohata",
+    "ja" : "ねんどろいど 木ノ幡みら (ねんどろいど このはたみら)",
+    "ko" : "코노하타 미라"
+  },
+  "num" : "1308",
+  "price" : 5300,
+  "release_date" : [
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "Asteroid in Love",
+    "ja" : "恋する小惑星",
+    "ko" : "사랑하는 소행성"
+  }
+}

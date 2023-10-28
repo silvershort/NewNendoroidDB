@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10960,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210323/10960/82566/large/ae6f3e6712d49183fd46eb683fe7590a.jpg",
+  "name" : {
+    "en" : "Nendoroid Leon Channel",
+    "ja" : "ねんどろいど レオンチャンネル (ねんどろいど れおんちゃんねる)",
+    "ko" : "레온"
+  },
+  "num" : "1588",
+  "price" : 5000,
+  "release_date" : [
+    "2021/10"
+  ],
+  "series" : {
+    "en" : "Leon Channel",
+    "ja" : "レオンチャンネル",
+    "ko" : "버츄얼 유튜버"
+  },
+  "set" : 171
+}

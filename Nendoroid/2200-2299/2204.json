@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15127,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231024/15127/122584/large/30aeb337bf461f7b16aae3c54c1954c6.jpg",
+  "name" : {
+    "en" : "Amane Kanata",
+    "ja" : "天音かなた",
+    "ko" : "아마네 카나타"
+  },
+  "num" : "2204",
+  "price" : 6900,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

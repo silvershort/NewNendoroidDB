@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11510,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210719/11510/87372/large/dc37ac74217c617a2d56493dfd4669a8.jpg",
+  "name" : {
+    "en" : "Nendoroid Thorns",
+    "ja" : "ねんどろいど ソーンズ (ねんどろいど そーんず)",
+    "ko" : "쏜즈"
+  },
+  "num" : "1679",
+  "price" : 6500,
+  "release_date" : [
+    "2022/05"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 218
+}

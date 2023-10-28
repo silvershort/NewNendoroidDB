@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 3013,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20101108/3013/11932/large/9143af84a360a1c9df4deb3c7bbcfcc0.jpg",
+  "name" : {
+    "en" : "Nendoroid Risty (ねんどろいど りすてぃ)",
+    "ja" : "ねんどろいど リスティ (ねんどろいど りすてぃ)",
+    "ko" : "리스티"
+  },
+  "num" : "143a",
+  "price" : 3667,
+  "release_date" : [
+    "2011/03"
+  ],
+  "series" : {
+    "en" : "Queen's Blade",
+    "ja" : "クイーンズブレイド",
+    "ko" : "퀸즈 블레이드"
+  },
+  "set" : 35
+}

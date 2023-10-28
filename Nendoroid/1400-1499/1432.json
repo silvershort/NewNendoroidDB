@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9921,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200814/9921/73116/large/4784973bde3d9b41ce4863901e656b7d.jpg",
+  "name" : {
+    "en" : "Nendoroid Tatsuya Shiba",
+    "ja" : "ねんどろいど 司波達也 (ねんどろいど しばたつや)",
+    "ko" : "시바 타츠야"
+  },
+  "num" : "1432",
+  "price" : 4800,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "The Irregular at Magic High School: Visitor Arc",
+    "ja" : "魔法科高校の劣等生 来訪者編",
+    "ko" : "마법과 고교의 열등생"
+  }
+}

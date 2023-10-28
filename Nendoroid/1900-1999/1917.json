@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12937,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220704/12937/101116/large/2ec7c205e92b5d7021c670aba32ec802.jpg",
+  "name" : {
+    "en" : "Nendoroid Spider-Man: No Way Home Ver.",
+    "ja" : "ねんどろいど スパイダーマン ノー・ウェイ・ホーム Ver. (ねんどろいど すぱいだーまん のー・うぇい・ほーむ Ver.)",
+    "ko" : "스파이더맨: 노 웨이 홈 Ver."
+  },
+  "num" : "1917",
+  "price" : 9800,
+  "release_date" : [
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "Spider-Man: No Way Home",
+    "ja" : "スパイダーマン：ノー・ウェイ・ホーム",
+    "ko" : "스파이더맨: 노 웨이 홈"
+  },
+  "set" : 64
+}

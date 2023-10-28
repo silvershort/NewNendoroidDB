@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210529/11285/85350/large/660fdb987d61b1dfb43bc1c267d82c74.jpg",
+  "name" : {
+    "en" : "Nendoroid Zhang Qiling",
+    "ja" : "ねんどろいど 張起霊 (ねんどろいど ちょうきれい)",
+    "ko" : "장기령"
+  },
+  "num" : "1642",
+  "price" : 6100,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "TIME RAIDERS",
+    "ja" : "盗墓筆記",
+    "ko" : "도묘필기"
+  },
+  "set" : 267
+}

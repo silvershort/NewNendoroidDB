@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6801,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20171017/6801/48193/large/d4ba75f380de51a1198503065665090c.jpg",
+  "name" : {
+    "en" : "Nendoroid Ariel",
+    "ja" : "ねんどろいど アリエル (ねんどろいど ありえる)",
+    "ko" : "에리얼"
+  },
+  "num" : "836",
+  "price" : 5000,
+  "release_date" : [
+    "2018/03",
+    "2021/04"
+  ],
+  "series" : {
+    "en" : "The Little Mermaid",
+    "ja" : "リトル・マーメイド",
+    "ko" : "인어공주"
+  },
+  "set" : 32
+}

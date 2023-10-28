@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8650,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190802/8650/62640/large/1bef276ec421c7ceef6f73082916d7e0.jpg",
+  "name" : {
+    "en" : "Nendoroid Gon Freecss",
+    "ja" : "ねんどろいど ゴン＝フリークス (ねんどろいど ごん＝ふりーくす)",
+    "ko" : "곤 프릭스"
+  },
+  "num" : "1183",
+  "price" : 5500,
+  "release_date" : [
+    "2020/07",
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  },
+  "set" : 222
+}

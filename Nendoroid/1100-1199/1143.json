@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8384,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190531/8384/60600/large/7f6815af32af2a87ee27237dd54fc79f.jpg",
+  "name" : {
+    "en" : "Nendoroid Ann Takamaki: Phantom Thief Ver.",
+    "ja" : "ねんどろいど 高巻杏 怪盗服Ver. (ねんどろいど たかまきあん かいとうふくVer.)",
+    "ko" : "타카마키 안 괴도복 Ver."
+  },
+  "num" : "1143",
+  "price" : 5400,
+  "release_date" : [
+    "2019/11"
+  ],
+  "series" : {
+    "en" : "PERSONA5 the Animation",
+    "ja" : "PERSONA5 the Animation",
+    "ko" : "페르소나5"
+  },
+  "set" : 58
+}

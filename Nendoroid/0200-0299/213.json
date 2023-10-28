@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 3385,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20111128/3385/16351/large/3d250b775090fb4f84c5573beda30012.jpg",
+  "name" : {
+    "en" : "Nendoroid Eiji Niizuma (ねんどろいど にいづまえいじ)",
+    "ja" : "ねんどろいど 新妻エイジ (ねんどろいど にいづまえいじ)",
+    "ko" : "니즈마 에이지"
+  },
+  "num" : "213",
+  "price" : 3667,
+  "release_date" : [
+    "2012/04"
+  ],
+  "series" : {
+    "en" : "Bakuman",
+    "ja" : "バクマン。",
+    "ko" : "바쿠만"
+  },
+  "set" : 43
+}

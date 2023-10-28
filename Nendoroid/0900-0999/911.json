@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7198,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180410/7198/51337/large/e5a175cd9b276ae61086905f395efedf.jpg",
+  "name" : {
+    "en" : "Nendoroid Common Raccoon",
+    "ja" : "ねんどろいど アライグマ (ねんどろいど あらいぐま)",
+    "ko" : "아라이상"
+  },
+  "num" : "911",
+  "price" : 4584,
+  "release_date" : [
+    "2018/10"
+  ],
+  "series" : {
+    "en" : "Kemono Friends",
+    "ja" : "けものフレンズ",
+    "ko" : "케모노 프렌즈"
+  },
+  "set" : 157
+}

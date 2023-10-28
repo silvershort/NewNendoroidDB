@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9605,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200603/9605/70419/large/c42debbc41aabb7146103d7540c02ee7.jpg",
+  "name" : {
+    "en" : "Nendoroid Inosuke Hashibira",
+    "ja" : "ねんどろいど 嘴平伊之助 (ねんどろいど はしびらいのすけ)",
+    "ko" : "하시비라 이노스케"
+  },
+  "num" : "1361",
+  "price" : 5800,
+  "release_date" : [
+    "2020/11",
+    "2021/06"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  },
+  "set" : 224
+}

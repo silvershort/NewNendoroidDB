@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10178,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201005/10178/75568/large/2e7ff4b5adfe85d318297796df2577d7.jpg",
+  "name" : {
+    "en" : "Nendoroid Karyl",
+    "ja" : "ねんどろいど キャル (ねんどろいど きゃる)",
+    "ko" : "캬루"
+  },
+  "num" : "1480",
+  "price" : 5800,
+  "release_date" : [
+    "2021/05"
+  ],
+  "series" : {
+    "en" : "Princess Connect! Re: Dive",
+    "ja" : "プリンセスコネクト！Re:Dive",
+    "ko" : "프린세스 커넥트! Re:Dive"
+  },
+  "set" : 255
+}

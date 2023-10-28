@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 9310,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200226/9310/67971/large/5a2395e512700a57c822442c4d5fd47c.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku 2020 Ver.",
+    "ja" : "ねんどろいど レーシングミク 2020Ver. (ねんどろいど れーしんぐみく 2020Ver.)",
+    "ko" : "레이싱 미쿠 2020 Ver."
+  },
+  "num" : "1293",
+  "price" : 6600,
+  "release_date" : [
+    "2020/10"
+  ],
+  "series" : {
+    "en" : "Hatsune Miku GT Project",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "보컬로이드(VOCALOID)"
+  },
+  "set" : 23
+}

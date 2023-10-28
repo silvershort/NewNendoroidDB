@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5053,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20150605/5053/33889/large/64a4b879800fe6123caec9abb87ecd5a.jpg",
+  "name" : {
+    "en" : "Nendoroid Nozomi Tojo (ねんどろいど とうじょうのぞみ)",
+    "ja" : "ねんどろいど 東條希 (ねんどろいど とうじょうのぞみ)",
+    "ko" : "토죠 노조미"
+  },
+  "num" : "530",
+  "price" : 3565,
+  "release_date" : [
+    "2015/10"
+  ],
+  "series" : {
+    "en" : "LoveLive!",
+    "ja" : "ラブライブ！",
+    "ko" : "러브라이브!"
+  },
+  "set" : 106
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8901,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20191010/8901/64540/large/878a76273c739e4813117fe2cb99fd94.jpg",
+  "name" : {
+    "en" : "Nendoroid Yusuke Urameshi",
+    "ja" : "ねんどろいど 浦飯幽助 (ねんどろいど うらめしゆうすけ)",
+    "ko" : "우라메시 유스케"
+  },
+  "num" : "1221",
+  "price" : 5200,
+  "release_date" : [
+    "2020/06"
+  ],
+  "series" : {
+    "en" : "Yu Yu Hakusho",
+    "ja" : "幽☆遊☆白書",
+    "ko" : "유유백서"
+  },
+  "set" : 228
+}

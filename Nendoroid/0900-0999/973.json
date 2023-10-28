@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7481,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180731/7481/53531/large/a8c47bf5e556c14c9d1121b1bc51ce7f.jpg",
+  "name" : {
+    "en" : "Nendoroid Chiya",
+    "ja" : "ねんどろいど 千夜 (ねんどろいど ちや)",
+    "ko" : "우지마츠 치야"
+  },
+  "num" : "973",
+  "price" : 4685,
+  "release_date" : [
+    "2019/04"
+  ],
+  "series" : {
+    "en" : "Is the Order a Rabbit??",
+    "ja" : "ご注文はうさぎですか？？",
+    "ko" : "주문은 토끼입니까?"
+  },
+  "set" : 124
+}

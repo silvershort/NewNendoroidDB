@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 7540,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180821/7540/53936/large/6823585474ff7e37b3ebd68ecf8979de.jpg",
+  "name" : {
+    "en" : "Nendoroid Jashin-chan",
+    "ja" : "ねんどろいど 邪神ちゃん (ねんどろいど じゃしんちゃん)",
+    "ko" : "사신짱"
+  },
+  "num" : "980",
+  "price" : 5800,
+  "release_date" : [
+    "2019/05",
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Dropkick on my Devil!",
+    "ja" : "邪神ちゃんドロップキック",
+    "ko" : "사신짱 드롭킥"
+  }
+}

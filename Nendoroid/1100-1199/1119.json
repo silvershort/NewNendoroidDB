@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 8217,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190403/8217/59295/large/b5cfe5d7a8ae0be98d170eb98fbc51ef.jpg",
+  "name" : {
+    "en" : "Nendoroid Qi Bai",
+    "ja" : "ねんどろいど ハク (ねんどろいど はく)",
+    "ko" : "백기"
+  },
+  "num" : "1119",
+  "price" : 5500,
+  "release_date" : [
+    "2020/01",
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Mr. Love: Queen's Choice",
+    "ja" : "恋とプロデューサー～EVOL×LOVE～",
+    "ko" : "러브앤프로듀서"
+  },
+  "set" : 211
+}

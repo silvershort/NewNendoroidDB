@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9967,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200826/9967/73574/large/5b23ec8bbb5244b45cff3717bb779d6f.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinji Ikari: Plugsuit Ver.",
+    "ja" : "ねんどろいど 碇シンジ プラグスーツVer. (ねんどろいど いかりしんじ ぷらぐすーつVer.)",
+    "ko" : "이카리 신지 플러그 슈트 Ver."
+  },
+  "num" : "1445",
+  "price" : 5800,
+  "release_date" : [
+    "2021/04"
+  ],
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  },
+  "set" : 112
+}

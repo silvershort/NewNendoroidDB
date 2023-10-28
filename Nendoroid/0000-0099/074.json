@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 2568,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20091023/2568/7498/large/eadbcca98846fb57cec9109c9c8b542b.jpg",
+  "name" : {
+    "en" : "Nendoroid Reimu Hakurei (ねんどろいどはくれいれいむ)",
+    "ja" : "ねんどろいど 博麗霊夢 (ねんどろいど　はくれいれいむ)",
+    "ko" : "하이레이 레이무 "
+  },
+  "num" : "074",
+  "price" : 3143,
+  "release_date" : [
+    "2011/06"
+  ],
+  "series" : {
+    "en" : "Touhou Project",
+    "ja" : "東方Project",
+    "ko" : "동방 프로젝트"
+  },
+  "set" : 22
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12471,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220316/12471/96601/large/63da4aabdb287bee2d788bf44d1e960d.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoko Komi",
+    "ja" : "ねんどろいど 古見硝子 (ねんどろいど こみしょうこ)",
+    "ko" : "코미 쇼코"
+  },
+  "num" : "1853",
+  "price" : 5500,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Komi Can't Communicate",
+    "ja" : "古見さんは、コミュ症です。",
+    "ko" : "코미양은 커뮤증입니다"
+  }
+}

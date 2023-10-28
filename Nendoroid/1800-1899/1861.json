@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12601,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220421/12601/98349/large/b5242896864ea957b4387b42b5fd66fd.jpg",
+  "name" : {
+    "en" : "Nendoroid Inugami Korone",
+    "ja" : "ねんどろいど 戌神ころね (ねんどろいど いぬがみころね)",
+    "ko" : "이누가미 코로네"
+  },
+  "num" : "1861",
+  "price" : 6200,
+  "release_date" : [
+    "2022/11"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  },
+  "set" : 268
+}

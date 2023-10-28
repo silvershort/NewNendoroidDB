@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6326,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170317/6326/44396/large/0a25f31c685caa1790d33d45b1e092f7.jpg",
+  "name" : {
+    "en" : "Nendoroid Ruby Kurosawa",
+    "ja" : "ねんどろいど 黒澤ルビィ (ねんどろいど くろさわるびぃ)",
+    "ko" : "쿠로사와 루비"
+  },
+  "num" : "746",
+  "price" : 3565,
+  "release_date" : [
+    "2017/09"
+  ],
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 106
+}

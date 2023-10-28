@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7272,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180511/7272/51907/large/cfc80324edfee27185d035a9c3f549cf.jpg",
+  "name" : {
+    "en" : "Nendoroid Jiraiya & Gamabunta Set",
+    "ja" : "ねんどろいど 自来也＆ガマブン太セット (ねんどろいど じらいや＆がまぶんたせっと)",
+    "ko" : "지라이야 & 가마분타"
+  },
+  "num" : "886",
+  "price" : 5602,
+  "release_date" : [
+    "2018/07"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  },
+  "set" : 146
+}

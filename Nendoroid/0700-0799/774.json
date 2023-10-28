@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6467,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170526/6467/45608/large/fccf9cf42a26f7e3d062959a6bceb2df.jpg",
+  "name" : {
+    "en" : "Nendoroid Sagiri Izumi",
+    "ja" : "ねんどろいど 和泉紗霧 (ねんどろいど いずみさぎり)",
+    "ko" : "이즈미 사기리"
+  },
+  "num" : "774",
+  "price" : 4278,
+  "release_date" : [
+    "2017/11"
+  ],
+  "series" : {
+    "en" : "Eromanga Sensei",
+    "ja" : "エロマンガ先生",
+    "ko" : "에로망가 선생"
+  },
+  "set" : 159
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 5972,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160923/5972/41466/large/ef6e760512a835e4dbda5ac405e8166a.jpg",
+  "name" : {
+    "en" : "Nendoroid Chika Takami",
+    "ja" : "ねんどろいど 高海千歌 (ねんどろいど たかみちか)",
+    "ko" : "타카미 치카"
+  },
+  "num" : "680",
+  "price" : 3565,
+  "release_date" : [
+    "2018/06"
+  ],
+  "series" : {
+    "en" : "LoveLive!Sunshine!!",
+    "ja" : "ラブライブ！サンシャイン!!",
+    "ko" : "러브라이브! 선샤인!!"
+  },
+  "set" : 106
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12407,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220301/12407/95971/large/7ef21687c4cfc203d37589e863e26caf.jpg",
+  "name" : {
+    "en" : "Nendoroid Racing Miku: 2022 Ver.",
+    "ja" : "ねんどろいど レーシングミク 2022Ver. (ねんどろいど れーしんんぐみく 2022Ver.)",
+    "ko" : "레이싱 미쿠 : 2022 Ver."
+  },
+  "num" : "1839",
+  "price" : 7000,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Hatsune Miku GT Project",
+    "ja" : "初音ミク GTプロジェクト",
+    "ko" : "하츠네미쿠"
+  },
+  "set" : 23
+}

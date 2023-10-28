@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 9830,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20200728/9830/72475/large/ed2fea758cb9aad1725309594c7b9e77.jpg",
+  "name" : {
+    "en" : "Nendoroid Star-Lord: Endgame Ver. DX",
+    "ja" : "ねんどろいど スター・ロード エンドゲーム Ver. DX (ねんどろいど すたー・ろーど えんどげーむ Ver. DX)",
+    "ko" : "스타로드 엔드게임 DX Ver."
+  },
+  "num" : "1426-DX",
+  "price" : 8500,
+  "release_date" : [
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Avengers: Endgame",
+    "ja" : "アベンジャーズ／エンドゲーム",
+    "ko" : "어벤져스"
+  },
+  "set" : 64
+}

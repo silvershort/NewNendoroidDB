@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12756,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220527/12756/99558/large/cf2f3483ff3fe9387bb1062eee7870b2.jpg",
+  "name" : {
+    "en" : "Nendoroid Justice",
+    "ja" : "ねんどろいど ジャスティス (ねんどろいど じゃすてぃす)",
+    "ko" : "저스티스"
+  },
+  "num" : "1884",
+  "price" : 7000,
+  "release_date" : [
+    "2022/12"
+  ],
+  "series" : {
+    "en" : "Helltaker",
+    "ja" : "Helltaker",
+    "ko" : "헬테이커"
+  },
+  "set" : 266
+}

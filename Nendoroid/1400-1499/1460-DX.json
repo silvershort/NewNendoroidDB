@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10688,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210119/10688/79933/large/c9120d2ca07c1dfdae7f5c0b79eb231a.jpg",
+  "name" : {
+    "en" : "Nendoroid Ao Bing DX Ver.",
+    "ja" : "ねんどろいど 敖丙 DX Ver. (ねんどろいど あおびん DX Ver.)",
+    "ko" : "오병 DX"
+  },
+  "num" : "1460-DX",
+  "price" : 6800,
+  "release_date" : [
+    "2021/07"
+  ],
+  "series" : {
+    "en" : "Ne Zha",
+    "ja" : "哪吒之魔童降世",
+    "ko" : "나타지마동강세"
+  },
+  "set" : 247
+}

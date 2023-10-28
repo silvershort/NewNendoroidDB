@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12421,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220303/12421/96100/large/e2969fac645f994181baa8f81a931c38.jpg",
+  "name" : {
+    "en" : "Nendoroid Starscream",
+    "ja" : "ねんどろいど スタースクリーム (ねんどろいど すたーすくりーむ)",
+    "ko" : "스타스크림"
+  },
+  "num" : "1838",
+  "price" : 5500,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Transformers",
+    "ja" : "トランスフォーマー",
+    "ko" : "트랜스포머"
+  },
+  "set" : 244
+}

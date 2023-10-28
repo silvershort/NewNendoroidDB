@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12367,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220218/12367/95618/large/4560e5d93d8129e15bcac280e83f7b20.jpg",
+  "name" : {
+    "en" : "Nendoroid Gary \"Eggsy\" Unwin",
+    "ja" : "ねんどろいど ゲイリー・“エグジー”・アンウィン (ねんどろいど げいりー・“えぐじー”・あんうぃん)",
+    "ko" : "게리 에그시 언윈"
+  },
+  "num" : "1824",
+  "price" : 6800,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "Kingsman: The Golden Circle",
+    "ja" : "キングスマン：ゴールデン・サークル",
+    "ko" : "킹스맨:골든 서클"
+  },
+  "set" : 293
+}

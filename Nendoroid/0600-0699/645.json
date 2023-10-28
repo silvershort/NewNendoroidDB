@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5762,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160623/5762/39740/large/a9aa433ff3c894ed010e238023da4be0.jpg",
+  "name" : {
+    "en" : "Nendoroid Genos: Super Movable Edition",
+    "ja" : "ねんどろいど ジェノス スーパームーバブル・エディション (ねんどろいど じぇのす すーぱーむーばぶる・えでぃしょん)",
+    "ko" : "제노스 슈퍼 무버블 에디션"
+  },
+  "num" : "645",
+  "price" : 4584,
+  "release_date" : [
+    "2016/12"
+  ],
+  "series" : {
+    "en" : "ONE-PUNCH MAN",
+    "ja" : "ワンパンマン",
+    "ko" : "원펀맨"
+  },
+  "set" : 127
+}

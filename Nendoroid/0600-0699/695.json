@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6082,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161125/6082/42422/large/ce72a504b53fca564ae03f96621d8dfe.jpg",
+  "name" : {
+    "en" : "Nendoroid Yudachi Kai-II",
+    "ja" : "ねんどろいど 夕立改二 (ねんどろいど ゆうだちかいに)",
+    "ko" : "유다치"
+  },
+  "num" : "695",
+  "price" : 5907,
+  "release_date" : [
+    "2017/06"
+  ],
+  "series" : {
+    "en" : "Kantai Collection -KanColle-",
+    "ja" : "艦隊これくしょん ‐艦これ‐",
+    "ko" : "함대 컬렉션"
+  },
+  "set" : 90
+}

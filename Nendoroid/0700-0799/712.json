@@ -1,0 +1,22 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 6122,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20161208/6122/42780/large/6a7aa0f6097c2ca983710ab7cf55ca3c.jpg",
+  "name" : {
+    "en" : "Nendoroid Pipimi",
+    "ja" : "ねんどろいど ピピ美 (ねんどろいど ぴぴみ)",
+    "ko" : "피피미"
+  },
+  "num" : "712",
+  "price" : 4278,
+  "release_date" : [
+    "2017/06",
+    "2018/07"
+  ],
+  "series" : {
+    "en" : "POP TEAM EPIC",
+    "ja" : "ポプテピピック",
+    "ko" : "팝 팀 에픽"
+  },
+  "set" : 151
+}

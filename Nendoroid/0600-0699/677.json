@@ -1,0 +1,22 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 5966,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20160916/5966/41435/large/1f3b24905f7d63fee5cf8acbce18c272.jpg",
+  "name" : {
+    "en" : "Nendoroid Okurikara",
+    "ja" : "ねんどろいど 大倶利伽羅 (ねんどろいど おおくりから)",
+    "ko" : "오오쿠리카라"
+  },
+  "num" : "677",
+  "price" : 4584,
+  "release_date" : [
+    "2017/02",
+    "2018/07"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  },
+  "set" : 117
+}

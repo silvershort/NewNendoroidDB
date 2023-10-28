@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 4557,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140822/4557/30093/large/243de6666e36b7017c9b7e72aa79db03.jpg",
+  "name" : {
+    "en" : "Nendoroid Himiko (ねんどろいど ひみこ)",
+    "ja" : "ねんどろいど ヒミコ (ねんどろいど ひみこ)",
+    "ko" : "히미코"
+  },
+  "num" : "451",
+  "price" : 4584,
+  "release_date" : [
+    "2014/12"
+  ],
+  "series" : {
+    "en" : "Nobunaga the Fool",
+    "ja" : "ノブナガ・ザ・フール",
+    "ko" : "노부나가 더 풀"
+  },
+  "set" : 105
+}

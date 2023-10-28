@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8483,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190701/8483/61436/large/b4fdf03e0f9b649f19b34b4999b1fe3e.jpg",
+  "name" : {
+    "en" : "Nendoroid Naga the Serpent",
+    "ja" : "ねんどろいど 白蛇のナーガ (ねんどろいど さーぺんとのなーが)",
+    "ko" : "서펜트의 나가"
+  },
+  "num" : "1156",
+  "price" : 6200,
+  "release_date" : [
+    "2019/12"
+  ],
+  "series" : {
+    "en" : "Slayers",
+    "ja" : "スレイヤーズ",
+    "ko" : "슬레이어즈"
+  },
+  "set" : 173
+}

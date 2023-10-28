@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 10501,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20201207/10501/78335/large/09c5c81e68d8a108b02c06d15abba757.jpg",
+  "name" : {
+    "en" : "Nendoroid Ryza",
+    "ja" : "ねんどろいど ライザ (ねんどろいど らいざ)",
+    "ko" : "라이잘린 슈타우트"
+  },
+  "num" : "1543",
+  "price" : 7073,
+  "release_date" : [
+    "2021/12"
+  ],
+  "series" : {
+    "en" : "Atelier Ryza: Ever Darkness & the Secret Hideout",
+    "ja" : "ライザのアトリエ ～常闇の女王と秘密の隠れ家～",
+    "ko" : "라이자의 아틀리에"
+  }
+}

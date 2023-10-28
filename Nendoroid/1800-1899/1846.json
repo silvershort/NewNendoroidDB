@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 12489,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220322/12489/96813/large/9f8fb362b0ff9257708e12fb35cb9f9f.jpg",
+  "name" : {
+    "en" : "Nendoroid Nagi Rokuya",
+    "ja" : "ねんどろいど 六弥 ナギ (ねんどろいど ろくや なぎ)",
+    "ko" : "로쿠야 나기"
+  },
+  "num" : "1846",
+  "price" : 5300,
+  "release_date" : [
+    "2022/10"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  },
+  "set" : 176
+}

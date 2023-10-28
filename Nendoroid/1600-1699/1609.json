@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11091,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210415/11091/83597/large/5a8474c91409d8eb8e763c0622578c8c.jpg",
+  "name" : {
+    "en" : "Nendoroid Bondrewd",
+    "ja" : "ねんどろいど ボンドルド (ねんどろいど ぼんどるど)",
+    "ko" : "본도르드"
+  },
+  "num" : "1609",
+  "price" : 5900,
+  "release_date" : [
+    "2021/11"
+  ],
+  "series" : {
+    "en" : "Made in Abyss: Dawn of the Deep Soul",
+    "ja" : "劇場版「メイドインアビス」-深き魂の黎明-",
+    "ko" : "메이드 인 어비스"
+  },
+  "set" : 185
+}

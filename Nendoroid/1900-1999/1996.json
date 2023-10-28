@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 13585,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20221121/13585/109156/large/de4219e4f380ae02ea4ba92836c4d74d.jpg",
+  "name" : {
+    "en" : "Nendoroid Chiho Sasaki",
+    "ja" : "ねんどろいど 佐々木千穂 (ねんどろいど ささきちほ)",
+    "ko" : "사사키 치호"
+  },
+  "num" : "1996",
+  "price" : 8000,
+  "release_date" : [
+    "2023/07"
+  ],
+  "series" : {
+    "en" : "The Devil Is a Part-Timer!",
+    "ja" : "はたらく魔王さま！！",
+    "ko" : "알바 뛰는 마왕님!"
+  }
+}

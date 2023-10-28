@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 11781,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210914/11781/89939/large/7eecb7ee13cf8926ca2a8c2411d2456d.jpg",
+  "name" : {
+    "en" : "Nendoroid Traveler (Aether)",
+    "ja" : "ねんどろいど 旅人（空） (ねんどろいど たびびと（そら）)",
+    "ko" : "아르테르"
+  },
+  "num" : "1717",
+  "price" : 5800,
+  "release_date" : [
+    "2022/07"
+  ],
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  },
+  "set" : 276
+}

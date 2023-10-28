@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 10898,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20210305/10898/81912/large/551d125187f53482eca27e65bfccc5a3.jpg",
+  "name" : {
+    "en" : "Nendoroid Shinsuke Kita",
+    "ja" : "ねんどろいど 北 信介 (ねんどろいど きた しんすけ)",
+    "ko" : "키타 신스케"
+  },
+  "num" : "1585",
+  "price" : 5280,
+  "release_date" : [
+    "2021/09"
+  ],
+  "series" : {
+    "en" : "HAIKYU!! TO THE TOP",
+    "ja" : "ハイキュー!! TO THE TOP",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

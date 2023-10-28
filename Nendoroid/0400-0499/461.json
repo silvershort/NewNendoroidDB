@@ -1,0 +1,24 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 4644,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20140929/4644/30711/large/af22f9b9e370add57aa39bdbb6a35dc8.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoyo Hinata",
+    "ja" : "ねんどろいど 日向翔陽 (ねんどろいど ひなたしょうよう)",
+    "ko" : "히나타 쇼오"
+  },
+  "num" : "461",
+  "price" : 4074,
+  "release_date" : [
+    "2015/01",
+    "2016/01",
+    "2017/05",
+    "2020/12"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

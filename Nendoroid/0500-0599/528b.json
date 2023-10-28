@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 7010,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20180124/7010/49829/large/50ad83f7b997b6d1f7a61ccefa48f595.jpg",
+  "name" : {
+    "en" : "Nendoroid Shoyo Hinata: Jersey Ver.",
+    "ja" : "ねんどろいど 日向翔陽 ジャージVer. (ねんどろいど ひなたしょうよう じゃーじVer.)",
+    "ko" : "히나타 쇼요 츄리닝 Ver."
+  },
+  "num" : "528b",
+  "price" : 3565,
+  "release_date" : [
+    "2018/09"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  },
+  "set" : 111
+}

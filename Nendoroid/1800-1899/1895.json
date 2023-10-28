@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12833,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20220617/12833/100146/large/ca32f4f712316eb77a2a949bcbec1ee1.jpg",
+  "name" : {
+    "en" : "Nendoroid Skadi",
+    "ja" : "ねんどろいど スカジ (ねんどろいど すかじ)",
+    "ko" : "스카디"
+  },
+  "num" : "1895",
+  "price" : 7200,
+  "release_date" : [
+    "2023/01"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  },
+  "set" : 218
+}

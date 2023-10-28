@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 8533,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20190709/8533/66998/large/2b083ef8963230a4d5fdc6d3032f3428.jpg",
+  "name" : {
+    "en" : "Nendoroid Jeanne d'Arc: Racing Ver.",
+    "ja" : "ねんどろいど ジャンヌ・ダルク レーシングVer. (ねんどろいど るーらー/じゃんぬ・だるく れーしんぐVer.)",
+    "ko" : "잔 다르크 레이싱 Ver."
+  },
+  "num" : "1178",
+  "price" : 5500,
+  "release_date" : [
+    "2020/05"
+  ],
+  "series" : {
+    "en" : "GOODSMILE RACING & TYPE-MOON RACING",
+    "ja" : "GOODSMILE RACING ＆ TYPE-MOON RACING",
+    "ko" : "페이트 시리즈"
+  },
+  "set" : 2
+}
