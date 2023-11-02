@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15137,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15137/122699/large/6a4bc3b2f33abc2245f0a9e8982120e4.jpg",
+  "name" : {
+    "en" : "Katsuki Bakugo: U.A. School Uniform Ver.",
+    "ja" : "爆豪勝己 雄英制服Ver.",
+    "ko" : "바쿠고 카츠키 유에이 교복Ver."
+  },
+  "num" : "2313",
+  "price" : 6200,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

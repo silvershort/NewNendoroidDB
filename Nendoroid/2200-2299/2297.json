@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15138,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15138/122704/large/df13fa54dd3cee7a360956e1c9a653c4.jpg",
+  "name" : {
+    "en" : "Rintaro Suna",
+    "ja" : "角名 倫太郎",
+    "ko" : "스나 린타로"
+  },
+  "num" : "2297",
+  "price" : 6800,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Haikyu!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  }
+}

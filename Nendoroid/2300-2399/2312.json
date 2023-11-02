@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15136,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15136/122692/large/dc725d17799c97d8e787711dfa3cb2e9.jpg",
+  "name" : {
+    "en" : "Izuku Midoriya: U.A. School Uniform Ver.",
+    "ja" : "緑谷出久 雄英制服Ver.",
+    "ko" : "미도리야 이즈쿠 유에이 교복Ver."
+  },
+  "num" : "2312",
+  "price" : 6200,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15140,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15140/122722/large/50925a978a7476a787e1112801e3b375.jpg",
+  "name" : {
+    "en" : "Yuno Gasai",
+    "ja" : "我妻由乃",
+    "ko" : "가사이 유노"
+  },
+  "num" : "2316",
+  "price" : 6800,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Future Diary",
+    "ja" : "未来日記",
+    "ko" : "미래 일기"
+  }
+}

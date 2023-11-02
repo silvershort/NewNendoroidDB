@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15139,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15139/122714/large/456743c1aceb86d74d86f55a5f35e5e1.jpg",
+  "name" : {
+    "en" : "Kobayashi",
+    "ja" : "小林さん",
+    "ko" : "고바야시 씨"
+  },
+  "num" : "2298",
+  "price" : 6800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Miss Kobayashi's Dragon Maid",
+    "ja" : "小林さんちのメイドラゴン",
+    "ko" : "코바야시네 메이드래곤"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15147,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15147/122778/large/19b0850df14867bff4cfadb4d33bfe69.jpg",
+  "name" : {
+    "en" : "Invincible",
+    "ja" : "インビンシブル",
+    "ko" : "인빈시블"
+  },
+  "num" : "2308",
+  "price" : 6800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Invincible",
+    "ja" : "インビンシブル ～無敵のヒーロー～",
+    "ko" : "인빈시블"
+  }
+}

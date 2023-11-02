@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15149,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15149/122790/large/b38ae1bd1bf5c327206a758c3e7d280f.jpg",
+  "name" : {
+    "en" : "Choso",
+    "ja" : "脹相",
+    "ko" : "쵸소우"
+  },
+  "num" : "2290",
+  "price" : 6500,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  }
+}

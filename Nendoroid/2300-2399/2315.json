@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15143,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231026/15143/122759/large/ebb0233bce41354b44bba065262dc81a.jpg",
+  "name" : {
+    "en" : "Rapi",
+    "ja" : "ラピ",
+    "ko" : "라피"
+  },
+  "num" : "2315",
+  "price" : 7000,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}
