@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15246,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231120/15246/123632/large/8004c3ebca1a16840ae75955d6e25399.jpg",
+  "name" : {
+    "en" : "Wiz",
+    "ja" : "ウィズ",
+    "ko" : "위즈"
+  },
+  "num" : "2328",
+  "price" : 6300,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO! 3",
+    "ja" : "この素晴らしい世界に祝福を！3",
+    "ko" : "이 멋진 세계에 축복을!"
+  }
+}

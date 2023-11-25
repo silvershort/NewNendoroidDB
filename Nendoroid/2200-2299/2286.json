@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15199,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231116/15199/123198/large/af3fd73137cc17a49c0a5e014b593d43.jpg",
+  "name" : {
+    "en" : "Alice Carroll",
+    "ja" : "アリス・キャロル",
+    "ko" : "아리스 캐롤"
+  },
+  "num" : "2286",
+  "price" : 7500,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "ARIA",
+    "ja" : "ARIA",
+    "ko" : "아리아"
+  }
+}

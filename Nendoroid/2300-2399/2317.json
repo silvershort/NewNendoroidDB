@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15183,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231106/15183/123075/large/ddd752215cda7a5702ffe018e7cc9d01.jpg",
+  "name" : {
+    "en" : "Richter Belmont",
+    "ja" : "リヒター・ベルモンド",
+    "ko" : "리히터 벨몬드"
+  },
+  "num" : "2317",
+  "price" : 7800,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Castlevania: Nocturne",
+    "ja" : "Castlevania: Nocturne",
+    "ko" : "캐슬바니아: 녹턴"
+  }
+}

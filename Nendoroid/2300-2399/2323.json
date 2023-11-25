@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15239,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231117/15239/123555/large/d0d3173cdd4a2ed7bdae838049ad9926.jpg",
+  "name" : {
+    "en" : "Jess",
+    "ja" : "ジェス",
+    "ko" : "제스"
+  },
+  "num" : "2323",
+  "price" : 6900,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "Butareba: The Story of a Man Turned into a Pig",
+    "ja" : "豚のレバーは加熱しろ",
+    "ko" : "돼지의 간은 가열해라"
+  }
+}

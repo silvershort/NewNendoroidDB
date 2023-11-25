@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15247,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231120/15247/123643/large/2aae6a183b393fc18039a94bb6a63027.jpg",
+  "name" : {
+    "en" : "Itoshi Rin",
+    "ja" : "糸師 凛",
+    "ko" : "이토시 린"
+  },
+  "num" : "2327",
+  "price" : 6800,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "BLUELOCK",
+    "ja" : "ブルーロック",
+    "ko" : "블루 록"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15234,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231117/15234/123494/large/33a43cf28861d69abb9f18edd995b217.jpg",
+  "name" : {
+    "en" : "Kanade Tachibana",
+    "ja" : "立華かなで",
+    "ko" : "타치바나 카나데"
+  },
+  "num" : "2268",
+  "price" : 6600,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Angel Beats!",
+    "ja" : "Angel Beats!",
+    "ko" : "엔젤 비트!"
+  }
+}

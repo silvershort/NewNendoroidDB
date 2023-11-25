@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15237,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231117/15237/123523/large/0193faffc24249e5593262eaef285a16.jpg",
+  "name" : {
+    "en" : "Shiori Fujisaki",
+    "ja" : "藤崎詩織",
+    "ko" : "후지사키 시오리"
+  },
+  "num" : "2325",
+  "price" : 6500,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Tokimeki Memorial",
+    "ja" : "ときめきメモリアル",
+    "ko" : "도키메키 메모리얼"
+  }
+}

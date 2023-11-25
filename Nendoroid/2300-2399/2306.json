@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15245,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231120/15245/123623/large/200d7d7bee69be46ad4169699b6de178.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Cinnamoroll Collaboration Ver.",
+    "ja" : "初音ミク シナモロールコラボVer.",
+    "ko" : "하츠네 미쿠 시나모롤 콜라보Ver."
+  },
+  "num" : "2306",
+  "price" : 9800,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Nendoroid Hatsune Miku: Cinnamoroll Collaboration Ver.",
+    "ja" : "初音ミク×シナモロール",
+    "ko" : "하츠네 미쿠 × 시나모롤"
+  }
+}

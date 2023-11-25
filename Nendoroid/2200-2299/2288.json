@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15217,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231116/15217/123339/large/6b9ddc83e56d8119492bda486877c9b8.jpg",
+  "name" : {
+    "en" : "Maomao",
+    "ja" : "猫猫",
+    "ko" : "마오마오"
+  },
+  "num" : "2288",
+  "price" : 6200,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "The Apothecary Diaries",
+    "ja" : "薬屋のひとりごと",
+    "ko" : "약사의 혼잣말"
+  }
+}
