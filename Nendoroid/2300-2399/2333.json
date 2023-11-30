@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15269,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231122/15269/123839/large/4fa2f3def7889dadf07ef7bff2894839.jpg",
+  "name" : {
+    "en" : "Misato Katsuragi",
+    "ja" : "葛城ミサト",
+    "ko" : "카츠라기 미사토"
+  },
+  "num" : "2333",
+  "price" : 6500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "EVANGELION RACING",
+    "ja" : "エヴァンゲリオンレーシング",
+    "ko" : "에반게리온"
+  }
+}

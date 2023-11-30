@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15259,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231121/15259/123771/large/52ae68860d3b6cd01cf27547061f3501.jpg",
+  "name" : {
+    "en" : "Lala Satalin Deviluke",
+    "ja" : "ララ・サタリン・デビルーク",
+    "ko" : "라라 사타린 데빌룩"
+  },
+  "num" : "2322",
+  "price" : 7600,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "To Love-Ru Darkness",
+    "ja" : "To LOVEる-とらぶる- ダークネス",
+    "ko" : "투 러브 트러블 다크니스"
+  }
+}

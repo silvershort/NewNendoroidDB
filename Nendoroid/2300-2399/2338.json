@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15267,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231122/15267/123823/large/ec692cf958083277581f3850e445a4d9.jpg",
+  "name" : {
+    "en" : "Mamehinata",
+    "ja" : "まめひなた",
+    "ko" : "마메히나타"
+  },
+  "num" : "2338",
+  "price" : 7500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Mochiyama Kingyo",
+    "ja" : "もち山金魚",
+    "ko" : "모치야마 금붕어"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15279,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231127/15279/123939/large/397fe27e3a235806ea0149cea9646ca1.jpg",
+  "name" : {
+    "en" : "Akihiko Kaji",
+    "ja" : "梶 秋彦",
+    "ko" : "아키히코 카지"
+  },
+  "num" : "2318",
+  "price" : 6100,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Given: Hiiragi Mix",
+    "ja" : "映画 ギヴン 柊mix",
+    "ko" : "영화 기븐 히이라기 mix"
+  }
+}

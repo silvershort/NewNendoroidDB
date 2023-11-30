@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15277,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231127/15277/123923/large/c18c698a683b40d6156f9c0d6a1dfdc3.jpg",
+  "name" : {
+    "en" : "Haruki Nakayama",
+    "ja" : "中山 春樹",
+    "ko" : "나카야마 하루키"
+  },
+  "num" : "2319",
+  "price" : 6100,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Given: Hiiragi Mix",
+    "ja" : "映画 ギヴン 柊mix",
+    "ko" : "영화 기븐 히이라기 mix"
+  }
+}

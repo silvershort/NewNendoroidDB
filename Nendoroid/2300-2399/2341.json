@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15270,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231122/15270/123913/large/7316a0cee14b15a7e27bf6eecdf3ce6b.jpg",
+  "name" : {
+    "en" : "Toma",
+    "ja" : "トーマ",
+    "ko" : "토마"
+  },
+  "num" : "2341",
+  "price" : 6800,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Amnesia",
+    "ja" : "アムネシア",
+    "ko" : "암네시아"
+  }
+}

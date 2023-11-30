@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15254,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231121/15254/123906/large/39b7903124bfa60c532b08e1aeba77d9.jpg",
+  "name" : {
+    "en" : "Leon S. Kennedy",
+    "ja" : "レオン・S・ケネディ",
+    "ko" : "레온 S. 케네디"
+  },
+  "num" : "2337",
+  "price" : 7200,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Resident Evil",
+    "ja" : "バイオハザード",
+    "ko" : "바이오 하자드"
+  }
+}

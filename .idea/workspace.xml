@@ -5,25 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2076.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2076.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2230.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2230.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2243.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2243.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2247.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2247.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2248.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2248.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2264.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2264.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2266.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2266.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2273.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2273.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2279.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2279.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2283.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2283.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2284.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2284.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2285.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2285.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2291.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2291.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2292.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2292.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2293.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2293.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2294.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2294.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nendoroid/2300-2399/2314.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2314.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2309.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2318-DX.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2318.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2319.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2322.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2333.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2337.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2338.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2341.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/0100-0199/191.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/0100-0199/191.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/1500-1599/1502.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/1500-1599/1502.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/1500-1599/1516.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/1500-1599/1516.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/2300-2399/2334.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2334.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +27,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2XOevSReBnnqvy9RgIzy5ZoB4Vt" />
   <component name="ProjectViewState">
@@ -44,7 +47,17 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Nendoroid/2300-2399" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2200-2299" />
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2300-2399" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2300-2399" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -56,5 +69,17 @@
       <updated>1698504783702</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
