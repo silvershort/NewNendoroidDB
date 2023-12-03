@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15290,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231128/15290/124082/large/090817703318b4e234f41a0bf2e75839.jpg",
+  "name" : {
+    "en" : "Mikage Reo",
+    "ja" : "御影 玲王",
+    "ko" : "미카게 레오"
+  },
+  "num" : "2326",
+  "price" : 7000,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "BLUELOCK",
+    "ja" : "ブルーロック",
+    "ko" : "블루 록"
+  }
+}

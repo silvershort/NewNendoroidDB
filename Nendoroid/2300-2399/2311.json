@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15196,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231111/15196/124056/large/4dfc3eae50851f8abce4db38c84ef29f.jpg",
+  "name" : {
+    "en" : "Karane Inda",
+    "ja" : "院田唐音",
+    "ko" : "인다 카라네"
+  },
+  "num" : "2311",
+  "price" : 6200,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+    "ja" : "花園羽香里",
+    "ko" : "너를 너무너무너무너무 좋아하는 100명의 그녀"
+  }
+}

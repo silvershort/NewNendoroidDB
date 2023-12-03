@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15195,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231111/15195/124063/large/46a0d12633d5e3b89bd2aae18c2e2d62.jpg",
+  "name" : {
+    "en" : "Hakari Hanazono",
+    "ja" : "花園羽香里",
+    "ko" : "하나조노 하카리"
+  },
+  "num" : "2310",
+  "price" : 6200,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You",
+    "ja" : "花園羽香里",
+    "ko" : "너를 너무너무너무너무 좋아하는 100명의 그녀"
+  }
+}

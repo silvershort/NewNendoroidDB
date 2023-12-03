@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15289,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231127/15289/124072/large/5c582f22c4993c2fc36860a861deeeea.jpg",
+  "name" : {
+    "en" : "Tiny Tina",
+    "ja" : "タイニー・ティナ",
+    "ko" : "타이니 티나"
+  },
+  "num" : "2324",
+  "price" : 6900,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Borderlands",
+    "ja" : "Borderlands",
+    "ko" : "보더랜드"
+  }
+}
