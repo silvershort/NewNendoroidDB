@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15296,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231130/15296/124146/large/894760c652ba6ed5f7ced81adee44567.jpg",
+  "name" : {
+    "en" : "Amakuni Saruno",
+    "ja" : "猿野天国",
+    "ko" : "사루노 아마쿠니"
+  },
+  "num" : "2345",
+  "price" : 6500,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Mr. Fullswing",
+    "ja" : "Mr. Fullswing",
+    "ko" : "미스터 풀스윙"
+  }
+}
