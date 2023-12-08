@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15307,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231201/15307/124257/large/6d89ce9898155b4c8d08e63ce2821b62.jpg",
+  "name" : {
+    "en" : "Doc (Emmett Brown)",
+    "ja" : "ドク（エメット・ブラウン）",
+    "ko" : "닥 (에미트 브라운)"
+  },
+  "num" : "2363",
+  "price" : 5500,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Back to the Future",
+    "ja" : "バック・トゥ・ザ・フューチャー",
+    "ko" : "백 투 더 퓨처"
+  }
+}

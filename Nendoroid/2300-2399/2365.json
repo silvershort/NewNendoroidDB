@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15285,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231127/15285/123998/large/2084d1daee311cf2d33d09215669f173.jpg",
+  "name" : {
+    "en" : "Raven",
+    "ja" : "Raven",
+    "ko" : "강혁"
+  },
+  "num" : "2365",
+  "price" : 6200,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Tears of Themis",
+    "ja" : "未定事件簿",
+    "ko" : "미해결사건부"
+  }
+}

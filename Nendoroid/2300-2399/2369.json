@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15315,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231204/15315/124346/large/a648313cc9d403424e6d675ca2cc33de.jpg",
+  "name" : {
+    "en" : "Kikuri Hiroi",
+    "ja" : "廣井きくり",
+    "ko" : "히로이 키쿠리"
+  },
+  "num" : "2369",
+  "price" : 5800,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "ぼっち・ざ・ろっく！",
+    "ko" : "봇치 더 록!"
+  }
+}

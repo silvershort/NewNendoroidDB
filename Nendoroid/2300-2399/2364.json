@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15306,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231201/15306/124254/large/be47481f483d52293f456767a66cacd0.jpg",
+  "name" : {
+    "en" : "Marty McFly",
+    "ja" : "マーティ・マクフライ",
+    "ko" : "마티 맥플라이"
+  },
+  "num" : "2364",
+  "price" : 5500,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Back to the Future",
+    "ja" : "バック・トゥ・ザ・フューチャー",
+    "ko" : "백 투 더 퓨처"
+  }
+}
