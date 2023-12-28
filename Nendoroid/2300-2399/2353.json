@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15349,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231212/15349/124662/large/0b6a3eb171d7eada0d463cc0c6b4e902.jpg",
+  "name" : {
+    "en" : "Ranni",
+    "ja" : "ラニ",
+    "ko" : "라니"
+  },
+  "num" : "2353",
+  "price" : 7800,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "ELDEN RING",
+    "ja" : "ELDEN RING",
+    "ko" : "엘든 링"
+  }
+}

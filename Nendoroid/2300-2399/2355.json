@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15335,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231211/15335/124511/large/9befa786db5ae9786bd551ed76167fdc.jpg",
+  "name" : {
+    "en" : "Ichika Nakano: Wedding Dress Ver.",
+    "ja" : "中野一花 ウエディングドレスVer.",
+    "ko" : "나카노 이치카 웨딩드레스Ver."
+  },
+  "num" : "2355",
+  "price" : 6500,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  }
+}

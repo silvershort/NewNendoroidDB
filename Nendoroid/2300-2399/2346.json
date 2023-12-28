@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15400,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231225/15400/125204/large/b261b5c9e0c212473e87f9726141562a.jpg",
+  "name" : {
+    "en" : "Mia Luna Tearmoon",
+    "ja" : "ミーア・ルーナ・ティアムーン",
+    "ko" : "미아 루나 티어문"
+  },
+  "num" : "2346",
+  "price" : 6600,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Tearmoon Empire",
+    "ja" : "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～",
+    "ko" : "티어문 제국 이야기"
+  }
+}

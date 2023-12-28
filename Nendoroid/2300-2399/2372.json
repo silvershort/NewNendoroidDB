@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15384,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231222/15384/125060/large/c6a9c27ad83bd166a77f9d78336b97c6.jpg",
+  "name" : {
+    "en" : "Jinshi",
+    "ja" : "壬氏",
+    "ko" : "진시"
+  },
+  "num" : "2372",
+  "price" : 6200,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The Apothecary Diaries",
+    "ja" : "薬屋のひとりごと",
+    "ko" : "약사의 혼잣말"
+  }
+}

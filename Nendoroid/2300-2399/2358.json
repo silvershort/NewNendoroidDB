@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15348,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231212/15348/124654/large/c19884e213eed33bfa706204797bede1.jpg",
+  "name" : {
+    "en" : "Sora Kasugano",
+    "ja" : "春日野穹",
+    "ko" : "카스가노 소라"
+  },
+  "num" : "2358",
+  "price" : 6800,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Yosuga no Sora",
+    "ja" : "ヨスガノソラ",
+    "ko" : "요스가노소라"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15361,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231221/15361/124839/large/e74c2a0303ef52f8384873958f09ca80.jpg",
+  "name" : {
+    "en" : "Thief Jeanne",
+    "ja" : "怪盗ジャンヌ",
+    "ko" : "괴도 잔느"
+  },
+  "num" : "2343",
+  "price" : 7500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Phantom Thief Jeanne",
+    "ja" : "神風怪盗ジャンヌ",
+    "ko" : "신풍괴도 잔느"
+  }
+}

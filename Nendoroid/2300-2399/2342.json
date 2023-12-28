@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15347,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231212/15347/124647/large/b362e04fc19e68d6acaba32f4e3b74a6.jpg",
+  "name" : {
+    "en" : "Endeavor",
+    "ja" : "エンデヴァー",
+    "ko" : "엔데버"
+  },
+  "num" : "2342",
+  "price" : 9400,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

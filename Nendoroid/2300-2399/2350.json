@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15353,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231212/15353/124725/large/ec02698514e2709ba0532037c4db4a21.jpg",
+  "name" : {
+    "en" : "Ninomae Ina’nis",
+    "ja" : "一伊那尓栖",
+    "ko" : "니노마에 이나니스"
+  },
+  "num" : "2350",
+  "price" : 6900,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

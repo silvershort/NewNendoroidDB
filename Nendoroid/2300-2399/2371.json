@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15354,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231212/15354/124846/large/cbbcc8f4ad57d21923fa3ac8e8c2c7ca.jpg",
+  "name" : {
+    "en" : "Nino Nakano: Wedding Dress Ver.",
+    "ja" : "中野二乃 ウエディングドレスVer.",
+    "ko" : "나카노 니노 웨딩드레스Ver."
+  },
+  "num" : "2371",
+  "price" : 6500,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  }
+}

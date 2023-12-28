@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15351,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231212/15351/124700/large/22258f42a84e627691b6b32b9c0c652d.jpg",
+  "name" : {
+    "en" : "Ikki",
+    "ja" : "イッキ",
+    "ko" : "잇키"
+  },
+  "num" : "2359",
+  "price" : 6800,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Amnesia",
+    "ja" : "アムネシア",
+    "ko" : "암네시아"
+  }
+}

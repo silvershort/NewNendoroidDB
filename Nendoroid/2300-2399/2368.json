@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15398,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231225/15398/125188/large/7c869a61f3752965e24b860b3a5131b9.jpg",
+  "name" : {
+    "en" : "Fern",
+    "ja" : "フェルン",
+    "ko" : "페른"
+  },
+  "num" : "2368",
+  "price" : 5900,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Frieren: Beyond Journey's End",
+    "ja" : "葬送のフリーレン",
+    "ko" : "장송의 프리렌"
+  }
+}
