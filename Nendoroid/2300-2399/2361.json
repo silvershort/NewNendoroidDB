@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15402,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231225/15402/125216/large/01c2bd8281d18840dfd9fc62d119c6b3.jpg",
+  "name" : {
+    "en" : "Noriko Takaya",
+    "ja" : "タカヤノリコ",
+    "ko" : "타카야 노리코"
+  },
+  "num" : "2361",
+  "price" : 6200,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Gunbuster",
+    "ja" : "トップをねらえ！",
+    "ko" : "톱을 노려라!"
+  }
+}
