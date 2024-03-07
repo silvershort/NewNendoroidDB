@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55738/f8q6dYSAB3iHVenNKu0hG2DUxmagc9tC.jpg",
+  "name" : {
+    "en" : "Sunraku",
+    "ja" : "サンラク",
+    "ko" : "산라쿠"
+  },
+  "num" : "2383",
+  "price" : 7200,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Shangri-La Frontier",
+    "ja" : "シャングリラ・フロンティア",
+    "ko" : "샹그릴라 프론티어"
+  }
+}

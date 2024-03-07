@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35609/SXymxDdKg4eZ1EJqB0TCYaWnhkPiNGMu.jpg",
+  "name" : {
+    "en" : "Yuichi Kurosawa",
+    "ja" : "黒沢優一",
+    "ko" : "쿠로사와 유이치"
+  },
+  "num" : "2381",
+  "price" : 5900,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+    "ja" : "30歳まで童貞だと魔法使いになれるらしい",
+    "ko" : "30살까지 동정이면 마법사가 될 수 있대"
+  }
+}

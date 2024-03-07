@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56346/5zWd9Za3VxJ1sH7NigTBvD8KFSALp0kY.jpg",
+  "name" : {
+    "en" : "Hatsune Miku V3",
+    "ja" : "初音ミク 初音ミク V3",
+    "ko" : "하츠네 미쿠 V3"
+  },
+  "num" : "2360",
+  "price" : 7800,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  }
+}

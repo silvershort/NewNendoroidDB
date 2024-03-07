@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56666/g64LzNEfZMy8iWv1D5c2qarwjUSKuR9P.jpg",
+  "name" : {
+    "en" : "Yohane",
+    "ja" : "ヨハネ",
+    "ko" : "요하네"
+  },
+  "num" : "2416",
+  "price" : 6900,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "YOHANE THE PARHELION: SUNSHINE in the MIRROR",
+    "ja" : "幻日のヨハネ SUNSHINE in the MIRROR",
+    "ko" : "환일의 요하네 -SUNSHINE in the MIRROR-"
+  }
+}

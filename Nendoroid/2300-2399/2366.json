@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55191/dkVAX05bymUa6LF1tfS2ZPJDsrgvB49C.jpg",
+  "name" : {
+    "en" : "Freddy Fazbear",
+    "ja" : "フレディ ファズベアー",
+    "ko" : "프레디 파즈베어"
+  },
+  "num" : "2366",
+  "price" : 6500,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Five Nights at Freddy's™",
+    "ja" : "Five Nights at Freddy s™",
+    "ko" : "프레디의 피자가게"
+  }
+}

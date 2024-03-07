@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56027/e2dCN0zH5TKnbJWLUcqXGwh6mZfEx3Dr.jpg",
+  "name" : {
+    "en" : "Raｍpo Edogawa",
+    "ja" : "江戸川乱歩",
+    "ko" : "에도가와 란포"
+  },
+  "num" : "2348",
+  "price" : 6800,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  }
+}

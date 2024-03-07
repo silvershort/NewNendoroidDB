@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57239/9SGk7QnN8YKVBFMRbH0dTsmZDfJxUqAC.jpg",
+  "name" : {
+    "en" : "Komichi Akebi",
+    "ja" : "ねんどろいど 初音ミク Happy 16th Birthday Ver. (ねんどろいど はつねみく はっぴー 16th ばーすでぃ Ver.)",
+    "ko" : "明日小路"
+  },
+  "num" : "2287",
+  "price" : 8700,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "明日ちゃんのセーラー服",
+    "ja" : "Akebi's Sailor Uniform",
+    "ko" : "아케비의 세일러복"
+  }
+}

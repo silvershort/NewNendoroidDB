@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56038/HDvMdxX9KQVug4wNe3hanysWUB8bkRTm.jpg",
+  "name" : {
+    "en" : "Gendo Ikari",
+    "ja" : "碇ゲンドウ",
+    "ko" : "이카리 겐도"
+  },
+  "num" : "2376",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55279/fc5kYKgH8PVrWb0wmCRuTqjvyB9LMFS7.jpg",
+  "name" : {
+    "en" : "Takina Inoue: Cafe LycoReco Uniform Ver.",
+    "ja" : "井ノ上たきな 喫茶リコリコ制服Ver.",
+    "ko" : "이노우에 타키나 카페 리코리코 유니폼Ver."
+  },
+  "num" : "2336",
+  "price" : 6200,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Lycoris Recoil",
+    "ja" : "リコリス・リコイル",
+    "ko" : "리코리스 리코일"
+  }
+}

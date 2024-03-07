@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55732/mvkuXHq659UF7NeKgaDJV3yWw0ErcMxd.jpg",
+  "name" : {
+    "en" : "Nino Nakano: Wedding Dress Ver.",
+    "ja" : "レディ ナガン",
+    "ko" : "레이디 나강"
+  },
+  "num" : "2402",
+  "price" : 7500,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

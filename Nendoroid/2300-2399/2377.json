@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46172/8rLBvkNenzhWqtP1bH6dgs9ZKiySU7TR.jpg",
+  "name" : {
+    "en" : "Rin Okumura",
+    "ja" : "奥村燐",
+    "ko" : "오쿠무라 린"
+  },
+  "num" : "2377",
+  "price" : 6800,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Blue Exorcist",
+    "ja" : "青の祓魔師",
+    "ko" : "청의 엑소시스트"
+  }
+}

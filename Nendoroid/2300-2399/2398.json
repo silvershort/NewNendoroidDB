@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56678/kcA0DPgMiwWCsVrtqY9RzvdxSyQaGX1e.jpg",
+  "name" : {
+    "en" : "Shigoto Neko",
+    "ja" : "仕事猫",
+    "ko" : "일하는 고양이"
+  },
+  "num" : "2398",
+  "price" : 4500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Shigoto Neko",
+    "ja" : "仕事猫",
+    "ko" : "일하는 고양이"
+  }
+}

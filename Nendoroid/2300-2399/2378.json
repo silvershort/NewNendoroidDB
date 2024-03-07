@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46173/Qz53epkLTDY4CNbRFnAJvSZHxE79Gc08.jpg",
+  "name" : {
+    "en" : "Yukio Okumura",
+    "ja" : "奥村雪男",
+    "ko" : "오쿠무라 유키오"
+  },
+  "num" : "2378",
+  "price" : 6600,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Blue Exorcist",
+    "ja" : "青の祓魔師",
+    "ko" : "청의 엑소시스트"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56347/tdniHFXCuqzkZ2BhaJcPmU4gwMTWrsAp.jpg",
+  "name" : {
+    "en" : "Senshi",
+    "ja" : "センシ",
+    "ko" : "센시"
+  },
+  "num" : "2415",
+  "price" : 7500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Delicious in Dungeon",
+    "ja" : "ダンジョン飯",
+    "ko" : "던전밥"
+  }
+}

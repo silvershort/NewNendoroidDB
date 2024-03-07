@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55741/c9pZyf1srF5vQCRPNUD4tEVdbHzn6a8K.jpg",
+  "name" : {
+    "en" : "Children of the Light",
+    "ja" : "星の子ども",
+    "ko" : "빛의 아이들"
+  },
+  "num" : "2389",
+  "price" : 6500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Sky: Children of the Light",
+    "ja" : "Sky 星を紡ぐ子どもたち",
+    "ko" : "Sky: 빛의 아이들"
+  }
+}

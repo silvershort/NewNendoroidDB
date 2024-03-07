@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54504/jT6aY1AQh9iHu23RxPCV54MBevwtL8zJ.jpg",
+  "name" : {
+    "en" : "Kent",
+    "ja" : "ケント",
+    "ko" : "켄트"
+  },
+  "num" : "2379",
+  "price" : 7200,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Amnesia",
+    "ja" : "アムネシア",
+    "ko" : "암네시아"
+  }
+}

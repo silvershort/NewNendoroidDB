@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56036/DkN3Wcguw9aiArZ6S8qeR5t1nhG0PFC2.jpg",
+  "name" : {
+    "en" : "Nana Astar Deviluke",
+    "ja" : "レオン・S・ケネディ",
+    "ko" : "ナナ アスタ デビルーク"
+  },
+  "num" : "2395",
+  "price" : 6900,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "To Love-Ru Darkness",
+    "ja" : "To LOVEる-とらぶる- ダークネス",
+    "ko" : "투 러브 트러블 다크니스"
+  }
+}

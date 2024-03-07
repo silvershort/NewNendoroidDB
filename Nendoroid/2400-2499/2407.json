@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/47334/ys1jhrR3dz9UN6BYHFQLmZXiPt4buw2g.jpg",
+  "name" : {
+    "en" : "Ling Xiaoyu",
+    "ja" : "リン シャオユウ",
+    "ko" : "링 샤오유"
+  },
+  "num" : "2407",
+  "price" : 6900,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "TEKKEN",
+    "ja" : "TEKKEN",
+    "ko" : "철권"
+  }
+}

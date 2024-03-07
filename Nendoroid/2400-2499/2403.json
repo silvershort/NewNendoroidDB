@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56037/DuPjMRksJZbH2F6txmASwQVTvie9gcXC.jpg",
+  "name" : {
+    "en" : "Spear Hero",
+    "ja" : "槍の勇者",
+    "ko" : "창 용사"
+  },
+  "num" : "2403",
+  "price" : 7500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "The Rising of the Shield Hero",
+    "ja" : "盾の勇者の成り上がり",
+    "ko" : "방패 용사 성공담"
+  }
+}

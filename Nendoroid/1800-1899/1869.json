@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34660/dXTtNRzSHbE6LGsjJW1q0B94uD72rYkZ.jpg",
+  "name" : {
+    "en" : "Lily Amane",
+    "ja" : "天音リリー",
+    "ko" : "아마네 리리"
+  },
+  "num" : "1869",
+  "price" : 6200,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "The Foolish Angel Dances with the Devil",
+    "ja" : "愚かな天使は悪魔と踊る",
+    "ko" : "어리석은 천사는 악마와 춤춘다"
+  }
+}

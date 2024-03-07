@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/13012/R7Q3HnjYzhPUpscSk8CLxKE5FqdmAt2B.jpg",
+  "name" : {
+    "en" : "Snow Miku: Winter Delicacy Ver.",
+    "ja" : "雪ミク冬のごちそうVer",
+    "ko" : "유키미쿠 겨울의 진수성찬Ver."
+  },
+  "num" : "2339",
+  "price" : 8300,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

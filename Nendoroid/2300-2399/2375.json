@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57502/LqjneXNiGFzaps169QMZWKVPA38fwugc.jpg",
+  "name" : {
+    "en" : "Laios",
+    "ja" : "ライオス",
+    "ko" : "라이오스"
+  },
+  "num" : "2375",
+  "price" : 6500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Delicious in Dungeon",
+    "ja" : "ダンジョン飯",
+    "ko" : "던전밥"
+  }
+}

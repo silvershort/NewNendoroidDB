@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56039/FWfAYKbT3Q6r0yXV7meZnSs24jvcBxzU.jpg",
+  "name" : {
+    "en" : "Don-chan",
+    "ja" : "和田どん",
+    "ko" : "동이"
+  },
+  "num" : "2400",
+  "price" : 5500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Taiko no Tatsujin",
+    "ja" : "太鼓の達人",
+    "ko" : "태고의 달인"
+  }
+}

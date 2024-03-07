@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56034/j72yY8mneHi1hBKZaCkgAJ5RxPw6LMX9.jpg",
+  "name" : {
+    "en" : "Izaya Orihara",
+    "ja" : "折原臨也",
+    "ko" : "오리하라 이자야"
+  },
+  "num" : "2295",
+  "price" : 6300,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "DuRaRaRa!! x2",
+    "ja" : "デュラララ!!×2",
+    "ko" : "듀라라라!!"
+  }
+}

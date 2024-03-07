@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56026/D9frEaWTbHx3MiUhCgudnJXAqz1G8evP.jpg",
+  "name" : {
+    "en" : "Chilchuck",
+    "ja" : "チルチャック",
+    "ko" : "칠책"
+  },
+  "num" : "2396",
+  "price" : 6900,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Delicious in Dungeon",
+    "ja" : "ダンジョン飯",
+    "ko" : "던전밥"
+  }
+}

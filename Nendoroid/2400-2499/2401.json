@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55717/3jp1cakNP6qRi8ErzU0ub97GQ2weXtg5.jpg",
+  "name" : {
+    "en" : "Shota Aizawa",
+    "ja" : "相澤消太",
+    "ko" : "아이자와 쇼타"
+  },
+  "num" : "2401",
+  "price" : 7800,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

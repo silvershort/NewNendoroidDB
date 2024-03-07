@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56656/RX7MwybavT9685WtZCk1HYn2DisxqVSe.jpg",
+  "name" : {
+    "en" : "Sonetto",
+    "ja" : "ソネット",
+    "ko" : "소네트"
+  },
+  "num" : "2391",
+  "price" : 6800,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Reverse: 1999",
+    "ja" : "リバース 1999",
+    "ko" : "리버스: 1999"
+  }
+}

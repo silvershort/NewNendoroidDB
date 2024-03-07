@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56923/PAyX4HSMnwVuWNYpZehKcb1i3tjLgz58.jpg",
+  "name" : {
+    "en" : "Yamambagiri Kunihiro",
+    "ja" : "山姥切国広 単独行",
+    "ko" : "야만바기리 쿠니히로"
+  },
+  "num" : "2390",
+  "price" : 7200,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLIINE-"
+  }
+}

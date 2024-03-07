@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45326/mbK17EtaY8P5ZAFBXk0preNVW6sgHSyC.jpg",
+  "name" : {
+    "en" : "Sakamata Chloe",
+    "ja" : "沙花叉クロヱ",
+    "ko" : "사카마타 클로에"
+  },
+  "num" : "2347",
+  "price" : 7700,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

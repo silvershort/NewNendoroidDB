@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56671/UGsutkBen7X098L3PEFr1YTZhQvNcxyz.jpg",
+  "name" : {
+    "en" : "Ai",
+    "ja" : "アイ",
+    "ko" : "아이"
+  },
+  "num" : "2300",
+  "price" : 6500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "OSHI NO KO",
+    "ja" : "TVアニメ【推しの子】",
+    "ko" : "최애의 아이"
+  }
+}

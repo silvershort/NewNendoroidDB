@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54541/ksVebpx6rGg1v5nEFSXwh84zmiMdLWPU.jpg",
+  "name" : {
+    "en" : "Kevin",
+    "ja" : "ケビン",
+    "ko" : "케빈"
+  },
+  "num" : "2302",
+  "price" : 7500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Minions",
+    "ja" : "ミニオンズ",
+    "ko" : "미니언즈"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56342/UtZf8XncNzqu3YbWrhvQFda7RDx4BegA.jpg",
+  "name" : {
+    "en" : "Kanaria",
+    "ja" : "金糸雀",
+    "ko" : "카나리아"
+  },
+  "num" : "2404",
+  "price" : 7900,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Rozen Maiden",
+    "ja" : "ローゼンメイデン",
+    "ko" : "로젠 메이든"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56035/VP8gEZTQRniFh17UaDbNxdmqBrwX3AMp.jpg",
+  "name" : {
+    "en" : "Shizuo Heiwajima",
+    "ja" : "平和島静雄",
+    "ko" : "헤이와지마 시즈오"
+  },
+  "num" : "2296",
+  "price" : 6300,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "DuRaRaRa!! x2",
+    "ja" : "デュラララ!!×2",
+    "ko" : "듀라라라!!"
+  }
+}
