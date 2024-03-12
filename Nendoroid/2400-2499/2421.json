@@ -1,0 +1,20 @@
+{
+  "gsc_productNum" : 0,
+  "image" : "",
+  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55730/iLqBW4AUGtPrb0DpM8cF95Xeyw61uz7v.jpg",
+  "name" : {
+    "en" : "Yue",
+    "ja" : "月[ユエ]",
+    "ko" : "유에"
+  },
+  "num" : "2421",
+  "price" : 8000,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  }
+}
