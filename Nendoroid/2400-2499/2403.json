@@ -1,8 +1,7 @@
 {
   "gender" : "M",
   "gsc_productNum" : 0,
-  "image" : "",
-  "image2" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56037/DuPjMRksJZbH2F6txmASwQVTvie9gcXC.jpg",
+  "image2 : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56037/DuPjMRksJZbH2F6txmASwQVTvie9gcXC.jpg",
   "name" : {
     "en" : "Spear Hero",
     "ja" : "槍の勇者",
