@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 54507,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20170120/6193/43323/large/689816389e207151c89e81b5522b4caf.jpg",
+  "name" : {
+    "en" : "Jaws",
+    "ja" : "ジョーズ",
+    "ko" : "폴라"
+  },
+  "num" : "2419",
+  "price" : 5500,
+  "release_date" : [
+    "2024/04"
+  ],
+  "series" : {
+    "en" : "JAWS",
+    "ja" : "JAWS",
+    "ko" : "죠스"
+  }
+}

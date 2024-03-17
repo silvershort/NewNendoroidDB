@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56025,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56025/CAhE6qiV0Jncevr1akRSfpxy7HZbtjNd.jpg",
+  "name" : {
+    "en" : "Shylily",
+    "ja" : "シャイリリー",
+    "ko" : "샤이릴리"
+  },
+  "num" : "2384",
+  "price" : 7500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Shylily",
+    "ja" : "Shylily",
+    "ko" : "샤이릴리"
+  }
+}
