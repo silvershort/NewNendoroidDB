@@ -1,13 +1,13 @@
 {
   "gender" : "M",
-  "gsc_productNum" : 14952,
+  "gsc_productNum" : 14953,
   "image" : "https://images.goodsmile.info/cgm/images/product/20230913/14953/121780/large/e57a805188385b7e405918c7abc34c3c.jpg",
   "name" : {
-    "en" : "Mash Burnedead",
-    "ja" : "マッシュ・バーンデッド",
-    "ko" : "마슈 반데드"
+    "en" : "Lance Crown",
+    "ja" : "ランス・クラウン",
+    "ko" : "랜스크라운"
   },
-  "num" : "2247",
+  "num" : "2248",
   "price" : 6200,
   "release_date" : [
     "2024/04"

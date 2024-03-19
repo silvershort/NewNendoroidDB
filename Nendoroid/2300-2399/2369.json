@@ -1,16 +1,16 @@
 {
   "gender" : "F",
-  "gsc_productNum" : 15315,
-  "image" : "https://images.goodsmile.info/cgm/images/product/20231204/15315/124346/large/a648313cc9d403424e6d675ca2cc33de.jpg",
+  "gsc_productNum" : 56840,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56840/6YEGiTp3HrCjUKy1AbWRsuqX085SPcat.jpg",
   "name" : {
-    "en" : "Kikuri Hiroi",
-    "ja" : "廣井きくり",
-    "ko" : "히로이 키쿠리"
+    "en" : "Hitori Gotoh: Attention-Seeking Monster Ver.",
+    "ja" : "後藤ひとり 承認欲求モンスターVer.",
+    "ko" : "고토 히토리 승인욕구 몬스터Ver."
   },
   "num" : "2369",
   "price" : 5800,
   "release_date" : [
-    "2024/06"
+    "2024/09"
   ],
   "series" : {
     "en" : "Bocchi the Rock!",
