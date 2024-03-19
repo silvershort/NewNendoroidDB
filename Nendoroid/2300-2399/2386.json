@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56670,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56670/Ct9GVQUA01NcqBWvSZ4KHfT5pk7znEgx.jpg",
+  "name" : {
+    "en" : "Yusei Shirosaki",
+    "ja" : "白崎優清",
+    "ko" : "시로사키 유세이"
+  },
+  "num" : "2386",
+  "price" : 6100,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "My New Boss is Goofy!",
+    "ja" : "新しい上司はど天然",
+    "ko" : "새로운 상사는 귀여운 허당"
+  }
+}

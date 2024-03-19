@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56833,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56833/wYn6DaxMQyCGVEvf0uP5pqbNUek391XA.jpg",
+  "name" : {
+    "en" : "Yotsuba Nakano: Wedding Dress Ver.",
+    "ja" : "中野四葉 ウエディングドレスVer.",
+    "ko" : "나카노 요츠바 웨딩드레스Ver."
+  },
+  "num" : "2405",
+  "price" : 6500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  }
+}

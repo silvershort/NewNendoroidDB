@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56833,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56030/v0YEdZXQ86w4zeBjsFqLRmWiKPANpgGV.jpg",
+  "name" : {
+    "en" : "Itsuki Nakano: Wedding Dress Ver.",
+    "ja" : "中野五月 ウエディングドレスVer.",
+    "ko" : "나카노 이츠키 웨딩드레스Ver."
+  },
+  "num" : "2411",
+  "price" : 6500,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "The Quintessential Quintuplets",
+    "ja" : "五等分の花嫁",
+    "ko" : "5등분의 신부"
+  }
+}

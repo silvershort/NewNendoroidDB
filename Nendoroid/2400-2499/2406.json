@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56679,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56679/ZxXy9evs2fkhBR0DVFdm3KzNEAcYMrWi.jpg",
+  "name" : {
+    "en" : "Nashiko Jippensha",
+    "ja" : "十返舎なしこ",
+    "ko" : "짓펜샤 나시코"
+  },
+  "num" : "2406",
+  "price" : 6200,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Pon no Michi",
+    "ja" : "ぽんのみち",
+    "ko" : "퐁의 길"
+  }
+}

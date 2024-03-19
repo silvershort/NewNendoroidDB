@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 45323,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45323/MCzFGy9v3tpgZmSN8c6UKA107xrQWeLq.jpg",
+  "name" : {
+    "en" : "Luo Xiaohei",
+    "ja" : "羅小黒",
+    "ko" : "뤄샤오헤이"
+  },
+  "num" : "2349",
+  "price" : 6800,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "The Legend of Hei",
+    "ja" : "羅小黒戦記",
+    "ko" : "나소흑전기"
+  }
+}
