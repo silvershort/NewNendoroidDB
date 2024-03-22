@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56834,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56834/h2NQ1PgET0SpjytsqH7vMC4WkU6dneAz.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: World Is Mine 2024 Ver.",
+    "ja" : "初音ミク ワールドイズマイン 2024Ver.",
+    "ko" : "하츠네 미쿠 월드 이즈 마인 2024Ver."
+  },
+  "num" : "2430",
+  "price" : 7500,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

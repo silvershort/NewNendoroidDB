@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56920,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56920/2EJYr7Z9WHtvjQGwUKdVkDm83fTAgLPs.jpg",
+  "name" : {
+    "en" : "Kaoru Hitachiin",
+    "ja" : "常陸院馨",
+    "ko" : "히타치인 카오루"
+  },
+  "num" : "2425",
+  "price" : 6500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Ouran High School Host Club",
+    "ja" : "桜蘭高校ホスト部",
+    "ko" : "오란고교 호스트부"
+  }
+}
