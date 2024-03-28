@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56675,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56675/A0GbQe1WczBxrpvuVgHTZL5wfKSR4U8F.jpg",
+  "name" : {
+    "en" : "Luca Kaneshiro",
+    "ja" : "ルカ・カネシロ",
+    "ko" : "루카 카네시로"
+  },
+  "num" : "2429",
+  "price" : 7500,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

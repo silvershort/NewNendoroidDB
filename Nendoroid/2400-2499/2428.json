@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56844,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56844/6SXWChBpUQmzuH4GndfJ71TYgrxK0a3v.jpg",
+  "name" : {
+    "en" : "Ike Eveland",
+    "ja" : "アイク・イーヴランド",
+    "ko" : "아이크 이브랜드"
+  },
+  "num" : "2428",
+  "price" : 7500,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

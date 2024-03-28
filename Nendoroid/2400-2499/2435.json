@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34672,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34672/yQJS8p1Ra5VthDTAM40skEGKz7W3ivnb.jpg",
+  "name" : {
+    "en" : "P5R Hero: School Uniform Ver.",
+    "ja" : "P5R主人公 制服Ver.",
+    "ko" : "P5R 주인공 교복Ver."
+  },
+  "num" : "2435",
+  "price" : 6200,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "PERSONA",
+    "ja" : "ペルソナ",
+    "ko" : "페르소나"
+  }
+}

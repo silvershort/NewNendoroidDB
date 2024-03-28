@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 54637,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54637/59rejaUHhAWCKZQXvDqBn8y3fgd4FzJw.jpg",
+  "name" : {
+    "en" : "Nice Nature",
+    "ja" : "ナイスネイチャ",
+    "ko" : "나이스 네이처"
+  },
+  "num" : "2431",
+  "price" : 6800,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}
