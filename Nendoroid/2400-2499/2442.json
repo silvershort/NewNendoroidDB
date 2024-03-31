@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34702,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34702/YBJ2HMXVPNTELR7C8pdtrhGwvKykFzfs.jpg",
+  "name" : {
+    "en" : "96Neko",
+    "ja" : "96猫",
+    "ko" : "96네코"
+  },
+  "num" : "2442",
+  "price" : 7200,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "96Neko",
+    "ja" : "96猫",
+    "ko" : "96네코"
+  }
+}

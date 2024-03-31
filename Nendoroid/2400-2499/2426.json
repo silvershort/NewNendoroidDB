@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56668,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56668/MmvG1NiZf7kHcJQad8z60RwbhutyX2eU.jpg",
+  "name" : {
+    "en" : "Medicine Seller",
+    "ja" : "マチカネタンホイザ",
+    "ko" : "약장수"
+  },
+  "num" : "2426",
+  "price" : 7900,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Mononoke",
+    "ja" : "モノノ怪",
+    "ko" : "모노노케"
+  }
+}

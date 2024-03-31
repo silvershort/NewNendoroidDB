@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 55266,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55266/c3eaa801e409281a7c3cc1eeefaac550.jpg",
+  "name" : {
+    "en" : "Jaden Yuki",
+    "ja" : "遊城十代",
+    "ko" : "유우키 쥬다이"
+  },
+  "num" : "2382",
+  "price" : 6600,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Yu-Gi-Oh!",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 55270,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55270/EmR7LZCrAxn1tU4pih5aq3judV2vFcH6.jpg",
+  "name" : {
+    "en" : "Yusei Fudo",
+    "ja" : "不動遊星",
+    "ko" : "후도 유세이"
+  },
+  "num" : "2393",
+  "price" : 6600,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Yu-Gi-Oh!",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  }
+}

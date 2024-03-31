@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34793,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34793/F28j5hk0Hwg3ExvyVMmW4RSQUABudaCe.jpg",
+  "name" : {
+    "en" : "Tomoe",
+    "ja" : "巴衛",
+    "ko" : "토모에"
+  },
+  "num" : "2443",
+  "price" : 6800,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Kamisama Kiss",
+    "ja" : "神様はじめました",
+    "ko" : "오늘부터 신령님"
+  }
+}
