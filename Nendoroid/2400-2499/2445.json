@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56835,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56835/nMq0tVByudHjhZcRaWEDKU5eksm42Ciw.jpg",
+  "name" : {
+    "en" : "Izuna",
+    "ja" : "いづな",
+    "ko" : "이즈나 "
+  },
+  "num" : "2445",
+  "price" : 7200,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "No Game No Life",
+    "ja" : "ノーゲーム・ノーライフ",
+    "ko" : "노게임 노라이프"
+  }
+}

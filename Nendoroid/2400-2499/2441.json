@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36215,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36215/vZ2SMAxwiQGBusVqc9mrKnPNWRzUHeX7.jpg",
+  "name" : {
+    "en" : "Suguru Geto: Suit Ver.",
+    "ja" : "夏油傑 スーツVer.",
+    "ko" : "게토 스구루 슈트Ver."
+  },
+  "num" : "2441",
+  "price" : 5300,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  }
+}

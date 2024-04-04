@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34680,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34680/zQBhDwaZs8vuYr1S9NxypRmPGF3Ktk46.jpg",
+  "name" : {
+    "en" : "Mukuro Hoshimiya",
+    "ja" : "星宮六喰",
+    "ko" : "호시미야 무쿠로"
+  },
+  "num" : "2432",
+  "price" : 7800,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Date A Live IV",
+    "ja" : "デート・ア・ライブⅣ",
+    "ko" : "데이트 어 라이브"
+  }
+}

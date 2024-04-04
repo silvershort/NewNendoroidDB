@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34678,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34678/TSJHbfLnXvUyERsjwmF9iePaMtgGANzp.jpg",
+  "name" : {
+    "en" : "Magia Baiser",
+    "ja" : "マジアベーゼ",
+    "ko" : "마지아 베제"
+  },
+  "num" : "2446",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Gushing over Magical Girls",
+    "ja" : "魔法少女にあこがれて",
+    "ko" : "마법소녀를 동경해서"
+  }
+}

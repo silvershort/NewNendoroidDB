@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36214,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36214/gFVKNXMJfTAPeE289cnyaWRk3Y5qsBGS.jpg",
+  "name" : {
+    "en" : "Satoru Gojo: Suit Ver.",
+    "ja" : "五条悟 スーツVer.",
+    "ko" : "고죠 사토루 슈트Ver."
+  },
+  "num" : "2440",
+  "price" : 5300,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Jujutsu Kaisen",
+    "ja" : "呪術廻戦",
+    "ko" : "주술회전"
+  }
+}
