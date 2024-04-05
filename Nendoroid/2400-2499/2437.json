@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35606,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35606/ETpKiMnmeVDY2tax0HL9gjNwXWr6SfRy.jpg",
+  "name" : {
+    "en" : "Noa Ushio",
+    "ja" : "生塩ノア",
+    "ko" : "우시오 노아"
+  },
+  "num" : "2437",
+  "price" : 6800,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  }
+}

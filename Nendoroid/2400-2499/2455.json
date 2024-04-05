@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34662,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34662/4VcJeXF5nYGpNbvkyTSUhP7qMtQ8uH2K.jpg",
+  "name" : {
+    "en" : "Kurumi Tokisaki: School Uniform Ver.",
+    "ja" : "時崎狂三 制服Ver.",
+    "ko" : "토키사키 쿠루미 교복Ver."
+  },
+  "num" : "2455",
+  "price" : 6400,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Date A Live",
+    "ja" : "デート・ア・ライブ",
+    "ko" : "데이트 어 라이브"
+  }
+}
