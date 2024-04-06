@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 55739,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55739/7Y25UwGXCuDSeg9yEv0nLMWPBRbmisA8.jpg",
+  "name" : {
+    "en" : "Momo Belia Deviluke",
+    "ja" : "モモ・ベリア・デビルーク",
+    "ko" : "모모 베리아 데빌룩"
+  },
+  "num" : "2340",
+  "price" : 6900,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "To Love-Ru Darkness",
+    "ja" : "To LOVEる-とらぶる- ダークネス",
+    "ko" : "투 러브 트러블 다크니스"
+  }
+}
