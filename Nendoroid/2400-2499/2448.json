@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 44943,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44943/zFKbkNyHqY1r8SPefV7j9xEhZtviCTRL.jpg",
+  "name" : {
+    "en" : "Kafka Hibino",
+    "ja" : "日比野カフカ",
+    "ko" : "히비노 카프카"
+  },
+  "num" : "2448",
+  "price" : 6500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Kaiju No. 8",
+    "ja" : "怪獣８号",
+    "ko" : "괴수 8호"
+  }
+}

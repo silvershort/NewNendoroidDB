@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 44944,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44944/unebj9z5t2hKvFEpsBJArV1CNPW4DxLG.jpg",
+  "name" : {
+    "en" : "Reno Ichikawa",
+    "ja" : "市川レノ",
+    "ko" : "이치카와 레노"
+  },
+  "num" : "2449",
+  "price" : 6500,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Kaiju No. 8",
+    "ja" : "怪獣８号",
+    "ko" : "괴수 8호"
+  }
+}
