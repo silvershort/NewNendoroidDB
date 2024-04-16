@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34666,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34666/fapEF4UtYVb15ZWgJKQGRhN7MnC63ejD.jpg",
+  "name" : {
+    "en" : "Shoko Komi: Ponytail Ver.",
+    "ja" : "古見硝子 ポニーテールVer.",
+    "ko" : "코미 쇼코 포니테일Ver."
+  },
+  "num" : "2451",
+  "price" : 7200,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Komi Can't Communicate",
+    "ja" : "古見さんは、コミュ症です。",
+    "ko" : "코미양은 커뮤증입니다"
+  }
+}
