@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56499,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56499/xj81nygZwtRFrh5TN7943BHk6PVvupUM.jpg",
+  "name" : {
+    "en" : "Shisui Uchiha",
+    "ja" : "うちはシスイ",
+    "ko" : "우치하 시스이"
+  },
+  "num" : "2436",
+  "price" : 6200,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  }
+}

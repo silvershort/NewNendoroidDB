@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34671,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34671/F8mw1gp5HDbxhic2jeyXSfV9Nq4avGJt.jpg",
+  "name" : {
+    "en" : "Shu Yamino",
+    "ja" : "闇ノシュウ",
+    "ko" : "슈 야미노"
+  },
+  "num" : "2467",
+  "price" : 7500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

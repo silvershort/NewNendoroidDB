@@ -13,9 +13,8 @@
     "2023/07"
   ],
   "series" : {
-    "en" : "NIJISANJI EN",
-    "ja" : "NIJISANJI EN",
-    "ko" : "니지산지 EN"
-  },
-  "set" : 262
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
 }
