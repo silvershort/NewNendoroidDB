@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56310,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56310/xqK15YFzvBnHSZEyVtQ29ALrDWaG38c4.jpg",
+  "name" : {
+    "en" : "Neo: Traveler",
+    "ja" : "真トラベラー",
+    "ko" : "진 트래블러"
+  },
+  "num" : "2427",
+  "price" : 7500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Dungeon Fighter Online",
+    "ja" : "アラド戦記",
+    "ko" : "던전 앤 파이터"
+  }
+}

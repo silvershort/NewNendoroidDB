@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 55735,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55735/wQbR0Nju496kULyArt2MJFBTKDXvWe8g.jpg",
+  "name" : {
+    "en" : "Satono Diamond",
+    "ja" : "サトノダイヤモンド",
+    "ko" : "사토노 다이아몬드"
+  },
+  "num" : "2469",
+  "price" : 7900,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35133,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35133/p7B1vE38rk94tM5SnyTfWjR0GxKsA2Yb.jpg",
+  "name" : {
+    "en" : "Zoya",
+    "ja" : "ゾーヤ",
+    "ko" : "조야"
+  },
+  "num" : "2457",
+  "price" : 8000,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Path to Nowhere",
+    "ja" : "無期迷途：Path to Nowhere",
+    "ko" : "무기미도：Path to Nowhere"
+  }
+}

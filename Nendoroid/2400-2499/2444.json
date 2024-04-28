@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56033,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56033/HVfw2XbBxckAt75NYD4Thn6QesujEd1g.jpg",
+  "name" : {
+    "en" : "Itsuki Nakano: Wedding Dress Ver.",
+    "ja" : "アンディ",
+    "ko" : "앤디"
+  },
+  "num" : "2444",
+  "price" : 7200,
+  "release_date" : [
+    "2024/09"
+  ],
+  "series" : {
+    "en" : "Undead Unluck",
+    "ja" : "アンデッドアンラック",
+    "ko" : "언데드 언럭"
+  }
+}

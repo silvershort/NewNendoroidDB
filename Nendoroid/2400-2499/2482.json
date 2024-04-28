@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56792,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56792/eft8pW1UwZy7YjgbAFC3nTLrszuaGRiP.jpg",
+  "name" : {
+    "en" : "Xerxes Break",
+    "ja" : "ザークシーズ＝ブレイク",
+    "ko" : "쟈크시즈 브레이크"
+  },
+  "num" : "2482",
+  "price" : 7000,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "PandoraHearts",
+    "ja" : "PandoraHearts",
+    "ko" : "PandoraHearts"
+  }
+}

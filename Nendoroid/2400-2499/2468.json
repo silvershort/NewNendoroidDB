@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56328,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56328/71cpnVxvS0ATeqastHkEJLuPKzWX68rN.jpg",
+  "name" : {
+    "en" : "Kitasan Black",
+    "ja" : "キタサンブラック",
+    "ko" : "키타산 블랙"
+  },
+  "num" : "2468",
+  "price" : 7900,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60573,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60573/MN7v0wfRib8TxmCdQnDjEVXrukpKqshF.jpg",
+  "name" : {
+    "en" : "Ichihime",
+    "ja" : "一姫",
+    "ko" : "이치히메"
+  },
+  "num" : "2476",
+  "price" : 7800,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Mahjong Soul",
+    "ja" : "雀魂-じゃんたま-",
+    "ko" : "작혼"
+  }
+}

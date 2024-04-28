@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56791,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56791/8amrDxZQWbLBXUeHdyc6gMtRfKJG5kvq.jpg",
+  "name" : {
+    "en" : "Oz Vessalius",
+    "ja" : "オズ＝ベザリウス",
+    "ko" : "오즈 베델리우스"
+  },
+  "num" : "2481",
+  "price" : 7000,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "PandoraHearts",
+    "ja" : "PandoraHearts",
+    "ko" : "PandoraHearts"
+  }
+}
