@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34719,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34719/8gCpbsfEznk3eyXAPWYqhiNVL41vTxcM.jpg",
+  "name" : {
+    "en" : "Aru Rikuhachima",
+    "ja" : "陸八魔アル",
+    "ko" : "리쿠하치마 아루"
+  },
+  "num" : "2470",
+  "price" : 7400,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  }
+}
