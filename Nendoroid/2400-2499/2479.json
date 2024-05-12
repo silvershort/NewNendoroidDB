@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 35765,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35765/YqMz6vwebLCRP17VDT4smktfEAS25WUg.jpg",
+  "name" : {
+    "en" : "Caesar",
+    "ja" : "Caesar",
+    "ko" : "Caesar"
+  },
+  "num" : "2479",
+  "price" : 7000,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "FLUFFY LAND",
+    "ja" : "FLUFFY LAND",
+    "ko" : "FLUFFY LAND"
+  }
+}

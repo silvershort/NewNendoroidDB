@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 56912,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56912/f7rSYcFMLyApCgn49t8PKmDVG5uEkN2w.jpg",
+  "name" : {
+    "en" : "Tokage and Nisetsumuri",
+    "ja" : "とかげ と にせつむり",
+    "ko" : "토카게와 니세츠무리"
+  },
+  "num" : "2460",
+  "price" : 5500,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Sumikkogurashi",
+    "ja" : "すみっコぐらし",
+    "ko" : "스미코구라시"
+  }
+}

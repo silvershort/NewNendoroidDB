@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 15336,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231211/15336/124518/large/0dc4f880b155a69ee6b7566e5d56ea5a.jpg",
+  "name" : {
+    "en" : "Nanao Hibiya",
+    "ja" : "ナナオ＝ヒビヤ",
+    "ko" : "나나오 히비야"
+  },
+  "num" : "2351",
+  "price" : 7600,
+  "release_date" : [
+    "2024/07"
+  ],
+  "series" : {
+    "en" : "Reign of the Seven Spellblades",
+    "ja" : "七つの魔剣が支配する",
+    "ko" : "일곱 개의 마검이 지배한다"
+  }
+}

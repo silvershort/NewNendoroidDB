@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 0,
+  "image" : "https://www.nendo.guide/get/image/1786/0",
+  "name" : {
+    "en" : "Crunchyroll Hime",
+    "ja" : "クランチロール ヒメ",
+    "ko" : "크런치롤 히메"
+  },
+  "num" : "1786",
+  "price" : 0,
+  "release_date" : [
+    "2022/01"
+  ],
+  "series" : {
+    "en" : "crunchyroll",
+    "ja" : "クランチロール",
+    "ko" : "크런치롤"
+  }
+}

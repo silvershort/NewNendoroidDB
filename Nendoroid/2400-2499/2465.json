@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36457,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36457/S1LHbkjMiUcF0wxqre7am3YhzDQd5v64.jpg",
+  "name" : {
+    "en" : "Marika Yamagata",
+    "ja" : "山形まり花",
+    "ko" : "야마가타 마리카"
+  },
+  "num" : "2465",
+  "price" : 20000,
+  "release_date" : [
+  ],
+  "series" : {
+    "en" : "HinaBitter♪",
+    "ja" : "ひなビタ♪",
+    "ko" : "히나비타♪"
+  }
+}
