@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34675,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34675/pS1kgq7NMDd4vVfa2bR5ecWJPt3uAzZQ.jpg",
+  "name" : {
+    "en" : "MEMcho",
+    "ja" : "MEMちょ",
+    "ko" : "MEM쵸"
+  },
+  "num" : "2488",
+  "price" : 6800,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "OSHI NO KO",
+    "ja" : "TVアニメ【推しの子】",
+    "ko" : "최애의 아이"
+  }
+}

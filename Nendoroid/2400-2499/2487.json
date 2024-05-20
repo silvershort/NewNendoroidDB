@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35123,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35123/RKE2wshid7jyPHeJvYxb6nV3k09ta4Tp.jpg",
+  "name" : {
+    "en" : "Tama Kunimi",
+    "ja" : "國見タマ",
+    "ko" : "쿠니미 타마"
+  },
+  "num" : "2487",
+  "price" : 6900,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Heaven Burns Red",
+    "ja" : "ヘブンバーンズレッド",
+    "ko" : "헤븐 번즈 레드"
+  }
+}

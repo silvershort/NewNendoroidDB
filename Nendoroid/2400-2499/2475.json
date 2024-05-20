@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 46618,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46618/cD93JwMStezn6QXHZ08CWTKPx7VyuG41.jpg",
+  "name" : {
+    "en" : "Takane Lui",
+    "ja" : "鷹嶺ルイ",
+    "ko" : "타카네 루이"
+  },
+  "num" : "2475",
+  "price" : 7700,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}
