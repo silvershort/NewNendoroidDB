@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 47542,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/47542/hrQvUKH1nm35Dw72Ei9jJSaXfgVG0psd.jpg",
+  "name" : {
+    "en" : "Vagabond",
+    "ja" : "放浪騎士",
+    "ko" : "방랑기사 "
+  },
+  "num" : "2478",
+  "price" : 8580,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "ELDEN RING",
+    "ja" : "ELDEN RING",
+    "ko" : "엘든 링"
+  }
+}

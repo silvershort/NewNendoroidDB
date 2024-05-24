@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57419,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57419/STAJiaPNzMFhwu8mfRvsBGUc601LYrW3.jpg",
+  "name" : {
+    "en" : "Kitaro's Father",
+    "ja" : "鬼太郎の父",
+    "ko" : "키타로의 아버지"
+  },
+  "num" : "2464",
+  "price" : 6500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "The Birth of Kitaro: The Mystery of Ge Ge Ge",
+    "ja" : "映画「鬼太郎誕生 ゲゲゲの謎」",
+    "ko" : "키타로의 탄생 게게게의 수수께끼"
+  }
+}

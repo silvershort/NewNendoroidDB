@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57418,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57418/GSeYW0tbq7sZxAdU85VJp29Phn3fyNXj.jpg",
+  "name" : {
+    "en" : "Mizuki",
+    "ja" : "水木",
+    "ko" : "미즈키 "
+  },
+  "num" : "2463",
+  "price" : 6500,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "The Birth of Kitaro: The Mystery of Ge Ge Ge",
+    "ja" : "映画「鬼太郎誕生 ゲゲゲの謎」",
+    "ko" : "키타로의 탄생 게게게의 수수께끼"
+  }
+}

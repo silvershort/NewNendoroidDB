@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56924,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56924/D7KyCXAk8mUsGv0qpLhEHe9iV5aftNTn.jpg",
+  "name" : {
+    "en" : "Archer/Baobhan Sith",
+    "ja" : "アーチャー/バーヴァン・シー",
+    "ko" : "아처/바반 시"
+  },
+  "num" : "2480",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  }
+}
