@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35755,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35755/zQkbnXHCKftSr1gEBVh9vRq3A6GU7Tey.jpg",
+  "name" : {
+    "en" : "Grandma",
+    "ja" : "ばあさま",
+    "ko" : "할머니"
+  },
+  "num" : "2494",
+  "price" : 6100,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Grandpa and Grandma Turn Young Again",
+    "ja" : "じいさんばあさん若返る",
+    "ko" : "할아버지 할머니 회춘하다"
+  }
+}

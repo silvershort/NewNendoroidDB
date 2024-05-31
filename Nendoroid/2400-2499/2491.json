@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36109,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36109/aj4HGNm35eBpuZtYqyQV1vrkxdSWh2Cf.jpg",
+  "name" : {
+    "en" : "Inui Toko",
+    "ja" : "戌亥とこ",
+    "ko" : "이누이 토코"
+  },
+  "num" : "2491",
+  "price" : 7500,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

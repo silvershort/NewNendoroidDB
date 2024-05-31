@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57421,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57421/NXWkny9AQCSvM2dRiKHegVGsTphP0u4f.jpg",
+  "name" : {
+    "en" : "Kano Yamanouchi [Basic]",
+    "ja" : "山ノ内花音 べーしっく",
+    "ko" : "야마노우치 카노 베이직"
+  },
+  "num" : "2495",
+  "price" : 3900,
+  "release_date" : [
+    "2024/10"
+  ],
+  "series" : {
+    "en" : "Jellyfish Can't Swim in the Night",
+    "ja" : "夜のクラゲは泳げない",
+    "ko" : "밤의 해파리는 헤엄칠 수 없어"
+  }
+}

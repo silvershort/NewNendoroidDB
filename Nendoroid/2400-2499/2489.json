@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35119,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35119/s4emYNynFcAu5qJvxj1ZMVPkRUTSgwBH.jpg",
+  "name" : {
+    "en" : "Ange Katrina",
+    "ja" : "アンジュ・カトリーナ",
+    "ko" : "안쥬 카트리나"
+  },
+  "num" : "2489",
+  "price" : 7500,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

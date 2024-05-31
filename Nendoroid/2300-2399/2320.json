@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 15182,
+  "image" : "https://images.goodsmile.info/cgm/images/product/20231102/15182/123069/large/a01ac92ccfffe8ce60bb9460c6a346c3.jpg",
+  "name" : {
+    "en" : "Patrick Star",
+    "ja" : "パトリック・スター",
+    "ko" : "뚱이"
+  },
+  "num" : "2320",
+  "price" : 6600,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "SpongeBob SquarePants",
+    "ja" : "スポンジ・ボブ",
+    "ko" : "네모바지 스폰지밥"
+  }
+}

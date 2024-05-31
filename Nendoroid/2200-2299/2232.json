@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35172,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35172/jdKJncFVakyQms9iqNp1gZw7L2zM3DCY.jpg",
+  "name" : {
+    "en" : "Kaiji Ito",
+    "ja" : "伊藤カイジ",
+    "ko" : "이토 카이지"
+  },
+  "num" : "2232",
+  "price" : 6800,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Kaiji",
+    "ja" : "賭博黙示録カイジ",
+    "ko" : "도박묵시록 카이지"
+  }
+}

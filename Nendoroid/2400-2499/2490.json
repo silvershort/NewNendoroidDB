@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35623,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35623/J0rx9YPHAwhZ3ByzpVWUD8KbfEv5Cdue.jpg",
+  "name" : {
+    "en" : "Yotsuba Nakano: Wedding Dress Ver.",
+    "ja" : "初音ミクシンフォニー 2023Ver.",
+    "ko" : "하츠네 미쿠 심포니 2023Ver."
+  },
+  "num" : "2490",
+  "price" : 7900,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Miku Hatsune",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}
