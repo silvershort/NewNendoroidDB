@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 44947,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44947/fB6NDi3zyEeW8thnRw1cSxF4PAMqTaQK.jpg",
+  "name" : {
+    "en" : "Soshiro Hoshina",
+    "ja" : "保科宗四郎",
+    "ko" : "호시나 소우시로"
+  },
+  "num" : "2504",
+  "price" : 6800,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Kaiju No. 8",
+    "ja" : "怪獣８号",
+    "ko" : "괴수 8호"
+  }
+}

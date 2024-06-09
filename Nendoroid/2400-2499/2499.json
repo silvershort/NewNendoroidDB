@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56681,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56681/YDgnU63ShweE07ZKdf5NsBA2VbHWLPxJ.jpg",
+  "name" : {
+    "en" : "Ryuma",
+    "ja" : "リューマ",
+    "ko" : "류마"
+  },
+  "num" : "2499",
+  "price" : 7800,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "MONSTERS: 103 Mercies Dragon Damnation",
+    "ja" : "MONSTERS 一百三情飛龍侍極",
+    "ko" : "몬스터즈: 일백삼정 비룡시극"
+  }
+}

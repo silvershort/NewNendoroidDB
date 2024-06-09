@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34679,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34679/TripG7eHyP1jsUZNkm9Bt2nzbFguhRCQ.jpg",
+  "name" : {
+    "en" : "Genya Shinazugawa",
+    "ja" : "不死川玄弥",
+    "ko" : "시나즈가와 겐야"
+  },
+  "num" : "2505",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Demon Slayer: Kimetsu no Yaiba",
+    "ja" : "鬼滅の刃",
+    "ko" : "귀멸의 칼날"
+  }
+}

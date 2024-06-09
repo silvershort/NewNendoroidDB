@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 46677,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46677/Q7HaJFzLYB16wSuyg8vWhrAMeKXDPEsd.jpg",
+  "name" : {
+    "en" : "Himemori Luna",
+    "ja" : "姫森ルーナ",
+    "ko" : "히메모리 루나"
+  },
+  "num" : "2486",
+  "price" : 7900,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

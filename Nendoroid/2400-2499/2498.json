@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57430,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57430/9PRbBnNwV58F4G07hD1eiT6pLfYvdmJq.jpg",
+  "name" : {
+    "en" : "Himmel",
+    "ja" : "ヒンメル",
+    "ko" : "힘멜"
+  },
+  "num" : "2498",
+  "price" : 6500,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Frieren: Beyond Journey's End",
+    "ja" : "葬送のフリーレン",
+    "ko" : "장송의 프리렌"
+  }
+}

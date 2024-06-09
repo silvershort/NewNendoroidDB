@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="" />
+    <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2485.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2486.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2498.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2499.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2501.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2503.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2504.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,23 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KHS/Documents/NendoroidDB/Nendoroid/2400-2499&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/KHS/Documents/NendoroidDB/Nendoroid/2400-2499",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2400-2499" />
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2500-2599" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2300-2399" />
-      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\1700-1799" />
-      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\1800-1899" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2200-2299" />
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\1700-1799" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2300-2399" />

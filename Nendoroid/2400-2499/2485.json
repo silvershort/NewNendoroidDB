@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34659,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34659/miExuS8yqJMb6AZ4c1enXrhLF3VgpT5P.jpg",
+  "name" : {
+    "en" : "Hellish Blizzard",
+    "ja" : "地獄のフブキ",
+    "ko" : "지옥의 후부키"
+  },
+  "num" : "2485",
+  "price" : 5900,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "ONE-PUNCH MAN",
+    "ja" : "ワンパンマン",
+    "ko" : "원펀맨"
+  }
+}

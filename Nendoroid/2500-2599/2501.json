@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35754,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35754/PmL0XrCgxk6yitTsvSRYfpdFqQJ1Z5Wc.jpg",
+  "name" : {
+    "en" : "Guideau",
+    "ja" : "ギド",
+    "ko" : "기드"
+  },
+  "num" : "2501",
+  "price" : 7200,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Beauty and the Beast",
+    "ja" : "美女と野獣",
+    "ko" : "미녀와 야수"
+  }
+}

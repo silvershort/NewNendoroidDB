@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 44946,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44946/XnPzhCJEmvtGwyZ3YdxQ512BV8cRkiWU.jpg",
+  "name" : {
+    "en" : "Mina Ashiro",
+    "ja" : "亜白ミナ",
+    "ko" : "아시로 미나"
+  },
+  "num" : "2503",
+  "price" : 7300,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Kaiju No. 8",
+    "ja" : "怪獣８号",
+    "ko" : "괴수 8호"
+  }
+}
