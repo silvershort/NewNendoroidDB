@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35121,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35121/iE6gh3KwJmU1SFbAMsxrjT9dVvzGCnYN.jpg",
+  "name" : {
+    "en" : "Train Heartnet",
+    "ja" : "トレイン＝ハートネット",
+    "ko" : "트레인 하트네트"
+  },
+  "num" : "2510",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "BLACK CAT",
+    "ja" : "BLACK CAT",
+    "ko" : "블랙캣"
+  }
+}

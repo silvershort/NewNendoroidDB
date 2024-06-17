@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2485.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2486.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2498.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2499.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2501.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2503.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2504.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2413.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2484.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2507.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2510.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

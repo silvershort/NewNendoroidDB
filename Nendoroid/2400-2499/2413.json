@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 54505,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54505/WCnMPxhLgjikcErT6qNwDztJd0ZB7Umv.jpg",
+  "name" : {
+    "en" : "Ukyo",
+    "ja" : "ウキョウ",
+    "ko" : "우쿄"
+  },
+  "num" : "2413",
+  "price" : 7200,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35757,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35757/dPaMSfyV580JCp2XLsTBkNQExK1AvDjb.jpg",
+  "name" : {
+    "en" : "Yukina Himeragi",
+    "ja" : "姫柊雪菜",
+    "ko" : "히메라기 유키나"
+  },
+  "num" : "2484",
+  "price" : 6800,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Strike the Blood",
+    "ja" : "ストライク・ザ・ブラッド",
+    "ko" : "스트라이크 더 블러드"
+  }
+}
