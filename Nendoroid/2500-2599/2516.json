@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35758,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35758/cbkWZGnq2TtMLjYgmeN86UarFASfXHCV.jpg",
+  "name" : {
+    "en" : "Fuwa Minato",
+    "ja" : "不破湊",
+    "ko" : "후와 미나토"
+  },
+  "num" : "2516",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

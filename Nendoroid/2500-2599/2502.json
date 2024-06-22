@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 46704,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46704/vn251pcBr6GADsW9tyRwgbKaQXLTz3eY.jpg",
+  "name" : {
+    "en" : "Momosuzu Nene",
+    "ja" : "桃鈴ねね",
+    "ko" : "모모스즈 네네"
+  },
+  "num" : "2502",
+  "price" : 7800,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60794,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60794/5pQ3debDr7L1uEHUwGsgv0NSzxi8m9Cq.jpg",
+  "name" : {
+    "en" : "Vertin",
+    "ja" : "ヴェルティ",
+    "ko" : "버틴"
+  },
+  "num" : "2508",
+  "price" : 6800,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Reverse: 1999",
+    "ja" : "リバース 1999",
+    "ko" : "리버스: 1999"
+  }
+}

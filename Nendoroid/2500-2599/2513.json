@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35118,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35118/NmwTg8dU9rqMbhtJSf6ZAszaHnWQ30B7.jpg",
+  "name" : {
+    "en" : "Assassin/Kama",
+    "ja" : "アサシン/カーマ",
+    "ko" : "어새신/카마"
+  },
+  "num" : "2513",
+  "price" : 7500,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  }
+}

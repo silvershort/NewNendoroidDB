@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56927,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56927/2ZFy1AdVM7wkzQHXfvK0YEjG5bam4u9L.jpg",
+  "name" : {
+    "en" : "Nana Osaki",
+    "ja" : "大崎ナナ",
+    "ko" : "오사키 나나"
+  },
+  "num" : "2509",
+  "price" : 7200,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "NANA"
+  }
+}
