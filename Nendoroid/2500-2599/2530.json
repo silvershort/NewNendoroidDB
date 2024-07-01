@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35124,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35124/DQB5z9AVyEpR6TY3CxakKMPSNFiWJvr1.jpg",
+  "name" : {
+    "en" : "Yoko 2.0",
+    "ja" : "ヨーコ 2.0",
+    "ko" : "요코 2.0"
+  },
+  "num" : "2530",
+  "price" : 7800,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Gurren Lagann",
+    "ja" : "天元突破グレンラガン",
+    "ko" : "천원돌파 그렌라간"
+  }
+}

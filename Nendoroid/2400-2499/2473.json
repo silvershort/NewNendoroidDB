@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56703,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56703/x1fvmwSZhekjn2RHqaUsuMF4Lp8XyEcY.jpg",
+  "name" : {
+    "en" : "Haruomi Shingu",
+    "ja" : "辰宮晴臣",
+    "ko" : "신구 하루오미"
+  },
+  "num" : "2473",
+  "price" : 7400,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Paradox Live",
+    "ja" : "Paradox Live",
+    "ko" : "Paradox Live"
+  }
+}

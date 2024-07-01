@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 56672,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56672/QKGCZbJwS9BVfsuMj2mcy6eNPpU7xXHR.jpg",
+  "name" : {
+    "en" : "Bulborb",
+    "ja" : "チャッピー",
+    "ko" : "차피"
+  },
+  "num" : "2520",
+  "price" : 7500,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Pikmin",
+    "ja" : "ピクミン",
+    "ko" : "피크민"
+  }
+}

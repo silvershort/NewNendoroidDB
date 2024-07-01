@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36080,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36080/SVsTYjv96ychm1bCMJ48BaR25xwGndXL.jpg",
+  "name" : {
+    "en" : "Nonomi Izayoi",
+    "ja" : "十六夜ノノミ",
+    "ko" : "이자요이 노노미"
+  },
+  "num" : "2511",
+  "price" : 7200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  }
+}

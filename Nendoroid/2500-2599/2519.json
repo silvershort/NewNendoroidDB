@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35621,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35621/79ysd56z0GMXZCR4xKuvYqD8hbwk3BAS.jpg",
+  "name" : {
+    "en" : "Chino: Winter Uniform Ver.",
+    "ja" : "チノ 冬制服Ver.",
+    "ko" : "치노 겨울 교복Ver."
+  },
+  "num" : "2519",
+  "price" : 5600,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Is the Order a Rabbit??",
+    "ja" : "ご注文はうさぎですか？？",
+    "ko" : "주문은 토끼입니까?"
+  }
+}

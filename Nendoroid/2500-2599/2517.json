@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35128,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35128/upJfn3WPq9txRUh8FvdQ0CNwEMkGS4Ab.jpg",
+  "name" : {
+    "en" : "Haruka Sakura",
+    "ja" : "桜 遥",
+    "ko" : "하루카 사쿠라"
+  },
+  "num" : "2517",
+  "price" : 6300,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "WIND BREAKER",
+    "ja" : "WIND BREAKER",
+    "ko" : "WIND BREAKER"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 54174,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54174/ge6dwArhLGEuFNxyimBVYaTjMSJf3U8Q.jpg",
+  "name" : {
+    "en" : "Oxnard",
+    "ja" : "こうしくん",
+    "ko" : "얌냠이"
+  },
+  "num" : "1699",
+  "price" : 6300,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Hamtaro",
+    "ja" : "とっとこハム太郎",
+    "ko" : "방가방가 햄토리"
+  }
+}

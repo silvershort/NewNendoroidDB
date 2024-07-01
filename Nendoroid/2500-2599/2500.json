@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36072,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36072/63M0vTR8GNAX5sY97cbnFkZ21utUKDpS.jpg",
+  "name" : {
+    "en" : "Ippo Makunouchi",
+    "ja" : "幕之内一歩",
+    "ko" : "일보"
+  },
+  "num" : "2500",
+  "price" : 6500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Hajime no Ippo",
+    "ja" : "はじめの一歩",
+    "ko" : "더 파이팅"
+  }
+}

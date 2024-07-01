@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56839,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56839/mizcA3Urw0fxuECpPh5QDSH9dRsjXaeV.jpg",
+  "name" : {
+    "en" : "Shadow the Hedgehog",
+    "ja" : "シャドウ・ザ・ヘッジホッグ",
+    "ko" : "섀도우 더 헤지혹"
+  },
+  "num" : "2518",
+  "price" : 6500,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Sonic the Hedgehog",
+    "ja" : "ソニック・ザ・ヘッジホッグ",
+    "ko" : "소닉 더 헤지혹"
+  }
+}

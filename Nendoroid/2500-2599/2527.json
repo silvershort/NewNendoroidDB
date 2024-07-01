@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35719,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35719/9SaUy8Nzkj1MvxigcR4AqprQHGBte7TL.jpg",
+  "name" : {
+    "en" : "Iris",
+    "ja" : "アイリス",
+    "ko" : "아이리스"
+  },
+  "num" : "2527",
+  "price" : 6600,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "KONO SUBARASHII SEKAI NI SYUKUFUKU WO!",
+    "ja" : "この素晴らしい世界に祝福を！",
+    "ko" : "이 멋진 세계에 축복을!"
+  }
+}

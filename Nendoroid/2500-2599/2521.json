@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36001,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36001/jKtRYBsMbJqnfVcvUgmdz0xPTy8F2kA7.jpg",
+  "name" : {
+    "en" : "Kurisu Makise 2.0",
+    "ja" : "牧瀬紅莉栖 2.0",
+    "ko" : "마키세 크리스 2.0"
+  },
+  "num" : "2521",
+  "price" : 6900,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "シュタインズ・ゲート",
+    "ko" : "슈타인즈 게이트"
+  }
+}

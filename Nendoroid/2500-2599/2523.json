@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56918,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56918/FsX1Pygv8T2YH0BdtuUNLK4jnV5phaAe.jpg",
+  "name" : {
+    "en" : "Taiga Aisaka 2.0",
+    "ja" : "逢坂大河 2.0",
+    "ko" : "아이사카 타이가 2.0"
+  },
+  "num" : "2523",
+  "price" : 6200,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Toradora!",
+    "ja" : "とらドラ！",
+    "ko" : "토라도라!"
+  }
+}

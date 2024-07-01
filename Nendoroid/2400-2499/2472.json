@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56702,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56702/h5HCcQV9aXR0yrYnveubj7JSKNkML2Gf.jpg",
+  "name" : {
+    "en" : "Chisei Kuzuryu",
+    "ja" : "九頭竜智生",
+    "ko" : "쿠즈류 치세이"
+  },
+  "num" : "2472",
+  "price" : 7400,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Paradox Live",
+    "ja" : "Paradox Live",
+    "ko" : "Paradox Live"
+  }
+}
