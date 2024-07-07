@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60319,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60319/i6WhvVHU0Pgk1xDrXFYuNtdSyqQ7aCLG.jpg",
+  "name" : {
+    "en" : "Bravern",
+    "ja" : "ブレイバーン",
+    "ko" : "브레이번 "
+  },
+  "num" : "2532",
+  "price" : 6500,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Bang Brave Bang Bravern",
+    "ja" : "勇気爆発バーンブレイバーン",
+    "ko" : "용기폭발 뱅브레이번"
+  }
+}

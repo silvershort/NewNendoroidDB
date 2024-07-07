@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 36076,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36076/dYAbXZC6kNvDn5fHFWJmLi4h3gpKT1yj.jpg",
+  "name" : {
+    "en" : "Bunzo",
+    "ja" : "文蔵",
+    "ko" : "분조"
+  },
+  "num" : "2535",
+  "price" : 5900,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Ramen Akaneko",
+    "ja" : "ラーメン赤猫",
+    "ko" : "라멘 아카네코"
+  }
+}

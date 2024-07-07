@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60253,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60253/VFH0EpnWhKrqTbR5QeG7AacyUd1Yv2zM.jpg",
+  "name" : {
+    "en" : "Ruby: School Uniform Ver.",
+    "ja" : "ルビー 制服Ver.",
+    "ko" : "루비 교복Ver."
+  },
+  "num" : "2537",
+  "price" : 6100,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "OSHI NO KO",
+    "ja" : "TVアニメ【推しの子】",
+    "ko" : "최애의 아이"
+  }
+}

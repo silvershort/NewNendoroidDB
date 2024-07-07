@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36019,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36019/UuXmYCJnNWZQeF0i6LVbkDphKE3HcMw1.jpg",
+  "name" : {
+    "en" : "Sora Naegino",
+    "ja" : "苗木野そら",
+    "ko" : "나에기노 소라"
+  },
+  "num" : "2538",
+  "price" : 6700,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Kaleidostar",
+    "ja" : "カレイドスター",
+    "ko" : "카레이도 스타"
+  }
+}

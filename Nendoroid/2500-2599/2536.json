@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60624,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60624/M0QSW2iP9eYgK4jNad6LE7xspqkCmuf5.jpg",
+  "name" : {
+    "en" : "Tomori Takamatsu",
+    "ja" : "高松燈",
+    "ko" : "타카마츠 토모리"
+  },
+  "num" : "2536",
+  "price" : 6500,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  }
+}

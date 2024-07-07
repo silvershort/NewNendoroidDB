@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36228,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36228/VfRnGj3qiYHaZLC8x20rAN5gkUT7Be1D.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: ∞ Ver.",
+    "ja" : "初音ミク ∞Ver.",
+    "ko" : "하츠네 미쿠 ∞Ver."
+  },
+  "num" : "2534",
+  "price" : 9500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

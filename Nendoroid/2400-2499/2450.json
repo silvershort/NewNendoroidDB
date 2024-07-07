@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34720,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34720/4YxDtKmAzq5CaGskBdEHewMU0JNTZRry.jpg",
+  "name" : {
+    "en" : "Astro Boy",
+    "ja" : "アトム",
+    "ko" : "아톰"
+  },
+  "num" : "2450",
+  "price" : 6100,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Astro Boy",
+    "ja" : "鉄腕アトム",
+    "ko" : "우주소년 아톰"
+  }
+}
