@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36218,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36218/85hgTKjG7bSBk4XUse3ZPyxdFAq69rJm.jpg",
+  "name" : {
+    "en" : "Kagamine Rin: The Daughter of Evil Ver.",
+    "ja" : "鏡音リン 悪ノ娘Ver.",
+    "ko" : "카가미네 린 악의 하인Ver."
+  },
+  "num" : "2524",
+  "price" : 7500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja" : "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
+    "ko" : "보컬로이드"
+  }
+}

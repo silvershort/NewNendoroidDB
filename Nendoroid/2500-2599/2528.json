@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34701,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34701/qz486pRw3AuMWPSQmfXv2JH7DgV1iTye.jpg",
+  "name" : {
+    "en" : "Genichiro Ashina",
+    "ja" : "葦名弦一郎",
+    "ko" : "아시나 겐이치로"
+  },
+  "num" : "2528",
+  "price" : 7700,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "SEKIRO: SHADOWS DIE TWICE",
+    "ja" : "SEKIRO: SHADOWS DIE TWICE",
+    "ko" : "세키로: 섀도즈 다이 트와이스"
+  }
+}

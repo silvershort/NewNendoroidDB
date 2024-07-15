@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36219,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36219/Kk8ePfwCy4bh9VvJEpqAdBcu1tQjm05S.jpg",
+  "name" : {
+    "en" : "Kagamine Len: The Servant of Evil Ver.",
+    "ja" : "鏡音レン 悪ノ召使Ver.",
+    "ko" : "카가미네 렌 악의 하인Ver."
+  },
+  "num" : "2525",
+  "price" : 7500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 02: Kagamine Rin/Len",
+    "ja" : "キャラクター・ボーカル・シリーズ02 鏡音リン・レン",
+    "ko" : "보컬로이드"
+  }
+}

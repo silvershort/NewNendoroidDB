@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35110,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35110/bztGxgML8sAT42RVvmBFkcJqaHNwdfp5.jpg",
+  "name" : {
+    "en" : "Nadja",
+    "ja" : "ナージャ",
+    "ko" : "나쟈"
+  },
+  "num" : "2459",
+  "price" : 7700,
+  "release_date" : [
+    "2024/11"
+  ],
+  "series" : {
+    "en" : "Ashita no Nadja",
+    "ja" : "明日のナージャ",
+    "ko" : "내일의 나쟈"
+  }
+}

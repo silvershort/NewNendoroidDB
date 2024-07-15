@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35122,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35122/4XWJaPyfBj8wsnYv0ZxLSupRkHNAb5Uq.jpg",
+  "name" : {
+    "en" : "Koko Hekmatyar",
+    "ja" : "ココ・ヘクマティアル",
+    "ko" : "코코 헥마티아르"
+  },
+  "num" : "2545",
+  "price" : 6500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Jormungand",
+    "ja" : "ヨルムンガンド",
+    "ko" : "요르문간드"
+  }
+}

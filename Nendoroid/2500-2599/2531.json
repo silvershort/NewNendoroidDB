@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35625,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35625/g4thPME2b1vdfzcasiSCe0XkBAqY8w5L.jpg",
+  "name" : {
+    "en" : "Inuyasha: New Moon Ver. & Shippo",
+    "ja" : "犬夜叉 朔の日Ver. & 七宝",
+    "ko" : "이누야샤 초하룻날Ver. & 싯포"
+  },
+  "num" : "2531",
+  "price" : 7500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Inuyasha",
+    "ja" : "犬夜叉",
+    "ko" : "이누야샤"
+  }
+}
