@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35125,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35125/WHjQFLmhY31NyngU0z29PXKqfZbTEVSB.jpg",
+  "name" : {
+    "en" : "Dahlia Rossetti",
+    "ja" : "ダリヤ・ロセッティ",
+    "ko" : "달리아 로세티"
+  },
+  "num" : "2552",
+  "price" : 7800,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Dahlia in Bloom",
+    "ja" : "魔導具師ダリヤはうつむかない",
+    "ko" : "마도구사 달리아는 고개 숙이지 않아"
+  }
+}

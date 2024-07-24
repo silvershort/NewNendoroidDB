@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35545,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35545/rtFqQCw9Pum1TpR0y4LX2cEJgYAKUDS5.jpg",
+  "name" : {
+    "en" : "Chihaya Ayase",
+    "ja" : "綾瀬千早",
+    "ko" : "아야세 치하야"
+  },
+  "num" : "2526",
+  "price" : 7500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Chihayafuru",
+    "ja" : "ちはやふる",
+    "ko" : "치하야후루"
+  }
+}

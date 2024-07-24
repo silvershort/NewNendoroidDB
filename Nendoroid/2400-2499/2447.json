@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 45329,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45329/rHxCGj9E6eKUfTgt5Z8niQAkX3yVzbYw.jpg",
+  "name" : {
+    "en" : "Kazama Iroha",
+    "ja" : "杏山カズサ",
+    "ko" : "카자마 이로하"
+  },
+  "num" : "2447",
+  "price" : 7200,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

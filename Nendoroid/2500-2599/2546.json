@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60605,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60605/bmPHQ1CKeBi2tLscfvqaN69hznF78ASu.jpg",
+  "name" : {
+    "en" : "Übel",
+    "ja" : "ユーベル",
+    "ko" : "위벨 "
+  },
+  "num" : "2546",
+  "price" : 6500,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Frieren: Beyond Journey's End",
+    "ja" : "葬送のフリーレン",
+    "ko" : "장송의 프리렌"
+  }
+}
