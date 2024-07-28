@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35764,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35764/GteRA5Pz1Tx8muJvZsNbKrHEwQFjLWdU.jpg",
+  "name" : {
+    "en" : "Suou Patra",
+    "ja" : "周防パトラ",
+    "ko" : "스오우 파트라"
+  },
+  "num" : "2559",
+  "price" : 7500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Patra Suou",
+    "ja" : "周防パトラ",
+    "ko" : "스오우 파트라"
+  }
+}

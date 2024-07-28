@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35753,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35753/6FivumM7V059CcHkbfptjgKy28wnYdBh.jpg",
+  "name" : {
+    "en" : "Second Lieutenant Koito",
+    "ja" : "鯉登少尉",
+    "ko" : "코이토 소위"
+  },
+  "num" : "2542",
+  "price" : 6700,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Golden Kamuy",
+    "ja" : "TVアニメ『ゴールデンカムイ』",
+    "ko" : "골든 카무이"
+  }
+}

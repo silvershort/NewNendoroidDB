@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36319,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36319/Q2YXUDi0j6EWpdtNaM3HvRAyLBCk8Kzm.jpg",
+  "name" : {
+    "en" : "Sergeant Tsukishima",
+    "ja" : "月島軍曹",
+    "ko" : "츠키시마 군소"
+  },
+  "num" : "2541",
+  "price" : 6700,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Golden Kamuy",
+    "ja" : "TVアニメ『ゴールデンカムイ』",
+    "ko" : "골든 카무이"
+  }
+}

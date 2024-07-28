@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60091,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60091/mKy0JuRZF1GTLnvN2gQVWX7Bpfwh6AEY.jpg",
+  "name" : {
+    "en" : "Kokorone Awayuki",
+    "ja" : "心音淡雪",
+    "ko" : "코코로네 아와유키"
+  },
+  "num" : "2557",
+  "price" : 7300,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "VTuber Legend: How I Went Viral After Forgetting to Turn Off My Stream",
+    "ja" : "VTuberなんだが配信切り忘れたら伝説になってた",
+    "ko" : "VTuber인데 방송 끄는 걸 깜빡했더니 전설이 되어있었다"
+  }
+}

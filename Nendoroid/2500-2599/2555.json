@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35107,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35107/t2mGJgy45kXzqRsEwY6P7r1LdZNxciW3.jpg",
+  "name" : {
+    "en" : "RITA",
+    "ja" : "リタ",
+    "ko" : "리타 "
+  },
+  "num" : "2555",
+  "price" : 5900,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Kindergarten Wars",
+    "ja" : "幼稚園WARS",
+    "ko" : "유치원 WARS"
+  }
+}

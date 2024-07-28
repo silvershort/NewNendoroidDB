@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36071,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36071/QRVdtvsZ915mFzc0ij6MbaSXKwGJH2UT.jpg",
+  "name" : {
+    "en" : "Deedlit",
+    "ja" : "ディードリット",
+    "ko" : "디드리트 "
+  },
+  "num" : "2553",
+  "price" : 6800,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Record of Lodoss War",
+    "ja" : "ロードス島戦記",
+    "ko" : "로도스도 전기"
+  }
+}

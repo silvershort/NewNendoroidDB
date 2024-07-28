@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57520,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57520/4pjH8uya2mB1NvxiSbcU6Z0Y53XLKgnM.jpg",
+  "name" : {
+    "en" : "Jungle Pocket",
+    "ja" : "ジャングルポケット",
+    "ko" : "정글 포켓"
+  },
+  "num" : "2549",
+  "price" : 6900,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

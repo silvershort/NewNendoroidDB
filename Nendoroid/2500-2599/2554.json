@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60273,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60273/Cbnz5mdSyax19MjQisgvKZYwXF8LHPJ7.jpg",
+  "name" : {
+    "en" : "Belldandy",
+    "ja" : "ベルダンディー",
+    "ko" : "베르단디"
+  },
+  "num" : "2554",
+  "price" : 6900,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Oh My Goddess!",
+    "ja" : "ああっ女神さまっ",
+    "ko" : "오! 나의 여신님"
+  }
+}
