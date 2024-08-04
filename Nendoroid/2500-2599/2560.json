@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36226,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36226/s24LyW57zxSVvZK9Ei6chfQ3GdgAFpBb.jpg",
+  "name" : {
+    "en" : "Nanachi: New Outfit Ver.",
+    "ja" : "ナナチ 新衣装Ver.",
+    "ko" : "나나치 신의상Ver."
+  },
+  "num" : "2560",
+  "price" : 7900,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Made in Abyss",
+    "ja" : "メイドインアビス",
+    "ko" : "메이드 인 어비스"
+  }
+}

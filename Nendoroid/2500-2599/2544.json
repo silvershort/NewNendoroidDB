@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56667,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56667/qrUuJmDB7Xvh0EP4wSYdtaM8pFCykTbG.jpg",
+  "name" : {
+    "en" : "Griffith",
+    "ja" : "グリフィス",
+    "ko" : "그리피스"
+  },
+  "num" : "2544",
+  "price" : 7500,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "Berserk",
+    "ja" : "TVアニメ「ベルセルク」",
+    "ko" : "베르세르크"
+  }
+}

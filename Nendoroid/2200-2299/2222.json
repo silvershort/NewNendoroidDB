@@ -13,9 +13,8 @@
     "2023/12"
   ],
   "series" : {
-    "en" : "Character Vocal Series 01: Hatsune Miku",
-    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
-    "ko" : "보컬로이드"
-  },
-  "set" : 10
+    "en" : "Miku Hatsune",
+    "ja" : "初音ミク",
+    "ko" : "하츠네미쿠"
+  }
 }

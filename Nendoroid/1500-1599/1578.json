@@ -13,9 +13,8 @@
     "2021/10"
   ],
   "series" : {
-    "en" : "Hatsune Miku GT Project",
-    "ja" : "初音ミク GTプロジェクト",
-    "ko" : "보컬로이드"
-  },
-  "set" : 23
+    "en" : "Miku Hatsune",
+    "ja" : "初音ミク",
+    "ko" : "하츠네미쿠"
+  }
 }
