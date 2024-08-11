@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35108,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35108/cq9pxDZghrVseHibEB5vu6PKanfU2GYw.jpg",
+  "name" : {
+    "en" : "DOUG",
+    "ja" : "ダグ",
+    "ko" : "더그"
+  },
+  "num" : "2569",
+  "price" : 5900,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Kindergarten Wars",
+    "ja" : "幼稚園WARS",
+    "ko" : "유치원 WARS"
+  }
+}

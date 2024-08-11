@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 47332,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/47332/FEKG7zBiXS6TcYU5VvxQZnbe9fLhdCuw.jpg",
+  "name" : {
+    "en" : "AZKi",
+    "ja" : "AZKi",
+    "ko" : "AZKi"
+  },
+  "num" : "2543",
+  "price" : 7500,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

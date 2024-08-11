@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34677,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34677/2q9mQgjXi7FHGyBa0nrzYKUCJk1MVhf8.jpg",
+  "name" : {
+    "en" : "Matakara Asamine",
+    "ja" : "浅観音 真宝",
+    "ko" : "아사미네 마타카라"
+  },
+  "num" : "2568",
+  "price" : 7600,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Bucchigiri?!",
+    "ja" : "ぶっちぎり?!",
+    "ko" : "붓치기리"
+  }
+}

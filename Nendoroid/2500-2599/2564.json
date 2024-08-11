@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60254,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60254/wyCnPKEgxYWHR8u5NXcz1MVbeD67k02f.jpg",
+  "name" : {
+    "en" : "Haruka Isumi",
+    "ja" : "亥清悠",
+    "ko" : "이스미 하루카"
+  },
+  "num" : "2564",
+  "price" : 6500,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  }
+}

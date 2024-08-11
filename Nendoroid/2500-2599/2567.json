@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34676,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34676/0PvZEe7ugkBhHpVsdnMWXb5xrAz2F16w.jpg",
+  "name" : {
+    "en" : "Arajin Tomoshibi",
+    "ja" : "灯 荒仁",
+    "ko" : "토모시비 아라진"
+  },
+  "num" : "2567",
+  "price" : 7600,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Bucchigiri?!",
+    "ja" : "ぶっちぎり?!",
+    "ko" : "붓치기리"
+  }
+}

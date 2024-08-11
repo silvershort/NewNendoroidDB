@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34621,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34621/8kvUHJA3dqXW2TnbZ17FQuyG6sBztf9c.jpg",
+  "name" : {
+    "en" : "Gintoki Sakata",
+    "ja" : "坂田銀時",
+    "ko" : "사카타 긴토키"
+  },
+  "num" : "2420",
+  "price" : 6900,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Gintama",
+    "ja" : "銀魂",
+    "ko" : "은혼"
+  }
+}
