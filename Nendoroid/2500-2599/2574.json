@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34667,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34667/NA4DBSHpWRLF6jczkdGPMVatXgi18x5T.jpg",
+  "name" : {
+    "en" : "Yuni",
+    "ja" : "ユニ",
+    "ko" : "유니"
+  },
+  "num" : "",
+  "price" : 7500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Princess Connect! Re: Dive",
+    "ja" : "プリンセスコネクト！Re:Dive",
+    "ko" : "프린세스 커넥트! Re:Dive"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35770,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35770/W3jKqRT0FtxXBEnkUdveaSGuZ25f9Jbg.jpg",
+  "name" : {
+    "en" : "Formidable",
+    "ja" : "フォーミダブル",
+    "ko" : "포미더블"
+  },
+  "num" : "",
+  "price" : 9800,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  }
+}

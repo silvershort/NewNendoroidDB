@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 46676,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46676/5fQK8yxCU43hpvcSrzgm1wNZdTkjWBXP.jpg",
+  "name" : {
+    "en" : "Tokoyami Towa",
+    "ja" : "常闇トワ",
+    "ko" : "토코야미 토와"
+  },
+  "num" : "",
+  "price" : 7900,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

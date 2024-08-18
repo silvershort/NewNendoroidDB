@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60250,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60250/hjrqnYMB8NTL7bpcwGFXy1t6vK2VAkEd.jpg",
+  "name" : {
+    "en" : "Moomin",
+    "ja" : "ムーミン",
+    "ko" : "무민"
+  },
+  "num" : "",
+  "price" : 3900,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Moomin",
+    "ja" : "Moomin",
+    "ko" : "Moomin"
+  }
+}

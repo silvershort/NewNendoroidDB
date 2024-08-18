@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2420.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2458.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2400-2499/2462.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2543.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2567.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2568.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2569.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +42,7 @@
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/KHS/Documents/NendoroidDB/Nendoroid/2500-2599",
+    "last_opened_file_path": "C:/Users/KHS/Downloads/asyncvalue_details",
     "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "show.migrate.to.gradle.popup": "false"
   }

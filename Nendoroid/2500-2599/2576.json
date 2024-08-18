@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57435,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57435/HxZ4cPVy2AuJp7W5w89XnYKki3jGmfSC.jpg",
+  "name" : {
+    "en" : "Alisa Mikhailovna Kujo",
+    "ja" : "アリサ・ミハイロヴナ・九条",
+    "ko" : "아리사 미하일로브나 쿠죠"
+  },
+  "num" : "",
+  "price" : 7400,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "Alya Sometimes Hides Her Feelings in Russian",
+    "ja" : "時々ボソッとロシア語でデレる隣のアーリャさん",
+    "ko" : "가끔씩 툭하고 러시아어로 부끄러워하는 옆자리의 아랴 양"
+  }
+}

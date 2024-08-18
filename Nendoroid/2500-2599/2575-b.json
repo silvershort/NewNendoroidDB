@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35769,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35769/1bH2pQ9Vq3PhCctZsATwg80rRXMYjxd4.jpg",
+  "name" : {
+    "en" : "Formidable: Light Equipment Ver.",
+    "ja" : "フォーミダブル 軽装Ver.",
+    "ko" : "포미더블 경장Ver."
+  },
+  "num" : "",
+  "price" : 8000,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Azur Lane",
+    "ja" : "アズールレーン",
+    "ko" : "벽람항로"
+  }
+}
