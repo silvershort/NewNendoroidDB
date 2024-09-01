@@ -1,0 +1,20 @@
+{
+  "gender" : "f",
+  "gsc_productNum" : 34683,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34683/Hw6xFsr9RUPTzV2y3n4qhMAS0JEgXdDe.jpg",
+  "name" : {
+    "en" : "Narita Brian",
+    "ja" : "ナリタブライアン",
+    "ko" : "나리타 브라이언"
+  },
+  "num" : "2577",
+  "price" : 7200,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

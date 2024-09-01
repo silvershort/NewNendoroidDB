@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36074,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36074/k4RcaVUQxm36fYv2yAh1ZCMnNKwsu9LS.jpg",
+  "name" : {
+    "en" : "Ritsu Kageyama",
+    "ja" : "影山 律",
+    "ko" : "카게야마 리츠"
+  },
+  "num" : "2282",
+  "price" : 5800,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Mob Psycho 100 III",
+    "ja" : "モブサイコ100 Ⅲ",
+    "ko" : "모브 사이코 100 III"
+  }
+}

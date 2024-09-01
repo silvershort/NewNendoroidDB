@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60282,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60282/8MQ0rZx7ybaYKtXTe25kcBqSs4PRHfmn.jpg",
+  "name" : {
+    "en" : "Izuku Midoriya: Jikketsu Costume Ver.",
+    "ja" : "緑谷出久 十傑コスチュームVer.",
+    "ko" : "미도리야 이즈쿠 십걸 코스튬"
+  },
+  "num" : "2562",
+  "price" : 8580,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

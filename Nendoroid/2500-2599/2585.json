@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60690,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60690/1e38ncGUdD0mh2VJ96MFbfBZwYAQRKTg.jpg",
+  "name" : {
+    "en" : "Tama",
+    "ja" : "たま",
+    "ko" : "타마"
+  },
+  "num" : "2585",
+  "price" : 6400,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Sengoku Youko",
+    "ja" : "戦国妖狐",
+    "ko" : "전국요호"
+  }
+}

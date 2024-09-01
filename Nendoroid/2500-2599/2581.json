@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57563,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57563/hE4G09nUNyrvCKXuiw8bdx1aJR5LFpes.jpg",
+  "name" : {
+    "en" : "Kadoc Zemlupus",
+    "ja" : "カドック・ゼムルプス",
+    "ko" : "카독 젬루푸스"
+  },
+  "num" : "2581",
+  "price" : 6600,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Fate/hollow ataraxia",
+    "ja" : "Fate/hollow ataraxia",
+    "ko" : "페이트 시리즈"
+  }
+}

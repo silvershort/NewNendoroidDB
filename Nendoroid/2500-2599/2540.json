@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60418,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60418/Bz0Sdu6AEQXHb1KDak5xpc4MRWnY7Tqt.jpg",
+  "name" : {
+    "en" : "Aventurine",
+    "ja" : "アベンチュリン",
+    "ko" : "어벤츄린"
+  },
+  "num" : "2540",
+  "price" : 7500,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35762,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35762/nViAaz7FKWN5SEwjJLquT8t02vYhDcHM.jpg",
+  "name" : {
+    "en" : "Seto Kaiba",
+    "ja" : "海馬瀬人",
+    "ko" : "카이바 세토"
+  },
+  "num" : "2566",
+  "price" : 7400,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Yu-Gi-Oh!",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  }
+}

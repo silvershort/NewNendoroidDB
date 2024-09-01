@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35127,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35127/05hb9jDLasJYKGg1f2Ni4qTBeAEy6VSC.jpg",
+  "name" : {
+    "en" : "Rinne",
+    "ja" : "リンネ",
+    "ko" : "린네"
+  },
+  "num" : "2571",
+  "price" : 6900,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Why Does Nobody Remember Me in This World?",
+    "ja" : "なぜ僕の世界を誰も覚えていないのか？",
+    "ko" : "어째서 내 세계를 아무도 기억하지 못하는가"
+  }
+}

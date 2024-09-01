@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60283,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60283/RpNX75t6m4u1jWPg9kHLbsDKqcE80iQy.jpg",
+  "name" : {
+    "en" : "Katsuki Bakugo: Jikketsu Costume Ver.",
+    "ja" : "爆豪勝己 十傑コスチュームVer.",
+    "ko" : "바쿠고 카츠키 십걸 코스튬"
+  },
+  "num" : "2563",
+  "price" : 8580,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

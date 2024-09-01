@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 62217,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62217/KHnQ4Y71zSAsL2rFCxJfhueiVUaDj5mZ.jpg",
+  "name" : {
+    "en" : "Lum: School Uniform Ver.",
+    "ja" : "ラム 制服Ver.",
+    "ko" : "라무 교복Ver."
+  },
+  "num" : "1745",
+  "price" : 7920,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "Urusei Yatsura",
+    "ja" : "うる星やつら",
+    "ko" : "시끌별 녀석들"
+  }
+}

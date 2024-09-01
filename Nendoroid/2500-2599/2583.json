@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60281,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60281/mhQsWFxSUCKLVMc0kY1eXrf4PyNzt7nR.jpg",
+  "name" : {
+    "en" : "Pomni",
+    "ja" : "ポムニ",
+    "ko" : "폼니"
+  },
+  "num" : "2583",
+  "price" : 6800,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "The Amazing Digital Circus",
+    "ja" : "The Amazing Digital Circus",
+    "ko" : "The Amazing Digital Circus"
+  }
+}
