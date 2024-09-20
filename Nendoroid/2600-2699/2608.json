@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35756,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35756/Csg9YnbWRPjH4t56BSL7uQdr2ZGMkwmx.jpg",
+  "name" : {
+    "en" : "Marie",
+    "ja" : "マリー",
+    "ko" : "마리"
+  },
+  "num" : "2608",
+  "price" : 7900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Atelier Marie Remake: The Alchemist of Salburg",
+    "ja" : "マリーのアトリエ Remake ～ザールブルグの錬金術士～",
+    "ko" : "마리의 아틀리에 Remake 잘부르그의 연금술사"
+  }
+}

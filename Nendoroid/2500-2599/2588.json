@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60264,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60264/c7XgbdhWxTR2wVn1jEukfC8DAGBYm6Pv.jpg",
+  "name" : {
+    "en" : "Mina",
+    "ja" : "ミーナ",
+    "ko" : "미나"
+  },
+  "num" : "2588",
+  "price" : 6900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "My Wife Has No Emotion",
+    "ja" : "僕の妻は感情がない",
+    "ko" : "내 아내는 감정이 없다"
+  }
+}

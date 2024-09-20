@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 34792,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34792/XPL7jtZuWhD4FaMQKAgxmHd9kpSTnV8C.jpg",
+  "name" : {
+    "en" : "Sung Jinwoo",
+    "ja" : "水篠旬",
+    "ko" : "성진우"
+  },
+  "num" : "2597",
+  "price" : 7200,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Solo Leveling",
+    "ja" : "TVアニメ『俺だけレベルアップな件』",
+    "ko" : "나 혼자만 레벨업"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60278,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60278/gV7A94MEbSC1vrGfQih3LuFat6jXnKNw.jpg",
+  "name" : {
+    "en" : "Dark Hero Momon",
+    "ja" : "漆黒の英雄 モモン",
+    "ko" : "칠흑의 영웅 모몬"
+  },
+  "num" : "2605",
+  "price" : 7800,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "OVERLORD",
+    "ja" : "オーバーロード",
+    "ko" : "오버로드"
+  }
+}

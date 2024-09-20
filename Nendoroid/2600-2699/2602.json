@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61293,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61293/5WrYAHGvDwLyPEneT4FBgX9j73Sbhq0Z.jpg",
+  "name" : {
+    "en" : "Rin",
+    "ja" : "凜",
+    "ko" : "린"
+  },
+  "num" : "2602",
+  "price" : 6400,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "BUNNY GARDEN",
+    "ja" : "バニーガーデン",
+    "ko" : "버니 가든"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36078,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36078/8BVKSPbZWkuNApMQf034LrwXmi7gjaDt.jpg",
+  "name" : {
+    "en" : "Kenmochi Toya",
+    "ja" : "剣持刀也",
+    "ko" : "켄모치 토우야"
+  },
+  "num" : "2606",
+  "price" : 7200,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60276,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60276/5jTAJLtUBwdbghrYxSGW3RKcEfCX4V9a.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: MIKU EXPO 10th Anniversary Ver.",
+    "ja" : "初音ミク MIKU EXPO 10th Anniversary Ver.",
+    "ko" : "하츠네 미쿠 미쿠 엑스포 10주년 Ver."
+  },
+  "num" : "2590",
+  "price" : 8500,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  }
+}

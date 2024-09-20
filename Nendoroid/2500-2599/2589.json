@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36062,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36062/63155d4177607a301b0af1d31b7ea6ba.jpg",
+  "name" : {
+    "en" : "Melinoë",
+    "ja" : "メリノエ",
+    "ko" : "멜리노에"
+  },
+  "num" : "2589",
+  "price" : 6900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Hades II",
+    "ja" : "ハデスⅡ",
+    "ko" : "하데스 Ⅱ"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34668,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34668/v7EXfAmYzCHxtnMFS08BbasTjcpy3Pwi.jpg",
+  "name" : {
+    "en" : "Ririchiyo Shirakiin",
+    "ja" : "白鬼院 凜々蝶",
+    "ko" : "시라키인 리리치요"
+  },
+  "num" : "2595",
+  "price" : 7300,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "Inu x Boku SS",
+    "ja" : "妖狐×僕SS",
+    "ko" : "이누×보쿠SS"
+  }
+}

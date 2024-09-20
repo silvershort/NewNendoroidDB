@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60280,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60280/TS2pVUXbYgJcfwqtD3hQsu6yLM8FAkK9.jpg",
+  "name" : {
+    "en" : "Denki Kaminari",
+    "ja" : "上鳴電気",
+    "ko" : "카미나리 덴키"
+  },
+  "num" : "2558",
+  "price" : 7500,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "My Hero Academia",
+    "ja" : "僕のヒーローアカデミア",
+    "ko" : "나의 히어로 아카데미아"
+  }
+}

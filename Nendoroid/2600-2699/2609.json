@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 54481,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54481/6kWUPn2JjmCd80YawbqMH1hQL7AuvZgS.jpg",
+  "name" : {
+    "en" : "Robocosan",
+    "ja" : "ロボ子さん",
+    "ko" : "로보코 씨"
+  },
+  "num" : "2609",
+  "price" : 7200,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

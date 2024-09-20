@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60277,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60277/ngtBMAEpu4mLFqPHidhJ2TVr8RN05YsG.jpg",
+  "name" : {
+    "en" : "Albedo: Dress Ver.",
+    "ja" : "アルベド ドレスVer.",
+    "ko" : "알베도 드레스Ver."
+  },
+  "num" : "2604",
+  "price" : 7200,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "OVERLORD",
+    "ja" : "オーバーロード",
+    "ko" : "오버로드"
+  }
+}

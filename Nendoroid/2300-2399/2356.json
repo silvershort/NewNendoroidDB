@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57426,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57426/m1AsTUC7vKqxi0DQpWPFNdyMt8HJEzcV.jpg",
+  "name" : {
+    "en" : "Lain Iwakura",
+    "ja" : "岩倉玲音",
+    "ko" : "이와쿠라 레인"
+  },
+  "num" : "2356",
+  "price" : 6900,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "serial experiments lain",
+    "ja" : "serial experiments lain",
+    "ko" : "serial experiments lain"
+  }
+}
