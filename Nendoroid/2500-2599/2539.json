@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 55202,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55202/PsNcTErM2epYyRq4gLzxCVvKB3ijkQX7.jpg",
+  "name" : {
+    "en" : "MYAKU-MYAKU",
+    "ja" : "ミャクミャク",
+    "ko" : "먀쿠먀쿠"
+  },
+  "num" : "2539",
+  "price" : 4500,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Expo 2025 Osaka, Kansai, Japan Official Character",
+    "ja" : "2025年大阪・関西万博",
+    "ko" : "2025년 오사카·간사이 엑스포"
+  }
+}

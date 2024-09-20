@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 54292,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54292/KbPmqzWVg5TkSLd84NjYBh3XR6aUe1nE.jpg",
+  "name" : {
+    "en" : "Marcus Fenix",
+    "ja" : "マーカス・フェニックス",
+    "ko" : "마커스 피닉스"
+  },
+  "num" : "2533",
+  "price" : 7300,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "Gears of War",
+    "ja" : "Gears of War",
+    "ko" : "기어스 오브 워"
+  }
+}

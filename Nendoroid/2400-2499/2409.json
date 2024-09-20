@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56836,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56836/QiVghKjPmtNyJ2c513wWHBLCETDsrXZb.jpg",
+  "name" : {
+    "en" : "Osamu Dazai: Fifteen-Year-Old Ver.",
+    "ja" : "太宰治 十五歳Ver.",
+    "ko" : "다자이 오사무: 15세 Ver."
+  },
+  "num" : "2409",
+  "price" : 6800,
+  "release_date" : [
+    "2024/08"
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  }
+}

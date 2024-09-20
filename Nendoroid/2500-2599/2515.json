@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 45685,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45685/mxEQCjD3wzrpVLPAnd0619be2FBWY5gJ.jpg",
+  "name" : {
+    "en" : "Hiroshi Kamiya",
+    "ja" : "神谷浩史",
+    "ko" : "카미야 히로시"
+  },
+  "num" : "2515",
+  "price" : 8500,
+  "release_date" : [
+    "2024/12"
+  ],
+  "series" : {
+    "en" : "AONI PRODUCTION",
+    "ja" : "青二プロダクション",
+    "ko" : "아오니 프로덕션"
+  }
+}

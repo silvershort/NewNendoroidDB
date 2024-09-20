@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36220,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36220/2878957b8e1c425c35af1b121b715287.jpg",
+  "name" : {
+    "en" : "Kim Yeon Koung",
+    "ja" : "キム・ヨンギョン",
+    "ko" : "김연경"
+  },
+  "num" : "2493",
+  "price" : 0,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Kim Yeon-koung",
+    "ja" : "キム・ヨンギョン",
+    "ko" : "김연경"
+  }
+}

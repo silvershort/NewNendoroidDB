@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35227,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35227/yw8aLMCzr9V5KusUbYAg3hteNGjXv0TJ.jpg",
+  "name" : {
+    "en" : "Sakura Kinomoto: Tomoeda Elementary School Uniform Ver.",
+    "ja" : "木之本桜 友枝小学校制服Ver.",
+    "ko" : "사쿠라 키노모토: 토모에다 초등학교 교복 Ver."
+  },
+  "num" : "2399",
+  "price" : 6800,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  }
+}

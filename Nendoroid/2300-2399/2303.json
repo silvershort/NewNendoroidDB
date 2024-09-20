@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 54541,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54541/ksVebpx6rGg1v5nEFSXwh84zmiMdLWPU.jpg",
+  "name" : {
+    "en" : "Stuart",
+    "ja" : "スチュアート",
+    "ko" : "스튜어트"
+  },
+  "num" : "2303",
+  "price" : 7500,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Minions",
+    "ja" : "ミニオンズ",
+    "ko" : "미니언즈"
+  }
+}

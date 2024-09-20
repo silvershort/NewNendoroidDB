@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 56837,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56837/LAB4XmEM9uR3CQYWdVzathsHw7y6Djx2.jpg",
+  "name" : {
+    "en" : "Chuya Nakahara: Fifteen-Year-Old Ver.",
+    "ja" : "中原中也 十五歳Ver.",
+    "ko" : "나카하라 츄야: 15세 Ver."
+  },
+  "num" : "2410",
+  "price" : 6800,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Bungo Stray Dogs",
+    "ja" : "文豪ストレイドッグス",
+    "ko" : "문호 스트레이 독스"
+  }
+}

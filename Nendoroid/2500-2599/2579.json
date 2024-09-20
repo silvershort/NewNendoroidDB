@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57428,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57428/0QLp2ga3HxBiNVJreTMyGRqWvjnAsuUz.jpg",
+  "name" : {
+    "en" : "Kaida Haru",
+    "ja" : "甲斐田晴",
+    "ko" : "카이다 하루"
+  },
+  "num" : "2579",
+  "price" : 7200,
+  "release_date" : [
+    "2025/01"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

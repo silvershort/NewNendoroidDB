@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 12914,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/product/20231117/15231/123468/large/fdd96e9942e34c0eacc5132acf8b2713.jpg",
+  "name" : {
+    "en" : "Kasane Teto: Synthesizer V AI Ver.",
+    "ja" : "重音テト Synthesizer V AI Ver.",
+    "ko" : "카사네 테토 Synthesizer V AI Ver."
+  },
+  "num" : "2344",
+  "price" : 7500,
+  "release_date" : [
+    "2024/05"
+  ],
+  "series" : {
+    "en" : "Synthesizer V AI",
+    "ja" : "synthesizer V AI",
+    "ko" : "VIPPALOID"
+  }
+}

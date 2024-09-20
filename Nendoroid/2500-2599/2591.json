@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57489,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57489/dPcSzQ7HRrJMLf4tAgx6WZupihsyKavF.jpg",
+  "name" : {
+    "en" : "Hinana Ichikawa",
+    "ja" : "市川雛菜",
+    "ko" : "이치카와 히나나"
+  },
+  "num" : "2591",
+  "price" : 7300,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "THE IDOLM@STER SHINY COLORS",
+    "ja" : "アイドルマスター　シャイニーカラーズ",
+    "ko" : "아이돌 마스터 샤이니 컬러즈"
+  }
+}

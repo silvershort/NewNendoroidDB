@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 55727,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/55727/24h7QLR9TkjKJnbVqUZ5GxftYDEgSiyz.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Magical Mirai 2023 Ver.",
+    "ja" : "初音ミク マジカルミライ 2023Ver.",
+    "ko" : "하츠네 미쿠 매지컬 미라이 2023 Ver."
+  },
+  "num" : "2438",
+  "price" : 7500,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}
