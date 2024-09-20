@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 34681,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34681/v0K78zEjxDYqrXeGNs4f6Vpnt9wgSiJm.jpg",
+  "name" : {
+    "en" : "Zero Two: Pilot Suit Ver.",
+    "ja" : "ゼロツー パイロットスーツVer.",
+    "ko" : "제로투 파일럿수트 ver."
+  },
+  "num" : "2408",
+  "price" : 6100,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "DARLING in the FRANXX",
+    "ja" : "ダーリン・イン・ザ・フランキス",
+    "ko" : "달링 인 더 프랑키스"
+  }
+}
