@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57490,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57490/cSUTQxgqvBbKXJCNtYdHLzjyZu97PW12.jpg",
+  "name" : {
+    "en" : "Madoka Higuchi",
+    "ja" : "樋口円香",
+    "ko" : "히구치 마도카"
+  },
+  "num" : "2617",
+  "price" : 7300,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "THE IDOLM@STER SHINY COLORS",
+    "ja" : "アイドルマスター シャイニーカラーズ",
+    "ko" : "아이돌 마스터 샤이니 컬러즈"
+  }
+}

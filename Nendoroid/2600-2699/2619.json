@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56842,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56842/ShV16qy48Z2jL7HvrscDC59fXeTbwgxJ.jpg",
+  "name" : {
+    "en" : "Symboli Rudolf",
+    "ja" : "シンボリルドルフ",
+    "ko" : "심볼리 루돌프"
+  },
+  "num" : "2619",
+  "price" : 7200,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메 프리티 더비"
+  }
+}

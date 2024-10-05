@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60256,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60256/s51UQwSneP7hLv3908fkabVMBDXWRGtY.jpg",
+  "name" : {
+    "en" : "Asuna Ichinose",
+    "ja" : "一之瀬アスナ",
+    "ko" : "이치노세 아스나"
+  },
+  "num" : "2611",
+  "price" : 7300,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  }
+}

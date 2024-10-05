@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60274,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60274/Aiur6sLafhDHkgVZYzPXNWQdpSM3ByJG.jpg",
+  "name" : {
+    "en" : "Kagami Hayato",
+    "ja" : "加賀美ハヤト",
+    "ko" : "카가미 하야토"
+  },
+  "num" : "2628",
+  "price" : 7200,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

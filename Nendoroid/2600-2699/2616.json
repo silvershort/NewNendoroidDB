@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57697,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57697/Zr5EgCHaP1WsYjDF0K3emUhVfSL4dpkn.jpg",
+  "name" : {
+    "en" : "Atri",
+    "ja" : "アトリ",
+    "ko" : "아트리"
+  },
+  "num" : "2616",
+  "price" : 7200,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "ATRI -My Dear Moments-",
+    "ja" : "ATRI -My Dear Moments-",
+    "ko" : "ATRI -My Dear Moments-"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60090,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60090/GxBETwmdtNyV0j1ghUnDzq8FSv437L9H.jpg",
+  "name" : {
+    "en" : "Liliel: Angel Costume/Ririsa",
+    "ja" : "リリエル 天使衣装/リリサ",
+    "ko" : "리리엘 천사 의상"
+  },
+  "num" : "2614",
+  "price" : 6900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "2.5 Dimensional Seduction",
+    "ja" : "TVアニメ「2.5次元の誘惑」",
+    "ko" : "리리사"
+  }
+}

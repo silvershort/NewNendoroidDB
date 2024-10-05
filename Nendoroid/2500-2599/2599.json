@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 35228,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35228/pj0Lq6CwTniYetXHzbWEZfGkuaVAKFNU.jpg",
+  "name" : {
+    "en" : "Waddle Dee: Kirby Café Ver.",
+    "ja" : "ワドルディ カービィカフェVer.",
+    "ko" : "웨이들 디 커비 카페Ver."
+  },
+  "num" : "2599",
+  "price" : 6200,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "Kirby Café",
+    "ja" : "カービィカフェ",
+    "ko" : "커비 카페"
+  }
+}

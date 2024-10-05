@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136428,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136428/XEds31ShJe4a7vgfG2LwruAb6tMZQVR0.jpg",
+  "name" : {
+    "en" : "Rihito Sajo & Hikaru Kusakabe",
+    "ja" : "草壁光＆佐条利人",
+    "ko" : "사죠 리히토 & 쿠사카베 히카루"
+  },
+  "num" : "2587",
+  "price" : 13000,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "Doukyusei",
+    "ja" : "同級生",
+    "ko" : "동급생"
+  }
+}

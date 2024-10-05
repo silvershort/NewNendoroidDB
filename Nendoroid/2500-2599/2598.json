@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 34674,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34674/8YvHehfiUwtKRgcPbLyAMqdBp2u9j3aG.jpg",
+  "name" : {
+    "en" : "Kirby: Kirby Café Ver.",
+    "ja" : "カービィ カービィカフェVer.",
+    "ko" : "커비 커비 카페Ver."
+  },
+  "num" : "2598",
+  "price" : 6200,
+  "release_date" : [
+    "2025/03"
+  ],
+  "series" : {
+    "en" : "Kirby Café",
+    "ja" : "カービィカフェ",
+    "ko" : "커비 카페"
+  }
+}

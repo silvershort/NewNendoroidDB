@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 21670,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/21670/hTV5PDk7aebU1JwSgMmsNAud2LQ98vK3.jpg",
+  "name" : {
+    "en" : "Zhongli",
+    "ja" : "鍾離",
+    "ko" : "종려"
+  },
+  "num" : "2582",
+  "price" : 7500,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  }
+}

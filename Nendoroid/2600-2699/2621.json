@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 35617,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35617/HLbQat7GK0DhAR58gkmVJpNBw4WcU1C6.jpg",
+  "name" : {
+    "en" : "HANA",
+    "ja" : "ハナ",
+    "ko" : "하나"
+  },
+  "num" : "2621",
+  "price" : 5900,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Kindergarten Wars",
+    "ja" : "幼稚園WARS",
+    "ko" : "유치원 WARS"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60970,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60970/7UPhiSxWYzMKJLGEpqXcu4NvRVr6tke8.jpg",
+  "name" : {
+    "en" : "Osamu Miya: School Uniform Ver.",
+    "ja" : "宮 治 制服Ver.",
+    "ko" : "미야 오사무 교복Ver."
+  },
+  "num" : "2627",
+  "price" : 5900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  }
+}

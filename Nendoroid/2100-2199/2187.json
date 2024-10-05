@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 54315,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/54315/DgrM6waHpC1yKZGquXAPemcEvYQTLjz7.jpg",
+  "name" : {
+    "en" : "Bob",
+    "ja" : "ボブ",
+    "ko" : "밥"
+  },
+  "num" : "2187",
+  "price" : 8100,
+  "release_date" : [
+    "2024/06"
+  ],
+  "series" : {
+    "en" : "Minions",
+    "ja" : "ミニオンズ",
+    "ko" : "미니언즈"
+  }
+}

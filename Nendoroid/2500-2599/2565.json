@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60795,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60795/4Y0HAKRw5NvMi1jypaxSzgELkfdneZ76.jpg",
+  "name" : {
+    "en" : "Yato",
+    "ja" : "夜ト",
+    "ko" : "야토"
+  },
+  "num" : "2565",
+  "price" : 6800,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Noragami",
+    "ja" : "ノラガミ",
+    "ko" : "노라가미"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57491,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57491/Pta5jqSyA2gUeDGzucf0n7JN3ChsRb4i.jpg",
+  "name" : {
+    "en" : "Koito Fukumaru",
+    "ja" : "福丸小糸",
+    "ko" : "후쿠마루 코이토"
+  },
+  "num" : "2618",
+  "price" : 7300,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "THE IDOLM@STER SHINY COLORS",
+    "ja" : "アイドルマスター シャイニーカラーズ",
+    "ko" : "아이돌 마스터 샤이니 컬러즈"
+  }
+}
