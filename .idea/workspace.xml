@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2100-2199/2187.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2565.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2582.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2586.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2587.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2598.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2599.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2610.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2611.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2613.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2614.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2616.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2617.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2618.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2619.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2621.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2626.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2627.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2628.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,11 +47,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2100-2199" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2600-2699" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2500-2599" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2200-2299" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2300-2399" />
-      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2400-2499" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2000-2099" />
