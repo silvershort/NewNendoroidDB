@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57431,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57431/WTPEQqXfwbGpBhiLse6RHJYkcdyzr0Ax.jpg",
+  "name" : {
+    "en" : "Kirishima Miyama",
+    "ja" : "深山霧島",
+    "ko" : "미야마 키리시마"
+  },
+  "num" : "2629",
+  "price" : 6200,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Yakuza Fiancé",
+    "ja" : "来世は他人がいい",
+    "ko" : "내세에는 남남이 좋겠어"
+  }
+}
