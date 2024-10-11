@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60611,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60611/24BNVUhWP1AZSFQ7e5gLCivRw6Gmkb0n.jpg",
+  "name" : {
+    "en" : "Kyokyo Kirigiri",
+    "ja" : "霧切響子",
+    "ko" : "키리기리 쿄코"
+  },
+  "num" : "2625",
+  "price" : 6800,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Danganronpa 1•2 Reload",
+    "ja" : "ダンガンロンパ1・2 Reload",
+    "ko" : "단간론파"
+  }
+}
