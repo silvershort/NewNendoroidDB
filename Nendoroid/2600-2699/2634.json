@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60259,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60259/R6gsEpKVfJPkDhrLx3cCZuXnzNdy1eSG.jpg",
+  "name" : {
+    "en" : "Kiss-Shot Acerola-Orion Heart-Under-Blade",
+    "ja" : "キスショット・アセロラオリオン・ハートアンダーブレード",
+    "ko" : "키스샷 아세로라오리온 하트언더블레이드"
+  },
+  "num" : "2634",
+  "price" : 6500,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Kizumonogatari",
+    "ja" : "傷物語",
+    "ko" : "모노가타리 시리즈"
+  }
+}

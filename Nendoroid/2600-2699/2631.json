@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61465,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61465/bea56b14770ae5c320ddc8383bc51428.jpg",
+  "name" : {
+    "en" : "Saki Hanami",
+    "ja" : "花海咲季",
+    "ko" : "하나미 사키"
+  },
+  "num" : "2631",
+  "price" : 6200,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Gakuen IDOLM@STER",
+    "ja" : "学園アイドルマスター",
+    "ko" : "학원 아이돌 마스터"
+  }
+}

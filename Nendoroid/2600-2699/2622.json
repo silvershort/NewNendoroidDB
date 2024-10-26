@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60831,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60831/8c186f4d86f7ddd505a66affd69a22c6.jpg",
+  "name" : {
+    "en" : "Minami Natsume",
+    "ja" : "棗巳波",
+    "ko" : "나츠메 미나미"
+  },
+  "num" : "2622",
+  "price" : 6500,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  }
+}

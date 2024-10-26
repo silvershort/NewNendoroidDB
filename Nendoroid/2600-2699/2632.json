@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60255,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60255/5smkjTLhQH3bR6zVSFya9MwPBUAXfWYd.jpg",
+  "name" : {
+    "en" : "Archer/Oda Nobunaga",
+    "ja" : "アーチャー/織田信長",
+    "ko" : "아처/오다 노부나가"
+  },
+  "num" : "2632",
+  "price" : 7800,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  }
+}
