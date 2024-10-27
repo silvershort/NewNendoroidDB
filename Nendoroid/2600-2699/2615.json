@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35112,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35112/StUwXEzfPupT9LBF0Q3rmMV17K45cHaj.jpg",
+  "name" : {
+    "en" : "Subaru Sumeragi",
+    "ja" : "皇 昴流",
+    "ko" : "스메라기 스바루"
+  },
+  "num" : "2615",
+  "price" : 6800,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Tokyo Babylon",
+    "ja" : "東京BABYLON",
+    "ko" : "도쿄 바빌론"
+  }
+}

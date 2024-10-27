@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57425,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57425/4cQGNkdC3qDw80ZitTpSreXv1RH6j2P9.jpg",
+  "name" : {
+    "en" : "Anna Yanami",
+    "ja" : "八奈見杏菜",
+    "ko" : "야나미 안나"
+  },
+  "num" : "2612",
+  "price" : 6300,
+  "release_date" : [
+    "2025/02"
+  ],
+  "series" : {
+    "en" : "Makeine: Too Many Losing Heroines!",
+    "ja" : "負けヒロインが多すぎる！",
+    "ko" : "패배 히로인이 너무 많아 "
+  }
+}
