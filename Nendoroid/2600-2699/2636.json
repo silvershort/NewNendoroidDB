@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35132,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35132/TYPnk5W2LudcFsEabtiCxrQAG9vMpZ43.jpg",
+  "name" : {
+    "en" : "Alter Ego/Ashiya Douman",
+    "ja" : "アルターエゴ/蘆屋道満",
+    "ko" : "얼터 에고/아시야 도만"
+  },
+  "num" : "2636",
+  "price" : 7900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  }
+}

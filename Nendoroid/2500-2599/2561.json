@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57422,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57422/AP8uL4hVD9QqnSEcdHkF3yUerv5b7iaT.jpg",
+  "name" : {
+    "en" : "Shizuru Chikura & Pochi [Basic]",
+    "ja" : "千倉 静留＆ポチさん べーしっく",
+    "ko" : "치쿠라 시즈루&포치 씨 베이직"
+  },
+  "num" : "2561",
+  "price" : 4400,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Train to the End of the World",
+    "ja" : "終末トレインどこへいく？",
+    "ko" : "종말 트레인은 어디로 향하나"
+  }
+}

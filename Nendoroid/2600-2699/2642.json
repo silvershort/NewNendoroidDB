@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60272,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60272/z7nAPHBj0dJF6VfmChS4gGXWs5Lq2RUt.jpg",
+  "name" : {
+    "en" : "Miku Hinasaki",
+    "ja" : "雛咲深紅",
+    "ko" : "히나사키 미쿠"
+  },
+  "num" : "2642",
+  "price" : 7200,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "FATAL FRAME",
+    "ja" : "零～zero～",
+    "ko" : "령 ~제로~"
+  }
+}

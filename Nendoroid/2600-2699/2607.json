@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60417,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60417/h7Cfv9AyHm0q2LEPirG8WbUwkVK15tQZ.jpg",
+  "name" : {
+    "en" : "Blade",
+    "ja" : "刃",
+    "ko" : "블레이드"
+  },
+  "num" : "2607",
+  "price" : 6900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

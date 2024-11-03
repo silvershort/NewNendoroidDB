@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57523,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57523/Ygchyn1qHzbVBPvJNix7LU6AT4EZSM2X.jpg",
+  "name" : {
+    "en" : "Mayano Top Gun",
+    "ja" : "マヤノトップガン",
+    "ko" : "마야노 탑건"
+  },
+  "num" : "2641",
+  "price" : 6900,
+  "release_date" : [
+    "2025/04"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메 프리티 더비"
+  }
+}
