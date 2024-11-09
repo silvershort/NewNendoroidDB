@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 36061,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36061/S1cnqBwC3jRr6du520v8ygNzpJKaMGD4.jpg",
+  "name" : {
+    "en" : "Isaac",
+    "ja" : "アイザック",
+    "ko" : "아이작"
+  },
+  "num" : "2649",
+  "price" : 6700,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "The Binding of Isaac",
+    "ja" : "The Binding of Isaac",
+    "ko" : "아이작의 번제"
+  }
+}
