@@ -1,14 +1,14 @@
 {
   "gender" : "M",
-  "gsc_productNum" : 1136428,
-  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136428/XEds31ShJe4a7vgfG2LwruAb6tMZQVR0.jpg",
+  "gsc_productNum" : 34765,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/34765/fvmkHJaeWXZgnASV02uwDQsLbq48C9Fr.jpg",
   "name" : {
-    "en" : "Rihito Sajo & Hikaru Kusakabe",
-    "ja" : "草壁光＆佐条利人",
-    "ko" : "사죠 리히토 & 쿠사카베 히카루"
+    "en" : "Hikaru Kusakabe",
+    "ja" : "草壁光",
+    "ko" : "쿠사카베 히카루"
   },
   "num" : "2587",
-  "price" : 13000,
+  "price" : 6500,
   "release_date" : [
     "2025/03"
   ],
