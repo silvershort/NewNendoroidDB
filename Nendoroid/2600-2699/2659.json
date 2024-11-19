@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60604,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60604/7bb51f011e881acf69d1276b81f8d2d7.jpg",
+  "name" : {
+    "en" : "Asta",
+    "ja" : "アスタ",
+    "ko" : "아스타"
+  },
+  "num" : "2659",
+  "price" : 7500,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Black Clover",
+    "ja" : "ブラッククローバー",
+    "ko" : "블랙 클로버"
+  }
+}

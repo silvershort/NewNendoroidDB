@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 21681,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/21681/DTi265P1nX8AemcftUS0NvgjGF7azwqE.jpg",
+  "name" : {
+    "en" : "Raiden Shogun",
+    "ja" : "雷電将軍",
+    "ko" : "라이덴 쇼군"
+  },
+  "num" : "2660",
+  "price" : 7500,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60961,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60961/XFSWhs9KARb0cNnYE1wv64GBQafLpD3r.jpg",
+  "name" : {
+    "en" : "Anya Forger: Casual Outfit Ver.",
+    "ja" : "アーニャ・フォージャー 私服Ver.",
+    "ko" : "아냐 포저 사복Ver."
+  },
+  "num" : "2623",
+  "price" : 6700,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  }
+}

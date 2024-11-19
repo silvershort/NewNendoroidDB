@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136228,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136228/1f8Vp3giq0RMHNw67yKvZdxJ5TX4Qtce.jpg",
+  "name" : {
+    "en" : "Asahi Amagami",
+    "ja" : "甘神朝姫",
+    "ko" : "아마가미 아사히"
+  },
+  "num" : "2656",
+  "price" : 6800,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Tying the Knot with an Amagami Sister",
+    "ja" : "甘神さんちの縁結び",
+    "ko" : "아마가미 씨네 인연 맺기"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60967,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60967/NwzsJ89Ktg1Vr4bkfM0xRdXyEacjDCQY.jpg",
+  "name" : {
+    "en" : "Megurine Luka Symphony: 2024 Ver.",
+    "ja" : "巡音ルカ シンフォニー2024Ver.",
+    "ko" : "메구리네 루카 심포니 2024Ver."
+  },
+  "num" : "2646",
+  "price" : 7500,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 03: Megurine Luka",
+    "ja" : "キャラクター・ボーカル・シリーズ03 巡音ルカ",
+    "ko" : "보컬로이드"
+  }
+}

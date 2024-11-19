@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60957,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60957/Y3RyPvqEjd5hafX6NzCrsG8V1xinKFJT.jpg",
+  "name" : {
+    "en" : "Bachira Meguru",
+    "ja" : "蜂楽 廻",
+    "ko" : "바치라 메구루"
+  },
+  "num" : "2658",
+  "price" : 6900,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "BLUE LOCK",
+    "ja" : "ブルーロック",
+    "ko" : "블루 록"
+  }
+}

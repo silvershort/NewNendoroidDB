@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61360,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61360/91FXiQ26WfvkKYTGnzuR3SdgcAZ5qJBy.jpg",
+  "name" : {
+    "en" : "Tetsuro Kuroo: School Uniform Ver.",
+    "ja" : "黒尾鉄朗 制服Ver.",
+    "ko" : "쿠로오 테츠로 교복Ver."
+  },
+  "num" : "2661",
+  "price" : 5900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  }
+}

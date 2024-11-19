@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60065,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60065/HgzrmByTbJhp0PEqDwM9eukCYj2G7Fft.jpg",
+  "name" : {
+    "en" : "Yashiro",
+    "ja" : "矢代& 百目鬼力 二人組セット",
+    "ko" : "야시로"
+  },
+  "num" : "2654",
+  "price" : 13600,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Twittering Birds Never Fly: The Clouds Gather",
+    "ja" : "囀る鳥は羽ばたかない The clouds gather",
+    "ko" : "지저귀는 새는 날지 않는다"
+  }
+}
