@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 46678,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46678/KhicjfTB9eR8gs0rtbA1XLNEP3zJ52Zy.jpg",
+  "name" : {
+    "en" : "Erza Scarlet",
+    "ja" : "エルザ・スカーレット",
+    "ko" : "엘자 스칼렛"
+  },
+  "num" : "2637",
+  "price" : 7900,
+  "release_date" : [
+    "2025年5月"
+  ],
+  "series" : {
+    "en" : "FAIRY TAIL",
+    "ja" : "FAIRY TAIL",
+    "ko" : "페어리 테일"
+  }
+}

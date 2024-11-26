@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60293,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60293/TzX6CWrxw8t1b9PmjncVkqA0fShe4vZY.jpg",
+  "name" : {
+    "en" : "Spike Spiegel",
+    "ja" : "スパイク・スピーゲル",
+    "ko" : "스파이크 스피겔"
+  },
+  "num" : "2651",
+  "price" : 6800,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Cowboy Bebop",
+    "ja" : "カウボーイビバップ",
+    "ko" : "카우보이 비밥"
+  }
+}

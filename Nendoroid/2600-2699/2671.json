@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60952,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60952/f5f5fa7fc1f6ff418660a1e152c5a93d.jpg",
+  "name" : {
+    "en" : "Neon",
+    "ja" : "ネオン",
+    "ko" : "네온"
+  },
+  "num" : "2671",
+  "price" : 7000,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 46675,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/46675/wuPvbfatAHqKcF6deCED7XLTZn5gWsJN.jpg",
+  "name" : {
+    "en" : "Takanashi Kiara",
+    "ja" : "小鳥遊キアラ",
+    "ko" : "타카나시 키아라"
+  },
+  "num" : "2672",
+  "price" : 7900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

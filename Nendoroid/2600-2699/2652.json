@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60366,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60366/euYsyjipUB2ERT9cZfbHCAg0SaNdXn6L.jpg",
+  "name" : {
+    "en" : "Faye Valentine",
+    "ja" : "フェイ・ヴァレンタイン",
+    "ko" : "페이 발렌타인"
+  },
+  "num" : "2652",
+  "price" : 6800,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Cowboy Bebop",
+    "ja" : "カウボーイビバップ",
+    "ko" : "카우보이 비밥"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 60956,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60956/Usz9CWxrGiEwcey5kpqTDZ3Rg8JQYvH4.jpg",
+  "name" : {
+    "en" : "Mimic",
+    "ja" : "ミミック",
+    "ko" : "미믹"
+  },
+  "num" : "2600",
+  "price" : 5500,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Frieren: Beyond Journey's End",
+    "ja" : "葬送のフリーレン",
+    "ko" : "장송의 프리렌"
+  }
+}

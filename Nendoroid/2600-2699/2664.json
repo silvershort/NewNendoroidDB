@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60609,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60609/A46runedSp9KXJcVLC7RDaqyx08ijWht.jpg",
+  "name" : {
+    "en" : "Gum",
+    "ja" : "ガム",
+    "ko" : "검"
+  },
+  "num" : "2664",
+  "price" : 6500,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Jet Set Radio",
+    "ja" : "ジェットセットラジオ",
+    "ko" : "젯 셋 라디오"
+  }
+}

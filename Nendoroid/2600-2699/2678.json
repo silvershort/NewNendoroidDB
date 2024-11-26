@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61630,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61630/MuC8iGdK9zwNXWyAJUqhmpnVtkeFxD7j.jpg",
+  "name" : {
+    "en" : "Jinx (Arcane Ver.)",
+    "ja" : "ジンクス (ARCANE Ver.)",
+    "ko" : "징크스 (아케인 Ver.)"
+  },
+  "num" : "2678",
+  "price" : 7900,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Arcane",
+    "ja" : "Arcane",
+    "ko" : "아케인"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36073,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36073/WiXUyM2p1GRfdHgv7jT568ZbBPxYatAJ.jpg",
+  "name" : {
+    "en" : "Alphonse Elric: Final Episode Ver.",
+    "ja" : "アルフォンス・エルリック 最終回Ver.",
+    "ko" : "알폰스 엘릭 최종회Ver."
+  },
+  "num" : "2624",
+  "price" : 6900,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Fullmetal Alchemist: Brotherhood",
+    "ja" : "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "ko" : "강철의 연금술사"
+  }
+}
