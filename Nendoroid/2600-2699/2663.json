@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61195,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61195/YZD93EJ4weUF0h1QdSxmb5HAntWq6Crf.jpg",
+  "name" : {
+    "en" : "Loid Forger: Casual Outfit Ver.",
+    "ja" : "ロイド・フォージャー 私服Ver.",
+    "ko" : "로이드 포져 사복Ver."
+  },
+  "num" : "2663",
+  "price" : 6700,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36006,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36006/pqzXMtkRHyuwBNKJvEdxasc5Q0hL27n4.jpg",
+  "name" : {
+    "en" : "Toshiro Hijikata",
+    "ja" : "土方十四郎",
+    "ko" : "히지카타 토시로"
+  },
+  "num" : "2514",
+  "price" : 6900,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Gintama",
+    "ja" : "銀魂",
+    "ko" : "은혼"
+  }
+}

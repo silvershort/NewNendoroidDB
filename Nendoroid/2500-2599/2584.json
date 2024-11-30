@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36007,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36007/jbn7wAiKdF4PSJfgBQetazLyvZ85mU0X.jpg",
+  "name" : {
+    "en" : "Sogo Okita",
+    "ja" : "沖田総悟",
+    "ko" : "오키타 소고"
+  },
+  "num" : "2584",
+  "price" : 6900,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Gintama",
+    "ja" : "銀魂",
+    "ko" : "은혼"
+  }
+}

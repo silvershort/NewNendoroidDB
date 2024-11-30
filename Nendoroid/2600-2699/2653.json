@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61362,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61362/kRvVdE9UaXyST8jPcQp6hmgDNZ452MfK.jpg",
+  "name" : {
+    "en" : "Toma Inumaru",
+    "ja" : "狗丸トウマ",
+    "ko" : "이누마루 토우마"
+  },
+  "num" : "2653",
+  "price" : 6500,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  }
+}

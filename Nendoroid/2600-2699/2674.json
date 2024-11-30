@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60755,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60755/tk2zAeZwD1gaCvmyfqXQ7VsKS6L4TdNW.jpg",
+  "name" : {
+    "en" : "Misa Amane 2.0",
+    "ja" : "弥海砂 2.0",
+    "ko" : "아마네 미사 2.0"
+  },
+  "num" : "2674",
+  "price" : 6900,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "DEATH NOTE",
+    "ja" : "DEATH NOTE",
+    "ko" : "데스노트"
+  }
+}

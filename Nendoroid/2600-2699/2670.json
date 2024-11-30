@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36070,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36070/UPuS05cAzEsYwFCRTNnH98Z3LVjMGKDk.jpg",
+  "name" : {
+    "en" : "Sebastian Michaelis: Sapphire Owl Ver.",
+    "ja" : "セバスチャン・ミカエリス 紺碧の梟寮 Ver.",
+    "ko" : "세바스찬 미카엘리스 감청의 올빼미 기숙사Ver."
+  },
+  "num" : "2670",
+  "price" : 6700,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Black Butler: Boarding School Arc",
+    "ja" : "TVアニメ『黒執事 -寄宿学校編-』",
+    "ko" : "흑집사"
+  }
+}

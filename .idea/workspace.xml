@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2600.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2637.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2651.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2652.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2664.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2671.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2672.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2678.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2514.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2500-2599/2584.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2600-2699/2665.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,19 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KHS/Documents/NendoroidDB/Nendoroid/2600-2699&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/KHS/Documents/NendoroidDB/Nendoroid/2500-2599",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2600-2699" />
