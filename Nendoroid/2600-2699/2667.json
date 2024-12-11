@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36077,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36077/uVDJeqh0wkgXSb4fPscpEL9AjHWdGn68.jpg",
+  "name" : {
+    "en" : "Caster/Zhuge Liang",
+    "ja" : "キャスター/諸葛孔明",
+    "ko" : "캐스터/제갈공명"
+  },
+  "num" : "2667",
+  "price" : 6900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  }
+}

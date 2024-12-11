@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60285,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60285/RY4xMevLwKcFbGis370Ay8HUQf9uE2zt.jpg",
+  "name" : {
+    "en" : "Lime",
+    "ja" : "ライム",
+    "ko" : "라임"
+  },
+  "num" : "2681",
+  "price" : 6900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Saber Marionette J",
+    "ja" : "セイバーマリオネットJ",
+    "ko" : "세이버 마리오넷 J"
+  }
+}

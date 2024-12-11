@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137298,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137298/UHGgVAJdcZLSvQXutp5Ti1PnNCrz479s.jpg",
+  "name" : {
+    "en" : "Rider/Iskandar DX Edition",
+    "ja" : "ライダー/イスカンダル DX",
+    "ko" : "라이더 DX"
+  },
+  "num" : "2666-DX",
+  "price" : 11800,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "이스칸다르 DX"
+  }
+}

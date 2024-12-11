@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36320,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36320/yYrhv4pTE1A0ZduP5FeN3axwmKi8SCJG.jpg",
+  "name" : {
+    "en" : "Rider/Iskandar",
+    "ja" : "ライダー/イスカンダル",
+    "ko" : "라이더"
+  },
+  "num" : "2666",
+  "price" : 7300,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "이스칸다르"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60966,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60966/nwrRZxcHq4LWM5TsPNVkzSeB9DfG6ECJ.jpg",
+  "name" : {
+    "en" : "Marulk",
+    "ja" : "マルルク",
+    "ko" : "마르르크"
+  },
+  "num" : "2680",
+  "price" : 7600,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Made in Abyss: The Golden City of the Scorching Sun",
+    "ja" : "メイドインアビス 烈日の黄金郷",
+    "ko" : "메이드 인 어비스"
+  }
+}
