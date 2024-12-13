@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60279,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60279/BMnEdvmkc5R1sXG2KrtZTpwy68uzLAW0.jpg",
+  "name" : {
+    "en" : "Usada Pekora (Mash Kyrielight Collaboration Ver.)",
+    "ja" : "兎田ぺこら(マシュ・キリエライト コラボver.)",
+    "ko" : "우사다 페코라 (마슈 키리에라이트ver.)"
+  },
+  "num" : "2682",
+  "price" : 8800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "hololive production x Fate/Grand Order",
+    "ja" : "ホロライブプロダクション × Fate/Grand Order",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

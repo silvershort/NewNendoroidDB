@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61631,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61631/vaKApFhHZUbGmqMu0f2dc7W8yiVw5rkS.jpg",
+  "name" : {
+    "en" : "Dokibird",
+    "ja" : "Dokibird",
+    "ko" : "Dokibird"
+  },
+  "num" : "2685",
+  "price" : 8700,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Dokibird",
+    "ja" : "Dokibird",
+    "ko" : "Dokibird"
+  }
+}
