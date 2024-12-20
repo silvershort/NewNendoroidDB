@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61368,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61368/s31nmAUkiXfGJPjKzyd9cx6uR4hqYDt8.jpg",
+  "name" : {
+    "en" : "Aura the Guillotine",
+    "ja" : "断頭台のアウラ",
+    "ko" : "단두대의 아우라"
+  },
+  "num" : "2683",
+  "price" : 7700,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Frieren: Beyond Journey's End",
+    "ja" : "葬送のフリーレン",
+    "ko" : "장송의 프리렌"
+  }
+}

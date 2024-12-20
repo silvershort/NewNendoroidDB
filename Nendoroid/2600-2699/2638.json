@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60906,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60906/RFytABj40792HNYE6fCPTgkQWcGKn35h.jpg",
+  "name" : {
+    "en" : "Garfield",
+    "ja" : "ガーフィールド",
+    "ko" : "가필드"
+  },
+  "num" : "2638",
+  "price" : 7700,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Garfield",
+    "ja" : "ガーフィールド",
+    "ko" : "가필드"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61196,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61196/vKHmLqQ5E0kDscjd2Xye4YuWCTZNhVpa.jpg",
+  "name" : {
+    "en" : "Yor Forger: Casual Outfit Ver.",
+    "ja" : "ヨル・フォージャー 私服Ver.",
+    "ko" : "요르 포저 사복Ver."
+  },
+  "num" : "2689",
+  "price" : 6700,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "SPY x FAMILY",
+    "ja" : "SPY×FAMILY",
+    "ko" : "스파이 패밀리"
+  }
+}

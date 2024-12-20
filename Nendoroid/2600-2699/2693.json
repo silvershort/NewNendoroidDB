@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60608,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60608/3KQ0bgYcHJ5GU2dWrEDByFTP9MmZs6Lj.jpg",
+  "name" : {
+    "en" : "Ame",
+    "ja" : "あめちゃん",
+    "ko" : "아메짱"
+  },
+  "num" : "2693",
+  "price" : 6800,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "NEEDY STREAMER OVERLOAD",
+    "ja" : "NEEDY GIRL OVERDOSE",
+    "ko" : "NEEDY GIRL OVERDOSE"
+  }
+}

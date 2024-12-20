@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60958,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60958/U7JdQCYyH2WTSKr6A50wFxVDNseEb3vt.jpg",
+  "name" : {
+    "en" : "PA-san",
+    "ja" : "PAさん",
+    "ko" : "PA 씨"
+  },
+  "num" : "2686",
+  "price" : 6700,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
+    "ko" : "봇치 더 록!"
+  }
+}

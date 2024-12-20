@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60265,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60265/Tbqdt2e3VKv7BwkuCEnaSHc8GFWiP0NU.jpg",
+  "name" : {
+    "en" : "Lucy: Spacesuit Ver.",
+    "ja" : "ルーシー宇宙服Ver.",
+    "ko" : "루시: 우주복 Ver"
+  },
+  "num" : "2620",
+  "price" : 39380,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Cyberpunk: Edgerunners",
+    "ja" : "サイバーパンク エッジランナーズ",
+    "ko" : "사이버펑크: 엣지러너"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60251,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60251/tjGR7YSB0DUsrKTqFJ5hbP8eWmXQ1kxv.jpg",
+  "name" : {
+    "en" : "Rei Ayanami: Plugsuit Ver.",
+    "ja" : "綾波レイ プラグスーツVer.",
+    "ko" : "아야나미 레이 플러그 슈트Ver."
+  },
+  "num" : "2676",
+  "price" : 6800,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Evangelion: 2.0 You Can (Not) Advance",
+    "ja" : "ヱヴァンゲリヲン新劇場版：破",
+    "ko" : "에반게리온"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61364,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61364/841x65PHwW2EDtbmjLRTQcdAknBGJqef.jpg",
+  "name" : {
+    "en" : "Ranma Saotome",
+    "ja" : "早乙女乱馬",
+    "ko" : "사오토메 란마"
+  },
+  "num" : "2690",
+  "price" : 6500,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Ranma 1/2",
+    "ja" : "TVアニメ「らんま1/2」",
+    "ko" : "란마 1/2"
+  }
+}
