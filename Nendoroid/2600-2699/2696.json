@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61725,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61725/MCkAhULjfzKtJ0eyEZ5g2upiGQb98cFH.jpg",
+  "name" : {
+    "en" : "Sunday",
+    "ja" : "サンデー",
+    "ko" : "선데이"
+  },
+  "num" : "2696",
+  "price" : 7500,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

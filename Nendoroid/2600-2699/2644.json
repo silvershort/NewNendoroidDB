@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57553,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57553/F3sD4Biy0cdEPNtG6XbHfYqZmWguTQzC.jpg",
+  "name" : {
+    "en" : "Haruka Kiyomine",
+    "ja" : "清峰葉流火",
+    "ko" : "키요미네 하루카"
+  },
+  "num" : "2644",
+  "price" : 6900,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Oblivion Battery",
+    "ja" : "アニメ「忘却バッテリー」",
+    "ko" : "망각 배터리"
+  }
+}

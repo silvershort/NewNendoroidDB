@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137155,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137155/x6fycKwjRTXHLJs9NAqbMdZEFSDGUtVP.jpg",
+  "name" : {
+    "en" : "Robin",
+    "ja" : "ロビン",
+    "ko" : "로빈"
+  },
+  "num" : "2694",
+  "price" : 7500,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

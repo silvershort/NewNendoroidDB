@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57521,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57521/E3aNfxGZzgtv5PXBhCMbucRT7KqJUdVk.jpg",
+  "name" : {
+    "en" : "Tamamo Cross",
+    "ja" : "タマモクロス",
+    "ko" : "타마모 크로스"
+  },
+  "num" : "2703",
+  "price" : 7000,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

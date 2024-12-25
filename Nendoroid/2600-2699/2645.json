@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57552,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57552/4FajsDBP9X0NHZ7rJQdfGTp1UR8myAL6.jpg",
+  "name" : {
+    "en" : "Kei Kaname",
+    "ja" : "要 圭",
+    "ko" : "카나메 케이"
+  },
+  "num" : "2645",
+  "price" : 6900,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Oblivion Battery",
+    "ja" : "アニメ「忘却バッテリー」",
+    "ko" : "망각 배터리"
+  }
+}
