@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60829,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60829/KcFMfTnjwsp9XtgL6d2VqRxGAm1eBaiy.jpg",
+  "name" : {
+    "en" : "Maomao: Garden Party Ver.",
+    "ja" : "猫猫 園遊会Ver.",
+    "ko" : "마오마오: 원유회 Ver."
+  },
+  "num" : "2640",
+  "price" : 6900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "The Apothecary Diaries",
+    "ja" : "薬屋のひとりごと",
+    "ko" : "약사의 혼잣말"
+  }
+}
