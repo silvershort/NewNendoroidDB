@@ -5,7 +5,7 @@
   "name" : {
     "en" : "Rider/Iskandar",
     "ja" : "ライダー/イスカンダル",
-    "ko" : "라이더"
+    "ko" : "라이더/이스칸다르"
   },
   "num" : "2666",
   "price" : 7300,
@@ -15,6 +15,6 @@
   "series" : {
     "en" : "Fate/Grand Order",
     "ja" : "Fate/Grand Order",
-    "ko" : "이스칸다르"
+    "ko" : "페이트 시리즈"
   }
 }

@@ -5,7 +5,7 @@
   "name" : {
     "en" : "Rider/Iskandar DX Edition",
     "ja" : "ライダー/イスカンダル DX",
-    "ko" : "라이더 DX"
+    "ko" : "라이더/이스칸다르 DX"
   },
   "num" : "2666-DX",
   "price" : 11800,
@@ -15,6 +15,6 @@
   "series" : {
     "en" : "Fate/Grand Order",
     "ja" : "Fate/Grand Order",
-    "ko" : "이스칸다르 DX"
+    "ko" : "페이트 시리즈"
   }
 }
