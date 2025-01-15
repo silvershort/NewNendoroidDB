@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60968,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60968/5c0765703e66afb23cfbd8f3f2220b01.jpg",
+  "name" : {
+    "en" : "Snow Miku: Crystal Snow Ver.",
+    "ja" : "雪ミク Crystal Snow Ver.",
+    "ko" : "유키미쿠 Crystal Snow Ver."
+  },
+  "num" : "2643",
+  "price" : 8300,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

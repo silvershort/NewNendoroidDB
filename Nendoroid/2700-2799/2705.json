@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60953,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60953/1xDmjX6wGiK7AtCc8RfadUz9h4s5gHQv.jpg",
+  "name" : {
+    "en" : "Marian",
+    "ja" : "マリアン",
+    "ko" : "마리안"
+  },
+  "num" : "2705",
+  "price" : 7300,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

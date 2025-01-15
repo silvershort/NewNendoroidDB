@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62064,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62064/MbNQw64rpjWGd9Rh8tiPBXvYe0ky5DCE.jpg",
+  "name" : {
+    "en" : "Goro Akechi: School Uniform Ver.",
+    "ja" : "明智吾郎 制服Ver.",
+    "ko" : "아케치 고로 교복Ver."
+  },
+  "num" : "2706",
+  "price" : 6200,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Persona5 Royal",
+    "ja" : "ペルソナ５ ザ・ロイヤル",
+    "ko" : "페르소나 5 더 로열"
+  }
+}
