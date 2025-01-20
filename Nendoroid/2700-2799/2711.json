@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60959,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60959/myZ7RYhUAH2PqLWbjdEiCSfaK1t0XJvF.jpg",
+  "name" : {
+    "en" : "Alina Clover [Basic]",
+    "ja" : "アリナ・クローバー べーしっく",
+    "ko" : "아리나 클로버 베이직"
+  },
+  "num" : "2711",
+  "price" : 4400,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "I May Be a Guild Receptionist, But I'll Solo Any Boss to Clock Out on Time",
+    "ja" : "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+    "ko" : "길드의 접수원인데 야근이 싫어서 보스를 혼자 토벌하려고 합니다"
+  }
+}

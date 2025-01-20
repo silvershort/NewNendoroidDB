@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60823,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60823/nh9LbuPyGCjTVpR71w0vDA3Xka24sxUY.jpg",
+  "name" : {
+    "en" : "Belle",
+    "ja" : "リン",
+    "ko" : "벨"
+  },
+  "num" : "2713",
+  "price" : 7200,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Zenless Zone Zero",
+    "ja" : "ゼンレスゾーンゼロ",
+    "ko" : "젠레스 존 제로"
+  }
+}

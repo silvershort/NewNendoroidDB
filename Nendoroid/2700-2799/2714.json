@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60802,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60802/Xw9EjGM4QU61D2bxdFn0YNy7JaVCAgir.jpg",
+  "name" : {
+    "en" : "Wise",
+    "ja" : "アキラ",
+    "ko" : "와이즈"
+  },
+  "num" : "2714",
+  "price" : 7200,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Zenless Zone Zero",
+    "ja" : "ゼンレスゾーンゼロ",
+    "ko" : "젠레스 존 제로"
+  }
+}

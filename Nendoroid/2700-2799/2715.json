@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136957,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136957/6vKeXFhWaxqzYJ7MsrLcju9y5ZR4Ggwk.jpg",
+  "name" : {
+    "en" : "Delicious in Dungeon Good Smile Kuji A Prize  Marcille: Crown Braid Ver.",
+    "ja" : "ダンジョン飯 グッスマくじオンライン A賞  マルシル クラウンブレイドVer.",
+    "ko" : "던전밥 굿스마일 쿠지 A상 마르실 크라운 블레이드 Ver."
+  },
+  "num" : "2715",
+  "price" : 800,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Delicious in Dungeon",
+    "ja" : "ダンジョン飯",
+    "ko" : "던전밥"
+  }
+}

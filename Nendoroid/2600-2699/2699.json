@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60964,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60964/30df73b96c78a024004660404577a773.jpg",
+  "name" : {
+    "en" : "Neru Mikamo",
+    "ja" : "美甘ネル",
+    "ko" : "미카모 네루"
+  },
+  "num" : "2699",
+  "price" : 7500,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Blue Archive",
+    "ja" : "ブルーアーカイブ -Blue Archive-",
+    "ko" : "블루 아카이브"
+  }
+}

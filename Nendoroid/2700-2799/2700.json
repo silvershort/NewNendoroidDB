@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60962,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60962/Syinw7dKrZsh89MfJvzb3PqUFtYp4jx2.jpg",
+  "name" : {
+    "en" : "Mikazuki Munechika Kiwame",
+    "ja" : "三日月宗近 極",
+    "ko" : "미카즈키 무네치카 극"
+  },
+  "num" : "2700",
+  "price" : 7900,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu ONLINE",
+    "ja" : "刀剣乱舞ONLINE",
+    "ko" : "도검난무"
+  }
+}
