@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35654,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35654/EzWQyVkaipuAgTLJMXZh509t2Bfqs3UP.jpg",
+  "name" : {
+    "en" : "Legoshi",
+    "ja" : "レゴシ",
+    "ko" : "레고시"
+  },
+  "num" : "2698",
+  "price" : 6500,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "BEASTARS",
+    "ja" : "BEASTARS",
+    "ko" : "비스타즈"
+  }
+}

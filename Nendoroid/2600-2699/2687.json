@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 57420,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57420/9WhJEdjM82wzQ0LZx5eVukvCTmYt6a1c.jpg",
+  "name" : {
+    "en" : "Hashirama Senju",
+    "ja" : "千手柱間",
+    "ko" : "센쥬 하시라마"
+  },
+  "num" : "2687",
+  "price" : 7200,
+  "release_date" : [
+    "2025/05"
+  ],
+  "series" : {
+    "en" : "Naruto Shippuden",
+    "ja" : "NARUTO -ナルト- 疾風伝",
+    "ko" : "나루토"
+  }
+}

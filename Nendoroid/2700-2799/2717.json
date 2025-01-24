@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62065,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62065/GyRwLPMv2K8ucNBX6mi9514VbUkEszep.jpg",
+  "name" : {
+    "en" : "Taro Sakamoto [Basic]",
+    "ja" : "坂本太郎 べーしっく",
+    "ko" : "사카모토 타로 베이직"
+  },
+  "num" : "2717",
+  "price" : 3900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "SAKAMOTO DAYS",
+    "ja" : "SAKAMOTO DAYS",
+    "ko" : "사카모토 데이즈"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60610,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60610/bUwRKTXDHdYg3MVGyCmxsr95hW74NAkS.jpg",
+  "name" : {
+    "en" : "Chinatsu Kano",
+    "ja" : "鹿野千夏",
+    "ko" : "카노 치나츠"
+  },
+  "num" : "2688",
+  "price" : 6800,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Blue Box",
+    "ja" : "アオのハコ",
+    "ko" : "푸른 상자"
+  }
+}

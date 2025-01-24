@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 35761,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/35761/n41aBReAvJfXh0S8ZVuT9MpkWqsCGgD5.jpg",
+  "name" : {
+    "en" : "Ciel Phantomhive: Sapphire Owl Ver.",
+    "ja" : "シエル・ファントムハイヴ 紺碧の梟寮 Ver.",
+    "ko" : "시엘 팬텀하이브 감청의 올빼미 기숙사Ver."
+  },
+  "num" : "2710",
+  "price" : 6900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Black Butler: Boarding School Arc",
+    "ja" : "TVアニメ『黒執事 -寄宿学校編-』",
+    "ko" : "흑집사"
+  }
+}

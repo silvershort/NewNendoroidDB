@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61691,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61691/2at37Y8ZEnU60bhwmrSeAvWRuXkxLig9.jpg",
+  "name" : {
+    "en" : "Torao Mido",
+    "ja" : "御堂虎於",
+    "ko" : "미도 토라오"
+  },
+  "num" : "2704",
+  "price" : 6500,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "IDOLiSH7",
+    "ja" : "アイドリッシュセブン",
+    "ko" : "아이돌리쉬 세븐"
+  }
+}
