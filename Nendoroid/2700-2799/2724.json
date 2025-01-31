@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136230,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136230/dYujkScEmMRxrwqtUK30FVs9W12HhfeD.jpg",
+  "name" : {
+    "en" : "Yae Amagami",
+    "ja" : "甘神夜重",
+    "ko" : "아마가미 야에"
+  },
+  "num" : "2724",
+  "price" : 6800,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Tying the Knot with an Amagami Sister",
+    "ja" : "甘神さんちの縁結び",
+    "ko" : "아마가미 씨네 인연 맺기"
+  }
+}

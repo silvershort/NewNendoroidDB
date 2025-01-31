@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136229,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136229/Gpd5QZ2q74b8hwyxmWEeMUCikDP0JS3c.jpg",
+  "name" : {
+    "en" : "Yuna Amagami",
+    "ja" : "甘神夕奈",
+    "ko" : "아마가미 유나"
+  },
+  "num" : "2662",
+  "price" : 6800,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Tying the Knot with an Amagami Sister",
+    "ja" : "甘神さんちの縁結び",
+    "ko" : "아마가미 씨네 인연 맺기"
+  }
+}

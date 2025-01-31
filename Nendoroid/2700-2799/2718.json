@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61778,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61778/Gx2nSmqZb7DyVY9uFMNX4fedLQpcJTAk.jpg",
+  "name" : {
+    "en" : "Murasame",
+    "ja" : "ムラサメ",
+    "ko" : "무라사메"
+  },
+  "num" : "2718",
+  "price" : 7000,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Senkoi Manbana",
+    "ja" : "千恋*万花",
+    "ko" : "천연 만화"
+  }
+}

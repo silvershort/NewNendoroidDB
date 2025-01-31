@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36327,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36327/Fgr8jGXvai3B2E9H0TzPpefu7MhYw5tq.jpg",
+  "name" : {
+    "en" : "Momo",
+    "ja" : "モモ",
+    "ko" : "모모"
+  },
+  "num" : "2701",
+  "price" : 6500,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Dandadan",
+    "ja" : "ダンダダン",
+    "ko" : "단다단"
+  }
+}

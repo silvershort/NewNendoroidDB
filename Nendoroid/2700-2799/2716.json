@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60267,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60267/vfSGTwisKW78Jz2kg4jNEZdheAxLbFMR.jpg",
+  "name" : {
+    "en" : "Copano Rickey",
+    "ja" : "コパノリッキー",
+    "ko" : "코파노 리키"
+  },
+  "num" : "2716",
+  "price" : 7300,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메 프리티 더비"
+  }
+}

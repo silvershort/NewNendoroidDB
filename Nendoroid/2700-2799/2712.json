@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61692,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61692/7hc0ukgdVUF54MrwJS6NfKxLiC3WemPR.jpg",
+  "name" : {
+    "en" : "Frieren: Winter Clothes Ver.",
+    "ja" : "フリーレン 冬服Ver.",
+    "ko" : "프리렌 동복Ver."
+  },
+  "num" : "2712",
+  "price" : 6500,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Frieren: Beyond Journey's End",
+    "ja" : "葬送のフリーレン",
+    "ko" : "장송의 프리렌"
+  }
+}

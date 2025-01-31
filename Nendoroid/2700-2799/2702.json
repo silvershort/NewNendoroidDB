@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36325,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36325/kC54aMLUH6YWipTPdhXeB0Kgjx7tDESs.jpg",
+  "name" : {
+    "en" : "Okarun",
+    "ja" : "オカルン",
+    "ko" : "오카룽"
+  },
+  "num" : "2702",
+  "price" : 6500,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Dandadan",
+    "ja" : "ダンダダン",
+    "ko" : "단다단"
+  }
+}
