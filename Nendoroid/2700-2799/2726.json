@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61363,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61363/K50hbeVSu9nTPspx6CXYmrNLy2BfcGZJ.jpg",
+  "name" : {
+    "en" : "Zentreya",
+    "ja" : "Zentreya",
+    "ko" : "Zentreya"
+  },
+  "num" : "2726",
+  "price" : 8800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "VShojo",
+    "ja" : "VShojo",
+    "ko" : "VShojo"
+  }
+}

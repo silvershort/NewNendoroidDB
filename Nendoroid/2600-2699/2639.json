@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60607,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60607/ts5gWjdbvrUVMqTRS3FHB0hyw9z2cDNe.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: 100th Adventure Ver.",
+    "ja" : "初音ミク 100番目の冒険Ver.",
+    "ko" : "하츠네 미쿠 100번째 모험 Ver."
+  },
+  "num" : "2639",
+  "price" : 8000,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}
