@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 62067,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62067/XK5D0JiUVbLtHyeNYQMawzpmjP2RBCG3.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Rabbit Hole Ver.",
+    "ja" : "初音ミク ラビットホールVer.",
+    "ko" : "하츠네 미쿠 래빗 홀Ver."
+  },
+  "num" : "2730",
+  "price" : 7800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

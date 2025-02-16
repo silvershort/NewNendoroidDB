@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62186,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62186/qeb0jsaAxT8FQitB4vn2rMD1YgkNuKpy.jpg",
+  "name" : {
+    "en" : "Młynar",
+    "ja" : "ムリナール",
+    "ko" : "무에나"
+  },
+  "num" : "2692",
+  "price" : 7400,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  }
+}
