@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61201,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61201/zu9Pi2Vr4htF5fLqpMkKYCRBA6xeDNd8.jpg",
+  "name" : {
+    "en" : "Asuna 2.0",
+    "ja" : "アスナ 2.0",
+    "ko" : "아스나 2.0"
+  },
+  "num" : "1669",
+  "price" : 7500,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Sword Art Online",
+    "ja" : "ソードアート・オンライン",
+    "ko" : "소드 아트 온라인"
+  }
+}
