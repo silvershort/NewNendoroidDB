@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 22707,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/22707/2Y6K0XGhEMu8vFsQzgbw7PNZWTn13De9.jpg",
+  "name" : {
+    "en" : "Jollibee",
+    "ja" : "ジョリビー",
+    "ko" : "졸리비"
+  },
+  "num" : "2697",
+  "price" : 6500,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Jollibee",
+    "ja" : "Jollibee",
+    "ko" : "Jollibee"
+  }
+}

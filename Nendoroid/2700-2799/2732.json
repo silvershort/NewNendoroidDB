@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62082,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62082/jtNhKSDiLQPAWkC32fwpMqxREHT1FByX.jpg",
+  "name" : {
+    "en" : "Nero [Basic]",
+    "ja" : "ネロ べーしっく",
+    "ko" : "네로 베이직"
+  },
+  "num" : "2732",
+  "price" : 3900,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Promise of Wizard",
+    "ja" : "魔法使いの約束",
+    "ko" : "마법사의 약속"
+  }
+}

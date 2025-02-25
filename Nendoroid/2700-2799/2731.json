@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61367,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61367/wEy4v98uKjaHDxRC1Pcp76gYnBmrGQUi.jpg",
+  "name" : {
+    "en" : "Ichimonji Norimune",
+    "ja" : "一文字則宗",
+    "ko" : "이치몬지 노리무네"
+  },
+  "num" : "2731",
+  "price" : 7900,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu ONLINE",
+    "ja" : "刀剣乱舞ONLINE",
+    "ko" : "도검난무 ONLINE"
+  }
+}

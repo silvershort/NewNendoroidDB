@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62081,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62081/BjNWUE49bdk2SuQaiXKH0rf3m7g1R8wV.jpg",
+  "name" : {
+    "en" : "Toya Kinomoto",
+    "ja" : "木之本桃矢",
+    "ko" : "키노모토 토우야"
+  },
+  "num" : "2733",
+  "price" : 6800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Cardcaptor Sakura: Clear Card",
+    "ja" : "カードキャプターさくら クリアカード編",
+    "ko" : "카드캡터 사쿠라"
+  }
+}

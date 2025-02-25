@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61203,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61203/705ad9822e3ceaf462d63f3d3224b001.jpg",
+  "name" : {
+    "en" : "Kirito 2.0",
+    "ja" : "キリト 2.0",
+    "ko" : "키리토 2.0"
+  },
+  "num" : "1689",
+  "price" : 7500,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Sword Art Online",
+    "ja" : "ソードアート・オンライン",
+    "ko" : "소드 아트 온라인"
+  }
+}
