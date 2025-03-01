@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36008,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36008/BhbqJP92xf6FagWTrjp4UEciDYKny7we.jpg",
+  "name" : {
+    "en" : "Kotaro Katsura",
+    "ja" : "桂小太郎",
+    "ko" : "카츠라 코타로"
+  },
+  "num" : "2695",
+  "price" : 6900,
+  "release_date" : [
+    "2025/06"
+  ],
+  "series" : {
+    "en" : "Gintama",
+    "ja" : "銀魂",
+    "ko" : "은혼"
+  }
+}

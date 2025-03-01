@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136101,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136101/UGHb45hr2ka1z8u7vf9VqdLcZW6iFgmw.jpg",
+  "name" : {
+    "en" : "Lenalee Lee",
+    "ja" : "リナリー・リー",
+    "ko" : "리나리 리"
+  },
+  "num" : "2735",
+  "price" : 6900,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "D.Gray-man",
+    "ja" : "D.Gray-man",
+    "ko" : "디 그레이맨"
+  }
+}
