@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136473,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136473/9tM4rDEJ8UcY5sdWbGTh6naZXmquVeS3.jpg",
+  "name" : {
+    "en" : "Sakura Miku 2.0",
+    "ja" : "桜ミク 2.0",
+    "ko" : "사쿠라 미쿠 2.0"
+  },
+  "num" : "2330",
+  "price" : 7500,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }}
+}

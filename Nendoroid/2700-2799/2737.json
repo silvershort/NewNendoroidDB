@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136103,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136103/rfnvAgu95iamU2XRx0GC8EkHLbd46MzS.jpg",
+  "name" : {
+    "en" : "Hitori Gotoh: Maid Ver. [Basic]",
+    "ja" : "後藤ひとり メイドVer. べーしっく",
+    "ko" : "고토 히토리 메이드Ver. 베이직"
+  },
+  "num" : "2737",
+  "price" : 3900,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
+    "ko" : "봇치 더 록!"
+  }
+}

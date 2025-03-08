@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60954,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60954/e4skZw6n8GJ2F35c9fQSuEaTD7pArNvW.jpg",
+  "name" : {
+    "en" : "Dorothy",
+    "ja" : "ドロシー",
+    "ko" : "도로시"
+  },
+  "num" : "2740",
+  "price" : 7300,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

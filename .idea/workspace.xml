@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="" />
+    <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2700-2799/2725.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2700-2799/2737.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2700-2799/2740.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2700-2799/2744.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/2200-2299/2227.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2200-2299/2227.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,16 +47,16 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KHS/Documents/NendoroidDB/Nendoroid/1600-1699&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KHS/Documents/NendoroidDB/Nendoroid/2700-2799&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\1600-1699" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2700-2799" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2600-2699" />
+      <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\1600-1699" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2500-2599" />
       <recent name="C:\Users\KHS\Documents\NendoroidDB\Nendoroid\2100-2199" />
     </key>

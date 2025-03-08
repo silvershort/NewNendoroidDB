@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61211,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61211/U8iEdz1c3butegCGPvkHwJfxhRWqpXMa.jpg",
+  "name" : {
+    "en" : "Ruri Aoki",
+    "ja" : "青木ルリ",
+    "ko" : "아오키 루리"
+  },
+  "num" : "2744",
+  "price" : 6800,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "RuriDragon",
+    "ja" : "ルリドラゴン",
+    "ko" : "루리 드래곤"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61208,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61208/gGQC0tb75DzMm3ZeuyvhBYRPrLfFVUAs.jpg",
+  "name" : {
+    "en" : "Suikoden I Hero",
+    "ja" : "幻想水滸伝I主人公",
+    "ko" : "환상수호전 1 주인공"
+  },
+  "num" : "2742",
+  "price" : 6800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Suikoden I",
+    "ja" : "幻想水滸伝I",
+    "ko" : "환상수호전 1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56843,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56843/ULMqpF0srCZAJeDvf3YGdKS6c9TQ8NaR.jpg",
+  "name" : {
+    "en" : "Houshou Marine: Office Lady Outfit. Ver.",
+    "ja" : "宝鐘マリン OL衣装Ver.",
+    "ko" : "호쇼 마린: 오피스 레이디 복장 Ver."
+  },
+  "num" : "2725",
+  "price" : 7500,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}
