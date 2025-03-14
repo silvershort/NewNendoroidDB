@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61694,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61694/v4nuK8CdLEfTxbXsMiW0tjYgkA23B7cq.jpg",
+  "name" : {
+    "en" : "Ken Kaneki",
+    "ja" : "金木 研",
+    "ko" : "카네키 켄"
+  },
+  "num" : "2734",
+  "price" : 7800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Tokyo Ghoul",
+    "ja" : "東京喰種トーキョーグール",
+    "ko" : "도쿄 구울"
+  }
+}
