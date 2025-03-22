@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136278,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136278/zqwhjpcPGb96AaV0nBd7tFY1me48kfgx.jpg",
+  "name" : {
+    "en" : "Akami Karubi",
+    "ja" : "赤見かるび",
+    "ko" : "아카미 카루비"
+  },
+  "num" : "2709",
+  "price" : 7900,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Akami Karubi",
+    "ja" : "赤見かるび",
+    "ko" : "아카미 카루비"
+  }
+}

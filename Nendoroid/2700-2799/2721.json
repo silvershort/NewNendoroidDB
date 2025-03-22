@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62083,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62083/d0B1PCxXmcFgNUr6yivh3ua9W4TLDKSG.jpg",
+  "name" : {
+    "en" : "Kashukiyomitsu: STARFLYER Pilot (Captain) Ver.",
+    "ja" : "加州清光 スターフライヤー パイロット（機長）ver.",
+    "ko" : "카슈 키요미츠 스타플레이어 파일럿 (기장)ver."
+  },
+  "num" : "2721",
+  "price" : 6300,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Touken Ranbu -ONLINE-",
+    "ja" : "刀剣乱舞-ONLINE-",
+    "ko" : "도검난무-ONLINE-"
+  }
+}

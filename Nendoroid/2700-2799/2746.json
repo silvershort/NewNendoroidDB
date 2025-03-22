@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136466,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136466/zN6je4SyRsWB0uniZ91YVxaUdPCA2fkq.jpg",
+  "name" : {
+    "en" : "Hayato Suo",
+    "ja" : "蘇枋 隼飛",
+    "ko" : "스오 하야토"
+  },
+  "num" : "2746",
+  "price" : 6300,
+  "release_date" : [
+    "2025/07"
+  ],
+  "series" : {
+    "en" : "WIND BREAKER",
+    "ja" : "WIND BREAKER",
+    "ko" : "WIND BREAKER"
+  }
+}

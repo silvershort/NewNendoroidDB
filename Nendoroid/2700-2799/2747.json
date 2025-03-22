@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136099,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136099/2EDA5g7j4FanxQWeKi8qsPTthJ3VRLrX.jpg",
+  "name" : {
+    "en" : "Queen",
+    "ja" : "白の女王",
+    "ko" : "하얀 여왕"
+  },
+  "num" : "2747",
+  "price" : 7300,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Date A Bullet",
+    "ja" : "デート・ア・バレット",
+    "ko" : "데이트 어 불릿"
+  }
+}
