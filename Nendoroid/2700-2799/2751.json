@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61893,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61893/AcWpDS6RE1G0gsx3tPMV4T9jCwhufYbn.jpg",
+  "name" : {
+    "en" : "Akane Tendo",
+    "ja" : "天道あかね",
+    "ko" : "텐도 아카네"
+  },
+  "num" : "2751",
+  "price" : 6500,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Ranma 1/2",
+    "ja" : "TVアニメ「らんま1/2」",
+    "ko" : "란마 1/2"
+  }
+}

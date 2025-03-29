@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137541,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137541/wt1di7rfabmcqKxyu4kvVzANFsLZTXU0.jpg",
+  "name" : {
+    "en" : "P3R Protagonist [Basic]",
+    "ja" : "ペルソナ3 リロード グッスマくじオンライン A賞  P3R 主人公 べーしっく",
+    "ko" : "페르소나3 리로드 상품 추첨 온라인 A상 P3R 주인공"
+  },
+  "num" : "2754",
+  "price" : 800,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Persona3 Reload",
+    "ja" : "ペルソナ3 リロード",
+    "ko" : "페르소나"
+  }
+}

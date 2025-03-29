@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 62187,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62187/1X28TJUWVSZ65bhBxHckNP0RujeGMnLD.jpg",
+  "name" : {
+    "en" : "Shu",
+    "ja" : "シュウ",
+    "ko" : "슈"
+  },
+  "num" : "2722",
+  "price" : 7400,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  }
+}
