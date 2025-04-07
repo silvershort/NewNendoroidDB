@@ -1,0 +1,21 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60907,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60907/j0HQY9T81kf2RP64vqzprhsK5JewibGn.jpg",
+  "name" : {
+    "en" : "Shin",
+    "ja" : "心",
+    "ko" : "신"
+  },
+  "num" : "2708",
+  "price" : 6800,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Dorohedoro",
+    "ja" : "ドロヘドロ",
+    "ko" : "도로헤도로"
+  }
+
+}

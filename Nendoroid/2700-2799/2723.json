@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61202,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61202/n2FbgDC4tqp6VKzujiEB5mdUyRSr0YXk.jpg",
+  "name" : {
+    "en" : "Alleria Windrunner",
+    "ja" : "アレリア・ウィンドランナー",
+    "ko" : "알레리아 윈드러너"
+  },
+  "num" : "2723",
+  "price" : 7900,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "World of Warcraft",
+    "ja" : "World of Warcraft",
+    "ko" : "World of Warcraft"
+  }
+}
