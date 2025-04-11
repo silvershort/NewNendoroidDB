@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61209,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61209/7QNrzvSm5bjCMnPhxUTiG8YtedWR6Lqg.jpg",
+  "name" : {
+    "en" : "Kotono Shiunji [Basic]",
+    "ja" : "紫雲寺ことの べーしっく",
+    "ko" : "시운지 코토노 베이직"
+  },
+  "num" : "2755",
+  "price" : 3900,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "The Shiunji Family Children",
+    "ja" : "紫雲寺家の子供たち",
+    "ko" : "시운지 가의 아이들"
+  }
+}
