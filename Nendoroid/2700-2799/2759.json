@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136135,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136135/5GsTRtiUSHP1pQJE4kBXg9aFyY7wCzLv.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Black Maneki Miku Ver.",
+    "ja" : "初音ミク 黒招きミクVer.",
+    "ko" : "하츠네 미쿠 검은 마네키 미쿠Ver."
+  },
+  "num" : "2759",
+  "price" : 7900,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "보컬로이드"
+  }
+}

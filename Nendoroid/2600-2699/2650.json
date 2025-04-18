@@ -1,19 +1,19 @@
 {
   "gender" : "M",
-  "gsc_productNum" : 61715,
-  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61715/gKuHL2NfQmV9A10RZy3XsqBc4nSdwTzD.jpg",
+  "gsc_productNum" : 1137925,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137925/0FaS7sPN1C8gbLeM4miRHBfdD3rGtj9Z.jpg",
   "name" : {
-    "en" : "Metaphor: ReFantazio Protagonist [Basic]",
-    "ja" : "『メタファー：リファンタジオ』 主人公 べーしっく",
-    "ko" : "주인공 베이직"
+    "en" : "Metaphor: ReFantazio Protagonist",
+    "ja" : "『メタファー：リファンタジオ』 主人公",
+    "ko" : "주인공"
   },
   "num" : "2650",
-  "price" : 3900,
+  "price" : 6900,
   "release_date" : [
-    "2025/05"
+    "2025/09"
   ],
   "series" : {
-    "en" : "メタファー：リファンタジオ",
+    "en" : "Metaphor: ReFantazio",
     "ja" : "メタファー：リファンタジオ",
     "ko" : "메타포: 리판타지오"
   }
