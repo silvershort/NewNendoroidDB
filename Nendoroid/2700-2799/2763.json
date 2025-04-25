@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60955,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60955/ECAcDzk39fuptZdJQ81BU62FMwGK7yig.jpg",
+  "name" : {
+    "en" : "Viper",
+    "ja" : "バイパー",
+    "ko" : "바이퍼"
+  },
+  "num" : "2763",
+  "price" : 7300,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

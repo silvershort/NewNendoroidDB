@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136870,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136870/mHVW86XcuFnvYJi45S73gaQrpTzswChE.jpg",
+  "name" : {
+    "en" : "Sha Wu Sheng",
+    "ja" : "殺無生",
+    "ko" : "살무생"
+  },
+  "num" : "2760",
+  "price" : 8900,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "Thunderbolt Fantasy Sword Seekers",
+    "ja" : "Thunderbolt Fantasy 東離劍遊紀",
+    "ko" : "Thunderbolt Fantasy 동리검유기"
+  }
+}

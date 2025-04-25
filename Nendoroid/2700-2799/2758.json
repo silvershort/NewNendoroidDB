@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136205,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136205/Fh5eTE8bUtrCzx1XH9PN34DV7MpAQcf0.jpg",
+  "name" : {
+    "en" : "Illyasviel von Einzbern: School Uniform Ver.",
+    "ja" : "イリヤスフィール・フォン・アインツベルン 制服Ver.",
+    "ko" : "이리야스필 폰 아인츠베른 교복Ver."
+  },
+  "num" : "2758",
+  "price" : 6600,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Fate/kaleid liner Prisma☆Illya: Licht - The Nameless Girl",
+    "ja" : "劇場版Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "ko" : "페이트/칼레이드 라이너 프리즈마☆이리야 Licht 이름없는 소녀"
+  }
+}

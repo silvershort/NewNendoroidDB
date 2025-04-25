@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 61366,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61366/uxL9nJFbzXNdriK4VM3RAvBy2etfH6CP.jpg",
+  "name" : {
+    "en" : "AQUI-Chan",
+    "ja" : "AQUIちゃん",
+    "ko" : "AQUI 짱"
+  },
+  "num" : "2769",
+  "price" : 6800,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Devil Dice",
+    "ja" : "XI[sái]",
+    "ko" : "XI[sái]"
+  }
+}

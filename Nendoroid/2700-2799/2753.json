@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60960,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60960/7EnizLKDX0dRU8VFmbNw5tfMecgTpvZA.jpg",
+  "name" : {
+    "en" : "Puniru [Basic]",
+    "ja" : "ぷにる べーしっく",
+    "ko" : "푸니르 베이직"
+  },
+  "num" : "2753",
+  "price" : 4400,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "PUNIRU is a KAWAII SLIME",
+    "ja" : "TVアニメ「ぷにるはかわいいスライム」",
+    "ko" : "푸니르는 귀여운 슬라임"
+  }
+}
