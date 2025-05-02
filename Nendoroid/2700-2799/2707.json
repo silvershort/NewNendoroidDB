@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61996,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61996/sFSBqi2r1hpTXJunRjPwmZyVY8vH5gQN.jpg",
+  "name" : {
+    "en" : "Anon Chihaya",
+    "ja" : "千早愛音",
+    "ko" : "치하야 아논"
+  },
+  "num" : "2707",
+  "price" : 6500,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  }
+}

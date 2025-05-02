@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136588,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136588/RskDGiUg0Abqn8K3XpuHh16EzNFMCJea.jpg",
+  "name" : {
+    "en" : "Crown",
+    "ja" : "クラウン",
+    "ko" : "크라운"
+  },
+  "num" : "2767",
+  "price" : 7900,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

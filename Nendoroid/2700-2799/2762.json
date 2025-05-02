@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137007,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137007/XnqJmukitbTMZ49SGNpDW2crdUzQaE7P.jpg",
+  "name" : {
+    "en" : "Ikuyo Kita: Casual Clothes Ver.",
+    "ja" : "喜多郁代  私服Ver.",
+    "ko" : "키타 이쿠요 사복Ver."
+  },
+  "num" : "2762",
+  "price" : 6200,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
+    "ko" : "봇치 더 록!"
+  }
+}
