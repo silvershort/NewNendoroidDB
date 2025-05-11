@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138347,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138347/TBpNmRDfHQSnrULvMwzthbycJqV6GgkX.jpg",
+  "name" : {
+    "en" : "Nendoroid Masako Nozawa Another Color",
+    "ja" : "ねんどろいど 野沢雅子 (ねんどろいど のざわまさこ) Another Color",
+    "ko" : "노자와 마사코 Another Color"
+  },
+  "num" : "2159-b",
+  "price" : 0,
+  "release_date" : [
+  ],
+  "series" : {
+    "en" : "AONI PRODUCTION",
+    "ja" : "青二プロダクション",
+    "ko" : "아오니 프로덕션"
+  }
+}

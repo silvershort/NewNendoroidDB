@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137034,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137034/P42EitCXAdcnferTLgzNG1QJ87RVSsYM.jpg",
+  "name" : {
+    "en" : "Racing Miku: 2024 Ver. Another Color",
+    "ja" : "レーシングミク 2024Ver. Another Color",
+    "ko" : "레이싱 미쿠 2024Ver. Another Color"
+  },
+  "num" : "2477-b",
+  "price" : 0,
+  "release_date" : [
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}
