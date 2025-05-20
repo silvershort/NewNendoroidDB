@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60258,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60258/2841a5c0708016c87cd23a2a6c0ddaf8.jpg",
+  "name" : {
+    "en" : "Cherry Blossom",
+    "ja" : "Cherry blossom",
+    "ko" : "체리 블로섬"
+  },
+  "num" : "2783",
+  "price" : 7800,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "SK8 the Infinity",
+    "ja" : "SK∞ エスケーエイト",
+    "ko" : "SK∞ 에스케이 에이트"
+  }
+}

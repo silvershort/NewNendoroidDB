@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62061,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62061/V7DQ3MC45gqem0tSAf9KkujpHzTdxsP8.jpg",
+  "name" : {
+    "en" : "Dino",
+    "ja" : "ディーノ",
+    "ko" : "디노"
+  },
+  "num" : "2779",
+  "price" : 6200,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "REBORN!",
+    "ja" : "家庭教師ヒットマンREBORN!",
+    "ko" : "가정교사 히트맨 REBORN!"
+  }
+}

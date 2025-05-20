@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136475,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136475/ca4f596c594dd6c5666c96c5baee9ca0.jpg",
+  "name" : {
+    "en" : "Ryo Yamada: Casual Clothes Ver.",
+    "ja" : "山田リョウ 私服Ver.",
+    "ko" : "야마다 료 사복Ver."
+  },
+  "num" : "2785",
+  "price" : 6200,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
+    "ko" : "봇치 더 록!"
+  }
+}

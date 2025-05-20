@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 60257,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60257/c8819034586536d0ea094178b3818b80.jpg",
+  "name" : {
+    "en" : "Joe",
+    "ja" : "ジョー",
+    "ko" : "죠"
+  },
+  "num" : "2782",
+  "price" : 7800,
+  "release_date" : [
+    "2025/09"
+  ],
+  "series" : {
+    "en" : "SK8 the Infinity",
+    "ja" : "SK∞ エスケーエイト",
+    "ko" : "SK∞ 에스케이 에이트"
+  }
+}
