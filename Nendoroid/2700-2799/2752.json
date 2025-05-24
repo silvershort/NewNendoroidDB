@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136589,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136589/u6tnkDNAf93Wy1gJHZQdKCFG4M0BR7rh.jpg",
+  "name" : {
+    "en" : "Noko Shikanoko",
+    "ja" : "鹿乃子のこ",
+    "ko" : "시카노코 노코"
+  },
+  "num" : "2752",
+  "price" : 7200,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "My Deer Friend Nokotan",
+    "ja" : "しかのこのこのここしたんたん",
+    "ko" : "사슴 아이 어슬렁어슬렁 호시탐탐"
+  }
+}

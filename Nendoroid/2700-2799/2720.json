@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36347,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36347/tUZsGkAd2TnrPM6Ky83BQvzuxE5fJqFc.jpg",
+  "name" : {
+    "en" : "Ichiban Kasuga",
+    "ja" : "春日一番",
+    "ko" : "카스가 이치반"
+  },
+  "num" : "2720",
+  "price" : 6800,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Yakuza",
+    "ja" : "龍が如く",
+    "ko" : "용과 같이"
+  }
+}

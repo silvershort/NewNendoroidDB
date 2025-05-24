@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36345,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36345/Q5pBuEhkazPJH3sGX4j2LtZn8NYVDiF0.jpg",
+  "name" : {
+    "en" : "Kazuma Kiryu",
+    "ja" : "桐生一馬",
+    "ko" : "키류 카즈마"
+  },
+  "num" : "2719",
+  "price" : 6800,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Yakuza",
+    "ja" : "龍が如く",
+    "ko" : "용과 같이"
+  }
+}

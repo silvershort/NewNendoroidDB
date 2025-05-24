@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136859,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136859/Cs8P3yp42cXxrMdYvg7LeAKHSQnBZ5bJ.jpg",
+  "name" : {
+    "en" : "Nanami Momozono",
+    "ja" : "桃園奈々生",
+    "ko" : "모모조노 나나미"
+  },
+  "num" : "2784",
+  "price" : 6800,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Kamisama Kiss◎",
+    "ja" : "神様はじめました◎",
+    "ko" : "오늘부터 신령님◎"
+  }
+}
