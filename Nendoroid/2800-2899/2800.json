@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 1136105,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136105/U3QG6rdj7kXbHzSyRC5YhaMPLfD8gKsZ.jpg",
+  "name" : {
+    "en" : "Godzilla (2016)",
+    "ja" : "ゴジラ（2016）",
+    "ko" : "고질라 (2016)"
+  },
+  "num" : "2800",
+  "price" : 8900,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Shin Godzilla",
+    "ja" : "シン・ゴジラ",
+    "ko" : "신 고질라"
+  }
+}

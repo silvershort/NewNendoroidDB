@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 44626,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44626/a1ae3b2444ce896cdb182b5f11c5d036.jpg",
+  "name" : {
+    "en" : "Chiyo Sakura",
+    "ja" : "佐倉千代",
+    "ko" : "사쿠라 치요"
+  },
+  "num" : "2776",
+  "price" : 6800,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Monthly Girls' Nozaki-kun",
+    "ja" : "月刊少女野崎くん",
+    "ko" : "월간순정 노자키 군"
+  }
+}

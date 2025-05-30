@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61632,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61632/0ZeGvi87bfpLSXUNDw5R6WtFa3cjJhVr.jpg",
+  "name" : {
+    "en" : "Cheval Grand",
+    "ja" : "シュヴァルグラン",
+    "ko" : "슈발 그랑"
+  },
+  "num" : "2789",
+  "price" : 7500,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

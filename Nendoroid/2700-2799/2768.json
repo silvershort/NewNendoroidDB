@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 62211,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62211/45Yg8sGPhQpRdWVcn2qkmx6fJvaw3FNt.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Shimian Maifu Ver.",
+    "ja" : "初音ミク 十面埋伏Ver.",
+    "ko" : "하츠네 미쿠 십면매복Ver."
+  },
+  "num" : "2768",
+  "price" : 8000,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네 미쿠"
+  }
+  }

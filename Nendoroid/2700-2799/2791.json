@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60270,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60270/YD94BcdHJFesZ1UaQwpiqG7TuhbmM5Nx.jpg",
+  "name" : {
+    "en" : "Vivlos",
+    "ja" : "ヴィブロス",
+    "ko" : "비블로스"
+  },
+  "num" : "2791",
+  "price" : 7900,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Umamusume: Pretty Derby",
+    "ja" : "ウマ娘 プリティーダービー",
+    "ko" : "우마무스메: 프리티 더비"
+  }
+}

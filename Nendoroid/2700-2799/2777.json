@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 44625,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44625/9PnyQCecgkqtTEZzfvD4Rj0MrWhA7B6u.jpg",
+  "name" : {
+    "en" : "Mikoto Mikoshiba",
+    "ja" : "御子柴実琴",
+    "ko" : "미코시바 미코토"
+  },
+  "num" : "2777",
+  "price" : 6800,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Monthly Girls' Nozaki-kun",
+    "ja" : "月刊少女野崎くん",
+    "ko" : "월간순정 노자키 군"
+  }
+}
