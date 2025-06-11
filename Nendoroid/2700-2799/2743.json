@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136104,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136104/wHnMJXPTcGEeKdF7VSWBZN2qfrQy549z.jpg",
+  "name" : {
+    "en" : "Yukito Tsukishiro",
+    "ja" : "月城雪兎",
+    "ko" : "츠키시로 유키토"
+  },
+  "num" : "2743",
+  "price" : 6800,
+  "release_date" : [
+    "2025/08"
+  ],
+  "series" : {
+    "en" : "Cardcaptor Sakura: Clear Card",
+    "ja" : "カードキャプターさくら クリアカード編",
+    "ko" : "카드캡터 사쿠라"
+  }
+}

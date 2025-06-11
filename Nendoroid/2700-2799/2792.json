@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137006,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137006/F0yegwWXk39xGvdJ4HLqu2ahfNmjr1TZ.jpg",
+  "name" : {
+    "en" : "Nico Wakatsuki [Basic]",
+    "ja" : "若月ニコ べーしっく",
+    "ko" : "와카츠키 니코 베이직"
+  },
+  "num" : "2792",
+  "price" : 3900,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "Witch Watch",
+    "ja" : "TVアニメ『ウィッチウォッチ』",
+    "ko" : "위치 워치"
+  }
+}

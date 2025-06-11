@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 36079,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36079/gPnVpYcDaz8wACKF2bEX36HtdW4qr0Gm.jpg",
+  "name" : {
+    "en" : "Usada Pekora: Casual Outfit Ver.",
+    "ja" : "兎田ぺこら 私服衣装Ver.",
+    "ko" : "우사다 페코라 사복 의상Ver."
+  },
+  "num" : "2741",
+  "price" : 7500,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

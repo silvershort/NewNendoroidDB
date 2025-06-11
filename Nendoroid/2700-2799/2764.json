@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136787,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136787/2Jg4BFPs9vuNC7wc1UVr8qbKStYkTzQm.jpg",
+  "name" : {
+    "en" : "Dr. Ratio",
+    "ja" : "Dr.レイシオ",
+    "ko" : "Dr. 레이시오"
+  },
+  "num" : "2764",
+  "price" : 7500,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

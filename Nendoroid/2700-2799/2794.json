@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61894,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61894/7mJeNbfuia1dFDKTX6WQBsPxkvR0rpt5.jpg",
+  "name" : {
+    "en" : "Shampoo",
+    "ja" : "シャンプー",
+    "ko" : "샴푸"
+  },
+  "num" : "2794",
+  "price" : 6500,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "Ranma 1/2",
+    "ja" : "TVアニメ「らんま1/2」",
+    "ko" : "란마 1/2"
+  }
+}

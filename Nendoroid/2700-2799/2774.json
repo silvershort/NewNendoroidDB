@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136467,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136467/2c55610d35a51248648a85707b066705.jpg",
+  "name" : {
+    "en" : "Allucia Citrus [Basic]",
+    "ja" : "アリューシア・シトラス べーしっく",
+    "ko" : "알류시아 시트러스"
+  },
+  "num" : "2774",
+  "price" : 3900,
+  "release_date" : [
+    "2025/10"
+  ],
+  "series" : {
+    "en" : "From Old Country Bumpkin to Master Swordsman",
+    "ja" : "片田舎のおっさん、剣聖になる",
+    "ko" : "촌구석 아저씨 검성이 되다"
+  }
+}

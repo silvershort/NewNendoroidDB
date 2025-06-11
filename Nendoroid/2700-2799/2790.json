@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62239,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62239/pa1hWx5LSeD3M0tEkfUYzPsRG97JgNFj.jpg",
+  "name" : {
+    "en" : "Kyoya Hibari 2.0",
+    "ja" : "雲雀恭弥 2.0",
+    "ko" : "히바리 쿄야 2.0"
+  },
+  "num" : "2790",
+  "price" : 6500,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "REBORN!",
+    "ja" : "家庭教師ヒットマンREBORN!",
+    "ko" : "가정교사 히트맨 REBORN!"
+  }
+}
