@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 45688,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/45688/FvtPufAKs6NHUEDRJeL4kXWjQMiqg2m3.jpg",
+  "name" : {
+    "en" : "Nobunaga Shimazaki",
+    "ja" : "島﨑信長",
+    "ko" : "시마자키 노부나가"
+  },
+  "num" : "2795",
+  "price" : 8500,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "AONI PRODUCTION",
+    "ja" : "青二プロダクション",
+    "ko" : "아오니 프로덕션"
+  }
+}

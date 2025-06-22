@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136137,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136137/QdUKj8nbYeDw5hF7ZSM34pV0fuvXxAqs.jpg",
+  "name" : {
+    "en" : "Killua Zoldyck: Hunter Exam Ver.",
+    "ja" : "キルア=ゾルディック ハンター試験Ver.",
+    "ko" : "키르아 조르딕 헌터 시험Ver."
+  },
+  "num" : "2804",
+  "price" : 6800,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터 X 헌터"
+  }
+}

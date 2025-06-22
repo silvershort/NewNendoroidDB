@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137235,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137235/g0c7hDAdSNrCiKTYbJmnX158vRsWF3LV.jpg",
+  "name" : {
+    "en" : "Kokichi Oma",
+    "ja" : "王馬小吉",
+    "ko" : "오마 코키치"
+  },
+  "num" : "2802",
+  "price" : 7300,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "Danganronpa V3: Killing Harmony",
+    "ja" : "ニューダンガンロンパV3 みんなのコロシアイ新学期",
+    "ko" : "단간론파"
+  }
+}

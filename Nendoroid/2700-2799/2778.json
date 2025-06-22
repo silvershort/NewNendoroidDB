@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136587,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136587/4yHDrNQfm1UxKeGC0kXaJF6jMW7nvSqL.jpg",
+  "name" : {
+    "en" : "Red Hood",
+    "ja" : "レッドフード",
+    "ko" : "레드 후드"
+  },
+  "num" : "2778",
+  "price" : 7900,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

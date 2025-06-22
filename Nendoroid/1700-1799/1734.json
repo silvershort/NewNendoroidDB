@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137058,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137058/0CEazyNpD1G8Ah3KnwYMqR6Xusk9rJfb.jpg",
+  "name" : {
+    "en" : "Shinobu Oshino 2.0",
+    "ja" : "忍野忍 2.0",
+    "ko" : "오시노 시노부 2.0"
+  },
+  "num" : "1734",
+  "price" : 6500,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Monogatari Series",
+    "ja" : "<物語>シリーズ",
+    "ko" : "모노가타리 시리즈"
+  }
+}

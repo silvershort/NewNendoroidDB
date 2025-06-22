@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136298,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136298/13722d38572bab10ae14ca4fb8b3e5c4.jpg",
+  "name" : {
+    "en" : "Ada Wong",
+    "ja" : "エイダ・ウォン",
+    "ko" : "에이다 웡"
+  },
+  "num" : "2761",
+  "price" : 6800,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Resident Evil 4",
+    "ja" : "バイオハザード RE:4",
+    "ko" : "레지던트 이블"
+  }
+}

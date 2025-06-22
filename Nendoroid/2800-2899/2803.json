@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62066,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62066/91YLRK4E8rguwHS0pNWi5FJBhVQknzD3.jpg",
+  "name" : {
+    "en" : "Gon Freecss: Hunter Exam Ver.",
+    "ja" : "ゴン=フリークス ハンター試験Ver.",
+    "ko" : "곤 프릭스 헌터 시험Ver."
+  },
+  "num" : "2803",
+  "price" : 6800,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터 X 헌터"
+  }
+}

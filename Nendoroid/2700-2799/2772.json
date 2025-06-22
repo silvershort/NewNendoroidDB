@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136776,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136776/CEcVnWUqHjmKrN02F3BzDu84bLTQayMx.jpg",
+  "name" : {
+    "en" : "Zuko",
+    "ja" : "ズーコ",
+    "ko" : "주코"
+  },
+  "num" : "2772",
+  "price" : 7500,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Avatar: The Last Airbender",
+    "ja" : "アバター 伝説の少年アン",
+    "ko" : "아앙의 전설"
+  }
+  }
