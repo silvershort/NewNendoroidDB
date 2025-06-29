@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136574,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136574/d326bb2b5036e6598e82990535c54693.jpg",
+  "name" : {
+    "en" : "Kyou Kai",
+    "ja" : "羌瘣",
+    "ko" : "강외"
+  },
+  "num" : "2799",
+  "price" : 6900,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "KINGDOM",
+    "ja" : "キングダム",
+    "ko" : "킹덤"
+  }
+}

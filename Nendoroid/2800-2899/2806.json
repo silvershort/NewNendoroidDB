@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1139562,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139562/rZdTgbpLD0EQhuysvNB965P87fn21aWK.jpg",
+  "name" : {
+    "en" : "Takemichi Hanagaki",
+    "ja" : "花垣武道【海外版】",
+    "ko" : "하나가키 타케미치 (해외판)"
+  },
+  "num" : "2806",
+  "price" : 6700,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Tokyo Revengers",
+    "ja" : "東京リベンジャーズ",
+    "ko" : "도쿄 리벤저스"
+  }
+}

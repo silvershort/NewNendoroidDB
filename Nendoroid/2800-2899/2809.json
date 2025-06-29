@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56024,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56024/abeiR2n9M8YQK1s43r5fwEqGBSFgVpvL.jpg",
+  "name" : {
+    "en" : "Satsuki Kiryuin: Kamui Junketsu Ver.",
+    "ja" : "鬼龍院皐月 神衣純潔Ver.",
+    "ko" : "키류인 사츠키 카무이 준케츠Ver."
+  },
+  "num" : "2809",
+  "price" : 7900,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "KILL la KILL",
+    "ja" : "キルラキル",
+    "ko" : "킬라킬"
+  }
+}
