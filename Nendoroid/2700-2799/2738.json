@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60606,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60606/PV5fai9puUqdAHhcv6DM32bNrgjJLB4n.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Magical Mirai 2024 Ver.",
+    "ja" : "初音ミク マジカルミライ 2024Ver.",
+    "ko" : "하츠네 미쿠: 매지컬 미라이 2024 Ver."
+  },
+  "num" : "2738",
+  "price" : 7800,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

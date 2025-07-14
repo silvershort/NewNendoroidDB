@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136496,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136496/WuC9EKQUpY8qhT1GPXnZ5BLgkeJj34RN.jpg",
+  "name" : {
+    "en" : "Alastor",
+    "ja" : "アラスター",
+    "ko" : "알래스터"
+  },
+  "num" : "2813",
+  "price" : 7700,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Hazbin Hotel",
+    "ja" : "ハズビン・ホテルへようこそ",
+    "ko" : "해즈빈 호텔"
+  }
+}

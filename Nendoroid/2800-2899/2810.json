@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137005,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137005/c7mVFM91JNikfUEqebzgH0GQjCd2Sh3A.jpg",
+  "name" : {
+    "en" : "Shikinami Asuka Langley: Test Suit Ver.",
+    "ja" : "式波・アスカ・ラングレー テストスーツVer.",
+    "ko" : "아스카 랑그레이 테스트 슈트Ver."
+  },
+  "num" : "2810",
+  "price" : 6800,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Evangelion: 2.0 You Can (Not) Advance",
+    "ja" : "ヱヴァンゲリヲン新劇場版：破",
+    "ko" : "에반게리온"
+  }
+}

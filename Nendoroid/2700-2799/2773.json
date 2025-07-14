@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136430,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136430/JPx43p1eFwVZUKuL2REB6Y5gMb9fvyrC.jpg",
+  "name" : {
+    "en" : "Harumasa Asaba",
+    "ja" : "浅羽悠真",
+    "ko" : "아사바 하루마사"
+  },
+  "num" : "2773",
+  "price" : 7700,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Zenless Zone Zero",
+    "ja" : "ゼンレスゾーンゼロ",
+    "ko" : "젠레스 존 제로"
+  }
+}

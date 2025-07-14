@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136470,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136470/1ZXnyiSqte2wYurMJ4TELPHxhAc9WRFN.jpg",
+  "name" : {
+    "en" : "Utena Tenjo",
+    "ja" : "天上ウテナ",
+    "ko" : "텐죠 우테나"
+  },
+  "num" : "2765",
+  "price" : 7300,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "Revolutionary Girl Utena",
+    "ja" : "TVアニメ「少女革命ウテナ」",
+    "ko" : "소녀혁명 우테나"
+  }
+}

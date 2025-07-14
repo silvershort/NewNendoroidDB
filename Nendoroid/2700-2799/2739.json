@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 60266,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/60266/CGsS95VmY6t2kWyxpUqrhXeaJgn8w0RK.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Magical Mirai 2015 Ver.",
+    "ja" : "初音ミク マジカルミライ 2015Ver.",
+    "ko" : "하츠네 미쿠: 매지컬 미라이 2015 Ver."
+  },
+  "num" : "2739",
+  "price" : 7800,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

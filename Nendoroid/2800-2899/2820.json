@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137234,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137234/fxhFtb2nmC1AJEpkMcWdBD0HsLX97v6r.jpg",
+  "name" : {
+    "en" : "Joey Wheeler",
+    "ja" : "城之内克也",
+    "ko" : "죠노우치 카츠야"
+  },
+  "num" : "2820",
+  "price" : 6800,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Yu-Gi-Oh! Duel Monsters",
+    "ja" : "遊☆戯☆王デュエルモンスターズ",
+    "ko" : "유희왕"
+  }
+}

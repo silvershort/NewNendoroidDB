@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136106,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136106/cLHzdwMnqNfDTs5pFA87aJbY3imGX0UV.jpg",
+  "name" : {
+    "en" : "Jax",
+    "ja" : "ジャックス",
+    "ko" : "잭스"
+  },
+  "num" : "2771",
+  "price" : 6800,
+  "release_date" : [
+    "2025/11"
+  ],
+  "series" : {
+    "en" : "The Amazing Digital Circus",
+    "ja" : "The Amazing Digital Circus",
+    "ko" : "The Amazing Digital Circus"
+  }
+}
