@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61812,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61812/CqcSfg6pU2zEQvAZ7RPwKVmTu9HaLnhN.jpg",
+  "name" : {
+    "en" : "Kinako",
+    "ja" : "きなこ",
+    "ko" : "키나코"
+  },
+  "num" : "2831",
+  "price" : 7700,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Uchi no Neko ga Onnanoko de Kawaii",
+    "ja" : "うちのねこが女の子でかわいい",
+    "ko" : "우리집 고양이가 여자애라 귀여워"
+  }
+}

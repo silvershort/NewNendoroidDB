@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 62212,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62212/8ef45a7fce4beeffd12fce95fd01c9fd.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: MIKU WITH YOU 2024 Ver.",
+    "ja" : "初音ミク MIKU WITH YOU 2024Ver.",
+    "ko" : "하츠네 미쿠 MIKU WITH YOU 2024Ver."
+  },
+  "num" : "2811",
+  "price" : 8000,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

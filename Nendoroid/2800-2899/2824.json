@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138986,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138986/6Uzs7HQdNCYp0jquMcRViD1fTxSv5GK9.jpg",
+  "name" : {
+    "en" : "X",
+    "ja" : "X",
+    "ko" : "X"
+  },
+  "num" : "2824",
+  "price" : 6800,
+  "release_date" : [
+    "2026/03"
+  ],
+  "series" : {
+    "en" : "Reverse: 1999",
+    "ja" : "リバース：1999",
+    "ko" : "리버스: 1999"
+  }
+}

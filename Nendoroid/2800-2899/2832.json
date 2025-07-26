@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138145,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138145/RwaqNYbM5DgfxEAKeJLZGyCkFHPnXzcp.jpg",
+  "name" : {
+    "en" : "Phainon",
+    "ja" : "ファイノン",
+    "ko" : "파이논"
+  },
+  "num" : "2832",
+  "price" : 7500,
+  "release_date" : [
+    "2026/03"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

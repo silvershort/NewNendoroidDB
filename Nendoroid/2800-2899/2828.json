@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137295,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137295/iMtReknDB83pNQcC6FAu0gUaLqxw7KzT.jpg",
+  "name" : {
+    "en" : "Hajime Hinata",
+    "ja" : "日向創",
+    "ko" : "히나타 하지메"
+  },
+  "num" : "2828",
+  "price" : 6500,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Danganronpa 1•2 Reload",
+    "ja" : "ダンガンロンパ1・2 Reload",
+    "ko" : "단간론파"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136497,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136497/rqsVT7ap8P6kjKURXnCLYvJGgm9cFSEN.jpg",
+  "name" : {
+    "en" : "Blitzo",
+    "ja" : "ブリッツ",
+    "ko" : "블리츠"
+  },
+  "num" : "2823",
+  "price" : 7700,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Helluva Boss",
+    "ja" : "Helluva Boss",
+    "ko" : "헬루바 보스"
+  }
+}

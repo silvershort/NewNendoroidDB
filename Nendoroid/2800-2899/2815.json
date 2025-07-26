@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136493,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136493/CXbLcA0Uzjrin4xhaPf72Jm5quRevBZ9.jpg",
+  "name" : {
+    "en" : "Feitan",
+    "ja" : "フェイタン",
+    "ko" : "페이탄"
+  },
+  "num" : "2815",
+  "price" : 6600,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138039,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138039/6gUDLETQmirqwkd3Ry4zA1G9puBWNasZ.jpg",
+  "name" : {
+    "en" : "Astarion",
+    "ja" : "アスタリオン",
+    "ko" : "아스타리온"
+  },
+  "num" : "2819",
+  "price" : 6600,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "Baldur's Gate III",
+    "ja" : "Baldur's Gate III",
+    "ko" : "발더스 게이트"
+  }
+}
