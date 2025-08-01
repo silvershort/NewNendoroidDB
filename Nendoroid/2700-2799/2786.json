@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 36346,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/36346/ZsM3FhrankyAdCJw1pNQPquYX76BH59G.jpg",
+  "name" : {
+    "en" : "Goro Majima",
+    "ja" : "真島吾朗",
+    "ko" : "마지마 고로"
+  },
+  "num" : "2786",
+  "price" : 6800,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "Yakuza",
+    "ja" : "龍が如く",
+    "ko" : "용과 같이"
+  }
+}

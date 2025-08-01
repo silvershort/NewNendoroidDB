@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136474,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136474/19x6XjtrsTW4cN7kSF5ifZYMy8GUvVu3.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Shuttered SEKAI Ver.",
+    "ja" : "初音ミク 閉ざされた窓のセカイVer.",
+    "ko" : "하츠네 미쿠 닫힌 창문의 세카이Ver."
+  },
+  "num" : "2848",
+  "price" : 7200,
+  "release_date" : [
+    "2025/12"
+  ],
+  "series" : {
+    "en" : "COLORFUL STAGE! The Movie: A Miku Who Can't Sing",
+    "ja" : "劇場版プロジェクトセカイ 壊れたセカイと歌えないミク",
+    "ko" : "하츠네 미쿠: 컬러풀 스테이지!"
+  }
+}

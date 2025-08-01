@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136468,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136468/H9T3GrsxjJCKvZ7A6pVQMNnWyU4Y5mPg.jpg",
+  "name" : {
+    "en" : "Twilight Sparkle",
+    "ja" : "トワイライトスパークル",
+    "ko" : "트와일라잇 스파클"
+  },
+  "num" : "2829",
+  "price" : 6300,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "My Little Pony",
+    "ja" : "My Little Pony",
+    "ko" : "마이 리틀 포니"
+  }
+}
