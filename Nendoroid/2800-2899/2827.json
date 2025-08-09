@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136969,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136969/K0CwJjpNd8gHDh3STMuzbRaGZyPUmFqt.jpg",
+  "name" : {
+    "en" : "Nina Iseri",
+    "ja" : "井芹仁菜",
+    "ko" : "이세리 니나"
+  },
+  "num" : "2827",
+  "price" : 6500,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "GIRLS BAND CRY",
+    "ja" : "ガールズバンドクライ",
+    "ko" : "걸즈 밴드 크라이"
+  }
+}

@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c20093c-c702-40ed-9167-051890abff90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2700-2799/2786.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nendoroid/2800-2899/2848.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nendoroid/2800-2899/2827.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/1000-1099/1064.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/1000-1099/1064.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/1500-1599/1508.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/1500-1599/1508.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nendoroid/2300-2399/2349.json" beforeDir="false" afterPath="$PROJECT_DIR$/Nendoroid/2300-2399/2349.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
