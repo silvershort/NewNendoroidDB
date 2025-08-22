@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138569,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138569/m6Bsp1eaMZvtDCGd5Kc4PiwbUHhTY9gj.jpg",
+  "name" : {
+    "en" : "Kei Tsukishima: The New Karasuno Ver.",
+    "ja" : "月島 蛍 新生烏野Ver.",
+    "ko" : "츠키시마 케이 신생 카라스노Ver."
+  },
+  "num" : "2817",
+  "price" : 6300,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  }
+}

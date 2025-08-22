@@ -1,0 +1,18 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138835,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138835/fVs2Ntm9wWiTUR1jDFzZdMJ6xPk5YBCc.jpg",
+  "name" : {
+    "en" : "Astro: Metallic Ver.",
+    "ja" : "アストロ メタリックVer.",
+    "ko" : "아스트로: 메탈릭 Ver."
+  },
+  "num" : "1879-b",
+  "price" : 7000,
+  "release_date" : [],
+  "series" : {
+    "en" : "ASTRO's PLAYROOM",
+    "ja" : "ASTRO's PLAYROOM",
+    "ko" : "아스트로 플레이룸"
+  }
+}

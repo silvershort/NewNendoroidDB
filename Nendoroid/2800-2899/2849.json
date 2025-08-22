@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137242,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137242/L7J3GjqHdcZ5Y4WVFUixnQDasE2Tu90v.jpg",
+  "name" : {
+    "en" : "Liz cosplay by Marin",
+    "ja" : "リズ cosplay by Marin",
+    "ko" : "리즈 cosplay by Marin"
+  },
+  "num" : "2849",
+  "price" : 6800,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "My Dress-Up Darling",
+    "ja" : "TVアニメ「その着せ替え人形は恋をする」",
+    "ko" : "그 비스크 돌은 사랑을 한다"
+  }
+}

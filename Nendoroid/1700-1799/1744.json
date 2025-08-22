@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1136983,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136983/XeLQTrg9VGcu8DY52w4AFztPbCnUsB3R.jpg",
+  "name" : {
+    "en" : "Hozuki 2.0",
+    "ja" : "鬼灯 2.0",
+    "ko" : "호오즈키"
+  },
+  "num" : "1744",
+  "price" : 6800,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "Hozuki's Coolheadedness",
+    "ja" : "鬼灯の冷徹",
+    "ko" : "호오즈키의 냉철"
+  }
+}

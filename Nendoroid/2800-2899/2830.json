@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137059,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137059/7ScfHydADsh9nCRaYZqM6J0wb3v8kBjp.jpg",
+  "name" : {
+    "en" : "Guts: Berserker Armor Ver.",
+    "ja" : "ガッツ 狂戦士の甲冑Ver.",
+    "ko" : "가츠 광전사의 갑주Ver."
+  },
+  "num" : "2830",
+  "price" : 7500,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "Berserk",
+    "ja" : "TVアニメ「ベルセルク」",
+    "ko" : "베르세르크"
+  }
+}

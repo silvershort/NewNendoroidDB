@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 61210,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61210/e5a0b71a87f14508065de6fc47dad425.jpg",
+  "name" : {
+    "en" : "Shinku 2.0",
+    "ja" : "真紅 2.0",
+    "ko" : "신쿠 2.0"
+  },
+  "num" : "2847",
+  "price" : 7500,
+  "release_date" : [
+    "2026/03"
+  ],
+  "series" : {
+    "en" : "Rozen Maiden",
+    "ja" : "ローゼンメイデン",
+    "ko" : "로젠메이든"
+  }
+}

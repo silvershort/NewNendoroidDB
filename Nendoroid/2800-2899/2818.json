@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 55725,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138567/LVBZtmhiNAU1yxn50jCFSkJsaYTdbc6X.jpg",
+  "name" : {
+    "en" : "Tadashi Yamaguchi: The New Karasuno Ver.",
+    "ja" : "山口 忠 新生烏野Ver.",
+    "ko" : "야마구치 타다시 신생 카라스노Ver."
+  },
+  "num" : "2818",
+  "price" : 6300,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "Haikyu!!",
+    "ja" : "ハイキュー!!",
+    "ko" : "하이큐!!"
+  }
+}

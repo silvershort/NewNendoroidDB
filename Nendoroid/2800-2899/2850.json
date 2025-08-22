@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138070,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138070/NcDrbdsSHaQywetEqi0G4YhCRXpJ2AWP.jpg",
+  "name" : {
+    "en" : "Hitori Gotoh: Tracksuit Ver.",
+    "ja" : "後藤ひとり ジャージVer.",
+    "ko" : "고토 히토리 츄리닝Ver."
+  },
+  "num" : "2821",
+  "price" : 6200,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "Bocchi the Rock!",
+    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
+    "ko" : "봇치 더 록!"
+  }
+}
