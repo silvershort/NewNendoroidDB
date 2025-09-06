@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136134,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136134/QJxFGHE2urs3bvnLzf5MSKPtYAhy78Bp.jpg",
+  "name" : {
+    "en" : "Megurine Luka 2.0",
+    "ja" : "巡音ルカ 2.0",
+    "ko" : "메구리네 루카 2.0"
+  },
+  "num" : "2842",
+  "price" : 6900,
+  "release_date" : [
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 03: Megurine Luka",
+    "ja" : "キャラクター・ボーカル・シリーズ03 巡音ルカ",
+    "ko" : "보컬로이드"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 62068,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62068/T2edvmuLAPBr6ZR0xk1Q9JVjzWYKygN5.jpg",
+  "name" : {
+    "en" : "Good Smile Kuji Hatsune Miku 2025 Autumn A Prize -  Hatsune Miku: Glasses x Café Ver.",
+    "ja" : "グッスマくじ 初音ミク 2025 Autumn A賞  初音ミク めがね✕カフェVer.",
+    "ko" : "굿 스마일 하츠네 미쿠 쿠지 2025 가을 A상 - 하츠네 미쿠: 안경 x 카페 Ver."
+  },
+  "num" : "2775-a",
+  "price" : 880,
+  "release_date" : [
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}

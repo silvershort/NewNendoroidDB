@@ -1,0 +1,18 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137064,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137064/qrRn0PyvJiYkWA5BXCcHaVZKMjNdmQwG.jpg",
+  "name" : {
+    "en" : "MEIKO 2.0",
+    "ja" : "MEIKO 2.0",
+    "ko" : "MEIKO 2.0"
+  },
+  "num" : "2843",
+  "price" : 6900,
+  "release_date" : [],
+  "series" : {
+    "en" : "MEIKO",
+    "ja" : "MEIKO",
+    "ko" : "보컬로이드"
+  }
+}

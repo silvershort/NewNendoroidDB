@@ -1,0 +1,19 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137063,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137063/HY7CtZaFELTjA21kDWiuGqRScwpfBvMd.jpg",
+  "name" : {
+    "en" : "KAITO 2.0",
+    "ja" : "KAITO 2.0",
+    "ko" : "KAITO 2.0"
+  },
+  "num" : "2844",
+  "price" : 6900,
+  "release_date" : [
+  ],
+  "series" : {
+    "en" : "KAITO",
+    "ja" : "KAITO",
+    "ko" : "보컬로이드"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57498,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57498/7fc5fcdaf5ee5a0a3faac723b60fca54.jpg",
+  "name" : {
+    "en" : "Oozora Subaru: Suspender Outfit Ver.",
+    "ja" : "大空スバル サスペンダー衣装Ver.",
+    "ko" : "오오조라 스바루: 서스펜더 아웃핏 Ver."
+  },
+  "num" : "2854",
+  "price" : 7500,
+  "release_date" : [
+    "2026/01"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}
