@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137334,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137334/40c5b3f6530034ce5af0feae392b6642.jpg",
+  "name" : {
+    "en" : "Xia Xiao Yin",
+    "ja" : "夏蕭因",
+    "ko" : "하소인"
+  },
+  "num" : "2859",
+  "price" : 7500,
+  "release_date" : [
+    "2026/03"
+  ],
+  "series" : {
+    "en" : "Shi Jie Zhi Wai",
+    "ja" : "世界之外",
+    "ko" : "세계지외"
+  }
+}

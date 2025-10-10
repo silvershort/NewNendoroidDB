@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137232,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137232/aB40c1b2nU5S9LMRNum6w3ryQjPsfDGC.jpg",
+  "name" : {
+    "en" : "Modernia",
+    "ja" : "モダニア",
+    "ko" : "모더니아 "
+  },
+  "num" : "2814",
+  "price" : 7900,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

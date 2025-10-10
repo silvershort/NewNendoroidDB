@@ -9,7 +9,9 @@
   },
   "num" : "2843",
   "price" : 6900,
-  "release_date" : [],
+  "release_date" : [
+    "2026/02"
+  ],
   "series" : {
     "en" : "MEIKO",
     "ja" : "MEIKO",

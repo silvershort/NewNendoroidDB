@@ -3,18 +3,19 @@
   "gsc_productNum" : 1137316,
   "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137316/GdB7fXR51vQEqHSDsYbt3AjpiVuPW086.jpg",
   "name" : {
-    "en" : "Ryuko Matoi: Kamui Senketsu Ver.",
-    "ja" : "纏流子 神衣鮮血Ver.",
-    "ko" : "마토이 류코 카무이 센케츠Ver."
+    "en" : "Hitori Gotoh: Tracksuit Ver.",
+    "ja" : "後藤ひとり ジャージVer.",
+    "ko" : "고토 히토리 츄리닝Ver."
   },
-  "num" : "2808",
-  "price" : 7900,
+  "num" : "2821",
+  "price" : 6200,
   "release_date" : [
     "2026/01"
   ],
   "series" : {
-    "en" : "KILL la KILL",
-    "ja" : "キルラキル",
-    "ko" : "킬라킬"
+    "en" : "Bocchi the Rock!",
+    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
+    "ko" : "봇치 더 록!"
   }
+
 }

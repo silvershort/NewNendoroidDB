@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56047,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56047/7T40YZXKdD9qwNjR3QAtmkWCrfH6MEhG.jpg",
+  "name" : {
+    "en" : "Shirakami Fubuki: Parade Dress Outfit Ver.",
+    "ja" : "白上フブキ 洋風衣装Ver.",
+    "ko" : "시라카미 후부키 양복 의상Ver."
+  },
+  "num" : "2630",
+  "price" : 7500,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

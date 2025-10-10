@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 1136145,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136145/8ag4mt90URNzGkT1VDnEjWh6vHbZciwP.jpg",
+  "name" : {
+    "en" : "Evangelion Unit-01",
+    "ja" : "エヴァンゲリオン初号機",
+    "ko" : "에반게리온 초호기"
+  },
+  "num" : "2870",
+  "price" : 7500,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Rebuild of Evangelion",
+    "ja" : "ヱヴァンゲリヲン新劇場版",
+    "ko" : "에반게리온"
+  }
+}

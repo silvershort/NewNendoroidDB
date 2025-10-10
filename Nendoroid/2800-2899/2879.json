@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138993,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138993/Y2gZc8KLFuat9pz7njAHw0EUxQ1WhGry.jpg",
+  "name" : {
+    "en" : "Syaoran Li: Tomoeda Elementary School Uniform Ver.",
+    "ja" : "李小狼 友枝小学校制服Ver.",
+    "ko" : "리 샤오랑 토모에다 소학교 교복Ver."
+  },
+  "num" : "2879",
+  "price" : 6800,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Cardcaptor Sakura",
+    "ja" : "カードキャプターさくら",
+    "ko" : "카드캡터 사쿠라"
+  }
+}

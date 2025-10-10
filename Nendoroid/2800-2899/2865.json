@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62079,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62079/ZjBXGDJn7EgepLhRiaPCsSHf2rF6k8Ky.jpg",
+  "name" : {
+    "en" : "Reze",
+    "ja" : "レゼ",
+    "ko" : "레제"
+  },
+  "num" : "2865",
+  "price" : 8500,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Chainsaw Man - The Movie: Reze Arc",
+    "ja" : "劇場版『チェンソーマン レゼ篇』",
+    "ko" : "체인소 맨"
+  }
+}

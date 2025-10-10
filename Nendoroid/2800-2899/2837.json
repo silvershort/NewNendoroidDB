@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137238,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137238/LWugK12HDGchCzQ9PbxiN7JAsMVrZwUj.jpg",
+  "name" : {
+    "en" : "Bubble Head Nurse",
+    "ja" : "バブルヘッドナース",
+    "ko" : "사일런트 힐 2 버블 헤드 너스"
+  },
+  "num" : "2837",
+  "price" : 6900,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "SILENT HILL 2",
+    "ja" : "サイレントヒル2",
+    "ko" : "사일런트 힐"
+  }
+}

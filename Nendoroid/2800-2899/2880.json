@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137931,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137931/UeZaL6DTHcdfGMPh8SXt5RN9uAmCYW7v.jpg",
+  "name" : {
+    "en" : "Rintaro Okabe 2.0",
+    "ja" : "岡部倫太郎 2.0",
+    "ko" : "오카베 린타로 2.0"
+  },
+  "num" : "2880",
+  "price" : 6900,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "STEINS;GATE",
+    "ja" : "STEINS;GATE",
+    "ko" : "슈타인즈 게이트"
+  }
+}

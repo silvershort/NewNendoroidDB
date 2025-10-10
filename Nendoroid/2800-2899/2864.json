@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138294,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138294/bxfcVNpEHm7yiMu283WreqLB065ZXgTz.jpg",
+  "name" : {
+    "en" : "Civilight Eterna",
+    "ja" : "シヴィライト・エテルナ",
+    "ko" : "시빌라이트 에테르나"
+  },
+  "num" : "2864",
+  "price" : 7700,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Arknights",
+    "ja" : "アークナイツ",
+    "ko" : "명일방주"
+  }
+}

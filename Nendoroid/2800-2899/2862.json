@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1140464,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1140464/q67Vzei0EgBKkR2FwU9Wat35QLhrSPdn.jpg",
+  "name" : {
+    "en" : "Dyana",
+    "ja" : "Dyana",
+    "ko" : "Dyana "
+  },
+  "num" : "2862",
+  "price" : 7000,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "FLUFFY LAND",
+    "ja" : "FLUFFY LAND",
+    "ko" : "FLUFFY LAND"
+  }
+}

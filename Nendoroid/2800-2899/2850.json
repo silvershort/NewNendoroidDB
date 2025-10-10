@@ -3,18 +3,18 @@
   "gsc_productNum" : 1138070,
   "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138070/NcDrbdsSHaQywetEqi0G4YhCRXpJ2AWP.jpg",
   "name" : {
-    "en" : "Hitori Gotoh: Tracksuit Ver.",
-    "ja" : "後藤ひとり ジャージVer.",
-    "ko" : "고토 히토리 츄리닝Ver."
+    "en" : "Zundamon",
+    "ja" : "ずんだもん",
+    "ko" : "즌다몬"
   },
-  "num" : "2821",
-  "price" : 6200,
+  "num" : "2850",
+  "price" : 6900,
   "release_date" : [
-    "2026/01"
+    "2026/05"
   ],
   "series" : {
-    "en" : "Bocchi the Rock!",
-    "ja" : "アニメ「ぼっち・ざ・ろっく！」",
-    "ko" : "봇치 더 록!"
+    "en" : "Tohoku Zunko/Zundamon Project",
+    "ja" : "東北ずん子・ずんだもんプロジェクト",
+    "ko" : "즌다몬 프로젝트"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137237,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137237/5xwiCrbJBgXNvcZEQa8Vh7ALUdRqGe3t.jpg",
+  "name" : {
+    "en" : "Hatsune Miku: Because You're Here Ver.",
+    "ja" : "初音ミク 愛されなくても君がいるVer.",
+    "ko" : "하츠네 미쿠 사랑받지 못해도 네가 있어Ver."
+  },
+  "num" : "2860",
+  "price" : 8500,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네 미쿠 사랑받지 못해도 네가 있어Ver."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138041,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138041/sYu6fgpW9jPFD0ihT1rbteLyKxGqJBXd.jpg",
+  "name" : {
+    "en" : "Shiina Yuika",
+    "ja" : "椎名唯華",
+    "ko" : "시이나 유이카"
+  },
+  "num" : "2867",
+  "price" : 7200,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "NIJISANJI",
+    "ja" : "にじさんじ",
+    "ko" : "니지산지"
+  }
+}

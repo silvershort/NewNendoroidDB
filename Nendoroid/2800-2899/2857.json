@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137481,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137481/yLHqNs1Fxmgz0TRW8YG7ctQrvEKjMZae.jpg",
+  "name" : {
+    "en" : "Berserker/Altria Caster",
+    "ja" : "バーサーカー/アルトリア・キャスター",
+    "ko" : "버서커/알트리아 캐스터"
+  },
+  "num" : "2857",
+  "price" : 7700,
+  "release_date" : [
+    "2026/03"
+  ],
+  "series" : {
+    "en" : "Fate/Grand Order",
+    "ja" : "Fate/Grand Order",
+    "ko" : "페이트 시리즈"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 21684,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/21684/DyYLSwE8g4iT6e2FHhRKmz03vNVAbj19.jpg",
+  "name" : {
+    "en" : "Kaeya",
+    "ja" : "ガイア",
+    "ko" : "케이아"
+  },
+  "num" : "2874",
+  "price" : 7200,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Genshin Impact",
+    "ja" : "原神",
+    "ko" : "원신"
+  }
+}

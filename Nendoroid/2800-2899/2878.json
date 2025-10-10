@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137228,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137228/KAFB08uz5gTNaDXxd9RS3QreMyUvLcVH.jpg",
+  "name" : {
+    "en" : "Hatsune Miku Symphony: 2025 Sapporo Concert Ver.",
+    "ja" : "初音ミクシンフォニー 2025 札幌公演Ver.",
+    "ko" : "2878 하츠네 미쿠 심포니 2025 삿포로 공연Ver."
+  },
+  "num" : "2878",
+  "price" : 7800,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Character Vocal Series 01: Hatsune Miku",
+    "ja" : "キャラクター・ボーカル・シリーズ01 初音ミク",
+    "ko" : "하츠네미쿠"
+  }
+}
