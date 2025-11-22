@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1139590,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139590/Gr5wYiL2QPnNuVKAzeH3Ws0qjmCcX7kZ.jpg",
+  "name" : {
+    "en" : "Ginpachi Sakata",
+    "ja" : "坂田銀八",
+    "ko" : "사카타 긴파치"
+  },
+  "num" : "2898",
+  "price" : 6500,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Gintama: Mr. Ginpachi's Zany Class",
+    "ja" : "3年Z組銀八先生",
+    "ko" : "은혼"
+  }
+}

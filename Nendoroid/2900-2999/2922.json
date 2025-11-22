@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138036,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138036/4ZTLcvBDdhQE9Ua80iq5WCuGHeKMPwrn.jpg",
+  "name" : {
+    "en" : "Soda",
+    "ja" : "ソーダ",
+    "ko" : "소다"
+  },
+  "num" : "2922",
+  "price" : 7600,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

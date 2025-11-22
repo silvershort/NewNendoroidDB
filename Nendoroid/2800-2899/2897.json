@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138370,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138370/6cf54d700a0a37bec047288ad3980ad2.jpg",
+  "name" : {
+    "en" : "Juri-chan",
+    "ja" : "ジュリちゃん",
+    "ko" : "주리짱 "
+  },
+  "num" : "2897",
+  "price" : 6900,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Street Fighter Series",
+    "ja" : "「ストリートファイター」シリーズ",
+    "ko" : "스트리트 파이터 시리즈"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 57427,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/57427/sm7MiA8d0EC5ugaNh4JZpqWTVXtnQKHG.jpg",
+  "name" : {
+    "en" : "Hoshimachi Suisei: Sailor Outfit Ver.",
+    "ja" : "星街すいせい セーラー衣装Ver.",
+    "ko" : "스이세이 세일러 의상Ver."
+  },
+  "num" : "2893",
+  "price" : 7500,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "hololive production",
+    "ja" : "ホロライブプロダクション",
+    "ko" : "홀로라이브 프로덕션"
+  }
+}

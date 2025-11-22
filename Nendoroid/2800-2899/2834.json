@@ -1,0 +1,19 @@
+{
+  "gsc_productNum" : 1138593,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138593/YUxzTyKcJw4Cb0rj8M3LNua9sV1Zh7i2.jpg",
+  "name" : {
+    "en" : "KBT Mascot Roar",
+    "ja" : "KBTマスコット ロウル",
+    "ko" : "KBT 마스코트 로어"
+  },
+  "num" : "2834",
+  "price" : 6500,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "川崎ブレイブサンダース",
+    "ja" : "川崎ブレイブサンダース",
+    "ko" : "카와사키 브레이브 썬더즈"
+  }
+}

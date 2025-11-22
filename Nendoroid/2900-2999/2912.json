@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136994,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136994/CfKL8F0AQXruksV9nPxEvZTz6djSWM12.jpg",
+  "name" : {
+    "en" : "Fujimasa March",
+    "ja" : "フジマサマーチ",
+    "ko" : "후지마사 마치"
+  },
+  "num" : "2912",
+  "price" : 6800,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Umamusume: Cinderella Gray",
+    "ja" : "ウマ娘 シンデレラグレイ",
+    "ko" : "우마무스메 프리티 더비"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1139339,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139339/95831301f6ace467f0bd64d36d4424d5.jpg",
+  "name" : {
+    "en" : "Aigis 2.0",
+    "ja" : "アイギス2.0",
+    "ko" : "아이기스 2.0"
+  },
+  "num" : "2903",
+  "price" : 6800,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Persona3 Reload",
+    "ja" : "ペルソナ3 リロード",
+    "ko" : "페르소나"
+  }
+}

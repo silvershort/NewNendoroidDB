@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1136789,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1136789/8bXCj4v96UKpS3yET5LZQVuNJBshMzed.jpg",
+  "name" : {
+    "en" : "Kafka",
+    "ja" : "カフカ",
+    "ko" : "카프카"
+  },
+  "num" : "2787",
+  "price" : 7500,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Honkai: Star Rail",
+    "ja" : "崩壊：スターレイル",
+    "ko" : "붕괴: 스타레일"
+  }
+}

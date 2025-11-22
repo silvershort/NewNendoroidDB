@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138040,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138040/Zz5NsejHbGiT18y4PcqBunVW3tdCh0EQ.jpg",
+  "name" : {
+    "en" : "Miyako Kujo: Maid Ver.",
+    "ja" : "九條都 メイド服Ver.",
+    "ko" : "쿠죠 미야코 메이드복Ver."
+  },
+  "num" : "2868",
+  "price" : 7800,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "9-nine-",
+    "ja" : "9-nine-",
+    "ko" : "9-nine-"
+  }
+}

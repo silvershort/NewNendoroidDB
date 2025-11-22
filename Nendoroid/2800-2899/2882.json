@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1139183,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139183/10035038ccd4b2c819e3ec1bccf24ada.jpg",
+  "name" : {
+    "en" : "Miyabi Hoshimi",
+    "ja" : "星見雅",
+    "ko" : "호시미 미야비"
+  },
+  "num" : "2882",
+  "price" : 7700,
+  "release_date" : [
+    "2026/07"
+  ],
+  "series" : {
+    "en" : "Zenless Zone Zero",
+    "ja" : "ゼンレスゾーンゼロ",
+    "ko" : "젠레스 존 제로"
+  }
+}

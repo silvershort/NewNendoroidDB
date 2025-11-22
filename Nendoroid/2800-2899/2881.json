@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137455,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137455/xtiZedC8nhDpSyHREc9gjM0b7Frz4WuU.jpg",
+  "name" : {
+    "en" : "Guren: Black Shadow (Scarlet: Black Shadow)",
+    "ja" : "紅蓮：ブラックシャドウ",
+    "ko" : "홍련 : 흑영"
+  },
+  "num" : "2881",
+  "price" : 7900,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "GODDESS OF VICTORY: NIKKE",
+    "ja" : "勝利の女神：NIKKE",
+    "ko" : "승리의 여신: 니케"
+  }
+}

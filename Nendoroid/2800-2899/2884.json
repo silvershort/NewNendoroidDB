@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138834,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138834/mTN7R9zauvcsASM5eXDbZL31tBr8Jg2h.jpg",
+  "name" : {
+    "en" : "Anya",
+    "ja" : "アーニャ",
+    "ko" : "아냐 "
+  },
+  "num" : "2884",
+  "price" : 6500,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Mouthwashing",
+    "ja" : "Mouthwashing",
+    "ko" : "Mouthwashing"
+  }
+}

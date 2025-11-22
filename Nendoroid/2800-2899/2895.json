@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138037,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138037/82wZ3KcMhdmTpVvRBzHbFuJ5AnYgSCaf.jpg",
+  "name" : {
+    "en" : "Monokuma 2.0",
+    "ja" : "モノクマ 2.0",
+    "ko" : "모노쿠마 2.0"
+  },
+  "num" : "2895",
+  "price" : 6800,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Danganronpa 1•2 Reload",
+    "ja" : "ダンガンロンパ1・2 Reload",
+    "ko" : "단간론파 1·2 Reload"
+  }
+}

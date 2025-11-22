@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138592,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138592/z3jMSP5LhpcFdtgwR4JkT12GmuDBnbE6.jpg",
+  "name" : {
+    "en" : "Till",
+    "ja" : "ティル",
+    "ko" : "틸"
+  },
+  "num" : "2861",
+  "price" : 6300,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "ALIEN STAGE",
+    "ja" : "ALIEN STAGE",
+    "ko" : "에일리언 스테이지"
+  }
+}

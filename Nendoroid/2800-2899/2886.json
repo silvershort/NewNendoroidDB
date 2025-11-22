@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 56028,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/56028/LYC8547ebU1NaMPq2VyhcEk3xnZKTtsg.jpg",
+  "name" : {
+    "en" : "Kanade Yoisaki",
+    "ja" : "宵崎奏",
+    "ko" : "요이사키 카나데"
+  },
+  "num" : "2886",
+  "price" : 6800,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja" : "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko" : "프로젝트 세카이 컬러풀 스테이지"
+  }
+}

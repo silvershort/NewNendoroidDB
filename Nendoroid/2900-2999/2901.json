@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1141209,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1141209/JMNcsfR4k85eFqDi6xCTd2gGuWjXaYrS.jpg",
+  "name" : {
+    "en" : "Beta",
+    "ja" : "ベータ",
+    "ko" : "베타"
+  },
+  "num" : "2901",
+  "price" : 7480,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "The Eminence in Shadow",
+    "ja" : "陰の実力者になりたくて！",
+    "ko" : "어둠의 실력자가 되고싶어서"
+  }
+}

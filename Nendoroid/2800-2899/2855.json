@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137337,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137337/k2fy1jFXUsgAb7EBxLGZzr6eK9QPvwnp.jpg",
+  "name" : {
+    "en" : "Rāna Kaname",
+    "ja" : "要楽奈",
+    "ko" : "카나메 라나"
+  },
+  "num" : "2855",
+  "price" : 6500,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
+  }
+}

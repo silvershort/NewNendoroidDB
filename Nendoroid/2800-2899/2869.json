@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138595,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138595/QV79NsjhMztedvaK8Zcx3rk4yCbqEYg5.jpg",
+  "name" : {
+    "en" : "OMGkawaiiAngel: Outing Ver.",
+    "ja" : "超絶最かわてんしちゃん おでかけVer.",
+    "ko" : "최고귀염뽀짝 천사 외출Ver."
+  },
+  "num" : "2869",
+  "price" : 7200,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "NEEDY STREAMER OVERLOAD",
+    "ja" : "NEEDY GIRL OVERDOSE",
+    "ko" : "NEEDY GIRL OVERDOSE"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138147,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138147/h4r3gVj09TZCMzEXDfbUPsJ7cmeA1d8w.jpg",
+  "name" : {
+    "en" : "Elysia - Herrscher of Human: Ego",
+    "ja" : "エリシア 真我・人の律者",
+    "ko" : "엘리시아 진아 인간의 율자"
+  },
+  "num" : "2916",
+  "price" : 7500,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Honkai Impact 3rd",
+    "ja" : "崩壊3rd",
+    "ko" : "붕괴 3rd"
+  }
+}

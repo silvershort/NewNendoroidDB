@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 44948,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/44948/dhezj4RLvYFxTr96M1S2PaDuWm8GbCqf.jpg",
+  "name" : {
+    "en" : "Gen Narumi",
+    "ja" : "鳴海弦",
+    "ko" : "나루미 겐"
+  },
+  "num" : "2883",
+  "price" : 7200,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Kaiju No. 8",
+    "ja" : "怪獣８号",
+    "ko" : "괴수 8호"
+  }
+}

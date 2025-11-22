@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137454,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137454/QfMhdpm9q3VER7NFJr42sZygzcLa8YbK.jpg",
+  "name" : {
+    "en" : "Sawako Kuronuma 2.0",
+    "ja" : "黒沼爽子2.0",
+    "ko" : "쿠로누마 사와코 2.0"
+  },
+  "num" : "2885",
+  "price" : 6900,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Kimi ni Todoke",
+    "ja" : "君に届け",
+    "ko" : "너에게 닿기를"
+  }
+}

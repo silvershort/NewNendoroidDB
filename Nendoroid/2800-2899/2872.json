@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1139392,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139392/70kSrQJ314UsHLfuBACETXFcK5qzWhRi.jpg",
+  "name" : {
+    "en" : "Suzuki Hina",
+    "ja" : "鈴木ヒナ",
+    "ko" : "스즈키 히나"
+  },
+  "num" : "2872",
+  "price" : 7200,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "HIMEHINA",
+    "ja" : "HIMEHINA",
+    "ko" : "히메히나"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138375,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138375/vkrhMAsUJHcPL1xF8dDq7bYCNza90wST.jpg",
+  "name" : {
+    "en" : "Kasane Teto 2.0",
+    "ja" : "重音テト 2.0",
+    "ko" : "카사네 테토 2.0"
+  },
+  "num" : "2890",
+  "price" : 6900,
+  "release_date" : [
+    ""
+  ],
+  "series" : {
+    "en" : "Kasane Teto",
+    "ja" : "重音テト",
+    "ko" : "VIPPALOID"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1139591,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139591/sr0cm9VZApXDJ72qaWkvYjL8iRNK4wnE.jpg",
+  "name" : {
+    "en" : "Wilson",
+    "ja" : "Wilson",
+    "ko" : "윌슨"
+  },
+  "num" : "2894",
+  "price" : 7500,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Don't Starve",
+    "ja" : "Don't Starve",
+    "ko" : "돈스타브"
+  }
+}

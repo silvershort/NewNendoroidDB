@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138372,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138372/V9X1fDJwLF8yPxCucd3EUS7bhjtsMTWB.jpg",
+  "name" : {
+    "en" : "Saya",
+    "ja" : "沙耶",
+    "ko" : "사야"
+  },
+  "num" : "2909",
+  "price" : 6800,
+  "release_date" : [
+    "2026/07"
+  ],
+  "series" : {
+    "en" : "The Song of Saya",
+    "ja" : "沙耶の唄",
+    "ko" : "사야의 노래"
+  }
+}

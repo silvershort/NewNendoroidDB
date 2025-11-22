@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1137458,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137458/Q1s7Xdwmvc4ZCynzE5qtfBTaj8VP9W6H.jpg",
+  "name" : {
+    "en" : "Sam",
+    "ja" : "サム",
+    "ko" : 샘,""
+  },
+  "num" : "2835",
+  "price" : 6600,
+  "release_date" : [
+    "2026/02"
+  ],
+  "series" : {
+    "en" : "Death Stranding 2: On the Beach",
+    "ja" : "DEATH STRANDING 2: ON THE BEACH",
+    "ko" : "데스 스트랜딩"
+  }
+}

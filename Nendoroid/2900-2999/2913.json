@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138999,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138999/kAZUV39NhE471YzTyM0mniKue2GRLdfg.jpg",
+  "name" : {
+    "en" : "Neferpitou",
+    "ja" : "ネフェルピトー",
+    "ko" : "네페르피트"
+  },
+  "num" : "2913",
+  "price" : 6900,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  }
+}

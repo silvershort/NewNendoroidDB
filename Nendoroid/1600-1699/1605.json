@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 62240,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/62240/zEaT7BPN4kGtU1Yb0muMLFrgdVsefc5x.jpg",
+  "name" : {
+    "en" : "Vault Boy 76",
+    "ja" : "ボルトボーイ 76",
+    "ko" : "볼트 보이 76"
+  },
+  "num" : "1605",
+  "price" : 6800,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Fallout",
+    "ja" : "Fallout (フォールアウト)",
+    "ko" : "폴아웃"
+  }
+}

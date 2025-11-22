@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 61233,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/61233/g21K9cNuB5a0LsjQDX7FMwiY46CZ83rz.jpg",
+  "name" : {
+    "en" : "Tsukasa Tenma",
+    "ja" : "天馬司",
+    "ko" : "텐마 츠카사"
+  },
+  "num" : "2907",
+  "price" : 6800,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "HATSUNE MIKU: COLORFUL STAGE!",
+    "ja" : "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+    "ko" : "프로젝트 세카이 컬러풀 스테이지"
+  }
+}
