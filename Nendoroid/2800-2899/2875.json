@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1138594,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138594/2naTwhCiRB8DjkrXLM3fZ5p1QtgWNzme.jpg",
+  "name" : {
+    "en" : "Shiki Ichinose",
+    "ja" : "一ノ瀬 四季",
+    "ko" : "이치노세 시키"
+  },
+  "num" : "2875",
+  "price" : 7400,
+  "release_date" : [
+    "2026/05"
+  ],
+  "series" : {
+    "en" : "Tougen Anki",
+    "ja" : "桃源暗鬼",
+    "ko" : "도원암귀"
+  }
+}

@@ -1,20 +1,20 @@
 {
   "gender" : "F",
-  "gsc_productNum" : 1139393,
-  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139393/5910022d4915444e797c441029391be8.jpg",
+  "gsc_productNum" : 1137338,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137338/KDkSCb96NFQx7yGdiHZJhUfVqP4zjR0A.jpg",
   "name" : {
-    "en" : "Tanaka Hime",
-    "ja" : "田中ヒメ",
-    "ko" : "타나카 히메"
+    "en" : "Soyo Nagasaki",
+    "ja" : "長崎そよ",
+    "ko" : "나가사키 소요"
   },
-  "num" : "2871",
-  "price" : 7200,
+  "num" : "2873",
+  "price" : 6500,
   "release_date" : [
-    "2026/05"
+    "2026/06"
   ],
   "series" : {
-    "en" : "HIMEHINA",
-    "ja" : "HIMEHINA",
-    "ko" : "히메히나"
+    "en" : "BanG Dream!",
+    "ja" : "BanG Dream!",
+    "ko" : "BanG Dream!"
   }
 }

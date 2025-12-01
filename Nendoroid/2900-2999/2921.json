@@ -1,0 +1,20 @@
+{
+  "gender" : "M",
+  "gsc_productNum" : 1137335,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1137335/6ULCPdgvGaMskXxZTSwz8rbch59NFQAB.jpg",
+  "name" : {
+    "en" : "Gu Shiye",
+    "ja" : "顧時夜",
+    "ko" : "고시야"
+  },
+  "num" : "2921",
+  "price" : 7500,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "Shi Jie Zhi Wai",
+    "ja" : "世界之外",
+    "ko" : "세계지외"
+  }
+}

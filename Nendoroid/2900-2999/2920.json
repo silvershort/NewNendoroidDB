@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1139201,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1139201/ngERBHt2ZkQYiAfX1qTWw75eyjDcFp0U.jpg",
+  "name" : {
+    "en" : "Madoka Kaname - Walpurgisnacht: Rising Ver. [Basic]",
+    "ja" : "鹿目まどか 〈ワルプルギスの廻天〉Ver. べーしっく",
+    "ko" : "카나메 마도카 (발푸르기스의 회천Ver.) 베이직"
+  },
+  "num" : "2920",
+  "price" : 3900,
+  "release_date" : [
+    "2026/04"
+  ],
+  "series" : {
+    "en" : "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
+    "ja" : "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉",
+    "ko" : "마법소녀 마도카 마기카"
+  }
+}

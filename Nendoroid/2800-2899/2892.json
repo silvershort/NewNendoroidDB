@@ -1,0 +1,20 @@
+{
+  "gender" : "F",
+  "gsc_productNum" : 1138597,
+  "image" : "https://www.goodsmile.com/gsc-webrevo-sdk-storage-prd/product/image/1138597/7VWA2Cedpb8LnaTQSRqPHi0tZc6fkyMx.jpg",
+  "name" : {
+    "en" : "Netero",
+    "ja" : "ネテロ",
+    "ko" : "네테로"
+  },
+  "num" : "2892",
+  "price" : 6900,
+  "release_date" : [
+    "2026/06"
+  ],
+  "series" : {
+    "en" : "HUNTER x HUNTER",
+    "ja" : "HUNTER×HUNTER",
+    "ko" : "헌터X헌터"
+  }
+}
